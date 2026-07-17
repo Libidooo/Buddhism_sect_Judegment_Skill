@@ -1,0 +1,398 @@
+[
+  {
+    "term": "妙法莲华",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷一",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "妙法莲华经",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷一",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "莲华经",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷一（异写）",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "序品",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷一",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "方便品",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷二",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "信解品",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷三",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "药草喻品",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷五",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "授记品",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷六",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "观世音普门品",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经卷七",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "一乘",
+    "vid": "1",
+    "w": 10,
+    "source": "法华经",
+    "category": "",
+    "note": "中性佛教思想",
+    "number": ""
+  },
+  {
+    "term": "三界无安",
+    "vid": "1",
+    "w": 5,
+    "source": "法华经",
+    "category": "",
+    "note": "不指向天台",
+    "number": ""
+  },
+  {
+    "term": "法华七喻",
+    "vid": "1",
+    "w": 10,
+    "source": "法华经",
+    "category": "",
+    "note": "中性",
+    "number": ""
+  },
+  {
+    "term": "诸佛方便",
+    "vid": "1",
+    "w": 10,
+    "source": "法华经",
+    "category": "",
+    "note": "中性",
+    "number": ""
+  },
+  {
+    "term": "大方广佛华严",
+    "vid": "1",
+    "w": 5,
+    "source": "华严经卷一",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "華嚴",
+    "vid": "1",
+    "w": 5,
+    "source": "略写（唐写本）",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "世主妙严品",
+    "vid": "1",
+    "w": 5,
+    "source": "华严经卷一",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "十地品",
+    "vid": "1",
+    "w": 5,
+    "source": "华严经卷二十六",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "入法界品",
+    "vid": "1",
+    "w": 5,
+    "source": "华严经卷七十九",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "普贤行愿品",
+    "vid": "1",
+    "w": 5,
+    "source": "华严经卷八十",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "法界",
+    "vid": "1",
+    "w": 10,
+    "source": "华严经",
+    "category": "",
+    "note": "中性词",
+    "number": ""
+  },
+  {
+    "term": "微尘",
+    "vid": "1",
+    "w": 10,
+    "source": "华严经",
+    "category": "",
+    "note": "中性哲学",
+    "number": ""
+  },
+  {
+    "term": "海印",
+    "vid": "1",
+    "w": 10,
+    "source": "华严经",
+    "category": "",
+    "note": "中性语汇",
+    "number": ""
+  },
+  {
+    "term": "菩萨海会",
+    "vid": "1",
+    "w": 10,
+    "source": "华严经",
+    "category": "",
+    "note": "不判宗派",
+    "number": ""
+  },
+  {
+    "term": "般若波罗蜜",
+    "vid": "1",
+    "w": 5,
+    "source": "大般若经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "大般若",
+    "vid": "1",
+    "w": 5,
+    "source": "大般若经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "般若经",
+    "vid": "1",
+    "w": 5,
+    "source": "般若类总称",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "摩诃般若波罗蜜多心经",
+    "vid": "1",
+    "w": 5,
+    "source": "心经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "心经",
+    "vid": "1",
+    "w": 5,
+    "source": "略写",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "金刚般若波罗蜜经",
+    "vid": "1",
+    "w": 5,
+    "source": "金刚经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "金刚经",
+    "vid": "1",
+    "w": 5,
+    "source": "略写",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "维摩诘经",
+    "vid": "1",
+    "w": 5,
+    "source": "维摩经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "不思议解脱",
+    "vid": "1",
+    "w": 5,
+    "source": "维摩经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "首楞严",
+    "vid": "1",
+    "w": 5,
+    "source": "楞严经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "楞严咒（简称）",
+    "vid": "1",
+    "w": 5,
+    "source": "楞严经（咒段）",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "大般涅槃",
+    "vid": "1",
+    "w": 5,
+    "source": "涅槃经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "常乐我净",
+    "vid": "1",
+    "w": 10,
+    "source": "涅槃经",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "菩萨",
+    "vid": "1",
+    "w": 5,
+    "source": "通用",
+    "category": "",
+    "note": "不判宗派",
+    "number": ""
+  },
+  {
+    "term": "摩诃萨",
+    "vid": "1",
+    "w": 5,
+    "source": "通用",
+    "category": "",
+    "note": "不判宗派",
+    "number": ""
+  },
+  {
+    "term": "大士",
+    "vid": "1",
+    "w": 5,
+    "source": "通用",
+    "category": "",
+    "note": "不判宗派",
+    "number": ""
+  },
+  {
+    "term": "佛子",
+    "vid": "1",
+    "w": 5,
+    "source": "通用",
+    "category": "",
+    "note": "不判宗派",
+    "number": ""
+  },
+  {
+    "term": "大乘",
+    "vid": "1",
+    "w": 5,
+    "source": "通用",
+    "category": "",
+    "note": "全宗派适用",
+    "number": ""
+  },
+  {
+    "term": "嗡、阿、吽 等种子字",
+    "vid": "1",
+    "w": 5,
+    "source": "各大咒语",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "波罗蜜",
+    "vid": "1",
+    "w": 5,
+    "source": "般若咒",
+    "category": "",
+    "note": "",
+    "number": ""
+  },
+  {
+    "term": "陀罗尼",
+    "vid": "1",
+    "w": 5,
+    "source": "通用",
+    "category": "",
+    "note": "",
+    "number": ""
+  }
+]

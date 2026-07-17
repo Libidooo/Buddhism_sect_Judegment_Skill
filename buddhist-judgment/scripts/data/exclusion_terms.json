@@ -1,0 +1,68 @@
+[
+  {
+    "term": "十二大愿",
+    "target_volume": "卷四（药师）",
+    "reason": "专属药师",
+    "source_table": 20
+  },
+  {
+    "term": "地狱、拔苦、荐亡",
+    "target_volume": "卷九（地藏）",
+    "reason": "地藏体系",
+    "source_table": 20
+  },
+  {
+    "term": "三会、兜率",
+    "target_volume": "卷十（弥勒）",
+    "reason": "弥勒体系",
+    "source_table": 20
+  },
+  {
+    "term": "文殊/普贤对应法器",
+    "target_volume": "卷六（华严）",
+    "reason": "非观音",
+    "source_table": 20
+  },
+  {
+    "term": "地狱、拔苦",
+    "target_volume": "卷九 · 地藏",
+    "reason": "地藏专属",
+    "source_table": 32
+  },
+  {
+    "term": "十二大愿",
+    "target_volume": "卷四 · 药师",
+    "reason": "药师专属",
+    "source_table": 32
+  },
+  {
+    "term": "三会",
+    "target_volume": "卷十 · 弥勒",
+    "reason": "弥勒专属",
+    "source_table": 32
+  },
+  {
+    "term": "法界缘起",
+    "target_volume": "卷六 · 华严",
+    "reason": "非观音主体",
+    "source_table": 32
+  },
+  {
+    "term": "阿赖耶、八识",
+    "target_volume": "卷十二 · 唯识",
+    "reason": "唯识专属",
+    "source_table": 32
+  },
+  {
+    "term": "二谛、中观",
+    "target_volume": "卷十一 · 三论",
+    "reason": "三论宗",
+    "source_table": 32
+  },
+  {
+    "term": "金刚界、胎藏界",
+    "target_volume": "卷五 · 密教",
+    "reason": "密教专属，非观音主体",
+    "source_table": 32
+  }
+]
