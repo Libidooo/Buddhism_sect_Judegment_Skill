@@ -1,10 +1,10 @@
-# 四川地区佛教石窟铭文宗派判定系统
+﻿# 四川地区佛教石窟铭文宗派判定系统
 
 > 基于确定性规则引擎 + AI 协作的佛教造像铭文宗派自动分类系统，覆盖四川地区6-13世纪 8 大宗派体系，集成 CBETA 大藏经经典索引查询。
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-v4.1-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-v2.1-orange.svg)]()
 [![F1](https://img.shields.io/badge/Micro--F1-0.679-blueviolet.svg)]()
 
 ---
@@ -571,6 +571,7 @@ MIT License
 
 ---
 
-**版本**：v4.1
+**版本**：v2.1
 **最后更新**：2026-06-25
 **维护者**：Cicsoncy
+
