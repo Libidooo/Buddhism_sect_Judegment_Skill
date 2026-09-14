@@ -1,434 +1,194 @@
-﻿# CBETA按卷别查询路径映射
-
-## 使用说明
-本文件提供按十五卷宗派判定系统分类的经典查询路径，帮助智能体快速定位到特定卷的经典资源。
-
----
-
-## 卷一：通用经文
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0101、T0220、T0235、T0250、T0262、T0475、T0374 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 般若、空、慈悲、发菩提心、无常、因缘 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷一详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷一/通用经文.md` | 卷一宗派判定规则 |
-
-### 经典清单
-- T0101 楞严经（辅助）
-- T0220 大般若经（核心）
-- T0235 金刚经（核心）
-- T0250 心经（核心）
-- T0262 妙法莲华经（核心）
-- T0475 阿含类经文（辅助）
-- T0374 大般涅槃经（辅助）
-
-### 查询示例
-```bash
-# 查找卷一核心经典
-grep "卷一" assets/cbeta-t-number-index.md
-
-# 查找般若相关经典
-grep "般若" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷二：观音体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0262、T0279、T0364、T0365、T1064、T0420 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 观世音菩萨、大悲咒、救苦救难、普门品、观自在 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷二详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷二/观音体系.md` | 卷二宗派判定规则 |
-
-### 经典清单
-- T0262 妙法莲华经（核心）
-- T0279 大方广佛华严经（核心）
-- T0364 观世音应验录（辅助）
-- T0365 大悲心经（辅助）
-- T1064 大悲咒（核心）
-- T0420 大悲咒（千手千眼陀罗尼经）（核心）
-
-### 查询示例
-```bash
-# 查找卷二观音相关经典
-grep "卷二" assets/cbeta-t-number-index.md
-
-# 查找观世音菩萨相关经典
-grep "观世音菩萨" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷三：净土体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0360、T0361、T0365、T0366、T1960 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 阿弥陀佛、往生、西方极乐世界、七宝、莲池 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷三详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷三/净土体系.md` | 卷三宗派判定规则 |
-
-### 经典清单
-- T0360 佛说无量寿经（核心）
-- T0367 佛说阿弥陀经（核心）
-- T0365 大悲心经（辅助）
-- T0366 往生论（核心）
-- T1960 往生礼赞集（辅助）
-
-### 查询示例
-```bash
-# 查找卷三净土相关经典
-grep "卷三" assets/cbeta-t-number-index.md
-
-# 查找阿弥陀佛相关经典
-grep "阿弥陀佛" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷四：药师体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0450、T1330、T0884 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 药师佛、药师琉璃光如来、东方琉璃世界、延寿无量、除病 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷四详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷四/药师体系.md` | 卷四宗派判定规则 |
-
-### 经典清单
-- T0450 药师琉璃光如来本愿功德经（核心）
-- T1330 药师七佛供养仪轨（核心）
-- T0884 药师经异本（辅助）
-
-### 查询示例
-```bash
-# 查找卷四药师相关经典
-grep "卷四" assets/cbeta-t-number-index.md
-
-# 查找药师佛相关经典
-grep "药师佛" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷五：密教体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0848、T0866、T0868、T0872、T0879、T0884、T0897、T1200、T1796 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 大日如来、种子字、手印、曼荼罗、真言 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷五详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷五/密教体系.md` | 卷五宗派判定规则 |
-
-### 经典清单
-- T0848 大日经（核心）
-- T0866 金刚顶经（核心）
-- T0868 金刚顶瑜伽中略出念诵经（辅助）
-- T0872 大日如来灌顶仪轨（辅助）
-- T0879 理趣经（核心）
-- T0884 药师经异本（辅助）
-- T0897 苏悉地经（核心）
-- T1200 不动明王经（核心）
-- T1796 大日经疏（辅助）
-
-### 查询示例
-```bash
-# 查找卷五密教相关经典
-grep "卷五" assets/cbeta-t-number-index.md
-
-# 查找大日如来相关经典
-grep "大日如来" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷六：华严体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0279、T0293、T1733、T1735 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 法界缘起、善财童子、普贤菩萨、华严三昧、十地 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷六详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷六/华严体系.md` | 卷六宗派判定规则 |
-
-### 经典清单
-- T0279 大方广佛华严经（核心）
-- T0293 普贤行愿品（核心）
-- T1733 华严经疏（核心）
-- T1735 探玄记（核心）
-
-### 查询示例
-```bash
-# 查找卷六华严相关经典
-grep "卷六" assets/cbeta-t-number-index.md
-
-# 查找法界缘起相关经典
-grep "法界缘起" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷七：禅宗体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0334、T0338、T0383、T2007 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 禅宗、本来面目、开悟、机锋、公案 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷七详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷七/禅宗体系.md` | 卷七宗派判定规则 |
-
-### 经典清单
-- T0334 六祖壇經（核心）
-- T0338 景德传灯录（核心）
-- T0383 禅关策进（辅助）
-- T2007 大慧禅师语录（核心）
-
-### 查询示例
-```bash
-# 查找卷七禅宗相关经典
-grep "卷七" assets/cbeta-t-number-index.md
-
-# 查找禅宗相关经典
-grep "禅宗" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷八：宗派融合体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | （参考相关卷） |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | （参考相关卷） |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷八详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷八/宗派融合体系.md` | 卷八宗派判定规则 |
-
-### 说明
-卷八为宗派融合体系，经典需根据具体融合的宗派类型，参考对应卷别的索引。
-
----
-
-## 卷九：地藏体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0411、T0412 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 地藏菩萨、六道轮回、地狱、救苦、荐拔 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷九详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷九/地藏体系.md` | 卷九宗派判定规则 |
-
-### 经典清单
-- T0412 地藏菩萨本愿经（核心）
-- T0411 大乘大集地藏十轮经（核心）
-
-### 查询示例
-```bash
-# 查找卷九地藏相关经典
-grep "卷九" assets/cbeta-t-number-index.md
-
-# 查找地藏菩萨相关经典
-grep "地藏菩萨" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷十：弥勒体系
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0453、T0454 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 弥勒菩萨、兜率内院、龙华三会、半跏思惟、上生 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷十详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷十/弥勒体系.md` | 卷十宗派判定规则 |
-
-### 经典清单
-- T0453 弥勒上生经（核心）
-- T0454 弥勒下生经（核心）
-
-### 查询示例
-```bash
-# 查找卷十弥勒相关经典
-grep "卷十" assets/cbeta-t-number-index.md
-
-# 查找弥勒菩萨相关经典
-grep "弥勒菩萨" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷十一：三论宗
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T1253 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 八不中道、二谛、空、中道、破斥 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷十一详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷十一/三论宗.md` | 卷十一宗派判定规则 |
-
-### 经典清单
-- T1253 三论宗核心论典（核心）
-
-### 查询示例
-```bash
-# 查找卷十一三论宗相关经典
-grep "卷十一" assets/cbeta-t-number-index.md
-
-# 查找八不中道相关经典
-grep "八不中道" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷十二：唯识宗
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T1578、T1579 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 阿赖耶识、八识、末那识、三性、四分 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷十二详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷十二/唯识宗.md` | 卷十二宗派判定规则 |
-
-### 经典清单
-- T1578 摄大乘论（核心）
-- T1579 成唯识论（核心）
-- T1579 瑜伽师地论（核心）
-
-### 查询示例
-```bash
-# 查找卷十二唯识宗相关经典
-grep "卷十二" assets/cbeta-t-number-index.md
-
-# 查找阿赖耶识相关经典
-grep "阿赖耶识" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷十三：天台宗
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T0262、T1716、T1717 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 法华经、天台、一念三千、一心三观、五时八教 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷十三详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷十三/天台宗.md` | 卷十三宗派判定规则 |
-
-### 经典清单
-- T0262 妙法莲华经（核心）
-- T1716 法华玄义（核心）
-- T1717 法华文句（核心）
-
-### 查询示例
-```bash
-# 查找卷十三天台宗相关经典
-grep "卷十三" assets/cbeta-t-number-index.md
-
-# 查找法华经相关经典
-grep "法华经" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷十四：成实宗
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T1646 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 成实论、五聚、苦谛、空、假 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷十四详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷十四/成实宗.md` | 卷十四宗派判定规则 |
-
-### 经典清单
-- T1646 成实论（核心）
-
-### 查询示例
-```bash
-# 查找卷十四成实宗相关经典
-grep "卷十四" assets/cbeta-t-number-index.md
-
-# 查找成实论相关经典
-grep "成实论" assets/cbeta-keyword-index.md
-```
-
----
-
-## 卷十五：律宗
-
-### 路径映射
-| 分类 | 文件路径 | 说明 |
-|------|----------|------|
-| T号索引 | `assets/cbeta-t-number-index.md` | T1425、T1428、T1429、T1435、T1436、T1442、T1804、T1808、T2182 |
-| 关键词索引 | `assets/cbeta-keyword-index.md` | 四分律、白四羯磨、戒本、波罗夷、布萨 |
-| 完整索引 | `cbeta-index-references/cbeta-classics-index.md` | 卷十五详细索引 |
-| 规则参考 | `sect-judgment-hub/references/卷十五/律宗.md` | 卷十五宗派判定规则 |
-
-### 经典清单
-- T1425 摩诃僧祇律（核心）
-- T1428 四分律（核心）
-- T1429 四分律比丘戒本（核心）
-- T1435 十诵律（核心）
-- T1436 十诵比丘波罗提木叉戒本（核心）
-- T1442 根本说一切有部毘奈耶（核心）
-- T1804 四分律删繁补阙行事钞（核心）
-- T1808 四分律删补随机羯磨（核心）
-- T2182 律宗章疏（辅助）
-
-### 查询示例
-```bash
-# 查找卷十五律宗相关经典
-grep "卷十五" assets/cbeta-t-number-index.md
-
-# 查找四分律相关经典
-grep "四分律" assets/cbeta-keyword-index.md
-```
-
----
-
-## 快速查询指南
-
-### 场景1：已知卷别，查找对应经典
-```bash
-# 示例：查找卷二观音体系所有经典
-grep "卷二" assets/cbeta-t-number-index.md
-```
-
-### 场景2：已知关键词，查找所在经典
-```bash
-# 示例：查找"观世音菩萨"所在经典
-grep "观世音菩萨" assets/cbeta-keyword-index.md
-```
-
-### 场景3：已知T号，查找经典信息
-```bash
-# 示例：查找T0262的信息
-grep "T0262" assets/cbeta-t-number-index.md
-```
-
-### 场景4：跨卷查询关键词
-```bash
-# 示例：查找所有卷中含"慈悲"的经典
-grep "慈悲" assets/cbeta-keyword-index.md
-```
-
----
-
-**更新日期**：2025-04-17
-**数据来源**：CBETA在线数据库 + 系统各卷规则
-**维护者**：四川地区佛教石窟铭文宗派判定系统
+# 卷别经录导航
+
+由统一经录生成；卷别是项目组织关系，不代表经典专属某宗派。
+
+## 卷零
+
+本卷没有指定T号；参见覆盖核验文件。
+
+## 卷一
+
+- [長阿含經](https://cbetaonline.dila.edu.tw/T0001) T0001
+- [中阿含經](https://cbetaonline.dila.edu.tw/T0026) T0026
+- [雜阿含經](https://cbetaonline.dila.edu.tw/T0099) T0099
+- [增壹阿含經](https://cbetaonline.dila.edu.tw/T0125) T0125
+- [大般若波羅蜜多經](https://cbetaonline.dila.edu.tw/T0220) T0220
+- [金剛般若波羅蜜經](https://cbetaonline.dila.edu.tw/T0235) T0235
+- [摩訶般若波羅蜜大明呪經](https://cbetaonline.dila.edu.tw/T0250) T0250
+- [般若波羅蜜多心經](https://cbetaonline.dila.edu.tw/T0251) T0251
+- [妙法蓮華經](https://cbetaonline.dila.edu.tw/T0262) T0262
+- [大般涅槃經](https://cbetaonline.dila.edu.tw/T0374) T0374
+- [維摩詰所說經](https://cbetaonline.dila.edu.tw/T0475) T0475
+- [大佛頂如來密因修證了義諸菩薩萬行首楞嚴經](https://cbetaonline.dila.edu.tw/T0945) T0945
+
+## 卷二
+
+- [般若波羅蜜多心經](https://cbetaonline.dila.edu.tw/T0251) T0251
+- [妙法蓮華經](https://cbetaonline.dila.edu.tw/T0262) T0262
+- [千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經](https://cbetaonline.dila.edu.tw/T1060) T1060
+- [千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本](https://cbetaonline.dila.edu.tw/T1061) T1061
+- [千手千眼觀世音菩薩大悲心陀羅尼](https://cbetaonline.dila.edu.tw/T1064) T1064
+- [千手眼大悲心呪行法](https://cbetaonline.dila.edu.tw/T1950) T1950
+
+## 卷三
+
+- [佛說無量壽經](https://cbetaonline.dila.edu.tw/T0360) T0360
+- [佛說觀無量壽佛經](https://cbetaonline.dila.edu.tw/T0365) T0365
+- [佛說阿彌陀經](https://cbetaonline.dila.edu.tw/T0366) T0366
+- [稱讚淨土佛攝受經](https://cbetaonline.dila.edu.tw/T0367) T0367
+- [無量壽經優波提舍](https://cbetaonline.dila.edu.tw/T1524) T1524
+- [觀無量壽佛經疏](https://cbetaonline.dila.edu.tw/T1750) T1750
+- [觀無量壽佛經疏](https://cbetaonline.dila.edu.tw/T1753) T1753
+- [無量壽經優婆提舍願生偈註](https://cbetaonline.dila.edu.tw/T1819) T1819
+- [安樂集](https://cbetaonline.dila.edu.tw/T1958) T1958
+- [轉經行道願往生淨土法事讚](https://cbetaonline.dila.edu.tw/T1979) T1979
+- [往生禮讚偈](https://cbetaonline.dila.edu.tw/T1980) T1980
+- [依觀經等明般舟三昧行道往生讚](https://cbetaonline.dila.edu.tw/T1981) T1981
+
+## 卷四
+
+- [佛說藥師如來本願經](https://cbetaonline.dila.edu.tw/T0449) T0449
+- [藥師琉璃光如來本願功德經](https://cbetaonline.dila.edu.tw/T0450) T0450
+- [藥師琉璃光七佛本願功德經](https://cbetaonline.dila.edu.tw/T0451) T0451
+- [藥師琉璃光如來消災除難念誦儀軌](https://cbetaonline.dila.edu.tw/T0922) T0922
+- [藥師如來觀行儀軌法](https://cbetaonline.dila.edu.tw/T0923) T0923
+- [藥師如來念誦儀軌](https://cbetaonline.dila.edu.tw/T0924A) T0924A
+- [藥師如來念誦儀軌](https://cbetaonline.dila.edu.tw/T0924B) T0924B
+- [藥師七佛供養儀軌如意王經](https://cbetaonline.dila.edu.tw/T0927) T0927
+
+## 卷五
+
+- [金剛頂瑜伽理趣般若經](https://cbetaonline.dila.edu.tw/T0241) T0241
+- [大樂金剛不空真實三麼耶經](https://cbetaonline.dila.edu.tw/T0243) T0243
+- [大毘盧遮那成佛神變加持經](https://cbetaonline.dila.edu.tw/T0848) T0848
+- [金剛頂一切如來真實攝大乘現證大教王經](https://cbetaonline.dila.edu.tw/T0865) T0865
+- [金剛頂瑜伽中略出念誦經](https://cbetaonline.dila.edu.tw/T0866) T0866
+- [金剛頂瑜伽三十七尊出生義](https://cbetaonline.dila.edu.tw/T0872) T0872
+- [蘇悉地羯羅經](https://cbetaonline.dila.edu.tw/T0893a) T0893a
+- [蘇悉地羯羅經](https://cbetaonline.dila.edu.tw/T0893b) T0893b
+- [蘇悉地羯羅經](https://cbetaonline.dila.edu.tw/T0893c) T0893c
+- [大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋](https://cbetaonline.dila.edu.tw/T1003) T1003
+- [千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經](https://cbetaonline.dila.edu.tw/T1060) T1060
+- [千手千眼觀世音菩薩大悲心陀羅尼](https://cbetaonline.dila.edu.tw/T1064) T1064
+- [底哩三昧耶不動尊威怒王使者念誦法](https://cbetaonline.dila.edu.tw/T1200) T1200
+- [底哩三昧耶不動尊聖者念誦祕密法](https://cbetaonline.dila.edu.tw/T1201) T1201
+- [不動使者陀羅尼祕密法](https://cbetaonline.dila.edu.tw/T1202) T1202
+- [大毘盧遮那成佛經疏](https://cbetaonline.dila.edu.tw/T1796) T1796
+
+## 卷六
+
+- [大方廣佛華嚴經](https://cbetaonline.dila.edu.tw/T0278) T0278
+- [大方廣佛華嚴經](https://cbetaonline.dila.edu.tw/T0279) T0279
+- [大方廣佛華嚴經](https://cbetaonline.dila.edu.tw/T0293) T0293
+- [十地經論](https://cbetaonline.dila.edu.tw/T1522) T1522
+- [華嚴遊意](https://cbetaonline.dila.edu.tw/T1731) T1731
+- [大方廣佛華嚴經搜玄分齊通智方軌](https://cbetaonline.dila.edu.tw/T1732) T1732
+- [華嚴經探玄記](https://cbetaonline.dila.edu.tw/T1733) T1733
+- [花嚴經文義綱目](https://cbetaonline.dila.edu.tw/T1734) T1734
+- [大方廣佛華嚴經疏](https://cbetaonline.dila.edu.tw/T1735) T1735
+- [大方廣佛華嚴經隨疏演義鈔](https://cbetaonline.dila.edu.tw/T1736) T1736
+- [大華嚴經略策](https://cbetaonline.dila.edu.tw/T1737) T1737
+- [新譯華嚴經七處九會頌釋章](https://cbetaonline.dila.edu.tw/T1738) T1738
+- [華嚴一乘教義分齊章](https://cbetaonline.dila.edu.tw/T1866) T1866
+- [華嚴一乘十玄門](https://cbetaonline.dila.edu.tw/T1868) T1868
+- [註華嚴法界觀門](https://cbetaonline.dila.edu.tw/T1884) T1884
+- [華嚴一乘法界圖](https://cbetaonline.dila.edu.tw/T1887A) T1887A
+
+## 卷七
+
+- [楞伽阿跋多羅寶經](https://cbetaonline.dila.edu.tw/T0670) T0670
+- [大慧普覺禪師語錄](https://cbetaonline.dila.edu.tw/T1998A) T1998A
+- [大慧普覺禪師宗門武庫](https://cbetaonline.dila.edu.tw/T1998B) T1998B
+- [佛果圜悟禪師碧巖錄](https://cbetaonline.dila.edu.tw/T2003) T2003
+- [萬松老人評唱天童覺和尚頌古從容庵錄](https://cbetaonline.dila.edu.tw/T2004) T2004
+- [南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經](https://cbetaonline.dila.edu.tw/T2007) T2007
+- [六祖大師法寶壇經](https://cbetaonline.dila.edu.tw/T2008) T2008
+- [宗鏡錄](https://cbetaonline.dila.edu.tw/T2016) T2016
+- [禪關策進](https://cbetaonline.dila.edu.tw/T2024) T2024
+- [景德傳燈錄](https://cbetaonline.dila.edu.tw/T2076) T2076
+
+## 卷八
+
+本卷没有指定T号；参见覆盖核验文件。
+
+## 卷九
+
+- [大方廣十輪經](https://cbetaonline.dila.edu.tw/T0410) T0410
+- [大乘大集地藏十輪經](https://cbetaonline.dila.edu.tw/T0411) T0411
+- [地藏菩薩本願經](https://cbetaonline.dila.edu.tw/T0412) T0412
+- [占察善惡業報經](https://cbetaonline.dila.edu.tw/T0839) T0839
+
+## 卷十
+
+- [佛說觀彌勒菩薩上生兜率天經](https://cbetaonline.dila.edu.tw/T0452) T0452
+- [佛說彌勒下生經](https://cbetaonline.dila.edu.tw/T0453) T0453
+- [佛說彌勒下生成佛經](https://cbetaonline.dila.edu.tw/T0454) T0454
+- [佛說彌勒下生成佛經](https://cbetaonline.dila.edu.tw/T0455) T0455
+- [佛說彌勒大成佛經](https://cbetaonline.dila.edu.tw/T0456) T0456
+
+## 卷十一
+
+- [中論](https://cbetaonline.dila.edu.tw/T1564) T1564
+- [十二門論](https://cbetaonline.dila.edu.tw/T1568) T1568
+- [百論](https://cbetaonline.dila.edu.tw/T1569) T1569
+- [中觀論疏](https://cbetaonline.dila.edu.tw/T1824) T1824
+- [十二門論疏](https://cbetaonline.dila.edu.tw/T1825) T1825
+- [百論疏](https://cbetaonline.dila.edu.tw/T1827) T1827
+- [三論玄義](https://cbetaonline.dila.edu.tw/T1852) T1852
+- [大乘玄論](https://cbetaonline.dila.edu.tw/T1853) T1853
+
+## 卷十二
+
+- [解深密經](https://cbetaonline.dila.edu.tw/T0676) T0676
+- [瑜伽師地論](https://cbetaonline.dila.edu.tw/T1579) T1579
+- [成唯識論](https://cbetaonline.dila.edu.tw/T1585) T1585
+- [攝大乘論](https://cbetaonline.dila.edu.tw/T1592) T1592
+- [攝大乘論](https://cbetaonline.dila.edu.tw/T1593) T1593
+- [攝大乘論本](https://cbetaonline.dila.edu.tw/T1594) T1594
+- [攝大乘論釋](https://cbetaonline.dila.edu.tw/T1595) T1595
+- [攝大乘論釋論](https://cbetaonline.dila.edu.tw/T1596) T1596
+- [攝大乘論釋](https://cbetaonline.dila.edu.tw/T1597) T1597
+- [攝大乘論釋](https://cbetaonline.dila.edu.tw/T1598) T1598
+- [成唯識論述記](https://cbetaonline.dila.edu.tw/T1830) T1830
+- [成唯識論掌中樞要](https://cbetaonline.dila.edu.tw/T1831) T1831
+- [成唯識論了義燈](https://cbetaonline.dila.edu.tw/T1832) T1832
+- [成唯識論演祕](https://cbetaonline.dila.edu.tw/T1833) T1833
+
+## 卷十三
+
+- [妙法蓮華經](https://cbetaonline.dila.edu.tw/T0262) T0262
+- [妙法蓮華經玄義](https://cbetaonline.dila.edu.tw/T1716) T1716
+- [法華玄義釋籤](https://cbetaonline.dila.edu.tw/T1717) T1717
+- [妙法蓮華經文句](https://cbetaonline.dila.edu.tw/T1718) T1718
+- [法華文句記](https://cbetaonline.dila.edu.tw/T1719) T1719
+- [觀無量壽佛經疏](https://cbetaonline.dila.edu.tw/T1750) T1750
+- [摩訶止觀](https://cbetaonline.dila.edu.tw/T1911) T1911
+- [止觀義例](https://cbetaonline.dila.edu.tw/T1913) T1913
+- [十不二門](https://cbetaonline.dila.edu.tw/T1927) T1927
+- [十不二門指要鈔](https://cbetaonline.dila.edu.tw/T1928) T1928
+- [四教義](https://cbetaonline.dila.edu.tw/T1929) T1929
+- [天台四教儀](https://cbetaonline.dila.edu.tw/T1931) T1931
+- [四明尊者教行錄](https://cbetaonline.dila.edu.tw/T1937) T1937
+- [天台傳佛心印記](https://cbetaonline.dila.edu.tw/T1938) T1938
+- [教觀綱宗](https://cbetaonline.dila.edu.tw/T1939) T1939
+
+## 卷十四
+
+- [成實論](https://cbetaonline.dila.edu.tw/T1646) T1646
+
+## 卷十五
+
+- [摩訶僧祇律](https://cbetaonline.dila.edu.tw/T1425) T1425
+- [四分律](https://cbetaonline.dila.edu.tw/T1428) T1428
+- [四分律比丘戒本](https://cbetaonline.dila.edu.tw/T1429) T1429
+- [十誦律](https://cbetaonline.dila.edu.tw/T1435) T1435
+- [十誦比丘波羅提木叉戒本](https://cbetaonline.dila.edu.tw/T1436) T1436
+- [根本說一切有部毘奈耶](https://cbetaonline.dila.edu.tw/T1442) T1442
+- [四分律刪繁補闕行事鈔](https://cbetaonline.dila.edu.tw/T1804) T1804
+- [四分律刪補隨機羯磨](https://cbetaonline.dila.edu.tw/T1808) T1808
+- [律宗章疏](https://cbetaonline.dila.edu.tw/T2182) T2182
+
+## 卷十六
+
+- [續高僧傳](https://cbetaonline.dila.edu.tw/T2060) T2060
+- [開元釋教錄](https://cbetaonline.dila.edu.tw/T2154) T2154

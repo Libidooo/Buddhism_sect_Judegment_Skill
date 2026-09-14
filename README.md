@@ -2,9 +2,19 @@
 
 > 基于符号推理引擎 + AI 协作的佛教造像铭文宗派自动分类系统，覆盖四川地区6-13世纪十六卷宗派体系，集成 CBETA 大藏经经典索引查询。
 
+## 2.3.1 经录与检索修订
+
+统一经录为 `assets/cbeta-catalog.json`（132条经录）。全量索引保留7,189个词条、7,512条词条与卷别映射及原权重，其中6,904条缺少原始来源，显式标记待核验。书名与经号匹配不等于经文原句已校勘。三阶教核心写本与少数泛称仍待落实，详见 `sect-judgment-hub/references/classics-coverage-v2.3.md`。
+
+三个检索入口均使用同一JSON数据。`python3 scripts/rebuild_cbeta_index.py` 同步重建全部索引；`--check`检查是否过期。检索仅依赖Python标准库，支持经号大小写、简体别名、精确卷别及无来源词条查询。
+
+在线检查示例：`python3 scripts/cbeta_query.py --t-number 366 --check-online --timeout 8`。需要代理时加 `--proxy http://127.0.0.1:实际端口`。缺少Python CA时使用系统CA，保持TLS校验；CBETA入口失败时回退官方XML仓库，并返回实际来源和验证范围。
+
+本次未改动分类引擎及词条权重；原有F1为既有实验报告值，不代表新增经录已经重新实验。后续新增词条或采用语境门槛应重新评估。
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-v2.2-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-v2.3.1-orange.svg)]()
 [![F1](https://img.shields.io/badge/Engine+AI_F1-0.8744-blueviolet.svg)]()
 
 ---
@@ -572,4 +582,3 @@ MIT License
 **最后更新**：2026-07-17
 **维护者**：Cicsoncy
 **GitHub**：https://github.com/Libidooo/Buddhism_sect_Judegment_Skill
-

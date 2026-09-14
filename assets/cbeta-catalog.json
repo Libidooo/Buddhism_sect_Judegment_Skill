@@ -1,0 +1,2956 @@
+{
+  "version": "2.3.1",
+  "verified_on": "2026-09-14",
+  "metadata_sha256": "2deb0a4bac7a8eadfee7d0d822360121617bbc0eb4d3ee47eeb0bc1beee8f2c6",
+  "metadata_source": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+  "records": [
+    {
+      "t_number": "T0001",
+      "name": "長阿含經",
+      "aliases": [
+        "長阿含經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "阿含部類",
+      "byline": "後秦 佛陀耶舍共竺佛念譯",
+      "time_from": 412,
+      "time_to": 413,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0001",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T01/T01n0001.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0026",
+      "name": "中阿含經",
+      "aliases": [
+        "中阿含經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "阿含部類",
+      "byline": "東晉 瞿曇僧伽提婆譯",
+      "time_from": 397,
+      "time_to": 398,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0026",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T01/T01n0026.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0099",
+      "name": "雜阿含經",
+      "aliases": [
+        "雜阿含經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "阿含部類",
+      "byline": "劉宋 求那跋陀羅譯",
+      "time_from": 435,
+      "time_to": 443,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0099",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T02/T02n0099.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0125",
+      "name": "增壹阿含經",
+      "aliases": [
+        "增壹阿含經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "阿含部類",
+      "byline": "東晉 瞿曇僧伽提婆譯",
+      "time_from": 397,
+      "time_to": 397,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0125",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T02/T02n0125.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0220",
+      "name": "大般若波羅蜜多經",
+      "aliases": [
+        "大般若波罗蜜多经",
+        "大般若波羅蜜多經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "般若部類",
+      "byline": "唐 玄奘譯",
+      "time_from": 660,
+      "time_to": 663,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0220",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T05..T07/T05..T07n0220.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0235",
+      "name": "金剛般若波羅蜜經",
+      "aliases": [
+        "金刚经",
+        "金刚般若波罗蜜经",
+        "金剛般若波羅蜜經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "般若部類",
+      "byline": "後秦 鳩摩羅什譯",
+      "time_from": 402,
+      "time_to": 412,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0235",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0235.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0241",
+      "name": "金剛頂瑜伽理趣般若經",
+      "aliases": [
+        "金刚顶瑜伽理趣般若经",
+        "金剛頂瑜伽理趣般若經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "般若部類",
+      "byline": "唐 金剛智譯",
+      "time_from": 723,
+      "time_to": 741,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0241",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0241.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0243",
+      "name": "大樂金剛不空真實三麼耶經",
+      "aliases": [
+        "大樂金剛不空真實三麼耶經",
+        "理趣经"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "般若部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0243",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0243.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0250",
+      "name": "摩訶般若波羅蜜大明呪經",
+      "aliases": [
+        "摩訶般若波羅蜜大明呪經",
+        "摩诃般若波罗蜜大明咒经"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "般若部類",
+      "byline": "姚秦 鳩摩羅什譯",
+      "time_from": 402,
+      "time_to": 412,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0250",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0250.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0251",
+      "name": "般若波羅蜜多心經",
+      "aliases": [
+        "心经",
+        "摩诃般若波罗蜜多心经",
+        "般若波罗蜜多心经",
+        "般若波羅蜜多心經"
+      ],
+      "vids": [
+        "1",
+        "2"
+      ],
+      "category": "般若部類",
+      "byline": "唐 玄奘譯",
+      "time_from": 648,
+      "time_to": 649,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一、卷二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0251",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0262",
+      "name": "妙法蓮華經",
+      "aliases": [
+        "妙法莲华经",
+        "妙法莲华经（含普门品）",
+        "妙法蓮華經",
+        "普门品",
+        "法华经",
+        "法华经·普门品",
+        "观世音菩萨普门品"
+      ],
+      "vids": [
+        "1",
+        "2",
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "姚秦 鳩摩羅什譯",
+      "time_from": 403,
+      "time_to": 403,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一、卷二、卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0262",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T09/T09n0262.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0278",
+      "name": "大方廣佛華嚴經",
+      "aliases": [
+        "大方广佛华严经",
+        "大方广佛华严经（六十卷）",
+        "大方廣佛華嚴經"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "東晉 佛馱跋陀羅譯",
+      "time_from": 418,
+      "time_to": 420,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0278",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T09/T09n0278.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0279",
+      "name": "大方廣佛華嚴經",
+      "aliases": [
+        "入法界品",
+        "华严经",
+        "大方广佛华严经",
+        "大方广佛华严经（八十卷）",
+        "大方廣佛華嚴經"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 實叉難陀譯",
+      "time_from": 695,
+      "time_to": 699,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0279",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T10/T10n0279.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0293",
+      "name": "大方廣佛華嚴經",
+      "aliases": [
+        "大方广佛华严经·普贤行愿品",
+        "大方廣佛華嚴經",
+        "普贤行愿品",
+        "行愿品"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 般若譯",
+      "time_from": 795,
+      "time_to": 798,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0293",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T10/T10n0293.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0360",
+      "name": "佛說無量壽經",
+      "aliases": [
+        "佛說無量壽經",
+        "佛说无量寿经",
+        "无量寿经"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "曹魏 康僧鎧譯",
+      "time_from": 252,
+      "time_to": 252,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0360",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0360.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0365",
+      "name": "佛說觀無量壽佛經",
+      "aliases": [
+        "佛說觀無量壽佛經",
+        "佛说观无量寿佛经",
+        "观无量寿经",
+        "观经"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "宋 畺良耶舍譯",
+      "time_from": 424,
+      "time_to": 442,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0365",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0365.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0366",
+      "name": "佛說阿彌陀經",
+      "aliases": [
+        "佛說阿彌陀經",
+        "佛说阿弥陀经",
+        "阿弥陀经"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "姚秦 鳩摩羅什譯",
+      "time_from": 402,
+      "time_to": 402,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0366",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0366.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0367",
+      "name": "稱讚淨土佛攝受經",
+      "aliases": [
+        "稱讚淨土佛攝受經"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "唐 玄奘譯",
+      "time_from": 650,
+      "time_to": 650,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0367",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0367.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0374",
+      "name": "大般涅槃經",
+      "aliases": [
+        "大般涅槃經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "涅槃部類",
+      "byline": "北涼 曇無讖譯",
+      "time_from": 416,
+      "time_to": 423,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0374",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0374.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0410",
+      "name": "大方廣十輪經",
+      "aliases": [
+        "大方廣十輪經"
+      ],
+      "vids": [
+        "9"
+      ],
+      "category": "大集部類",
+      "byline": "失譯",
+      "time_from": 397,
+      "time_to": 439,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷九",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0410",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T13/T13n0410.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0411",
+      "name": "大乘大集地藏十輪經",
+      "aliases": [
+        "地藏十轮经",
+        "大乘大集地藏十輪經",
+        "大乘大集地藏十轮经"
+      ],
+      "vids": [
+        "9"
+      ],
+      "category": "大集部類",
+      "byline": "唐 玄奘譯",
+      "time_from": 651,
+      "time_to": 651,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷九",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0411",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T13/T13n0411.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0412",
+      "name": "地藏菩薩本願經",
+      "aliases": [
+        "地藏经",
+        "地藏菩萨本愿经",
+        "地藏菩薩本願經"
+      ],
+      "vids": [
+        "9"
+      ],
+      "category": "大集部類",
+      "byline": "唐 實叉難陀譯",
+      "time_from": 695,
+      "time_to": 704,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷九",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0412",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T13/T13n0412.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0449",
+      "name": "佛說藥師如來本願經",
+      "aliases": [
+        "佛說藥師如來本願經",
+        "佛说药师如来本愿经"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "經集部類",
+      "byline": "隋 達摩笈多譯",
+      "time_from": 615,
+      "time_to": 615,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0449",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0449.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0450",
+      "name": "藥師琉璃光如來本願功德經",
+      "aliases": [
+        "药师本愿经",
+        "药师琉璃光如来本愿功德经",
+        "药师琉璃光本愿功德经",
+        "药师经",
+        "藥師琉璃光如來本願功德經"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "經集部類",
+      "byline": "唐 玄奘譯",
+      "time_from": 650,
+      "time_to": 650,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0450",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0450.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0451",
+      "name": "藥師琉璃光七佛本願功德經",
+      "aliases": [
+        "药师琉璃光七佛本愿功德经",
+        "藥師琉璃光七佛本願功德經"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "經集部類",
+      "byline": "唐 義淨譯",
+      "time_from": 707,
+      "time_to": 707,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0451",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0451.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0452",
+      "name": "佛說觀彌勒菩薩上生兜率天經",
+      "aliases": [
+        "佛說觀彌勒菩薩上生兜率天經",
+        "佛说弥勒上生经",
+        "弥勒上生",
+        "弥勒上生经"
+      ],
+      "vids": [
+        "10"
+      ],
+      "category": "經集部類",
+      "byline": "宋 沮渠京聲譯",
+      "time_from": 455,
+      "time_to": 455,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0452",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0452.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0453",
+      "name": "佛說彌勒下生經",
+      "aliases": [
+        "佛說彌勒下生經",
+        "弥勒下生经"
+      ],
+      "vids": [
+        "10"
+      ],
+      "category": "經集部類",
+      "byline": "西晉 竺法護譯",
+      "time_from": 303,
+      "time_to": 303,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0453",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0453.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0454",
+      "name": "佛說彌勒下生成佛經",
+      "aliases": [
+        "佛說彌勒下生成佛經",
+        "佛说弥勒下生经"
+      ],
+      "vids": [
+        "10"
+      ],
+      "category": "經集部類",
+      "byline": "後秦 鳩摩羅什譯",
+      "time_from": 402,
+      "time_to": 412,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0454",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0454.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0455",
+      "name": "佛說彌勒下生成佛經",
+      "aliases": [
+        "佛說彌勒下生成佛經"
+      ],
+      "vids": [
+        "10"
+      ],
+      "category": "經集部類",
+      "byline": "唐 義淨譯",
+      "time_from": 701,
+      "time_to": 701,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0455",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0455.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0456",
+      "name": "佛說彌勒大成佛經",
+      "aliases": [
+        "佛說彌勒大成佛經",
+        "佛说弥勒大成佛经",
+        "弥勒大成佛经",
+        "弥勒成佛经"
+      ],
+      "vids": [
+        "10"
+      ],
+      "category": "經集部類",
+      "byline": "姚秦 鳩摩羅什譯",
+      "time_from": 402,
+      "time_to": 402,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0456",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0456.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0475",
+      "name": "維摩詰所說經",
+      "aliases": [
+        "維摩詰所說經"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "經集部類",
+      "byline": "姚秦 鳩摩羅什譯",
+      "time_from": 406,
+      "time_to": 406,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0475",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0475.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0670",
+      "name": "楞伽阿跋多羅寶經",
+      "aliases": [
+        "楞伽阿跋多羅寶經"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "經集部類",
+      "byline": "劉宋 求那跋陀羅譯",
+      "time_from": 443,
+      "time_to": 443,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0670",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T16/T16n0670.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0676",
+      "name": "解深密經",
+      "aliases": [
+        "解深密經"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "經集部類",
+      "byline": "唐 玄奘譯",
+      "time_from": 647,
+      "time_to": 647,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0676",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T16/T16n0676.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0839",
+      "name": "占察善惡業報經",
+      "aliases": [
+        "占察善惡業報經"
+      ],
+      "vids": [
+        "9"
+      ],
+      "category": "經集部類",
+      "byline": "隋 菩提燈譯",
+      "time_from": 589,
+      "time_to": 618,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷九",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0839",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T17/T17n0839.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0848",
+      "name": "大毘盧遮那成佛神變加持經",
+      "aliases": [
+        "大日经",
+        "大毗卢遮那成佛神变加持经",
+        "大毗卢遮那成佛神变加持经（大日经）",
+        "大毘盧遮那成佛神變加持經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 善無畏．一行譯",
+      "time_from": 725,
+      "time_to": 725,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0848",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0848.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0865",
+      "name": "金剛頂一切如來真實攝大乘現證大教王經",
+      "aliases": [
+        "金刚顶一切如来真实摄大乘现证大教王经",
+        "金刚顶经",
+        "金剛頂一切如來真實攝大乘現證大教王經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 753,
+      "time_to": 753,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0865",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0865.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0866",
+      "name": "金剛頂瑜伽中略出念誦經",
+      "aliases": [
+        "金刚顶瑜伽中略出念诵经",
+        "金剛頂瑜伽中略出念誦經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 金剛智譯",
+      "time_from": 723,
+      "time_to": 723,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0866",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0866.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0872",
+      "name": "金剛頂瑜伽三十七尊出生義",
+      "aliases": [
+        "金刚顶瑜伽三十七尊出生义",
+        "金剛頂瑜伽三十七尊出生義"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0872",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0872.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0893a",
+      "name": "蘇悉地羯羅經",
+      "aliases": [
+        "苏悉地经",
+        "苏悉地羯罗经",
+        "蘇悉地羯羅經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 輸波迦羅譯",
+      "time_from": 726,
+      "time_to": 726,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0893a",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0893a.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0893b",
+      "name": "蘇悉地羯羅經",
+      "aliases": [
+        "蘇悉地羯羅經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 輸波迦羅譯",
+      "time_from": 726,
+      "time_to": 726,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0893b",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0893b.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0893c",
+      "name": "蘇悉地羯羅經",
+      "aliases": [
+        "蘇悉地羯羅經"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 輸波迦羅譯",
+      "time_from": 726,
+      "time_to": 726,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0893c",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0893c.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0922",
+      "name": "藥師琉璃光如來消災除難念誦儀軌",
+      "aliases": [
+        "藥師琉璃光如來消災除難念誦儀軌"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "經集部類,密教部類",
+      "byline": "唐 一行撰",
+      "time_from": 727,
+      "time_to": 727,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0922",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0922.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0923",
+      "name": "藥師如來觀行儀軌法",
+      "aliases": [
+        "藥師如來觀行儀軌法"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "密教部類",
+      "byline": "唐 金剛智譯",
+      "time_from": 723,
+      "time_to": 736,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0923",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0923.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0924A",
+      "name": "藥師如來念誦儀軌",
+      "aliases": [
+        "藥師如來念誦儀軌"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0924A",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0924A.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0924B",
+      "name": "藥師如來念誦儀軌",
+      "aliases": [
+        "藥師如來念誦儀軌"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 618,
+      "time_to": 907,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0924B",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0924B.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0927",
+      "name": "藥師七佛供養儀軌如意王經",
+      "aliases": [
+        "藥師七佛供養儀軌如意王經"
+      ],
+      "vids": [
+        "4"
+      ],
+      "category": "密教部類",
+      "byline": "清 工布查布譯",
+      "time_from": 1742,
+      "time_to": 1742,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0927",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0927.xml",
+      "temporal_note": "晚于13世纪，仅作后世比较",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T0945",
+      "name": "大佛頂如來密因修證了義諸菩薩萬行首楞嚴經",
+      "aliases": [
+        "大佛頂如來密因修證了義諸菩薩萬行首楞嚴經",
+        "楞严经",
+        "首楞严"
+      ],
+      "vids": [
+        "1"
+      ],
+      "category": "密教部類",
+      "byline": "唐 般剌蜜帝譯",
+      "time_from": 705,
+      "time_to": 705,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T0945",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0945.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1003",
+      "name": "大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋",
+      "aliases": [
+        "大乐金刚不空真实三昧耶经般若波罗蜜多理趣释",
+        "大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1003",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n1003.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1060",
+      "name": "千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經",
+      "aliases": [
+        "千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經",
+        "千手千眼观世音菩萨广大圆满无碍大悲心陀罗尼经",
+        "大悲咒（千手千眼陀罗尼经）"
+      ],
+      "vids": [
+        "2",
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 伽梵達摩譯",
+      "time_from": 650,
+      "time_to": 660,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷二、卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1060",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1060.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1061",
+      "name": "千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本",
+      "aliases": [
+        "千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本"
+      ],
+      "vids": [
+        "2"
+      ],
+      "category": "密教部類",
+      "byline": "唐 金剛智譯",
+      "time_from": 723,
+      "time_to": 736,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1061",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1061.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1064",
+      "name": "千手千眼觀世音菩薩大悲心陀羅尼",
+      "aliases": [
+        "千手千眼觀世音菩薩大悲心陀羅尼",
+        "千手千眼观世音菩萨大悲心陀罗尼",
+        "大悲咒"
+      ],
+      "vids": [
+        "2",
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷二、卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1064",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1064.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1200",
+      "name": "底哩三昧耶不動尊威怒王使者念誦法",
+      "aliases": [
+        "底哩三昧耶不动尊威怒王使者念诵法",
+        "底哩三昧耶不動尊威怒王使者念誦法"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1200",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1200.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1201",
+      "name": "底哩三昧耶不動尊聖者念誦祕密法",
+      "aliases": [
+        "底哩三昧耶不動尊聖者念誦祕密法"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 不空譯",
+      "time_from": 746,
+      "time_to": 774,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1201",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1201.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1202",
+      "name": "不動使者陀羅尼祕密法",
+      "aliases": [
+        "不動使者陀羅尼祕密法"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 金剛智譯",
+      "time_from": 731,
+      "time_to": 736,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1202",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1202.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1425",
+      "name": "摩訶僧祇律",
+      "aliases": [
+        "摩訶僧祇律",
+        "摩诃僧祇律"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "東晉 佛陀跋陀羅共法顯譯",
+      "time_from": 416,
+      "time_to": 416,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1425",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T22/T22n1425.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1428",
+      "name": "四分律",
+      "aliases": [
+        "四分律"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "姚秦 佛陀耶舍共竺佛念等譯",
+      "time_from": 408,
+      "time_to": 408,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1428",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T22/T22n1428.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1429",
+      "name": "四分律比丘戒本",
+      "aliases": [
+        "四分律比丘戒本"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "後秦 佛陀耶舍譯",
+      "time_from": 408,
+      "time_to": null,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1429",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T22/T22n1429.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1435",
+      "name": "十誦律",
+      "aliases": [
+        "十誦律",
+        "十诵律"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "後秦 弗若多羅共羅什譯",
+      "time_from": 404,
+      "time_to": 404,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1435",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T23/T23n1435.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1436",
+      "name": "十誦比丘波羅提木叉戒本",
+      "aliases": [
+        "十誦比丘波羅提木叉戒本"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "姚秦 鳩摩羅什譯",
+      "time_from": 402,
+      "time_to": 412,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1436",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T23/T23n1436.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1442",
+      "name": "根本說一切有部毘奈耶",
+      "aliases": [
+        "根本說一切有部毘奈耶",
+        "根本说一切有部毘奈耶"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "唐 義淨譯",
+      "time_from": 702,
+      "time_to": 703,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1442",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T23/T23n1442.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1522",
+      "name": "十地經論",
+      "aliases": [
+        "十地經論"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "天親菩薩造  後魏 菩提流支等譯",
+      "time_from": 508,
+      "time_to": 508,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1522",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T26/T26n1522.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1524",
+      "name": "無量壽經優波提舍",
+      "aliases": [
+        "往生论",
+        "无量寿经优波提舍",
+        "无量寿经优波提舍（往生论）",
+        "無量壽經優波提舍"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "婆藪槃豆菩薩造  元魏 菩提流支譯",
+      "time_from": 529,
+      "time_to": 529,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1524",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T26/T26n1524.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1564",
+      "name": "中論",
+      "aliases": [
+        "中論",
+        "中论"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "龍樹菩薩造  梵志青目釋  姚秦 鳩摩羅什譯",
+      "time_from": 409,
+      "time_to": 409,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1564",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1564.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1568",
+      "name": "十二門論",
+      "aliases": [
+        "十二門論",
+        "十二门论"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "龍樹菩薩造  姚秦 鳩摩羅什譯",
+      "time_from": 408,
+      "time_to": 409,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1568",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1568.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1569",
+      "name": "百論",
+      "aliases": [
+        "百論",
+        "百论"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "提婆菩薩造  婆藪開士釋  姚秦 鳩摩羅什譯",
+      "time_from": 404,
+      "time_to": 404,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1569",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1569.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1579",
+      "name": "瑜伽師地論",
+      "aliases": [
+        "瑜伽师地论",
+        "瑜伽師地論"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "彌勒菩薩說  唐 玄奘譯",
+      "time_from": 646,
+      "time_to": 648,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1579",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1579.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1585",
+      "name": "成唯識論",
+      "aliases": [
+        "成唯識論",
+        "成唯识论"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "護法等菩薩造  唐 玄奘譯",
+      "time_from": 659,
+      "time_to": 659,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1585",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1585.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1592",
+      "name": "攝大乘論",
+      "aliases": [
+        "摄大乘论",
+        "攝大乘論"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "阿僧伽作  後魏 佛陀扇多譯",
+      "time_from": 531,
+      "time_to": 531,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1592",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1592.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1593",
+      "name": "攝大乘論",
+      "aliases": [
+        "摄大乘论",
+        "攝大乘論"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "無著菩薩造  陳 真諦譯",
+      "time_from": 563,
+      "time_to": 563,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1593",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1593.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1594",
+      "name": "攝大乘論本",
+      "aliases": [
+        "摄大乘论本",
+        "攝大乘論本"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "無著菩薩造  唐 玄奘譯",
+      "time_from": 648,
+      "time_to": 649,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1594",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1594.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1595",
+      "name": "攝大乘論釋",
+      "aliases": [
+        "攝大乘論釋"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "世親菩薩釋  陳 真諦譯",
+      "time_from": 563,
+      "time_to": 563,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1595",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1595.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1596",
+      "name": "攝大乘論釋論",
+      "aliases": [
+        "攝大乘論釋論"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "世親菩薩造  隋 笈多共行矩等譯",
+      "time_from": 605,
+      "time_to": 616,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1596",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1596.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1597",
+      "name": "攝大乘論釋",
+      "aliases": [
+        "攝大乘論釋"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "世親菩薩造  唐 玄奘譯",
+      "time_from": 648,
+      "time_to": 649,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1597",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1597.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1598",
+      "name": "攝大乘論釋",
+      "aliases": [
+        "攝大乘論釋"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "無性菩薩造  唐 玄奘譯",
+      "time_from": 648,
+      "time_to": 650,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1598",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1598.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1646",
+      "name": "成實論",
+      "aliases": [
+        "成实论",
+        "成實論"
+      ],
+      "vids": [
+        "14"
+      ],
+      "category": "論集部類",
+      "byline": "訶梨跋摩造  姚秦 鳩摩羅什譯",
+      "time_from": 406,
+      "time_to": 412,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十四",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1646",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T32/T32n1646.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1716",
+      "name": "妙法蓮華經玄義",
+      "aliases": [
+        "妙法莲华经玄义",
+        "妙法莲华经玄义（法华玄义）",
+        "妙法蓮華經玄義",
+        "法华玄义"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "隋 智顗說",
+      "time_from": 538,
+      "time_to": 597,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1716",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T33/T33n1716.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1717",
+      "name": "法華玄義釋籤",
+      "aliases": [
+        "法华玄义释签",
+        "法華玄義釋籤"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "唐 湛然述",
+      "time_from": 764,
+      "time_to": 764,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1717",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T33/T33n1717.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1718",
+      "name": "妙法蓮華經文句",
+      "aliases": [
+        "妙法莲华经文句",
+        "妙法莲华经文句（法华文句）",
+        "妙法蓮華經文句",
+        "法华文句"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "隋 智顗說",
+      "time_from": 538,
+      "time_to": 597,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1718",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T34/T34n1718.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1719",
+      "name": "法華文句記",
+      "aliases": [
+        "法華文句記"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "唐 湛然述",
+      "time_from": 711,
+      "time_to": 782,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1719",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T34/T34n1719.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1731",
+      "name": "華嚴遊意",
+      "aliases": [
+        "华严游意",
+        "華嚴遊意"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "隋 吉藏撰",
+      "time_from": 549,
+      "time_to": 623,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1731",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1731.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1732",
+      "name": "大方廣佛華嚴經搜玄分齊通智方軌",
+      "aliases": [
+        "大方广佛华严经搜玄分齐通智方轨",
+        "大方廣佛華嚴經搜玄分齊通智方軌"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 智儼述",
+      "time_from": 602,
+      "time_to": 668,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1732",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1732.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1733",
+      "name": "華嚴經探玄記",
+      "aliases": [
+        "华严经探玄记",
+        "探玄记",
+        "華嚴經探玄記"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 法藏述",
+      "time_from": 643,
+      "time_to": 712,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1733",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1733.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1734",
+      "name": "花嚴經文義綱目",
+      "aliases": [
+        "花严经文义纲目",
+        "花嚴經文義綱目"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 法藏撰",
+      "time_from": 643,
+      "time_to": 712,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1734",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1734.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1735",
+      "name": "大方廣佛華嚴經疏",
+      "aliases": [
+        "华严经疏",
+        "大方广佛华严经疏",
+        "大方廣佛華嚴經疏"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 澄觀撰",
+      "time_from": 787,
+      "time_to": 787,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1735",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1735.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1736",
+      "name": "大方廣佛華嚴經隨疏演義鈔",
+      "aliases": [
+        "大方广佛华严经随疏演义钞",
+        "大方廣佛華嚴經隨疏演義鈔"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 澄觀述",
+      "time_from": 737,
+      "time_to": 838,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1736",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T36/T36n1736.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1737",
+      "name": "大華嚴經略策",
+      "aliases": [
+        "大华严经略策",
+        "大華嚴經略策"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 澄觀述",
+      "time_from": 737,
+      "time_to": 838,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1737",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T36/T36n1737.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1738",
+      "name": "新譯華嚴經七處九會頌釋章",
+      "aliases": [
+        "新譯華嚴經七處九會頌釋章",
+        "新译华严经七处九会颂释章"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 澄觀述",
+      "time_from": 737,
+      "time_to": 838,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1738",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T36/T36n1738.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1750",
+      "name": "觀無量壽佛經疏",
+      "aliases": [
+        "觀無量壽佛經疏",
+        "观无量寿佛经疏"
+      ],
+      "vids": [
+        "3",
+        "13"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "隋 智顗說",
+      "time_from": 538,
+      "time_to": 597,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三、卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1750",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T37/T37n1750.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1753",
+      "name": "觀無量壽佛經疏",
+      "aliases": [
+        "觀無量壽佛經疏"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "唐 善導集記",
+      "time_from": 662,
+      "time_to": 662,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1753",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T37/T37n1753.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1796",
+      "name": "大毘盧遮那成佛經疏",
+      "aliases": [
+        "大日经疏",
+        "大毘盧遮那成佛經疏"
+      ],
+      "vids": [
+        "5"
+      ],
+      "category": "密教部類",
+      "byline": "唐 一行記",
+      "time_from": 725,
+      "time_to": 727,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1796",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T39/T39n1796.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1804",
+      "name": "四分律刪繁補闕行事鈔",
+      "aliases": [
+        "四分律删繁补阙行事钞",
+        "四分律刪繁補闕行事鈔"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "唐 道宣撰",
+      "time_from": 626,
+      "time_to": 626,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1804",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T40/T40n1804.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1808",
+      "name": "四分律刪補隨機羯磨",
+      "aliases": [
+        "四分律删补随机羯磨",
+        "四分律刪補隨機羯磨"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "律部類",
+      "byline": "唐 道宣集",
+      "time_from": 596,
+      "time_to": 667,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1808",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T40/T40n1808.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1819",
+      "name": "無量壽經優婆提舍願生偈註",
+      "aliases": [
+        "無量壽經優婆提舍願生偈註"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "寶積部類,淨土宗部類",
+      "byline": "北魏 曇鸞註解",
+      "time_from": 476,
+      "time_to": 542,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1819",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T40/T40n1819.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1824",
+      "name": "中觀論疏",
+      "aliases": [
+        "中觀論疏",
+        "中观论疏"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "隋 吉藏撰",
+      "time_from": 549,
+      "time_to": 623,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1824",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T42/T42n1824.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1825",
+      "name": "十二門論疏",
+      "aliases": [
+        "十二門論疏"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "隋 吉藏撰",
+      "time_from": 608,
+      "time_to": 608,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1825",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T42/T42n1825.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1827",
+      "name": "百論疏",
+      "aliases": [
+        "百論疏"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "隋 吉藏撰",
+      "time_from": 608,
+      "time_to": 608,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1827",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T42/T42n1827.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1830",
+      "name": "成唯識論述記",
+      "aliases": [
+        "成唯識論述記"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "唐 窺基撰",
+      "time_from": 632,
+      "time_to": 682,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1830",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1830.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1831",
+      "name": "成唯識論掌中樞要",
+      "aliases": [
+        "成唯識論掌中樞要"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "唐 窺基撰",
+      "time_from": 632,
+      "time_to": 682,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1831",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1831.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1832",
+      "name": "成唯識論了義燈",
+      "aliases": [
+        "成唯識論了義燈"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "唐 惠沼述",
+      "time_from": 714,
+      "time_to": 714,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1832",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1832.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1833",
+      "name": "成唯識論演祕",
+      "aliases": [
+        "成唯識論演祕"
+      ],
+      "vids": [
+        "12"
+      ],
+      "category": "瑜伽部類",
+      "byline": "唐 智周撰",
+      "time_from": 716,
+      "time_to": null,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1833",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1833.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1852",
+      "name": "三論玄義",
+      "aliases": [
+        "三論玄義",
+        "三论玄义"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "隋 吉藏撰",
+      "time_from": 549,
+      "time_to": 623,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1852",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1852.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1853",
+      "name": "大乘玄論",
+      "aliases": [
+        "大乘玄論"
+      ],
+      "vids": [
+        "11"
+      ],
+      "category": "中觀部類",
+      "byline": "隋 吉藏撰",
+      "time_from": 549,
+      "time_to": 623,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十一",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1853",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1853.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1866",
+      "name": "華嚴一乘教義分齊章",
+      "aliases": [
+        "华严一乘教义分齐章",
+        "華嚴一乘教義分齊章"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 法藏述",
+      "time_from": 643,
+      "time_to": 712,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1866",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1866.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1868",
+      "name": "華嚴一乘十玄門",
+      "aliases": [
+        "華嚴一乘十玄門"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "隋 杜順說．唐 智儼撰",
+      "time_from": 602,
+      "time_to": 668,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1868",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1868.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1884",
+      "name": "註華嚴法界觀門",
+      "aliases": [
+        "註華嚴法界觀門"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "唐 宗密註",
+      "time_from": 780,
+      "time_to": 841,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1884",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1884.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1887A",
+      "name": "華嚴一乘法界圖",
+      "aliases": [
+        "華嚴一乘法界圖"
+      ],
+      "vids": [
+        "6"
+      ],
+      "category": "華嚴部類",
+      "byline": "新羅 義湘撰",
+      "time_from": 702,
+      "time_to": 702,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1887A",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1887A.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1911",
+      "name": "摩訶止觀",
+      "aliases": [
+        "摩訶止觀"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "隋 智顗說",
+      "time_from": 597,
+      "time_to": 597,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1911",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1911.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1913",
+      "name": "止觀義例",
+      "aliases": [
+        "止觀義例",
+        "止观义例"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "唐 湛然述",
+      "time_from": 711,
+      "time_to": 782,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1913",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1913.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1927",
+      "name": "十不二門",
+      "aliases": [
+        "十不二門",
+        "十不二门"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "唐 湛然述",
+      "time_from": 711,
+      "time_to": 782,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1927",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1927.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1928",
+      "name": "十不二門指要鈔",
+      "aliases": [
+        "十不二門指要鈔"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "宋 知禮述",
+      "time_from": 1004,
+      "time_to": 1004,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1928",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1928.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1929",
+      "name": "四教義",
+      "aliases": [
+        "四教义",
+        "四教義"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "隋 智顗撰",
+      "time_from": 538,
+      "time_to": 597,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1929",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1929.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1931",
+      "name": "天台四教儀",
+      "aliases": [
+        "天台四教仪",
+        "天台四教儀"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "高麗 諦觀錄",
+      "time_from": 961,
+      "time_to": null,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1931",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1931.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1937",
+      "name": "四明尊者教行錄",
+      "aliases": [
+        "四明尊者教行錄"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "宋 宗曉編",
+      "time_from": 1202,
+      "time_to": 1202,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1937",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1937.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1938",
+      "name": "天台傳佛心印記",
+      "aliases": [
+        "天台傳佛心印記"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "元 懷則述",
+      "time_from": 1310,
+      "time_to": null,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1938",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1938.xml",
+      "temporal_note": "晚于13世纪，仅作后世比较",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1939",
+      "name": "教觀綱宗",
+      "aliases": [
+        "教觀綱宗"
+      ],
+      "vids": [
+        "13"
+      ],
+      "category": "法華部類",
+      "byline": "明 智旭述",
+      "time_from": 1599,
+      "time_to": 1655,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1939",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1939.xml",
+      "temporal_note": "晚于13世纪，仅作后世比较",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1950",
+      "name": "千手眼大悲心呪行法",
+      "aliases": [
+        "千手眼大悲心呪行法"
+      ],
+      "vids": [
+        "2"
+      ],
+      "category": "法華部類",
+      "byline": "宋 知禮集",
+      "time_from": 960,
+      "time_to": 1023,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷二",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1950",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1950.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1958",
+      "name": "安樂集",
+      "aliases": [
+        "安乐集",
+        "安樂集"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "淨土宗部類",
+      "byline": "唐 道綽撰",
+      "time_from": 562,
+      "time_to": 645,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1958",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1958.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1979",
+      "name": "轉經行道願往生淨土法事讚",
+      "aliases": [
+        "轉經行道願往生淨土法事讚"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "淨土宗部類",
+      "byline": "唐 善導集記",
+      "time_from": 662,
+      "time_to": 662,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1979",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1979.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1980",
+      "name": "往生禮讚偈",
+      "aliases": [
+        "往生礼赞偈",
+        "往生礼赞集",
+        "往生禮讚偈"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "淨土宗部類",
+      "byline": "唐 善導集記",
+      "time_from": 662,
+      "time_to": 662,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1980",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1980.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1981",
+      "name": "依觀經等明般舟三昧行道往生讚",
+      "aliases": [
+        "依觀經等明般舟三昧行道往生讚"
+      ],
+      "vids": [
+        "3"
+      ],
+      "category": "淨土宗部類",
+      "byline": "唐 善導撰",
+      "time_from": 662,
+      "time_to": 662,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷三",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1981",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1981.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1998A",
+      "name": "大慧普覺禪師語錄",
+      "aliases": [
+        "大慧普覺禪師語錄",
+        "大慧普觉禅师语录",
+        "大慧禅师语录",
+        "大慧语录"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "宋 蘊聞編",
+      "time_from": 1171,
+      "time_to": 1171,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1998A",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1998A.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T1998B",
+      "name": "大慧普覺禪師宗門武庫",
+      "aliases": [
+        "大慧普覺禪師宗門武庫"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類,史傳部類",
+      "byline": "宋 道謙編",
+      "time_from": 1186,
+      "time_to": 1186,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1998B",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1998B.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2003",
+      "name": "佛果圜悟禪師碧巖錄",
+      "aliases": [
+        "佛果圜悟禅师碧岩录",
+        "佛果圜悟禪師碧巖錄",
+        "碧岩录"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "宋 重顯頌古．克勤評唱",
+      "time_from": 1125,
+      "time_to": 1125,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2003",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2003.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2004",
+      "name": "萬松老人評唱天童覺和尚頌古從容庵錄",
+      "aliases": [
+        "万松老人评唱天童觉和尚颂古从容庵录",
+        "从容录",
+        "萬松老人評唱天童覺和尚頌古從容庵錄"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "宋 正覺頌古．元 行秀評唱",
+      "time_from": 1091,
+      "time_to": 1157,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2004",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2004.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2007",
+      "name": "南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經",
+      "aliases": [
+        "六祖坛经",
+        "六祖惠能大师法坛经",
+        "南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經",
+        "坛经"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "唐 法海集",
+      "time_from": 713,
+      "time_to": null,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2007",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2007.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2008",
+      "name": "六祖大師法寶壇經",
+      "aliases": [
+        "六祖坛经",
+        "六祖壇經",
+        "六祖大师法宝坛经",
+        "六祖大師法寶壇經",
+        "坛经"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "元 宗寶編",
+      "time_from": 1290,
+      "time_to": 1290,
+      "provenance": "既有规范表校正；不证明原始建库使用",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2008",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2008.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2016",
+      "name": "宗鏡錄",
+      "aliases": [
+        "宗鏡錄"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "宋 延壽集",
+      "time_from": 904,
+      "time_to": 975,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2016",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2016.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2024",
+      "name": "禪關策進",
+      "aliases": [
+        "禅关策进",
+        "禪關策進"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "禪宗部類",
+      "byline": "明 袾宏輯",
+      "time_from": 1600,
+      "time_to": 1600,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2024",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2024.xml",
+      "temporal_note": "晚于13世纪，仅作后世比较",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2060",
+      "name": "續高僧傳",
+      "aliases": [
+        "續高僧傳"
+      ],
+      "vids": [
+        "16"
+      ],
+      "category": "史傳部類",
+      "byline": "唐 道宣撰",
+      "time_from": 645,
+      "time_to": 645,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2060",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2060.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2076",
+      "name": "景德傳燈錄",
+      "aliases": [
+        "景德传灯录",
+        "景德傳燈錄"
+      ],
+      "vids": [
+        "7"
+      ],
+      "category": "史傳部類",
+      "byline": "宋 道原纂",
+      "time_from": 1004,
+      "time_to": 1004,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷七",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2076",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T51/T51n2076.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2154",
+      "name": "開元釋教錄",
+      "aliases": [
+        "開元釋教錄"
+      ],
+      "vids": [
+        "16"
+      ],
+      "category": "事彙部類",
+      "byline": "唐 智昇撰",
+      "time_from": 730,
+      "time_to": 730,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十六",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2154",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T55/T55n2154.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    },
+    {
+      "t_number": "T2182",
+      "name": "律宗章疏",
+      "aliases": [
+        "律宗章疏"
+      ],
+      "vids": [
+        "15"
+      ],
+      "category": "事彙部類",
+      "byline": "日本 榮穩錄",
+      "time_from": 914,
+      "time_to": 914,
+      "provenance": "2026-09-14补充经录；未自动提词或赋权",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "volume": "卷十五",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T2182",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T55/T55n2182.xml",
+      "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "观世音应验录",
+      "t_number": null,
+      "reason": "名称与原T0364错配；须核对具体应验记版本，暂不赋号"
+    },
+    {
+      "name": "大悲心经",
+      "t_number": null,
+      "reason": "石刻简称不能唯一对应藏经条目，暂不赋号"
+    },
+    {
+      "name": "大日如来灌顶仪轨",
+      "t_number": null,
+      "reason": "泛称不能确定原T0872所指的具体版本"
+    },
+    {
+      "name": "药师经异本",
+      "t_number": null,
+      "reason": "未注明译者及完整经名，不能将原T0884直接换成某个药师译本"
+    },
+    {
+      "name": "三阶佛法",
+      "t_number": null,
+      "reason": "须核对敦煌写本号及辑本；不能声称三阶教文献一律不在大正藏"
+    },
+    {
+      "name": "大乘无尽藏法／大乘法界无尽藏法",
+      "t_number": null,
+      "reason": "须核对文本题名、写本／辑本与重复关系"
+    },
+    {
+      "name": "三论宗核心论典",
+      "t_number": null,
+      "reason": "类别总称，改以三部具体论典检索，不作为经名"
+    },
+    {
+      "name": "阿含类经文",
+      "t_number": null,
+      "reason": "集合名称；补四阿含具体经号，不与T0475对应"
+    }
+  ]
+}

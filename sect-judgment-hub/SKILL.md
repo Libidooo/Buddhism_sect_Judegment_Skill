@@ -1,9 +1,8 @@
 ---
 name: sect-judgment-hub
-description: 宗派判定十五卷主控中心；当用户需要执行完整的宗派判定流程、进行主体与宗派的综合分析、或需要基于卷零至卷十五规则系统化判断题记时使用
-dependency:
-  python:
-    - python-docx==0.8.11
+description: 宗派判定十六卷主控中心；当用户需要执行完整的宗派判定流程、进行主体与宗派的综合分析、或需要基于卷零至卷十六规则系统化判断题记时使用
+metadata:
+  dependencies: python-docx==0.8.11
 ---
 
 # 宗派判定主控中心 - 资源索引
@@ -17,7 +16,7 @@ dependency:
 python scripts/sect_engine.py --input 铭文内容
 ```
 
-## 十五卷规则索引
+## 十六卷规则索引
 
 | 卷号 | 名称 | 核心规则 | 完整细节 |
 |------|------|----------|----------|
@@ -37,6 +36,7 @@ python scripts/sect_engine.py --input 铭文内容
 | 十三 | 天台宗 | volume-thirteen-tiantai.md | detail |
 | 十四 | 成实宗 | volume-fourteen-satyasiddhi.md | detail |
 | 十五 | 律宗 | volume-fifteen-vinaya.md | detail |
+| 十六 | 三阶教 | volume-sixteen-sanjie.md | 写本版本待核验 |
 
 ### 通用参考
 
@@ -47,7 +47,13 @@ python scripts/sect_engine.py --input 铭文内容
 分层读取策略：默认读取 references/ 核心规则，复杂场景按需读取 references/detail/ 完整版。
 卷零总则是所有判定规则的母规则，必须优先理解。
 
+## v2.3 文献与权重规则
+
+- `references/weighting-rules-v2.3.md`：同一关键词按宗派语境分别赋权、跨卷重合度分级、过滤词和证据记录规则
+- `references/classics-coverage-v2.3.md`：各卷经典覆盖核验、缺项和非T号文献边界
+- `../assets/cbeta-catalog.json`：统一经录源；全部旧索引已从此源重建。未落实的题名见unresolved，不强配T号。
+
 ## 当前集成状态
 
-- 卷零至卷十五全部规则（完整集成）
+- 卷零至卷十六规则（卷十六三阶教为补充体系）
 - 计算引擎 sect_engine.py（v4.0，100+ 词条库）

@@ -1,15 +1,20 @@
-﻿---
+---
 name: buddhist-inscription-judgment-system
 description: 四川地区佛教石窟铭文宗派判定总控Skill；当用户需要分析四川地区佛教石窟铭文、判定佛教宗派、识别造像题材或进行石刻题记研究时使用
-dependency:
-  python:
-    - requests>=2.28.0
-    - beautifulsoup4>=4.11.0
-    - lxml>=4.9.0
+metadata:
+  dependencies: requests>=2.28.0; beautifulsoup4>=4.11.0; lxml>=4.9.0
 ---
 # 四川地区佛教石窟铭文宗派判定系统
 
 ## 系统概述
+
+## 经录与检索修订 2.3.1
+
+查经号、经名或关键词时，读取 `assets/cbeta-catalog.json` 与全量 `assets/cbeta-keyword-index-v2.3.json`，三个检索入口共用 `scripts/cbeta_common.py`。所有旧路径索引已同步重建。
+
+同词异卷的原权重保留；新增经录不能被表述为原始建库语料。来源为空或版本不明时返回待核验，不从词条的卷号推造出处。详见 `cbeta-index-references/CBETA_README.md` 和 `sect-judgment-hub/references/classics-coverage-v2.3.md`。132条代表性经录不等于全部宗派文献穷尽覆盖，三阶教核心写本等仍待落实。
+
+在线检查仅在 `--check-online` 时发起，支持 `--proxy`、超时、有限重试与官方XML回退。HTML 200只证明入口可达，不能据此声称读到经文。检索脚本仅依赖Python标准库；Python缺少CA时尝试系统CA文件，不关闭证书校验。
 
 本项目包含三个 Skill，用于系统化分析四川地区佛教石窟铭文内容并判定主体与宗派：
 
@@ -499,7 +504,7 @@ python scripts/sect_engine.py --input "观世音菩萨普门品愿往生西方�
 
 1. **前置过滤绝对优先**：任何条目必须先通过前置过滤，未通过者不得进入宗派判定
 2. **主体判定优先**：五大主体（药师/弥勒/地藏/观音/阿弥陀）一旦判定，不得跨卷判断宗派
-3. **密教绝对优先**：出现W≥60的密教词（种子字/手印/曼荼罗/大日如来/明王）→必入卷五，其他卷全部靠后。此规则由 `sect_engine.py` 的 `MutexResolver` 自动强制执行（`ESOTERIC_THRESHOLD = 60`），AI 无需手动介入
+3. **密教协同规则**：出现W≥60的密教词时，卷五作为主判卷；其他达到协同门槛的卷保留为协同卷。不得用“密教绝对优先”抹除具有文献依据的跨宗派语境。
 4. **异体字工具化**：异体字仅用于题记识别和OCR校读，不得影响宗派权重
 5. **四川地域特色**：重视卷八区域体系的地域信息，正确识别四川地名异体字
 
@@ -527,6 +532,7 @@ python scripts/sect_engine.py --input "观世音菩萨普门品愿往生西方�
 - [ ] 输出是否符合格式规范？
 
 ### 核心经典速查
+v2.3运行时以 `assets/cbeta-t-number-canonical-v2.3.md` 为唯一T号来源；本节只保留常用入口。
 | 卷别 | 核心经典 | T号 | 查询命令 |
 |------|----------|-----|----------|
 | 卷一 | 金刚经 | T0235 | `python scripts/cbeta_query.py --t-number T0235` |
@@ -535,16 +541,16 @@ python scripts/sect_engine.py --input "观世音菩萨普门品愿往生西方�
 | 卷四 | 药师琉璃光如来本愿功德经 | T0450 | `python scripts/cbeta_query.py --t-number T0450` |
 | 卷五 | 大日经 | T0848 | `python scripts/cbeta_query.py --t-number T0848` |
 | 卷六 | 大方广佛华严经 | T0279 | `python scripts/cbeta_query.py --t-number T0279` |
-| 卷七 | 六祖壇經 | T0334 | `python scripts/cbeta_query.py --t-number T0334` |
+| 卷七 | 六祖大师法宝坛经 | T2008 | `python scripts/cbeta_query.py --t-number T2008` |
 | 卷九 | 地藏菩萨本愿经 | T0412 | `python scripts/cbeta_query.py --t-number T0412` |
-| 卷十 | 弥勒上生经 | T0453 | `python scripts/cbeta_query.py --t-number T0453` |
+| 卷十 | 弥勒上生经 | T0452 | `python scripts/cbeta_query.py --t-number T0452` |
 | 卷十五 | 四分律 | T1428 | `python scripts/cbeta_query.py --t-number T1428` |
 
 ---
 
 **系统名称**：四川地区佛教石窟铭文宗派判定Skill
-**版本**：v2.2
-**最后更新**：2026-06-02
+**版本**：v2.3.1
+**最后更新**：2026-09-14
 **更新内容**：
 - 集成 sect_engine.py 确定性计算引擎，替代 AI 心算
 - 新增 InscriptionData 结构化多字段输入（铭文+造像题材+年代+地点）
@@ -553,5 +559,7 @@ python scripts/sect_engine.py --input "观世音菩萨普门品愿往生西方�
 - 新增字段贡献分析报告（分别计算各字段的 S 得分贡献）
 - 新增 `--subject`/`--date`/`--location` CLI 参数
 - 修复数据提取完整性（卷十二三性/三无性等非标表提取）
+- 校正CBETA经名与T号，详见 `assets/cbeta-t-number-canonical-v2.3.md`
+- 增加按宗派语境赋权规则，详见 `sect-judgment-hub/references/weighting-rules-v2.3.md`
+- 增加宗派经典覆盖核验，详见 `sect-judgment-hub/references/classics-coverage-v2.3.md`
 **维护者**：Cicsoncy
-

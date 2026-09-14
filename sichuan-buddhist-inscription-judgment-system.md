@@ -1,4 +1,4 @@
-﻿# 四川地区佛教石窟铭文宗派判定系统 - 总提示词
+# 四川地区佛教石窟铭文宗派判定系统 - 总提示词
 
 ## 系统概述
 
@@ -548,9 +548,9 @@ python scripts/cbeta_index_search.py --stats
 | 卷四 | 药师琉璃光如来本愿功德经 | T0450 | `python scripts/cbeta_query.py --t-number T0450` |
 | 卷五 | 大日经 | T0848 | `python scripts/cbeta_query.py --t-number T0848` |
 | 卷六 | 大方广佛华严经 | T0279 | `python scripts/cbeta_query.py --t-number T0279` |
-| 卷七 | 六祖壇經 | T0334 | `python scripts/cbeta_query.py --t-number T0334` |
+| 卷七 | 六祖壇經 | T2008 | `python scripts/cbeta_query.py --t-number T2008` |
 | 卷九 | 地藏菩萨本愿经 | T0412 | `python scripts/cbeta_query.py --t-number T0412` |
-| 卷十 | 弥勒上生经 | T0453 | `python scripts/cbeta_query.py --t-number T0453` |
+| 卷十 | 弥勒上生经 | T0452 | `python scripts/cbeta_query.py --t-number T0452` |
 | 卷十五 | 四分律 | T1428 | `python scripts/cbeta_query.py --t-number T1428` |
 
 **CBETA在线访问**：

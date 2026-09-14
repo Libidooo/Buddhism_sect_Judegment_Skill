@@ -1,0 +1,16 @@
+{
+  "version": "2.3.1",
+  "term_count": 7189,
+  "mapping_count": 7512,
+  "indexed_mapping_count": 7512,
+  "catalog_count": 132,
+  "status_counts": {
+    "explicit_id_catalog_match": 92,
+    "missing_source": 6904,
+    "title_catalog_match": 257,
+    "unresolved_source": 259
+  },
+  "term_index_sha256": "78b5e6a667044976743c6c7b13d21f27ca8a31145b6a2dd2e9448fe169cd0c82",
+  "catalog_sha256": "a66095800d34d26a90ea8e3fe1f169a49e53d4dbb617f46f0e7ca794e6d43300",
+  "limitation": "全量收录映射不等于全部文献已校勘；缺失来源不生成链接；同词异卷权重逐条保留"
+}
