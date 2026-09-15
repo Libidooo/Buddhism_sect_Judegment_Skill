@@ -2,7517 +2,7517 @@
 
 全部映射均保留；无来源或版本不明者标明状态。书名匹配仅用于经录导航，未验证关键词原句。机器查询读取同名JSON。
 
-| 关键词 | 卷别 | 权重 | 原始来源 | 候选经号 | 核验状态 |
-|---|---|---|---|---|---|
-| 妙法莲华 | 卷一 | 5 | 法华经卷一 | T0262 | title_catalog_match |
-| 妙法 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match |
-| 妙法 | 卷三 | 27 | — | — | missing_source |
-| 妙法莲 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match |
-| 莲华 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match |
-| 莲华 | 卷三 | 45 | — | — | missing_source |
-| 莲华 | 卷五 | 45 | — | — | missing_source |
-| 法莲华 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match |
-| 妙法莲华经 | 卷一 | 5 | 法华经卷一 | T0262 | title_catalog_match |
-| 华经 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match |
-| 华经 | 卷十三 | 15 | — | — | missing_source |
-| 莲华经 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match |
-| 莲华经 | 卷十三 | 15 | — | — | missing_source |
-| 序品 | 卷一 | 5 | 法华经卷一 | T0262 | title_catalog_match |
-| 方便品 | 卷一 | 5 | 法华经卷二 | T0262 | title_catalog_match |
-| 方便 | 卷一 | 10 | 法华经卷二 | T0262 | title_catalog_match |
-| 方便 | 卷五 | 27 | — | — | missing_source |
-| 便品 | 卷一 | 10 | 法华经卷二 | T0262 | title_catalog_match |
-| 信解品 | 卷一 | 5 | 法华经卷三 | T0262 | title_catalog_match |
-| 信解 | 卷一 | 10 | 法华经卷三 | T0262 | title_catalog_match |
-| 解品 | 卷一 | 10 | 法华经卷三 | T0262 | title_catalog_match |
-| 药草喻品 | 卷一 | 5 | 法华经卷五 | T0262 | title_catalog_match |
-| 药草 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match |
-| 药草喻 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match |
-| 喻品 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match |
-| 草喻品 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match |
-| 授记品 | 卷一 | 5 | 法华经卷六 | T0262 | title_catalog_match |
-| 授记 | 卷一 | 10 | 法华经卷六 | T0262 | title_catalog_match |
-| 记品 | 卷一 | 10 | 法华经卷六 | T0262 | title_catalog_match |
-| 观世音普门品 | 卷一 | 5 | 法华经卷七 | T0262 | title_catalog_match |
-| 观世 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match |
-| 观世 | 卷二 | 48 | 法华·普门品 | — | unresolved_source |
-| 观世 | 卷五 | 5 | — | — | missing_source |
-| 观世音 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match |
-| 观世音 | 卷二 | 80 | 法华·普门品 | — | unresolved_source |
-| 观世音 | 卷五 | 5 | — | — | missing_source |
-| 门品 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match |
-| 普门品 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match |
-| 一乘 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 三界无安 | 卷一 | 5 | 法华经 | T0262 | title_catalog_match |
-| 三界 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 三界 | 卷五 | 45 | — | — | missing_source |
-| 三界无 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 无安 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 界无安 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 法华七喻 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 法华 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 法华 | 卷五 | 12 | — | — | missing_source |
-| 法华 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match |
-| 法华七 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 七喻 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 华七喻 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 诸佛方便 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 诸佛 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 诸佛 | 卷三 | 10 | — | — | missing_source |
-| 诸佛方 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 佛方便 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match |
-| 大方广佛华严 | 卷一 | 5 | 华严经卷一 | T0279 | title_catalog_match |
-| 大方 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 大方广 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 华严 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 华严 | 卷六 | 48 | — | — | missing_source |
-| 华严 | 卷十二 | 36 | — | — | missing_source |
-| 佛华严 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 華嚴 | 卷一 | 5 | 略写（唐写本） | — | unresolved_source |
-| 華嚴 | 卷六 | 45 | — | — | missing_source |
-| 世主妙严品 | 卷一 | 5 | 华严经卷一 | T0279 | title_catalog_match |
-| 世主 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 世主妙 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 严品 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 妙严品 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match |
-| 十地品 | 卷一 | 5 | 华严经卷二十六 | T0279 | title_catalog_match |
-| 十地品 | 卷六 | 80 | — | — | missing_source |
-| 十地 | 卷一 | 10 | 华严经卷二十六 | T0279 | title_catalog_match |
-| 十地 | 卷六 | 75 | — | — | missing_source |
-| 地品 | 卷一 | 10 | 华严经卷二十六 | T0279 | title_catalog_match |
-| 地品 | 卷六 | 48 | — | — | missing_source |
-| 入法界品 | 卷一 | 5 | 华严经卷七十九 | T0279 | title_catalog_match |
-| 入法界品 | 卷六 | 75 | — | — | missing_source |
-| 入法 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match |
-| 入法界 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match |
-| 入法界 | 卷三 | — | — | — | missing_source |
-| 入法界 | 卷六 | 75 | — | — | missing_source |
-| 界品 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match |
-| 界品 | 卷六 | 45 | — | — | missing_source |
-| 法界品 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match |
-| 法界品 | 卷六 | 45 | — | — | missing_source |
-| 普贤行愿品 | 卷一 | 5 | 华严经卷八十 | T0279 | title_catalog_match |
-| 普贤行愿品 | 卷六 | 80 | — | — | missing_source |
-| 普贤 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match |
-| 普贤 | 卷五 | 5 | — | — | missing_source |
-| 普贤 | 卷六 | 39 | — | — | missing_source |
-| 普贤行 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match |
-| 普贤行 | 卷六 | 48 | — | — | missing_source |
-| 愿品 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match |
-| 愿品 | 卷六 | 48 | — | — | missing_source |
-| 行愿品 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match |
-| 行愿品 | 卷六 | 48 | — | — | missing_source |
-| 法界 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 微尘 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 海印 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 菩萨海会 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 菩萨海 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 海会 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 海会 | 卷六 | 48 | — | — | missing_source |
-| 萨海会 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match |
-| 般若波罗蜜 | 卷一 | 5 | 大般若经 | — | unresolved_source |
-| 般若 | 卷一 | 10 | 大般若经 | — | unresolved_source |
-| 般若 | 卷二 | 35 | — | — | missing_source |
-| 般若 | 卷五 | 27 | — | — | missing_source |
-| 般若波 | 卷一 | 10 | 大般若经 | — | unresolved_source |
-| 罗蜜 | 卷一 | 10 | 大般若经 | — | unresolved_source |
-| 罗蜜 | 卷二 | 18 | — | — | missing_source |
-| 罗蜜 | 卷五 | 48 | — | — | missing_source |
-| 波罗蜜 | 卷一 | 10 | 大般若经 | — | unresolved_source |
-| 波罗蜜 | 卷二 | 30 | — | — | missing_source |
-| 波罗蜜 | 卷五 | 48 | — | — | missing_source |
-| 大般若 | 卷一 | 5 | 大般若经 | — | unresolved_source |
-| 大般 | 卷一 | 10 | 大般若经 | — | unresolved_source |
-| 般若经 | 卷一 | 5 | 般若类总称 | — | unresolved_source |
-| 若经 | 卷一 | 10 | 般若类总称 | — | unresolved_source |
-| 摩诃般若波罗蜜多心经 | 卷一 | 5 | 心经 | T0251 | title_catalog_match |
-| 摩诃 | 卷一 | 10 | 心经 | T0251 | title_catalog_match |
-| 摩诃 | 卷五 | 80 | — | — | missing_source |
-| 摩诃 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match |
-| 摩诃般 | 卷一 | 10 | 心经 | T0251 | title_catalog_match |
-| 摩诃般 | 卷四 | 48 | — | — | missing_source |
-| 心经 | 卷一 | 10 | 心经 | T0251 | title_catalog_match |
-| 多心经 | 卷一 | 10 | 心经 | T0251 | title_catalog_match |
-| 金刚般若波罗蜜经 | 卷一 | 5 | 金刚经 | T0235 | title_catalog_match |
-| 金刚 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match |
-| 金刚 | 卷三 | 33 | — | — | missing_source |
-| 金刚 | 卷五 | 5 | — | — | missing_source |
-| 金刚般 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match |
-| 蜜经 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match |
-| 罗蜜经 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match |
-| 金刚经 | 卷一 | 5 | 略写 | — | unresolved_source |
-| 刚经 | 卷一 | 10 | 略写 | — | unresolved_source |
-| 维摩诘经 | 卷一 | 5 | 维摩经 | — | unresolved_source |
-| 维摩 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 维摩诘 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 诘经 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 摩诘经 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 不思议解脱 | 卷一 | 5 | 维摩经 | — | unresolved_source |
-| 不思 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 不思 | 卷七 | 45 | — | — | missing_source |
-| 不思议 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 解脱 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 解脱 | 卷三 | 33 | — | — | missing_source |
-| 解脱 | 卷九 | 45 | — | — | missing_source |
-| 议解脱 | 卷一 | 10 | 维摩经 | — | unresolved_source |
-| 首楞严 | 卷一 | 5 | 楞严经 | T0945 | title_catalog_match |
-| 首楞 | 卷一 | 10 | 楞严经 | T0945 | title_catalog_match |
-| 楞严 | 卷一 | 10 | 楞严经 | T0945 | title_catalog_match |
-| 楞严咒 | 卷一 | 5 | 楞严经（咒段） | — | unresolved_source |
-| 楞严咒（简称） | 卷一 | 5 | 楞严经（咒段） | — | unresolved_source |
-| 严咒 | 卷一 | 10 | 楞严经（咒段） | — | unresolved_source |
-| 大般涅槃 | 卷一 | 5 | 涅槃经 | — | unresolved_source |
-| 大般涅 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 涅槃 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 涅槃 | 卷十一 | 45 | — | — | missing_source |
-| 般涅槃 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 常乐我净 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 常乐 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 常乐我 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 我净 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 乐我净 | 卷一 | 10 | 涅槃经 | — | unresolved_source |
-| 菩萨 | 卷一 | 5 | 通用 | — | unresolved_source |
-| 摩诃萨 | 卷一 | 5 | 通用 | — | unresolved_source |
-| 摩诃萨 | 卷二 | 10 | — | — | missing_source |
-| 摩诃萨 | 卷九 | 15 | — | — | missing_source |
-| 诃萨 | 卷一 | 10 | 通用 | — | unresolved_source |
-| 诃萨 | 卷二 | 10 | — | — | missing_source |
-| 诃萨 | 卷九 | 15 | — | — | missing_source |
-| 大士 | 卷一 | 5 | 通用 | — | unresolved_source |
-| 大士 | 卷二 | 27 | 普门品 | T0262 | title_catalog_match |
-| 大士 | 卷五 | 42 | — | — | missing_source |
-| 大士 | 卷十 | 45 | — | — | missing_source |
-| 佛子 | 卷一 | 5 | 通用 | — | unresolved_source |
-| 大乘 | 卷一 | 5 | 通用 | — | unresolved_source |
-| 嗡、阿、吽 等种子字 | 卷一 | 5 | 各大咒语 | — | unresolved_source |
-| 嗡、 | 卷一 | 10 | 各大咒语 | — | unresolved_source |
-| 嗡、阿 | 卷一 | 10 | 各大咒语 | — | unresolved_source |
-| 子字 | 卷一 | 10 | 各大咒语 | — | unresolved_source |
-| 种子字 | 卷一 | 10 | 各大咒语 | — | unresolved_source |
-| 波罗 | 卷一 | 10 | 般若咒 | — | unresolved_source |
-| 波罗 | 卷二 | 18 | — | — | missing_source |
-| 波罗 | 卷四 | 5 | — | — | missing_source |
-| 波罗 | 卷五 | 15 | — | — | missing_source |
-| 陀罗尼 | 卷一 | 5 | 通用 | — | unresolved_source |
-| 陀罗尼 | 卷四 | 45 | — | — | missing_source |
-| 世音 | 卷二 | 48 | 法华·普门品 | — | unresolved_source |
-| 观世自在 | 卷二 | 75 | 心经 | T0251 | title_catalog_match |
-| 观世自 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 自在 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 自在 | 卷三 | 42 | — | — | missing_source |
-| 世自在 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 观自在 | 卷二 | 75 | 心经 | T0251 | title_catalog_match |
-| 观自在 | 卷三 | — | — | — | missing_source |
-| 观自 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 圣观世音 | 卷二 | 75 | 法华 | — | unresolved_source |
-| 圣观 | 卷二 | 45 | 法华 | — | unresolved_source |
-| 圣观世 | 卷二 | 45 | 法华 | — | unresolved_source |
-| 圣观自在 | 卷二 | 75 | 心经 | T0251 | title_catalog_match |
-| 圣观自 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 大悲观音 | 卷二 | 80 | 法华系/民间拓写 | — | unresolved_source |
-| 大悲观音 | 卷五 | 70 | 密教观音本尊 | — | unresolved_source |
-| 大悲 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source |
-| 大悲 | 卷三 | 45 | — | — | missing_source |
-| 大悲 | 卷五 | 5 | — | — | missing_source |
-| 大悲观 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source |
-| 观音 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source |
-| 观音 | 卷三 | 50 | 观经 | T0365 | title_catalog_match |
-| 观音 | 卷五 | 5 | — | — | missing_source |
-| 悲观音 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source |
-| 大慈大悲观音 | 卷二 | 75 | 法华系 | — | unresolved_source |
-| 大慈 | 卷二 | 45 | 法华系 | — | unresolved_source |
-| 大慈 | 卷五 | 12 | — | — | missing_source |
-| 大慈 | 卷七 | 36 | — | — | missing_source |
-| 大慈大 | 卷二 | 45 | 法华系 | — | unresolved_source |
-| 普门 | 卷二 | 80 | 普门品 | T0262 | title_catalog_match |
-| 普门示现 | 卷二 | 80 | 普门品 | T0262 | title_catalog_match |
-| 普门示现 | 卷三 | — | — | — | missing_source |
-| 普门示 | 卷二 | 48 | 普门品 | T0262 | title_catalog_match |
-| 示现 | 卷二 | 48 | 普门品 | T0262 | title_catalog_match |
-| 门示现 | 卷二 | 48 | 普门品 | T0262 | title_catalog_match |
-| 三十二应 | 卷二 | 75 | 普门品 | T0262 | title_catalog_match |
-| 三十 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 三十二 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 三十二 | 卷三 | 33 | — | — | missing_source |
-| 三十二 | 卷五 | 42 | — | — | missing_source |
-| 二应 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 十二应 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 海潮音 | 卷二 | 75 | 普门品 | T0262 | title_catalog_match |
-| 海潮 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 潮音 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 妙音观音 | 卷二 | 70 | 普门品 | T0262 | title_catalog_match |
-| 妙音 | 卷二 | 42 | 普门品 | T0262 | title_catalog_match |
-| 妙音 | 卷三 | 21 | — | — | missing_source |
-| 妙音观 | 卷二 | 42 | 普门品 | T0262 | title_catalog_match |
-| 音观音 | 卷二 | 42 | 普门品 | T0262 | title_catalog_match |
-| 大悲救世 | 卷二 | 55 | 普门品 | T0262 | title_catalog_match |
-| 大悲救 | 卷二 | 33 | 普门品 | T0262 | title_catalog_match |
-| 救世 | 卷二 | 33 | 普门品 | T0262 | title_catalog_match |
-| 悲救世 | 卷二 | 33 | 普门品 | T0262 | title_catalog_match |
-| 观音妙相 | 卷二 | 50 | 普门品 | T0262 | title_catalog_match |
-| 观音妙 | 卷二 | 30 | 普门品 | T0262 | title_catalog_match |
-| 妙相 | 卷二 | 30 | 普门品 | T0262 | title_catalog_match |
-| 音妙相 | 卷二 | 30 | 普门品 | T0262 | title_catalog_match |
-| 大士观音 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match |
-| 大士观 | 卷二 | 27 | 普门品 | T0262 | title_catalog_match |
-| 士观音 | 卷二 | 27 | 普门品 | T0262 | title_catalog_match |
-| 慈航 | 卷二 | 35 | 民间法华系 | — | unresolved_source |
-| 救苦救难 | 卷二 | 30 | 法华影响 | — | unresolved_source |
-| 救苦 | 卷二 | 18 | 法华影响 | — | unresolved_source |
-| 救苦 | 卷九 | 30 | — | — | missing_source |
-| 救苦救 | 卷二 | 18 | 法华影响 | — | unresolved_source |
-| 救难 | 卷二 | 18 | 法华影响 | — | unresolved_source |
-| 苦救难 | 卷二 | 18 | 法华影响 | — | unresolved_source |
-| 照见五蕴 | 卷二 | 75 | 心经 | T0251 | title_catalog_match |
-| 照见 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 照见五 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 五蕴 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 见五蕴 | 卷二 | 45 | 心经 | T0251 | title_catalog_match |
-| 度一切苦厄 | 卷二 | 70 | 心经 | T0251 | title_catalog_match |
-| 度一 | 卷二 | 42 | 心经 | T0251 | title_catalog_match |
-| 度一切 | 卷二 | 42 | 心经 | T0251 | title_catalog_match |
-| 苦厄 | 卷二 | 42 | 心经 | T0251 | title_catalog_match |
-| 切苦厄 | 卷二 | 42 | 心经 | T0251 | title_catalog_match |
-| 色即是空 | 卷二 | 55 | 般若 | — | unresolved_source |
-| 色即是空 | 卷三 | — | — | — | missing_source |
-| 色即 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 色即是 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 是空 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 即是空 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 空即是色 | 卷二 | 55 | 般若 | — | unresolved_source |
-| 空即 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 空即是 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 是色 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 即是色 | 卷二 | 33 | 般若 | — | unresolved_source |
-| 五蕴空寂 | 卷二 | 45 | 般若 | — | unresolved_source |
-| 五蕴空 | 卷二 | 27 | 般若 | — | unresolved_source |
-| 空寂 | 卷二 | 27 | 般若 | — | unresolved_source |
-| 蕴空寂 | 卷二 | 27 | 般若 | — | unresolved_source |
-| 千手千眼观音 | 卷二 | 80 | 密教仪轨 | — | unresolved_source |
-| 千手千眼观音 | 卷五 | 80 | 密教观音本尊 | — | unresolved_source |
-| 千手 | 卷二 | 48 | 密教仪轨 | — | unresolved_source |
-| 千手千 | 卷二 | 48 | 密教仪轨 | — | unresolved_source |
-| 眼观音 | 卷二 | 48 | 密教仪轨 | — | unresolved_source |
-| 千手眼观音 | 卷二 | 70 | 密教 | — | unresolved_source |
-| 千手眼 | 卷二 | 42 | 密教 | — | unresolved_source |
-| 十一面观音 | 卷二 | 70 | 金刚顶经 | T0865 | title_catalog_match |
-| 十一面观音 | 卷五 | 70 | 密教六观音 | — | unresolved_source |
-| 十一 | 卷二 | 42 | 金刚顶经 | T0865 | title_catalog_match |
-| 十一面 | 卷二 | 42 | 金刚顶经 | T0865 | title_catalog_match |
-| 面观音 | 卷二 | 42 | 金刚顶经 | T0865 | title_catalog_match |
-| 如意轮观音 | 卷二 | 70 | 唐密 | — | unresolved_source |
-| 如意轮观音 | 卷五 | 70 | 密教六观音 | — | unresolved_source |
-| 如意 | 卷二 | 42 | 唐密 | — | unresolved_source |
-| 如意 | 卷五 | 51 | — | — | missing_source |
-| 如意轮 | 卷二 | 42 | 唐密 | — | unresolved_source |
-| 如意轮 | 卷五 | 45 | — | — | missing_source |
-| 轮观音 | 卷二 | 42 | 唐密 | — | unresolved_source |
-| 三昧耶形 | 卷二 | 55 | 密教 | — | unresolved_source |
-| 三昧耶形 | 卷三 | — | — | — | missing_source |
-| 三昧耶形 | 卷五 | 55 | — | — | missing_source |
-| 三昧 | 卷二 | 33 | 密教 | — | unresolved_source |
-| 三昧 | 卷五 | 45 | — | — | missing_source |
-| 三昧耶 | 卷二 | 33 | 密教 | — | unresolved_source |
-| 三昧耶 | 卷五 | 45 | — | — | missing_source |
-| 耶形 | 卷二 | 33 | 密教 | — | unresolved_source |
-| 耶形 | 卷五 | 33 | — | — | missing_source |
-| 昧耶形 | 卷二 | 33 | 密教 | — | unresolved_source |
-| 昧耶形 | 卷五 | 33 | — | — | missing_source |
-| 背光火焰纹 | 卷二 | 45 | 密教 | — | unresolved_source |
-| 背光火焰纹（密） | 卷二 | 45 | 密教 | — | unresolved_source |
-| 背光 | 卷二 | 27 | 密教 | — | unresolved_source |
-| 背光 | 卷三 | 21 | — | — | missing_source |
-| 背光 | 卷五 | 5 | — | — | missing_source |
-| 背光火 | 卷二 | 27 | 密教 | — | unresolved_source |
-| 焰纹 | 卷二 | 27 | 密教 | — | unresolved_source |
-| 火焰纹 | 卷二 | 27 | 密教 | — | unresolved_source |
-| 五智佛关系词 | 卷二 | 50 | 密教 | — | unresolved_source |
-| 五智 | 卷二 | 30 | 密教 | — | unresolved_source |
-| 五智 | 卷三 | — | — | — | missing_source |
-| 五智 | 卷五 | 48 | — | — | missing_source |
-| 五智佛 | 卷二 | 30 | 密教 | — | unresolved_source |
-| 五智佛 | 卷五 | 80 | — | — | missing_source |
-| 系词 | 卷二 | 30 | 密教 | — | unresolved_source |
-| 关系词 | 卷二 | 30 | 密教 | — | unresolved_source |
-| 大悲者 | 卷二 | 25 | — | — | missing_source |
-| 悲者 | 卷二 | 15 | — | — | missing_source |
-| 救苦者 | 卷二 | 25 | — | — | missing_source |
-| 苦者 | 卷二 | 15 | — | — | missing_source |
-| 慈悲者 | 卷二 | 20 | — | — | missing_source |
-| 慈悲 | 卷二 | 12 | — | — | missing_source |
-| 慈悲 | 卷三 | 33 | — | — | missing_source |
-| 菩萨摩诃萨 | 卷二 | 10 | — | — | missing_source |
-| 菩萨摩 | 卷二 | 10 | — | — | missing_source |
-| 大行菩萨 | 卷二 | 10 | — | — | missing_source |
-| 大行 | 卷二 | 10 | — | — | missing_source |
-| 大行 | 卷六 | 45 | 行愿品 | T0293 | title_catalog_match |
-| 大行菩 | 卷二 | 10 | — | — | missing_source |
-| 行菩萨 | 卷二 | 10 | — | — | missing_source |
-| 阿弥陀佛 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match |
-| 阿弥 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 阿弥 | 卷五 | 5 | — | — | missing_source |
-| 阿弥陀 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 阿弥陀 | 卷五 | 5 | — | — | missing_source |
-| 陀佛 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 弥陀佛 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 阿弥陀如来 | 卷三 | 75 | 阿弥陀经 | T0366 | title_catalog_match |
-| 阿弥陀如来 | 卷五 | 5 | — | — | missing_source |
-| 陀如来 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match |
-| 陀如来 | 卷五 | 42 | — | — | missing_source |
-| 无量寿佛 | 卷三 | 75 | 无量寿经 | T0360 | title_catalog_match |
-| 无量 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match |
-| 无量寿 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match |
-| 寿佛 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match |
-| 量寿佛 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match |
-| 无量光佛 | 卷三 | 75 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无量光 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match |
-| 光佛 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match |
-| 光佛 | 卷四 | 5 | — | — | missing_source |
-| 量光佛 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无碍光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无碍 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无碍 | 卷四 | 27 | — | — | missing_source |
-| 无碍光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 碍光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无对光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无对 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无对光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 对光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 炽盛光佛 | 卷五 | 80 | — | — | missing_source |
-| 炽盛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 炽盛光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 炽盛光 | 卷四 | 33 | — | — | missing_source |
-| 盛光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 难思光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 难思 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 难思光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 思光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无极光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无极 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无极光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 极光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 清净光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 清净光佛 | 卷四 | 70 | — | — | missing_source |
-| 清净 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 清净 | 卷七 | 36 | — | — | missing_source |
-| 清净光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 清净光 | 卷四 | 33 | — | — | missing_source |
-| 净光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 净光佛 | 卷四 | 42 | — | — | missing_source |
-| 欢喜光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 欢喜 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 欢喜光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 喜光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 智慧光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match |
-| 智慧光佛 | 卷四 | 70 | — | — | missing_source |
-| 智慧 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 智慧光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 智慧光 | 卷四 | 48 | — | — | missing_source |
-| 慧光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match |
-| 慧光佛 | 卷四 | 42 | — | — | missing_source |
-| 西方三圣 | 卷三 | 55 | 观经 | T0365 | title_catalog_match |
-| 西方 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 西方 | 卷五 | 5 | — | — | missing_source |
-| 西方三 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 三圣 | 卷三 | 10 | 观经 | T0365 | title_catalog_match |
-| 方三圣 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 阿弥陀（中尊） | 卷三 | 50 | 三经 | — | unresolved_source |
-| 弥陀 | 卷三 | 30 | 三经 | — | unresolved_source |
-| 观音（右） | 卷三 | 50 | 观经 | T0365 | title_catalog_match |
-| 势至 | 卷三 | 50 | 观经 | T0365 | title_catalog_match |
-| 势至（左） | 卷三 | 50 | 观经 | T0365 | title_catalog_match |
-| 三尊并座 | 卷三 | 50 | 四川题记 | — | unresolved_source |
-| 三尊 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 三尊并 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 并座 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 尊并座 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 三圣并立 | 卷三 | 50 | 四川题记 | — | unresolved_source |
-| 三圣并 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 并立 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 圣并立 | 卷三 | 30 | 四川题记 | — | unresolved_source |
-| 西方来迎 | 卷三 | 55 | 观经 | T0365 | title_catalog_match |
-| 西方来 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 来迎 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 方来迎 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 佛来迎 | 卷三 | 50 | 观经 | T0365 | title_catalog_match |
-| 佛来 | 卷三 | 30 | 观经 | T0365 | title_catalog_match |
-| 三圣接引 | 卷三 | 55 | 观经 | T0365 | title_catalog_match |
-| 三圣接 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 接引 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 圣接引 | 卷三 | 33 | 观经 | T0365 | title_catalog_match |
-| 二菩萨侍立 | 卷三 | 50 | 观经 | T0365 | title_catalog_match |
-| 二菩 | 卷三 | 30 | 观经 | T0365 | title_catalog_match |
-| 二菩萨 | 卷三 | 30 | 观经 | T0365 | title_catalog_match |
-| 二菩萨 | 卷四 | 48 | — | — | missing_source |
-| 侍立 | 卷三 | 30 | 观经 | T0365 | title_catalog_match |
-| 侍立 | 卷四 | 12 | — | — | missing_source |
-| 萨侍立 | 卷三 | 30 | 观经 | T0365 | title_catalog_match |
-| 中尊跏趺 + 两侧菩萨立像 | 卷三 | 35 | — | — | missing_source |
-| 中尊 | 卷三 | 21 | — | — | missing_source |
-| 中尊跏 | 卷三 | 21 | — | — | missing_source |
-| 立像 | 卷三 | 21 | — | — | missing_source |
-| 萨立像 | 卷三 | 21 | — | — | missing_source |
-| 中尊大背光 + 两侧小背光 | 卷三 | 35 | — | — | missing_source |
-| 中尊大 | 卷三 | 21 | — | — | missing_source |
-| 小背光 | 卷三 | 21 | — | — | missing_source |
-| 中尊禅定印 + 左右菩萨合十 | 卷三 | 35 | — | — | missing_source |
-| 中尊禅 | 卷三 | 21 | — | — | missing_source |
-| 合十 | 卷三 | 21 | — | — | missing_source |
-| 萨合十 | 卷三 | 21 | — | — | missing_source |
-| 平行三光纹 | 卷三 | 30 | — | — | missing_source |
-| 平行 | 卷三 | 18 | — | — | missing_source |
-| 平行三 | 卷三 | 18 | — | — | missing_source |
-| 光纹 | 卷三 | 18 | — | — | missing_source |
-| 三光纹 | 卷三 | 18 | — | — | missing_source |
-| 西方莲池结构基座 | 卷三 | 35 | — | — | missing_source |
-| 西方莲 | 卷三 | 21 | — | — | missing_source |
-| 基座 | 卷三 | 21 | — | — | missing_source |
-| 构基座 | 卷三 | 21 | — | — | missing_source |
-| 极乐世界 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match |
-| 极乐 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 极乐世 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 乐世界 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 西方极乐 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match |
-| 西方极 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 方极乐 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 国名极乐 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match |
-| 国名 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 国名极 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 名极乐 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match |
-| 无有众苦但受诸乐 | 卷三 | 75 | — | — | missing_source |
-| 无有 | 卷三 | 45 | — | — | missing_source |
-| 无有众 | 卷三 | 45 | — | — | missing_source |
-| 诸乐 | 卷三 | 45 | — | — | missing_source |
-| 受诸乐 | 卷三 | 45 | — | — | missing_source |
-| 无三恶道 | 卷三 | 75 | — | — | missing_source |
-| 无三 | 卷三 | 45 | — | — | missing_source |
-| 无三恶 | 卷三 | 45 | — | — | missing_source |
-| 恶道 | 卷三 | 45 | — | — | missing_source |
-| 恶道 | 卷四 | 15 | — | — | missing_source |
-| 三恶道 | 卷三 | 45 | — | — | missing_source |
-| 七宝池 | 卷三 | 75 | — | — | missing_source |
-| 七宝池 | 卷四 | 70 | — | — | missing_source |
-| 七宝 | 卷三 | 45 | — | — | missing_source |
-| 宝池 | 卷三 | 45 | — | — | missing_source |
-| 八功德水 | 卷三 | 75 | — | — | missing_source |
-| 八功德水 | 卷四 | 70 | — | — | missing_source |
-| 八功 | 卷三 | 45 | — | — | missing_source |
-| 八功德 | 卷三 | 45 | — | — | missing_source |
-| 八功德 | 卷四 | 42 | — | — | missing_source |
-| 德水 | 卷三 | 45 | — | — | missing_source |
-| 功德水 | 卷三 | 45 | — | — | missing_source |
-| 功德水 | 卷四 | 42 | — | — | missing_source |
-| 七重罗网 | 卷三 | 75 | — | — | missing_source |
-| 七重 | 卷三 | 45 | — | — | missing_source |
-| 七重罗 | 卷三 | 45 | — | — | missing_source |
-| 罗网 | 卷三 | 45 | — | — | missing_source |
-| 重罗网 | 卷三 | 45 | — | — | missing_source |
-| 七重行树 | 卷三 | 75 | — | — | missing_source |
-| 七重行 | 卷三 | 45 | — | — | missing_source |
-| 行树 | 卷三 | 45 | — | — | missing_source |
-| 重行树 | 卷三 | 45 | — | — | missing_source |
-| 七重栏楯 | 卷三 | 75 | — | — | missing_source |
-| 七重栏 | 卷三 | 45 | — | — | missing_source |
-| 栏楯 | 卷三 | 45 | — | — | missing_source |
-| 重栏楯 | 卷三 | 45 | — | — | missing_source |
-| 琉璃 | 卷三 | 55 | — | — | missing_source |
-| 琉璃 | 卷四 | 5 | — | — | missing_source |
-| 玻璃 | 卷三 | 55 | — | — | missing_source |
-| 琥珀 | 卷三 | 55 | — | — | missing_source |
-| 珊瑚 | 卷三 | 55 | — | — | missing_source |
-| 玛瑙 | 卷三 | 55 | — | — | missing_source |
-| 七宝合成池 | 卷三 | 55 | — | — | missing_source |
-| 七宝合 | 卷三 | 33 | — | — | missing_source |
-| 成池 | 卷三 | 33 | — | — | missing_source |
-| 合成池 | 卷三 | 33 | — | — | missing_source |
-| 池底金沙布地 | 卷三 | 55 | — | — | missing_source |
-| 池底 | 卷三 | 33 | — | — | missing_source |
-| 池底金 | 卷三 | 33 | — | — | missing_source |
-| 池底金 | 卷四 | 42 | — | — | missing_source |
-| 布地 | 卷三 | 33 | — | — | missing_source |
-| 沙布地 | 卷三 | 33 | — | — | missing_source |
-| 澄清 | 卷三 | 45 | — | — | missing_source |
-| 冷暖自适 | 卷三 | 45 | — | — | missing_source |
-| 冷暖 | 卷三 | 27 | — | — | missing_source |
-| 冷暖自 | 卷三 | 27 | — | — | missing_source |
-| 自适 | 卷三 | 27 | — | — | missing_source |
-| 暖自适 | 卷三 | 27 | — | — | missing_source |
-| 香气自然 | 卷三 | 40 | — | — | missing_source |
-| 香气 | 卷三 | 24 | — | — | missing_source |
-| 香气自 | 卷三 | 24 | — | — | missing_source |
-| 自然 | 卷三 | 24 | — | — | missing_source |
-| 气自然 | 卷三 | 24 | — | — | missing_source |
-| 柔软触身 | 卷三 | 40 | — | — | missing_source |
-| 柔软 | 卷三 | 24 | — | — | missing_source |
-| 柔软 | 卷四 | 5 | — | — | missing_source |
-| 柔软触 | 卷三 | 24 | — | — | missing_source |
-| 触身 | 卷三 | 24 | — | — | missing_source |
-| 软触身 | 卷三 | 24 | — | — | missing_source |
-| 随心湛然 | 卷三 | 40 | — | — | missing_source |
-| 随心 | 卷三 | 24 | — | — | missing_source |
-| 随心湛 | 卷三 | 24 | — | — | missing_source |
-| 湛然 | 卷三 | 24 | — | — | missing_source |
-| 湛然 | 卷十三 | 45 | T1913 卷首“天台沙门湛然述”可复查臺大佛學數位圖書館+1 | T1913 | explicit_id_catalog_match |
-| 心湛然 | 卷三 | 24 | — | — | missing_source |
-| 安和调适 | 卷三 | 40 | — | — | missing_source |
-| 安和 | 卷三 | 24 | — | — | missing_source |
-| 安和调 | 卷三 | 24 | — | — | missing_source |
-| 调适 | 卷三 | 24 | — | — | missing_source |
-| 和调适 | 卷三 | 24 | — | — | missing_source |
-| 清净无染 | 卷三 | 45 | — | — | missing_source |
-| 清净无 | 卷三 | 27 | — | — | missing_source |
-| 清净无 | 卷四 | 48 | — | — | missing_source |
-| 无染 | 卷三 | 27 | — | — | missing_source |
-| 净无染 | 卷三 | 27 | — | — | missing_source |
-| 清凉水声 | 卷三 | 30 | — | — | missing_source |
-| 清凉 | 卷三 | 18 | — | — | missing_source |
-| 清凉水 | 卷三 | 18 | — | — | missing_source |
-| 水声 | 卷三 | 18 | — | — | missing_source |
-| 凉水声 | 卷三 | 18 | — | — | missing_source |
-| 宝树庄严 | 卷三 | 55 | — | — | missing_source |
-| 宝树 | 卷三 | 33 | — | — | missing_source |
-| 宝树庄 | 卷三 | 33 | — | — | missing_source |
-| 庄严 | 卷三 | 33 | — | — | missing_source |
-| 庄严 | 卷四 | 21 | — | — | missing_source |
-| 树庄严 | 卷三 | 33 | — | — | missing_source |
-| 金树 | 卷三 | 45 | — | — | missing_source |
-| 银树 | 卷三 | 45 | — | — | missing_source |
-| 琉璃树 | 卷三 | 45 | — | — | missing_source |
-| 璃树 | 卷三 | 27 | — | — | missing_source |
-| 珊瑚树 | 卷三 | 45 | — | — | missing_source |
-| 瑚树 | 卷三 | 27 | — | — | missing_source |
-| 玛瑙树 | 卷三 | 45 | — | — | missing_source |
-| 瑙树 | 卷三 | 27 | — | — | missing_source |
-| 宝树出妙音 | 卷三 | 35 | — | — | missing_source |
-| 宝树出 | 卷三 | 21 | — | — | missing_source |
-| 出妙音 | 卷三 | 21 | — | — | missing_source |
-| 八风和鸣 | 卷三 | 35 | — | — | missing_source |
-| 八风 | 卷三 | 21 | — | — | missing_source |
-| 八风和 | 卷三 | 21 | — | — | missing_source |
-| 和鸣 | 卷三 | 21 | — | — | missing_source |
-| 风和鸣 | 卷三 | 21 | — | — | missing_source |
-| 清风来往 | 卷三 | 30 | — | — | missing_source |
-| 清风 | 卷三 | 18 | — | — | missing_source |
-| 清风来 | 卷三 | 18 | — | — | missing_source |
-| 来往 | 卷三 | 18 | — | — | missing_source |
-| 风来往 | 卷三 | 18 | — | — | missing_source |
-| 德音遍闻 | 卷三 | 30 | — | — | missing_source |
-| 德音 | 卷三 | 18 | — | — | missing_source |
-| 德音遍 | 卷三 | 18 | — | — | missing_source |
-| 遍闻 | 卷三 | 18 | — | — | missing_source |
-| 音遍闻 | 卷三 | 18 | — | — | missing_source |
-| 鸾鸟 | 卷三 | 45 | — | — | missing_source |
-| 孔雀 | 卷三 | 45 | — | — | missing_source |
-| 鹦鹉 | 卷三 | 45 | — | — | missing_source |
-| 胜鸠 | 卷三 | 45 | — | — | missing_source |
-| 鸳鸯 | 卷三 | 45 | — | — | missing_source |
-| 鸂鶒 | 卷三 | 45 | — | — | missing_source |
-| 鸂鶒（音xi chì） | 卷三 | 45 | — | — | missing_source |
-| 非罪报所生 | 卷三 | 55 | — | — | missing_source |
-| 非罪 | 卷三 | 33 | — | — | missing_source |
-| 非罪报 | 卷三 | 33 | — | — | missing_source |
-| 所生 | 卷三 | 33 | — | — | missing_source |
-| 报所生 | 卷三 | 33 | — | — | missing_source |
-| 宣说佛法声 | 卷三 | 50 | — | — | missing_source |
-| 宣说 | 卷三 | 30 | — | — | missing_source |
-| 宣说佛 | 卷三 | 30 | — | — | missing_source |
-| 法声 | 卷三 | 30 | — | — | missing_source |
-| 佛法声 | 卷三 | 30 | — | — | missing_source |
-| 至心信乐 | 卷三 | 70 | — | — | missing_source |
-| 至心 | 卷三 | 42 | — | — | missing_source |
-| 至心信 | 卷三 | 42 | — | — | missing_source |
-| 信乐 | 卷三 | 42 | — | — | missing_source |
-| 心信乐 | 卷三 | 42 | — | — | missing_source |
-| 欲生彼国 | 卷三 | 70 | — | — | missing_source |
-| 欲生 | 卷三 | 42 | — | — | missing_source |
-| 欲生彼 | 卷三 | 42 | — | — | missing_source |
-| 彼国 | 卷三 | 42 | — | — | missing_source |
-| 生彼国 | 卷三 | 42 | — | — | missing_source |
-| 一心念佛 | 卷三 | 70 | — | — | missing_source |
-| 一心 | 卷三 | 42 | — | — | missing_source |
-| 一心 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match |
-| 一心念 | 卷三 | 42 | — | — | missing_source |
-| 念佛 | 卷三 | 42 | — | — | missing_source |
-| 心念佛 | 卷三 | 42 | — | — | missing_source |
-| 乃至十念 | 卷三 | 75 | — | — | missing_source |
-| 乃至 | 卷三 | 45 | — | — | missing_source |
-| 乃至十 | 卷三 | 45 | — | — | missing_source |
-| 十念 | 卷三 | 45 | — | — | missing_source |
-| 至十念 | 卷三 | 45 | — | — | missing_source |
-| 若有善男子善女人 | 卷三 | 45 | — | — | missing_source |
-| 若有 | 卷三 | 27 | — | — | missing_source |
-| 若有善 | 卷三 | 27 | — | — | missing_source |
-| 女人 | 卷三 | 27 | — | — | missing_source |
-| 善女人 | 卷三 | 27 | — | — | missing_source |
-| 持名念佛 | 卷三 | 75 | — | — | missing_source |
-| 持名 | 卷三 | 45 | — | — | missing_source |
-| 持名念 | 卷三 | 45 | — | — | missing_source |
-| 名念佛 | 卷三 | 45 | — | — | missing_source |
-| 与佛相应 | 卷三 | 55 | — | — | missing_source |
-| 与佛 | 卷三 | 33 | — | — | missing_source |
-| 与佛相 | 卷三 | 33 | — | — | missing_source |
-| 相应 | 卷三 | 33 | — | — | missing_source |
-| 相应 | 卷五 | 5 | — | — | missing_source |
-| 佛相应 | 卷三 | 33 | — | — | missing_source |
-| 心不颠倒 | 卷三 | 55 | — | — | missing_source |
-| 心不 | 卷三 | 33 | — | — | missing_source |
-| 心不颠 | 卷三 | 33 | — | — | missing_source |
-| 颠倒 | 卷三 | 33 | — | — | missing_source |
-| 颠倒 | 卷五 | 36 | — | — | missing_source |
-| 不颠倒 | 卷三 | 33 | — | — | missing_source |
-| 临终正念 | 卷三 | 55 | — | — | missing_source |
-| 临终 | 卷三 | 33 | — | — | missing_source |
-| 临终正 | 卷三 | 33 | — | — | missing_source |
-| 正念 | 卷三 | 33 | — | — | missing_source |
-| 正念 | 卷四 | 27 | — | — | missing_source |
-| 终正念 | 卷三 | 33 | — | — | missing_source |
-| 佛光无量 | 卷三 | 50 | — | — | missing_source |
-| 佛光 | 卷三 | 30 | — | — | missing_source |
-| 佛光 | 卷五 | 27 | — | — | missing_source |
-| 佛光无 | 卷三 | 30 | — | — | missing_source |
-| 光无量 | 卷三 | 30 | — | — | missing_source |
-| 遍照十方 | 卷三 | 45 | — | — | missing_source |
-| 遍照 | 卷三 | 27 | — | — | missing_source |
-| 遍照 | 卷五 | 51 | — | — | missing_source |
-| 遍照十 | 卷三 | 27 | — | — | missing_source |
-| 遍照十 | 卷四 | 42 | — | — | missing_source |
-| 照十方 | 卷三 | 27 | — | — | missing_source |
-| 照十方 | 卷四 | 27 | — | — | missing_source |
-| 无量庄严 | 卷三 | 45 | — | — | missing_source |
-| 无量庄 | 卷三 | 27 | — | — | missing_source |
-| 量庄严 | 卷三 | 27 | — | — | missing_source |
-| 如黄金色 | 卷三 | 40 | — | — | missing_source |
-| 如黄 | 卷三 | 24 | — | — | missing_source |
-| 如黄金 | 卷三 | 24 | — | — | missing_source |
-| 金色 | 卷三 | 24 | — | — | missing_source |
-| 黄金色 | 卷三 | 24 | — | — | missing_source |
-| 国无地狱 | 卷三 | 80 | — | — | missing_source |
-| 国无 | 卷三 | 48 | — | — | missing_source |
-| 国无地 | 卷三 | 48 | — | — | missing_source |
-| 地狱 | 卷三 | 48 | — | — | missing_source |
-| 地狱 | 卷九 | 30 | — | — | missing_source |
-| 无地狱 | 卷三 | 48 | — | — | missing_source |
-| 国无饿鬼 | 卷三 | 80 | — | — | missing_source |
-| 国无饿 | 卷三 | 48 | — | — | missing_source |
-| 饿鬼 | 卷三 | 48 | — | — | missing_source |
-| 饿鬼 | 卷九 | 48 | — | — | missing_source |
-| 无饿鬼 | 卷三 | 48 | — | — | missing_source |
-| 国无畜生 | 卷三 | 80 | — | — | missing_source |
-| 国无畜 | 卷三 | 48 | — | — | missing_source |
-| 畜生 | 卷三 | 48 | — | — | missing_source |
-| 无畜生 | 卷三 | 48 | — | — | missing_source |
-| 唯诸善趣 | 卷三 | 70 | — | — | missing_source |
-| 唯诸 | 卷三 | 42 | — | — | missing_source |
-| 唯诸善 | 卷三 | 42 | — | — | missing_source |
-| 善趣 | 卷三 | 42 | — | — | missing_source |
-| 诸善趣 | 卷三 | 42 | — | — | missing_source |
-| 身皆金色 | 卷三 | 70 | — | — | missing_source |
-| 身皆 | 卷三 | 42 | — | — | missing_source |
-| 身皆金 | 卷三 | 42 | — | — | missing_source |
-| 皆金色 | 卷三 | 42 | — | — | missing_source |
-| 三十二相 | 卷三 | 55 | — | — | missing_source |
-| 二相 | 卷三 | 33 | — | — | missing_source |
-| 十二相 | 卷三 | 33 | — | — | missing_source |
-| 十二相 | 卷四 | 42 | — | — | missing_source |
-| 八十种好 | 卷三 | 55 | — | — | missing_source |
-| 八十种 | 卷三 | 33 | — | — | missing_source |
-| 种好 | 卷三 | 33 | — | — | missing_source |
-| 十种好 | 卷三 | 33 | — | — | missing_source |
-| 身无差别 | 卷三 | 50 | — | — | missing_source |
-| 身无 | 卷三 | 30 | — | — | missing_source |
-| 身无差 | 卷三 | 30 | — | — | missing_source |
-| 差别 | 卷三 | 30 | — | — | missing_source |
-| 无差别 | 卷三 | 30 | — | — | missing_source |
-| 形体平等 | 卷三 | 35 | — | — | missing_source |
-| 形体 | 卷三 | 21 | — | — | missing_source |
-| 形体平 | 卷三 | 21 | — | — | missing_source |
-| 平等 | 卷三 | 21 | — | — | missing_source |
-| 平等 | 卷五 | 48 | — | — | missing_source |
-| 体平等 | 卷三 | 21 | — | — | missing_source |
-| 光明无量 | 卷三 | 75 | — | — | missing_source |
-| 光明无量 | 卷四 | 70 | — | — | missing_source |
-| 光明 | 卷三 | 45 | — | — | missing_source |
-| 光明无 | 卷三 | 45 | — | — | missing_source |
-| 光明无 | 卷四 | 42 | — | — | missing_source |
-| 明无量 | 卷三 | 45 | — | — | missing_source |
-| 明无量 | 卷四 | 42 | — | — | missing_source |
-| 光照十方 | 卷三 | 70 | — | — | missing_source |
-| 光照十方 | 卷四 | 45 | — | — | missing_source |
-| 光照 | 卷三 | 42 | — | — | missing_source |
-| 光照 | 卷四 | 27 | — | — | missing_source |
-| 光照十 | 卷三 | 42 | — | — | missing_source |
-| 光照十 | 卷四 | 27 | — | — | missing_source |
-| 光中化佛 | 卷三 | 55 | — | — | missing_source |
-| 光中 | 卷三 | 33 | — | — | missing_source |
-| 光中化 | 卷三 | 33 | — | — | missing_source |
-| 化佛 | 卷三 | 33 | — | — | missing_source |
-| 化佛 | 卷十 | 39 | — | — | missing_source |
-| 中化佛 | 卷三 | 33 | — | — | missing_source |
-| 光明彻照 | 卷三 | 55 | — | — | missing_source |
-| 光明彻照 | 卷四 | 45 | — | — | missing_source |
-| 光明彻 | 卷三 | 33 | — | — | missing_source |
-| 光明彻 | 卷四 | 27 | — | — | missing_source |
-| 彻照 | 卷三 | 33 | — | — | missing_source |
-| 明彻照 | 卷三 | 33 | — | — | missing_source |
-| 明彻照 | 卷四 | 27 | — | — | missing_source |
-| 光明超世 | 卷三 | 55 | — | — | missing_source |
-| 光明超 | 卷三 | 33 | — | — | missing_source |
-| 超世 | 卷三 | 33 | — | — | missing_source |
-| 明超世 | 卷三 | 33 | — | — | missing_source |
-| 光中显化 | 卷三 | 30 | — | — | missing_source |
-| 光中显 | 卷三 | 18 | — | — | missing_source |
-| 显化 | 卷三 | 18 | — | — | missing_source |
-| 中显化 | 卷三 | 18 | — | — | missing_source |
-| 寿命无量 | 卷三 | 75 | — | — | missing_source |
-| 寿命 | 卷三 | 15 | — | — | missing_source |
-| 寿命无 | 卷三 | 45 | — | — | missing_source |
-| 命无量 | 卷三 | 45 | — | — | missing_source |
-| 寿命长久 | 卷三 | 55 | — | — | missing_source |
-| 寿命长 | 卷三 | 33 | — | — | missing_source |
-| 长久 | 卷三 | 33 | — | — | missing_source |
-| 长久 | 卷四 | 27 | — | — | missing_source |
-| 命长久 | 卷三 | 33 | — | — | missing_source |
-| 命长久 | 卷四 | 27 | — | — | missing_source |
-| 寿命不可计 | 卷三 | 55 | — | — | missing_source |
-| 寿命不 | 卷三 | 33 | — | — | missing_source |
-| 可计 | 卷三 | 33 | — | — | missing_source |
-| 不可计 | 卷三 | 33 | — | — | missing_source |
-| 寿命无量数 | 卷三 | 55 | — | — | missing_source |
-| 量数 | 卷三 | 33 | — | — | missing_source |
-| 无量数 | 卷三 | 33 | — | — | missing_source |
-| 无量寿国 | 卷三 | 70 | — | — | missing_source |
-| 寿国 | 卷三 | 42 | — | — | missing_source |
-| 量寿国 | 卷三 | 42 | — | — | missing_source |
-| 声闻无数 | 卷三 | 70 | — | — | missing_source |
-| 声闻 | 卷三 | 42 | — | — | missing_source |
-| 声闻无 | 卷三 | 42 | — | — | missing_source |
-| 无数 | 卷三 | 42 | — | — | missing_source |
-| 闻无数 | 卷三 | 42 | — | — | missing_source |
-| 菩萨无数 | 卷三 | 70 | — | — | missing_source |
-| 菩萨无 | 卷三 | 42 | — | — | missing_source |
-| 萨无数 | 卷三 | 42 | — | — | missing_source |
-| 大智声闻 | 卷三 | 55 | — | — | missing_source |
-| 大智 | 卷三 | 33 | — | — | missing_source |
-| 大智声 | 卷三 | 33 | — | — | missing_source |
-| 智声闻 | 卷三 | 33 | — | — | missing_source |
-| 菩萨众多 | 卷三 | 55 | — | — | missing_source |
-| 菩萨众 | 卷三 | 33 | — | — | missing_source |
-| 众多 | 卷三 | 33 | — | — | missing_source |
-| 萨众多 | 卷三 | 33 | — | — | missing_source |
-| 一切声闻皆成佛 | 卷三 | 55 | — | — | missing_source |
-| 一切声 | 卷三 | 33 | — | — | missing_source |
-| 成佛 | 卷三 | 33 | — | — | missing_source |
-| 成佛 | 卷七 | 48 | — | — | missing_source |
-| 成佛 | 卷十 | 48 | — | — | missing_source |
-| 皆成佛 | 卷三 | 33 | — | — | missing_source |
-| 众会广大 | 卷三 | 35 | — | — | missing_source |
-| 众会 | 卷三 | 21 | — | — | missing_source |
-| 众会广 | 卷三 | 21 | — | — | missing_source |
-| 广大 | 卷三 | 21 | — | — | missing_source |
-| 会广大 | 卷三 | 21 | — | — | missing_source |
-| 声闻三乘断除 | 卷三 | 30 | — | — | missing_source |
-| 声闻三 | 卷三 | 18 | — | — | missing_source |
-| 断除 | 卷三 | 18 | — | — | missing_source |
-| 乘断除 | 卷三 | 18 | — | — | missing_source |
-| 无量圣众 | 卷三 | 50 | — | — | missing_source |
-| 无量圣 | 卷三 | 30 | — | — | missing_source |
-| 圣众 | 卷三 | 30 | — | — | missing_source |
-| 圣众 | 卷五 | 5 | — | — | missing_source |
-| 量圣众 | 卷三 | 30 | — | — | missing_source |
-| 天人平等 | 卷三 | 70 | — | — | missing_source |
-| 天人 | 卷三 | 42 | — | — | missing_source |
-| 天人平 | 卷三 | 42 | — | — | missing_source |
-| 人平等 | 卷三 | 42 | — | — | missing_source |
-| 身色无差 | 卷三 | 50 | — | — | missing_source |
-| 身色 | 卷三 | 30 | — | — | missing_source |
-| 身色 | 卷四 | 21 | — | — | missing_source |
-| 身色无 | 卷三 | 30 | — | — | missing_source |
-| 无差 | 卷三 | 30 | — | — | missing_source |
-| 色无差 | 卷三 | 30 | — | — | missing_source |
-| 悉得神通 | 卷三 | 50 | — | — | missing_source |
-| 悉得 | 卷三 | 30 | — | — | missing_source |
-| 悉得神 | 卷三 | 30 | — | — | missing_source |
-| 神通 | 卷三 | 30 | — | — | missing_source |
-| 得神通 | 卷三 | 30 | — | — | missing_source |
-| 身无男女 | 卷三 | 70 | — | — | missing_source |
-| 身无男 | 卷三 | 42 | — | — | missing_source |
-| 男女 | 卷三 | 10 | — | — | missing_source |
-| 无男女 | 卷三 | 42 | — | — | missing_source |
-| 形相平等 | 卷三 | 50 | — | — | missing_source |
-| 形相 | 卷三 | 30 | — | — | missing_source |
-| 形相平 | 卷三 | 30 | — | — | missing_source |
-| 相平等 | 卷三 | 30 | — | — | missing_source |
-| 若不成佛誓不取正觉 | 卷三 | 75 | — | — | missing_source |
-| 若不 | 卷三 | 45 | — | — | missing_source |
-| 若不成 | 卷三 | 45 | — | — | missing_source |
-| 正觉 | 卷三 | 15 | — | — | missing_source |
-| 取正觉 | 卷三 | 45 | — | — | missing_source |
-| 誓不取正觉 | 卷三 | 75 | — | — | missing_source |
-| 誓不 | 卷三 | 45 | — | — | missing_source |
-| 誓不取 | 卷三 | 45 | — | — | missing_source |
-| 国无州郡 | 卷三 | 70 | — | — | missing_source |
-| 国无州 | 卷三 | 42 | — | — | missing_source |
-| 州郡 | 卷三 | 42 | — | — | missing_source |
-| 无州郡 | 卷三 | 42 | — | — | missing_source |
-| 国无山河 | 卷三 | 55 | — | — | missing_source |
-| 国无山 | 卷三 | 33 | — | — | missing_source |
-| 山河 | 卷三 | 33 | — | — | missing_source |
-| 无山河 | 卷三 | 33 | — | — | missing_source |
-| 无不善名 | 卷三 | 70 | — | — | missing_source |
-| 无不 | 卷三 | 42 | — | — | missing_source |
-| 无不 | 卷四 | 27 | — | — | missing_source |
-| 无不善 | 卷三 | 42 | — | — | missing_source |
-| 善名 | 卷三 | 42 | — | — | missing_source |
-| 不善名 | 卷三 | 42 | — | — | missing_source |
-| 无恶名声 | 卷三 | 55 | — | — | missing_source |
-| 无恶 | 卷三 | 33 | — | — | missing_source |
-| 无恶名 | 卷三 | 33 | — | — | missing_source |
-| 名声 | 卷三 | 33 | — | — | missing_source |
-| 恶名声 | 卷三 | 33 | — | — | missing_source |
-| 树皆宝树 | 卷三 | 70 | — | — | missing_source |
-| 树皆 | 卷三 | 42 | — | — | missing_source |
-| 树皆宝 | 卷三 | 42 | — | — | missing_source |
-| 皆宝树 | 卷三 | 42 | — | — | missing_source |
-| 宝树相照 | 卷三 | 55 | — | — | missing_source |
-| 宝树相 | 卷三 | 33 | — | — | missing_source |
-| 相照 | 卷三 | 33 | — | — | missing_source |
-| 树相照 | 卷三 | 33 | — | — | missing_source |
-| 宝树高广 | 卷三 | 45 | — | — | missing_source |
-| 宝树高广 | 卷四 | 55 | — | — | missing_source |
-| 宝树高 | 卷三 | 27 | — | — | missing_source |
-| 宝树高 | 卷四 | 33 | — | — | missing_source |
-| 高广 | 卷三 | 27 | — | — | missing_source |
-| 树高广 | 卷三 | 27 | — | — | missing_source |
-| 树高广 | 卷四 | 33 | — | — | missing_source |
-| 树无杂色 | 卷三 | 50 | — | — | missing_source |
-| 树无 | 卷三 | 30 | — | — | missing_source |
-| 树无杂 | 卷三 | 30 | — | — | missing_source |
-| 杂色 | 卷三 | 30 | — | — | missing_source |
-| 无杂色 | 卷三 | 30 | — | — | missing_source |
-| 宝树香洁 | 卷三 | 35 | — | — | missing_source |
-| 宝树香 | 卷三 | 21 | — | — | missing_source |
-| 宝树香 | 卷四 | 27 | — | — | missing_source |
-| 香洁 | 卷三 | 21 | — | — | missing_source |
-| 树香洁 | 卷三 | 21 | — | — | missing_source |
-| 国光遍照 | 卷三 | 70 | — | — | missing_source |
-| 国光 | 卷三 | 42 | — | — | missing_source |
-| 国光遍 | 卷三 | 42 | — | — | missing_source |
-| 光遍照 | 卷三 | 42 | — | — | missing_source |
-| 光遍照 | 卷四 | 33 | — | — | missing_source |
-| 光照十方界 | 卷三 | 55 | — | — | missing_source |
-| 方界 | 卷三 | 33 | — | — | missing_source |
-| 十方界 | 卷三 | 33 | — | — | missing_source |
-| 光明无垢 | 卷三 | 45 | — | — | missing_source |
-| 无垢 | 卷三 | 27 | — | — | missing_source |
-| 无垢 | 卷四 | 27 | — | — | missing_source |
-| 明无垢 | 卷三 | 27 | — | — | missing_source |
-| 鸟声宣法 | 卷三 | 70 | — | — | missing_source |
-| 鸟声 | 卷三 | 42 | — | — | missing_source |
-| 鸟声宣 | 卷三 | 42 | — | — | missing_source |
-| 宣法 | 卷三 | 42 | — | — | missing_source |
-| 声宣法 | 卷三 | 42 | — | — | missing_source |
-| 风声宣法 | 卷三 | 70 | — | — | missing_source |
-| 风声 | 卷三 | 42 | — | — | missing_source |
-| 风声宣 | 卷三 | 42 | — | — | missing_source |
-| 宝树宣法 | 卷三 | 70 | — | — | missing_source |
-| 宝树宣法 | 卷四 | 55 | — | — | missing_source |
-| 宝树宣 | 卷三 | 42 | — | — | missing_source |
-| 宝树宣 | 卷四 | 33 | — | — | missing_source |
-| 树宣法 | 卷三 | 42 | — | — | missing_source |
-| 树宣法 | 卷四 | 33 | — | — | missing_source |
-| 水声宣法 | 卷三 | 70 | — | — | missing_source |
-| 水声宣 | 卷三 | 42 | — | — | missing_source |
-| 声皆佛法 | 卷三 | 55 | — | — | missing_source |
-| 声皆 | 卷三 | 33 | — | — | missing_source |
-| 声皆佛 | 卷三 | 33 | — | — | missing_source |
-| 佛法 | 卷三 | 33 | — | — | missing_source |
-| 皆佛法 | 卷三 | 33 | — | — | missing_source |
-| 国无暗冥 | 卷三 | 70 | — | — | missing_source |
-| 国无暗 | 卷三 | 42 | — | — | missing_source |
-| 暗冥 | 卷三 | 42 | — | — | missing_source |
-| 无暗冥 | 卷三 | 42 | — | — | missing_source |
-| 光明无尽 | 卷三 | 55 | — | — | missing_source |
-| 无尽 | 卷三 | 33 | — | — | missing_source |
-| 无尽 | 卷四 | 27 | — | — | missing_source |
-| 明无尽 | 卷三 | 33 | — | — | missing_source |
-| 无三光依赖 | 卷三 | 55 | — | — | missing_source |
-| 无三光依赖（无日月星） | 卷三 | 55 | — | — | missing_source |
-| 无三光 | 卷三 | 33 | — | — | missing_source |
-| 依赖 | 卷三 | 33 | — | — | missing_source |
-| 光依赖 | 卷三 | 33 | — | — | missing_source |
-| 天乐常作 | 卷三 | 55 | — | — | missing_source |
-| 天乐 | 卷三 | 33 | — | — | missing_source |
-| 天乐常 | 卷三 | 33 | — | — | missing_source |
-| 常作 | 卷三 | 33 | — | — | missing_source |
-| 乐常作 | 卷三 | 33 | — | — | missing_source |
-| 乐无不善声 | 卷三 | 50 | — | — | missing_source |
-| 乐无 | 卷三 | 30 | — | — | missing_source |
-| 乐无不 | 卷三 | 30 | — | — | missing_source |
-| 善声 | 卷三 | 30 | — | — | missing_source |
-| 不善声 | 卷三 | 30 | — | — | missing_source |
-| 乐音宣妙法 | 卷三 | 45 | — | — | missing_source |
-| 乐音 | 卷三 | 27 | — | — | missing_source |
-| 乐音宣 | 卷三 | 27 | — | — | missing_source |
-| 宣妙法 | 卷三 | 27 | — | — | missing_source |
-| 衣服自然 | 卷三 | 70 | — | — | missing_source |
-| 衣服 | 卷三 | 42 | — | — | missing_source |
-| 衣服 | 卷四 | 5 | — | — | missing_source |
-| 衣服自 | 卷三 | 42 | — | — | missing_source |
-| 服自然 | 卷三 | 42 | — | — | missing_source |
-| 衣食自然满足 | 卷三 | 70 | — | — | missing_source |
-| 衣食 | 卷三 | 42 | — | — | missing_source |
-| 衣食自 | 卷三 | 42 | — | — | missing_source |
-| 衣食自 | 卷四 | 33 | — | — | missing_source |
-| 满足 | 卷三 | 42 | — | — | missing_source |
-| 然满足 | 卷三 | 42 | — | — | missing_source |
-| 衣服妙色自然生 | 卷三 | 55 | — | — | missing_source |
-| 衣服妙 | 卷三 | 33 | — | — | missing_source |
-| 然生 | 卷三 | 33 | — | — | missing_source |
-| 自然生 | 卷三 | 33 | — | — | missing_source |
-| 自然生 | 卷四 | 33 | — | — | missing_source |
-| 饭食香洁自然生 | 卷三 | 55 | — | — | missing_source |
-| 饭食 | 卷三 | 33 | — | — | missing_source |
-| 饭食香 | 卷三 | 33 | — | — | missing_source |
-| 自然供具具足 | 卷三 | 50 | — | — | missing_source |
-| 自然供 | 卷三 | 30 | — | — | missing_source |
-| 具足 | 卷三 | 30 | — | — | missing_source |
-| 具足 | 卷四 | 5 | — | — | missing_source |
-| 具具足 | 卷三 | 30 | — | — | missing_source |
-| 衣服自然现前 | 卷三 | 70 | — | — | missing_source |
-| 现前 | 卷三 | 42 | — | — | missing_source |
-| 然现前 | 卷三 | 42 | — | — | missing_source |
-| 饭食自然现前 | 卷三 | 70 | — | — | missing_source |
-| 饭食自 | 卷三 | 42 | — | — | missing_source |
-| 饭食自 | 卷四 | 45 | — | — | missing_source |
-| 种种供具自然现 | 卷三 | 55 | — | — | missing_source |
-| 种种 | 卷三 | 33 | — | — | missing_source |
-| 种种供 | 卷三 | 33 | — | — | missing_source |
-| 然现 | 卷三 | 33 | — | — | missing_source |
-| 自然现 | 卷三 | 33 | — | — | missing_source |
-| 衣服香洁 | 卷三 | 45 | — | — | missing_source |
-| 衣服香 | 卷三 | 27 | — | — | missing_source |
-| 服香洁 | 卷三 | 27 | — | — | missing_source |
-| 食具清净 | 卷三 | 45 | — | — | missing_source |
-| 食具 | 卷三 | 27 | — | — | missing_source |
-| 食具清 | 卷三 | 27 | — | — | missing_source |
-| 具清净 | 卷三 | 27 | — | — | missing_source |
-| 妙食自然生起 | 卷三 | 35 | — | — | missing_source |
-| 妙食 | 卷三 | 21 | — | — | missing_source |
-| 妙食自 | 卷三 | 21 | — | — | missing_source |
-| 生起 | 卷三 | 21 | — | — | missing_source |
-| 然生起 | 卷三 | 21 | — | — | missing_source |
-| 随念即得 | 卷三 | 35 | — | — | missing_source |
-| 随念 | 卷三 | 21 | — | — | missing_source |
-| 随念即 | 卷三 | 21 | — | — | missing_source |
-| 随念即 | 卷四 | 33 | — | — | missing_source |
-| 即得 | 卷三 | 21 | — | — | missing_source |
-| 念即得 | 卷三 | 21 | — | — | missing_source |
-| 国无耕作 | 卷三 | 70 | — | — | missing_source |
-| 国无耕 | 卷三 | 42 | — | — | missing_source |
-| 耕作 | 卷三 | 42 | — | — | missing_source |
-| 无耕作 | 卷三 | 42 | — | — | missing_source |
-| 衣食自然 | 卷三 | 55 | — | — | missing_source |
-| 衣食自然 | 卷四 | 55 | — | — | missing_source |
-| 食自然 | 卷三 | 33 | — | — | missing_source |
-| 食自然 | 卷四 | 33 | — | — | missing_source |
-| 无求无乏 | 卷三 | 45 | — | — | missing_source |
-| 无求 | 卷三 | 27 | — | — | missing_source |
-| 无求无 | 卷三 | 27 | — | — | missing_source |
-| 无乏 | 卷三 | 27 | — | — | missing_source |
-| 求无乏 | 卷三 | 27 | — | — | missing_source |
-| 国无不善 | 卷三 | 70 | — | — | missing_source |
-| 国无不 | 卷三 | 42 | — | — | missing_source |
-| 不善 | 卷三 | 42 | — | — | missing_source |
-| 身心清净 | 卷三 | 45 | — | — | missing_source |
-| 身心 | 卷三 | 27 | — | — | missing_source |
-| 身心 | 卷四 | 27 | — | — | missing_source |
-| 身心清 | 卷三 | 27 | — | — | missing_source |
-| 心清净 | 卷三 | 27 | — | — | missing_source |
-| 善念常存 | 卷三 | 35 | — | — | missing_source |
-| 善念 | 卷三 | 21 | — | — | missing_source |
-| 善念常 | 卷三 | 21 | — | — | missing_source |
-| 常存 | 卷三 | 21 | — | — | missing_source |
-| 念常存 | 卷三 | 21 | — | — | missing_source |
-| 香气普熏 | 卷三 | 55 | — | — | missing_source |
-| 香气普 | 卷三 | 33 | — | — | missing_source |
-| 普熏 | 卷三 | 33 | — | — | missing_source |
-| 气普熏 | 卷三 | 33 | — | — | missing_source |
-| 气普熏 | 卷四 | 27 | — | — | missing_source |
-| 香风周遍 | 卷三 | 50 | — | — | missing_source |
-| 香风 | 卷三 | 30 | — | — | missing_source |
-| 香风周 | 卷三 | 30 | — | — | missing_source |
-| 周遍 | 卷三 | 30 | — | — | missing_source |
-| 风周遍 | 卷三 | 30 | — | — | missing_source |
-| 香气悦人心 | 卷三 | 45 | — | — | missing_source |
-| 香气悦 | 卷三 | 27 | — | — | missing_source |
-| 人心 | 卷三 | 27 | — | — | missing_source |
-| 人心 | 卷七 | 42 | — | — | missing_source |
-| 悦人心 | 卷三 | 27 | — | — | missing_source |
-| 香风宣法 | 卷三 | 45 | — | — | missing_source |
-| 香风宣 | 卷三 | 27 | — | — | missing_source |
-| 风宣法 | 卷三 | 27 | — | — | missing_source |
-| 风宣法 | 卷四 | 33 | — | — | missing_source |
-| 无女身 | 卷三 | 70 | — | — | missing_source |
-| 无女 | 卷三 | 42 | — | — | missing_source |
-| 女身 | 卷三 | 42 | — | — | missing_source |
-| 国无女人 | 卷三 | 70 | — | — | missing_source |
-| 国无女 | 卷三 | 42 | — | — | missing_source |
-| 无女人 | 卷三 | 42 | — | — | missing_source |
-| 平等一相 | 卷三 | 45 | — | — | missing_source |
-| 平等一 | 卷三 | 27 | — | — | missing_source |
-| 一相 | 卷三 | 27 | — | — | missing_source |
-| 等一相 | 卷三 | 27 | — | — | missing_source |
-| 不受女身 | 卷三 | 70 | — | — | missing_source |
-| 不受 | 卷三 | 42 | — | — | missing_source |
-| 不受女 | 卷三 | 42 | — | — | missing_source |
-| 受女身 | 卷三 | 42 | — | — | missing_source |
-| 莲华化生 | 卷三 | 75 | — | — | missing_source |
-| 莲华化 | 卷三 | 45 | — | — | missing_source |
-| 化生 | 卷三 | 45 | — | — | missing_source |
-| 华化生 | 卷三 | 45 | — | — | missing_source |
-| 寶華之中化生 | 卷三 | 75 | — | — | missing_source |
-| 寶華 | 卷三 | 45 | — | — | missing_source |
-| 寶華之 | 卷三 | 45 | — | — | missing_source |
-| 中化生 | 卷三 | 45 | — | — | missing_source |
-| 念佛莲生 | 卷三 | 55 | — | — | missing_source |
-| 念佛莲 | 卷三 | 33 | — | — | missing_source |
-| 莲生 | 卷三 | 33 | — | — | missing_source |
-| 佛莲生 | 卷三 | 33 | — | — | missing_source |
-| 青色宝华 | 卷三 | 45 | — | — | missing_source |
-| 青色 | 卷三 | 27 | — | — | missing_source |
-| 青色宝 | 卷三 | 27 | — | — | missing_source |
-| 宝华 | 卷三 | 27 | — | — | missing_source |
-| 色宝华 | 卷三 | 27 | — | — | missing_source |
-| 金色莲华 | 卷三 | 45 | — | — | missing_source |
-| 金色莲 | 卷三 | 27 | — | — | missing_source |
-| 色莲华 | 卷三 | 27 | — | — | missing_source |
-| 乐受无量 | 卷三 | 70 | — | — | missing_source |
-| 乐受 | 卷三 | 42 | — | — | missing_source |
-| 乐受无 | 卷三 | 42 | — | — | missing_source |
-| 受无量 | 卷三 | 42 | — | — | missing_source |
-| 国皆安乐 | 卷三 | 55 | — | — | missing_source |
-| 国皆 | 卷三 | 33 | — | — | missing_source |
-| 国皆安 | 卷三 | 33 | — | — | missing_source |
-| 安乐 | 卷三 | 33 | — | — | missing_source |
-| 皆安乐 | 卷三 | 33 | — | — | missing_source |
-| 无苦但乐 | 卷三 | 50 | — | — | missing_source |
-| 无苦 | 卷三 | 30 | — | — | missing_source |
-| 无苦但 | 卷三 | 30 | — | — | missing_source |
-| 但乐 | 卷三 | 30 | — | — | missing_source |
-| 苦但乐 | 卷三 | 30 | — | — | missing_source |
-| 天人来礼 | 卷三 | 55 | — | — | missing_source |
-| 天人来 | 卷三 | 33 | — | — | missing_source |
-| 来礼 | 卷三 | 33 | — | — | missing_source |
-| 人来礼 | 卷三 | 33 | — | — | missing_source |
-| 天人供养 | 卷三 | 55 | — | — | missing_source |
-| 天人供 | 卷三 | 33 | — | — | missing_source |
-| 人供养 | 卷三 | 33 | — | — | missing_source |
-| 天人自然至 | 卷三 | 45 | — | — | missing_source |
-| 天人自 | 卷三 | 27 | — | — | missing_source |
-| 然至 | 卷三 | 27 | — | — | missing_source |
-| 自然至 | 卷三 | 27 | — | — | missing_source |
-| 天人齐集 | 卷三 | 45 | — | — | missing_source |
-| 天人齐 | 卷三 | 27 | — | — | missing_source |
-| 齐集 | 卷三 | 27 | — | — | missing_source |
-| 人齐集 | 卷三 | 27 | — | — | missing_source |
-| 天人闻法 | 卷三 | 45 | — | — | missing_source |
-| 天人闻 | 卷三 | 27 | — | — | missing_source |
-| 闻法 | 卷三 | 15 | — | — | missing_source |
-| 人闻法 | 卷三 | 27 | — | — | missing_source |
-| 善人俱会 | 卷三 | 75 | — | — | missing_source |
-| 善人 | 卷三 | 45 | — | — | missing_source |
-| 善人俱 | 卷三 | 45 | — | — | missing_source |
-| 俱会 | 卷三 | 45 | — | — | missing_source |
-| 人俱会 | 卷三 | 45 | — | — | missing_source |
-| 善人无量 | 卷三 | 55 | — | — | missing_source |
-| 善人无 | 卷三 | 33 | — | — | missing_source |
-| 人无量 | 卷三 | 33 | — | — | missing_source |
-| 同会一处 | 卷三 | 45 | — | — | missing_source |
-| 同会 | 卷三 | 27 | — | — | missing_source |
-| 同会一 | 卷三 | 27 | — | — | missing_source |
-| 一处 | 卷三 | 27 | — | — | missing_source |
-| 会一处 | 卷三 | 27 | — | — | missing_source |
-| 俱来共集 | 卷三 | 45 | — | — | missing_source |
-| 俱来 | 卷三 | 27 | — | — | missing_source |
-| 俱来共 | 卷三 | 27 | — | — | missing_source |
-| 共集 | 卷三 | 27 | — | — | missing_source |
-| 来共集 | 卷三 | 27 | — | — | missing_source |
-| 善众围绕 | 卷三 | 45 | — | — | missing_source |
-| 善众 | 卷三 | 27 | — | — | missing_source |
-| 善众围 | 卷三 | 27 | — | — | missing_source |
-| 围绕 | 卷三 | 27 | — | — | missing_source |
-| 围绕 | 卷十 | 39 | — | — | missing_source |
-| 众围绕 | 卷三 | 27 | — | — | missing_source |
-| 众围绕 | 卷十 | 39 | — | — | missing_source |
-| 明彻无碍 | 卷三 | 70 | — | — | missing_source |
-| 明彻 | 卷三 | 42 | — | — | missing_source |
-| 明彻无 | 卷三 | 42 | — | — | missing_source |
-| 彻无碍 | 卷三 | 42 | — | — | missing_source |
-| 智慧光明 | 卷三 | 55 | — | — | missing_source |
-| 智慧光明 | 卷四 | 60 | — | — | missing_source |
-| 慧光明 | 卷三 | 33 | — | — | missing_source |
-| 慧光明 | 卷四 | 48 | — | — | missing_source |
-| 心眼明彻 | 卷三 | 45 | — | — | missing_source |
-| 心眼 | 卷三 | 27 | — | — | missing_source |
-| 心眼明 | 卷三 | 27 | — | — | missing_source |
-| 眼明彻 | 卷三 | 27 | — | — | missing_source |
-| 智慧无碍 | 卷三 | 45 | — | — | missing_source |
-| 智慧无碍 | 卷四 | 45 | — | — | missing_source |
-| 智慧无 | 卷三 | 27 | — | — | missing_source |
-| 智慧无 | 卷四 | 45 | — | — | missing_source |
-| 慧无碍 | 卷三 | 27 | — | — | missing_source |
-| 慧无碍 | 卷四 | 27 | — | — | missing_source |
-| 证悟空性 | 卷三 | 70 | — | — | missing_source |
-| 证悟 | 卷三 | 42 | — | — | missing_source |
-| 证悟空 | 卷三 | 42 | — | — | missing_source |
-| 空性 | 卷三 | 42 | — | — | missing_source |
-| 悟空性 | 卷三 | 42 | — | — | missing_source |
-| 解脱自然 | 卷三 | 55 | — | — | missing_source |
-| 解脱自 | 卷三 | 33 | — | — | missing_source |
-| 脱自然 | 卷三 | 33 | — | — | missing_source |
-| 无复烦恼 | 卷三 | 55 | — | — | missing_source |
-| 无复 | 卷三 | 33 | — | — | missing_source |
-| 无复烦 | 卷三 | 33 | — | — | missing_source |
-| 烦恼 | 卷三 | 33 | — | — | missing_source |
-| 复烦恼 | 卷三 | 33 | — | — | missing_source |
-| 一心清净 | 卷三 | 45 | — | — | missing_source |
-| 一心清 | 卷三 | 27 | — | — | missing_source |
-| 心性明净 | 卷三 | 45 | — | — | missing_source |
-| 心性 | 卷三 | 27 | — | — | missing_source |
-| 心性明 | 卷三 | 27 | — | — | missing_source |
-| 明净 | 卷三 | 27 | — | — | missing_source |
-| 性明净 | 卷三 | 27 | — | — | missing_source |
-| 宿命自知 | 卷三 | 70 | — | — | missing_source |
-| 宿命 | 卷三 | 42 | — | — | missing_source |
-| 宿命自 | 卷三 | 42 | — | — | missing_source |
-| 自知 | 卷三 | 42 | — | — | missing_source |
-| 命自知 | 卷三 | 42 | — | — | missing_source |
-| 自知宿命 | 卷三 | 55 | — | — | missing_source |
-| 自知宿 | 卷三 | 33 | — | — | missing_source |
-| 知宿命 | 卷三 | 33 | — | — | missing_source |
-| 宿命明彻 | 卷三 | 45 | — | — | missing_source |
-| 宿命明 | 卷三 | 27 | — | — | missing_source |
-| 命明彻 | 卷三 | 27 | — | — | missing_source |
-| 宿命智慧 | 卷三 | 45 | — | — | missing_source |
-| 宿命智 | 卷三 | 27 | — | — | missing_source |
-| 命智慧 | 卷三 | 27 | — | — | missing_source |
-| 天眼清明 | 卷三 | 70 | — | — | missing_source |
-| 天眼 | 卷三 | 42 | — | — | missing_source |
-| 天眼清 | 卷三 | 42 | — | — | missing_source |
-| 清明 | 卷三 | 42 | — | — | missing_source |
-| 眼清明 | 卷三 | 42 | — | — | missing_source |
-| 眼清明 | 卷四 | 27 | — | — | missing_source |
-| 天眼无碍 | 卷三 | 55 | — | — | missing_source |
-| 天眼无 | 卷三 | 33 | — | — | missing_source |
-| 眼无碍 | 卷三 | 33 | — | — | missing_source |
-| 天眼见十方 | 卷三 | 55 | — | — | missing_source |
-| 天眼见 | 卷三 | 33 | — | — | missing_source |
-| 见十方 | 卷三 | 33 | — | — | missing_source |
-| 天眼洞然 | 卷三 | 45 | — | — | missing_source |
-| 天眼洞 | 卷三 | 27 | — | — | missing_source |
-| 洞然 | 卷三 | 27 | — | — | missing_source |
-| 眼洞然 | 卷三 | 27 | — | — | missing_source |
-| 天耳圆通 | 卷三 | 70 | — | — | missing_source |
-| 天耳 | 卷三 | 42 | — | — | missing_source |
-| 天耳圆 | 卷三 | 42 | — | — | missing_source |
-| 圆通 | 卷三 | 42 | — | — | missing_source |
-| 耳圆通 | 卷三 | 42 | — | — | missing_source |
-| 天耳无碍 | 卷三 | 55 | — | — | missing_source |
-| 天耳无 | 卷三 | 33 | — | — | missing_source |
-| 耳无碍 | 卷三 | 33 | — | — | missing_source |
-| 天耳闻法 | 卷三 | 55 | — | — | missing_source |
-| 天耳闻 | 卷三 | 33 | — | — | missing_source |
-| 耳闻法 | 卷三 | 33 | — | — | missing_source |
-| 天耳洞达 | 卷三 | 45 | — | — | missing_source |
-| 天耳洞 | 卷三 | 27 | — | — | missing_source |
-| 洞达 | 卷三 | 27 | — | — | missing_source |
-| 耳洞达 | 卷三 | 27 | — | — | missing_source |
-| 他心智通 | 卷三 | 70 | — | — | missing_source |
-| 他心 | 卷三 | 42 | — | — | missing_source |
-| 他心智 | 卷三 | 42 | — | — | missing_source |
-| 智通 | 卷三 | 42 | — | — | missing_source |
-| 心智通 | 卷三 | 42 | — | — | missing_source |
-| 知他心念 | 卷三 | 55 | — | — | missing_source |
-| 知他 | 卷三 | 33 | — | — | missing_source |
-| 知他心 | 卷三 | 33 | — | — | missing_source |
-| 心念 | 卷三 | 33 | — | — | missing_source |
-| 他心念 | 卷三 | 33 | — | — | missing_source |
-| 洞察众心 | 卷三 | 55 | — | — | missing_source |
-| 洞察 | 卷三 | 33 | — | — | missing_source |
-| 洞察众 | 卷三 | 33 | — | — | missing_source |
-| 众心 | 卷三 | 33 | — | — | missing_source |
-| 察众心 | 卷三 | 33 | — | — | missing_source |
-| 心行洞见 | 卷三 | 45 | — | — | missing_source |
-| 心行 | 卷三 | 27 | — | — | missing_source |
-| 心行洞 | 卷三 | 27 | — | — | missing_source |
-| 洞见 | 卷三 | 27 | — | — | missing_source |
-| 行洞见 | 卷三 | 27 | — | — | missing_source |
-| 神足自在 | 卷三 | 70 | — | — | missing_source |
-| 神足 | 卷三 | 42 | — | — | missing_source |
-| 神足自 | 卷三 | 42 | — | — | missing_source |
-| 足自在 | 卷三 | 42 | — | — | missing_source |
-| 神足无碍 | 卷三 | 55 | — | — | missing_source |
-| 神足无 | 卷三 | 33 | — | — | missing_source |
-| 足无碍 | 卷三 | 33 | — | — | missing_source |
-| 能至十方 | 卷三 | 55 | — | — | missing_source |
-| 能至 | 卷三 | 33 | — | — | missing_source |
-| 能至十 | 卷三 | 33 | — | — | missing_source |
-| 至十方 | 卷三 | 33 | — | — | missing_source |
-| 神通遨游 | 卷三 | 45 | — | — | missing_source |
-| 神通遨 | 卷三 | 27 | — | — | missing_source |
-| 遨游 | 卷三 | 27 | — | — | missing_source |
-| 通遨游 | 卷三 | 27 | — | — | missing_source |
-| 自在行走诸世界 | 卷三 | 45 | — | — | missing_source |
-| 自在行 | 卷三 | 27 | — | — | missing_source |
-| 诸世界 | 卷三 | 27 | — | — | missing_source |
-| 身住诸佛前 | 卷三 | 75 | — | — | missing_source |
-| 身住 | 卷三 | 45 | — | — | missing_source |
-| 身住诸 | 卷三 | 45 | — | — | missing_source |
-| 佛前 | 卷三 | 45 | — | — | missing_source |
-| 诸佛前 | 卷三 | 45 | — | — | missing_source |
-| 面见诸佛 | 卷三 | 55 | — | — | missing_source |
-| 面见 | 卷三 | 33 | — | — | missing_source |
-| 面见诸 | 卷三 | 33 | — | — | missing_source |
-| 见诸佛 | 卷三 | 33 | — | — | missing_source |
-| 常见佛身 | 卷三 | 55 | — | — | missing_source |
-| 常见 | 卷三 | 33 | — | — | missing_source |
-| 常见佛 | 卷三 | 33 | — | — | missing_source |
-| 佛身 | 卷三 | 33 | — | — | missing_source |
-| 见佛身 | 卷三 | 33 | — | — | missing_source |
-| 亲近诸佛 | 卷三 | 45 | — | — | missing_source |
-| 亲近 | 卷三 | 27 | — | — | missing_source |
-| 亲近诸 | 卷三 | 27 | — | — | missing_source |
-| 近诸佛 | 卷三 | 27 | — | — | missing_source |
-| 佛现其前 | 卷三 | 45 | — | — | missing_source |
-| 佛现 | 卷三 | 27 | — | — | missing_source |
-| 佛现其 | 卷三 | 27 | — | — | missing_source |
-| 其前 | 卷三 | 27 | — | — | missing_source |
-| 现其前 | 卷三 | 27 | — | — | missing_source |
-| 供养诸佛 | 卷三 | 15 | — | — | missing_source |
-| 供养诸 | 卷三 | 45 | — | — | missing_source |
-| 养诸佛 | 卷三 | 45 | — | — | missing_source |
-| 遍供十方佛 | 卷三 | 70 | — | — | missing_source |
-| 遍供 | 卷三 | 42 | — | — | missing_source |
-| 遍供十 | 卷三 | 42 | — | — | missing_source |
-| 方佛 | 卷三 | 42 | — | — | missing_source |
-| 方佛 | 卷五 | 48 | — | — | missing_source |
-| 十方佛 | 卷三 | 42 | — | — | missing_source |
-| 供具随念现 | 卷三 | 55 | — | — | missing_source |
-| 供具 | 卷三 | 33 | — | — | missing_source |
-| 供具 | 卷四 | 5 | — | — | missing_source |
-| 供具随 | 卷三 | 33 | — | — | missing_source |
-| 念现 | 卷三 | 33 | — | — | missing_source |
-| 随念现 | 卷三 | 33 | — | — | missing_source |
-| 十方佛赞叹 | 卷三 | 55 | — | — | missing_source |
-| 赞叹 | 卷三 | 33 | — | — | missing_source |
-| 佛赞叹 | 卷三 | 33 | — | — | missing_source |
-| 衣食随念至 | 卷三 | 70 | — | — | missing_source |
-| 衣食随 | 卷三 | 42 | — | — | missing_source |
-| 念至 | 卷三 | 42 | — | — | missing_source |
-| 随念至 | 卷三 | 42 | — | — | missing_source |
-| 随念便至 | 卷三 | 55 | — | — | missing_source |
-| 随念便 | 卷三 | 33 | — | — | missing_source |
-| 便至 | 卷三 | 33 | — | — | missing_source |
-| 念便至 | 卷三 | 33 | — | — | missing_source |
-| 法衣自然生 | 卷三 | 55 | — | — | missing_source |
-| 法衣 | 卷三 | 33 | — | — | missing_source |
-| 法衣自 | 卷三 | 33 | — | — | missing_source |
-| 法食自然现 | 卷三 | 55 | — | — | missing_source |
-| 法食 | 卷三 | 33 | — | — | missing_source |
-| 法食自 | 卷三 | 33 | — | — | missing_source |
-| 无须劳作 | 卷三 | 45 | — | — | missing_source |
-| 无须 | 卷三 | 27 | — | — | missing_source |
-| 无须劳 | 卷三 | 27 | — | — | missing_source |
-| 劳作 | 卷三 | 27 | — | — | missing_source |
-| 须劳作 | 卷三 | 27 | — | — | missing_source |
-| 食无粗细 | 卷三 | 45 | — | — | missing_source |
-| 食无 | 卷三 | 27 | — | — | missing_source |
-| 食无粗 | 卷三 | 27 | — | — | missing_source |
-| 粗细 | 卷三 | 27 | — | — | missing_source |
-| 无粗细 | 卷三 | 27 | — | — | missing_source |
-| 衣无冷热 | 卷三 | 45 | — | — | missing_source |
-| 衣无 | 卷三 | 27 | — | — | missing_source |
-| 衣无冷 | 卷三 | 27 | — | — | missing_source |
-| 冷热 | 卷三 | 27 | — | — | missing_source |
-| 无冷热 | 卷三 | 27 | — | — | missing_source |
-| 饭食如意生 | 卷三 | 45 | — | — | missing_source |
-| 饭食如 | 卷三 | 27 | — | — | missing_source |
-| 意生 | 卷三 | 27 | — | — | missing_source |
-| 如意生 | 卷三 | 27 | — | — | missing_source |
-| 国土清净 | 卷三 | 75 | — | — | missing_source |
-| 国土 | 卷三 | 45 | — | — | missing_source |
-| 国土 | 卷四 | 5 | — | — | missing_source |
-| 国土清 | 卷三 | 45 | — | — | missing_source |
-| 土清净 | 卷三 | 45 | — | — | missing_source |
-| 清净如镜 | 卷三 | 70 | — | — | missing_source |
-| 清净如 | 卷三 | 42 | — | — | missing_source |
-| 如镜 | 卷三 | 42 | — | — | missing_source |
-| 净如镜 | 卷三 | 42 | — | — | missing_source |
-| 国如磨镜 | 卷三 | 70 | — | — | missing_source |
-| 国如 | 卷三 | 42 | — | — | missing_source |
-| 国如磨 | 卷三 | 42 | — | — | missing_source |
-| 磨镜 | 卷三 | 42 | — | — | missing_source |
-| 如磨镜 | 卷三 | 42 | — | — | missing_source |
-| 无瑕无垢 | 卷三 | 55 | — | — | missing_source |
-| 无瑕 | 卷三 | 33 | — | — | missing_source |
-| 无瑕无 | 卷三 | 33 | — | — | missing_source |
-| 瑕无垢 | 卷三 | 33 | — | — | missing_source |
-| 光影自现 | 卷三 | 55 | — | — | missing_source |
-| 光影 | 卷三 | 33 | — | — | missing_source |
-| 光影自 | 卷三 | 33 | — | — | missing_source |
-| 自现 | 卷三 | 33 | — | — | missing_source |
-| 影自现 | 卷三 | 33 | — | — | missing_source |
-| 映现诸界 | 卷三 | 55 | — | — | missing_source |
-| 映现 | 卷三 | 33 | — | — | missing_source |
-| 映现诸 | 卷三 | 33 | — | — | missing_source |
-| 诸界 | 卷三 | 33 | — | — | missing_source |
-| 现诸界 | 卷三 | 33 | — | — | missing_source |
-| 影现无尽 | 卷三 | 45 | — | — | missing_source |
-| 影现 | 卷三 | 27 | — | — | missing_source |
-| 影现无 | 卷三 | 27 | — | — | missing_source |
-| 现无尽 | 卷三 | 27 | — | — | missing_source |
-| 清净无尘 | 卷三 | 45 | — | — | missing_source |
-| 无尘 | 卷三 | 27 | — | — | missing_source |
-| 净无尘 | 卷三 | 27 | — | — | missing_source |
-| 光净朗然 | 卷三 | 45 | — | — | missing_source |
-| 光净 | 卷三 | 27 | — | — | missing_source |
-| 光净朗 | 卷三 | 27 | — | — | missing_source |
-| 朗然 | 卷三 | 27 | — | — | missing_source |
-| 净朗然 | 卷三 | 27 | — | — | missing_source |
-| 明净遍照 | 卷三 | 45 | — | — | missing_source |
-| 明净遍 | 卷三 | 27 | — | — | missing_source |
-| 净遍照 | 卷三 | 27 | — | — | missing_source |
-| 成等正觉 | 卷三 | 75 | — | — | missing_source |
-| 成等 | 卷三 | 45 | — | — | missing_source |
-| 成等正 | 卷三 | 45 | — | — | missing_source |
-| 等正觉 | 卷三 | 45 | — | — | missing_source |
-| 一切菩萨皆证正觉 | 卷三 | 70 | — | — | missing_source |
-| 一切菩 | 卷三 | 42 | — | — | missing_source |
-| 证正觉 | 卷三 | 42 | — | — | missing_source |
-| 速成佛道 | 卷三 | 55 | — | — | missing_source |
-| 速成 | 卷三 | 33 | — | — | missing_source |
-| 速成佛 | 卷三 | 33 | — | — | missing_source |
-| 佛道 | 卷三 | 33 | — | — | missing_source |
-| 佛道 | 卷四 | 12 | — | — | missing_source |
-| 成佛道 | 卷三 | 33 | — | — | missing_source |
-| 成佛道 | 卷四 | 12 | — | — | missing_source |
-| 速证菩提 | 卷三 | 55 | — | — | missing_source |
-| 速证 | 卷三 | 33 | — | — | missing_source |
-| 速证菩 | 卷三 | 33 | — | — | missing_source |
-| 菩提 | 卷三 | 10 | — | — | missing_source |
-| 菩提 | 卷四 | 12 | — | — | missing_source |
-| 菩提 | 卷五 | 51 | — | — | missing_source |
-| 证菩提 | 卷三 | 33 | — | — | missing_source |
-| 证菩提 | 卷四 | 12 | — | — | missing_source |
-| 菩提自然成 | 卷三 | 45 | — | — | missing_source |
-| 菩提自 | 卷三 | 27 | — | — | missing_source |
-| 然成 | 卷三 | 27 | — | — | missing_source |
-| 自然成 | 卷三 | 27 | — | — | missing_source |
-| 一生补处 | 卷三 | 45 | — | — | missing_source |
-| 一生 | 卷三 | 27 | — | — | missing_source |
-| 一生补 | 卷三 | 27 | — | — | missing_source |
-| 补处 | 卷三 | 27 | — | — | missing_source |
-| 生补处 | 卷三 | 27 | — | — | missing_source |
-| 决定成佛 | 卷三 | 55 | — | — | missing_source |
-| 决定 | 卷三 | 33 | — | — | missing_source |
-| 决定成 | 卷三 | 33 | — | — | missing_source |
-| 定成佛 | 卷三 | 33 | — | — | missing_source |
-| 菩提平等 | 卷三 | 45 | — | — | missing_source |
-| 菩提平 | 卷三 | 27 | — | — | missing_source |
-| 提平等 | 卷三 | 27 | — | — | missing_source |
-| 菩萨无退 | 卷三 | 45 | — | — | missing_source |
-| 无退 | 卷三 | 27 | — | — | missing_source |
-| 萨无退 | 卷三 | 27 | — | — | missing_source |
-| 不退转地 | 卷三 | 45 | — | — | missing_source |
-| 不退 | 卷三 | 27 | — | — | missing_source |
-| 不退转 | 卷三 | 27 | — | — | missing_source |
-| 转地 | 卷三 | 27 | — | — | missing_source |
-| 退转地 | 卷三 | 27 | — | — | missing_source |
-| 大悲教化 | 卷三 | 75 | — | — | missing_source |
-| 大悲教 | 卷三 | 45 | — | — | missing_source |
-| 教化 | 卷三 | 45 | — | — | missing_source |
-| 悲教化 | 卷三 | 45 | — | — | missing_source |
-| 教化十方 | 卷三 | 70 | — | — | missing_source |
-| 教化十 | 卷三 | 42 | — | — | missing_source |
-| 化十方 | 卷三 | 42 | — | — | missing_source |
-| 教化无量众生 | 卷三 | 55 | — | — | missing_source |
-| 教化无 | 卷三 | 33 | — | — | missing_source |
-| 量众生 | 卷三 | 33 | — | — | missing_source |
-| 宣扬佛法 | 卷三 | 55 | — | — | missing_source |
-| 宣扬 | 卷三 | 33 | — | — | missing_source |
-| 宣扬佛 | 卷三 | 33 | — | — | missing_source |
-| 扬佛法 | 卷三 | 33 | — | — | missing_source |
-| 慈悲教导 | 卷三 | 55 | — | — | missing_source |
-| 慈悲教 | 卷三 | 33 | — | — | missing_source |
-| 教导 | 卷三 | 33 | — | — | missing_source |
-| 悲教导 | 卷三 | 33 | — | — | missing_source |
-| 教化众生离苦 | 卷三 | 45 | — | — | missing_source |
-| 教化众 | 卷三 | 27 | — | — | missing_source |
-| 离苦 | 卷三 | 27 | — | — | missing_source |
-| 生离苦 | 卷三 | 27 | — | — | missing_source |
-| 大悲弘愿 | 卷三 | 45 | — | — | missing_source |
-| 大悲弘 | 卷三 | 27 | — | — | missing_source |
-| 弘愿 | 卷三 | 27 | — | — | missing_source |
-| 悲弘愿 | 卷三 | 27 | — | — | missing_source |
-| 普利十方 | 卷三 | 45 | — | — | missing_source |
-| 普利 | 卷三 | 27 | — | — | missing_source |
-| 普利 | 卷九 | 42 | — | — | missing_source |
-| 普利十 | 卷三 | 27 | — | — | missing_source |
-| 利十方 | 卷三 | 27 | — | — | missing_source |
-| 声满十方 | 卷三 | 45 | — | — | missing_source |
-| 声满 | 卷三 | 27 | — | — | missing_source |
-| 声满十 | 卷三 | 27 | — | — | missing_source |
-| 满十方 | 卷三 | 27 | — | — | missing_source |
-| 普度群生 | 卷三 | 35 | — | — | missing_source |
-| 普度 | 卷三 | 21 | — | — | missing_source |
-| 普度群 | 卷三 | 21 | — | — | missing_source |
-| 群生 | 卷三 | 21 | — | — | missing_source |
-| 度群生 | 卷三 | 21 | — | — | missing_source |
-| 无碍辩才 | 卷三 | 75 | — | — | missing_source |
-| 无碍辩 | 卷三 | 45 | — | — | missing_source |
-| 辩才 | 卷三 | 45 | — | — | missing_source |
-| 碍辩才 | 卷三 | 45 | — | — | missing_source |
-| 辩才无尽 | 卷三 | 70 | — | — | missing_source |
-| 辩才无 | 卷三 | 42 | — | — | missing_source |
-| 才无尽 | 卷三 | 42 | — | — | missing_source |
-| 百千微妙音 | 卷三 | 55 | — | — | missing_source |
-| 百千 | 卷三 | 33 | — | — | missing_source |
-| 百千微 | 卷三 | 33 | — | — | missing_source |
-| 微妙音 | 卷三 | 33 | — | — | missing_source |
-| 辩才宣法 | 卷三 | 55 | — | — | missing_source |
-| 辩才宣 | 卷三 | 33 | — | — | missing_source |
-| 才宣法 | 卷三 | 33 | — | — | missing_source |
-| 辩才广博 | 卷三 | 45 | — | — | missing_source |
-| 辩才广 | 卷三 | 27 | — | — | missing_source |
-| 广博 | 卷三 | 27 | — | — | missing_source |
-| 才广博 | 卷三 | 27 | — | — | missing_source |
-| 一音演法 | 卷三 | 55 | — | — | missing_source |
-| 一音 | 卷三 | 33 | — | — | missing_source |
-| 一音演 | 卷三 | 33 | — | — | missing_source |
-| 演法 | 卷三 | 33 | — | — | missing_source |
-| 音演法 | 卷三 | 33 | — | — | missing_source |
-| 随类化身演说 | 卷三 | 55 | — | — | missing_source |
-| 随类 | 卷三 | 33 | — | — | missing_source |
-| 随类化 | 卷三 | 33 | — | — | missing_source |
-| 演说 | 卷三 | 33 | — | — | missing_source |
-| 身演说 | 卷三 | 33 | — | — | missing_source |
-| 善根增长 | 卷三 | 75 | — | — | missing_source |
-| 善根 | 卷三 | 45 | — | — | missing_source |
-| 善根增 | 卷三 | 45 | — | — | missing_source |
-| 增长 | 卷三 | 45 | — | — | missing_source |
-| 根增长 | 卷三 | 45 | — | — | missing_source |
-| 善根不断 | 卷三 | 70 | — | — | missing_source |
-| 善根不 | 卷三 | 42 | — | — | missing_source |
-| 不断 | 卷三 | 42 | — | — | missing_source |
-| 根不断 | 卷三 | 42 | — | — | missing_source |
-| 善根成熟 | 卷三 | 55 | — | — | missing_source |
-| 善根成 | 卷三 | 33 | — | — | missing_source |
-| 成熟 | 卷三 | 33 | — | — | missing_source |
-| 根成熟 | 卷三 | 33 | — | — | missing_source |
-| 善根成就 | 卷三 | 55 | — | — | missing_source |
-| 成就 | 卷三 | 15 | — | — | missing_source |
-| 成就 | 卷五 | 45 | — | — | missing_source |
-| 根成就 | 卷三 | 33 | — | — | missing_source |
-| 善根坚固 | 卷三 | 45 | — | — | missing_source |
-| 善根坚 | 卷三 | 27 | — | — | missing_source |
-| 坚固 | 卷三 | 27 | — | — | missing_source |
-| 根坚固 | 卷三 | 27 | — | — | missing_source |
-| 善根圆满 | 卷三 | 55 | — | — | missing_source |
-| 善根圆 | 卷三 | 33 | — | — | missing_source |
-| 圆满 | 卷三 | 33 | — | — | missing_source |
-| 圆满 | 卷五 | 33 | — | — | missing_source |
-| 根圆满 | 卷三 | 33 | — | — | missing_source |
-| 善根无尽 | 卷三 | 45 | — | — | missing_source |
-| 善根无 | 卷三 | 27 | — | — | missing_source |
-| 根无尽 | 卷三 | 27 | — | — | missing_source |
-| 善根随生 | 卷三 | 45 | — | — | missing_source |
-| 善根随 | 卷三 | 27 | — | — | missing_source |
-| 随生 | 卷三 | 27 | — | — | missing_source |
-| 根随生 | 卷三 | 27 | — | — | missing_source |
-| 离诸烦恼 | 卷三 | 75 | — | — | missing_source |
-| 离诸 | 卷三 | 45 | — | — | missing_source |
-| 离诸 | 卷四 | 5 | — | — | missing_source |
-| 离诸烦 | 卷三 | 45 | — | — | missing_source |
-| 诸烦恼 | 卷三 | 45 | — | — | missing_source |
-| 烦恼永断 | 卷三 | 70 | — | — | missing_source |
-| 烦恼永 | 卷三 | 42 | — | — | missing_source |
-| 永断 | 卷三 | 42 | — | — | missing_source |
-| 恼永断 | 卷三 | 42 | — | — | missing_source |
-| 烦恼不起 | 卷三 | 55 | — | — | missing_source |
-| 烦恼不 | 卷三 | 33 | — | — | missing_source |
-| 不起 | 卷三 | 33 | — | — | missing_source |
-| 不起 | 卷四 | 27 | — | — | missing_source |
-| 恼不起 | 卷三 | 33 | — | — | missing_source |
-| 无诸结缚 | 卷三 | 55 | — | — | missing_source |
-| 无诸 | 卷三 | 33 | — | — | missing_source |
-| 无诸 | 卷四 | 5 | — | — | missing_source |
-| 无诸结 | 卷三 | 33 | — | — | missing_source |
-| 结缚 | 卷三 | 33 | — | — | missing_source |
-| 诸结缚 | 卷三 | 33 | — | — | missing_source |
-| 心无贪欲 | 卷三 | 55 | — | — | missing_source |
-| 心无 | 卷三 | 33 | — | — | missing_source |
-| 心无贪 | 卷三 | 33 | — | — | missing_source |
-| 贪欲 | 卷三 | 33 | — | — | missing_source |
-| 无贪欲 | 卷三 | 33 | — | — | missing_source |
-| 心无瞋恚 | 卷三 | 55 | — | — | missing_source |
-| 心无瞋 | 卷三 | 33 | — | — | missing_source |
-| 瞋恚 | 卷三 | 33 | — | — | missing_source |
-| 无瞋恚 | 卷三 | 33 | — | — | missing_source |
-| 心无愚迷 | 卷三 | 55 | — | — | missing_source |
-| 心无愚 | 卷三 | 33 | — | — | missing_source |
-| 愚迷 | 卷三 | 33 | — | — | missing_source |
-| 无愚迷 | 卷三 | 33 | — | — | missing_source |
-| 贪嗔痴断 | 卷三 | 55 | — | — | missing_source |
-| 贪嗔 | 卷三 | 33 | — | — | missing_source |
-| 贪嗔痴 | 卷三 | 33 | — | — | missing_source |
-| 痴断 | 卷三 | 33 | — | — | missing_source |
-| 嗔痴断 | 卷三 | 33 | — | — | missing_source |
-| 心地清净 | 卷三 | 45 | — | — | missing_source |
-| 心地 | 卷三 | 27 | — | — | missing_source |
-| 心地清 | 卷三 | 27 | — | — | missing_source |
-| 地清净 | 卷三 | 27 | — | — | missing_source |
-| 心无挂碍 | 卷三 | 45 | — | — | missing_source |
-| 心无挂 | 卷三 | 27 | — | — | missing_source |
-| 挂碍 | 卷三 | 27 | — | — | missing_source |
-| 无挂碍 | 卷三 | 27 | — | — | missing_source |
-| 法喜常满 | 卷三 | 70 | — | — | missing_source |
-| 法喜 | 卷三 | 42 | — | — | missing_source |
-| 法喜常 | 卷三 | 42 | — | — | missing_source |
-| 常满 | 卷三 | 42 | — | — | missing_source |
-| 喜常满 | 卷三 | 42 | — | — | missing_source |
-| 法喜无尽 | 卷三 | 55 | — | — | missing_source |
-| 法喜无 | 卷三 | 33 | — | — | missing_source |
-| 喜无尽 | 卷三 | 33 | — | — | missing_source |
-| 心常欢喜 | 卷三 | 55 | — | — | missing_source |
-| 心常 | 卷三 | 33 | — | — | missing_source |
-| 心常欢 | 卷三 | 33 | — | — | missing_source |
-| 常欢喜 | 卷三 | 33 | — | — | missing_source |
-| 得法欢喜 | 卷三 | 45 | — | — | missing_source |
-| 得法 | 卷三 | 27 | — | — | missing_source |
-| 得法欢 | 卷三 | 27 | — | — | missing_source |
-| 法欢喜 | 卷三 | 27 | — | — | missing_source |
-| 喜乐无边 | 卷三 | 45 | — | — | missing_source |
-| 喜乐 | 卷三 | 27 | — | — | missing_source |
-| 喜乐无 | 卷三 | 27 | — | — | missing_source |
-| 无边 | 卷三 | 27 | — | — | missing_source |
-| 无边 | 卷四 | 5 | — | — | missing_source |
-| 乐无边 | 卷三 | 27 | — | — | missing_source |
-| 身心柔软 | 卷三 | 70 | — | — | missing_source |
-| 身心柔 | 卷三 | 42 | — | — | missing_source |
-| 心柔软 | 卷三 | 42 | — | — | missing_source |
-| 柔和忍辱 | 卷三 | 55 | — | — | missing_source |
-| 柔和 | 卷三 | 33 | — | — | missing_source |
-| 柔和 | 卷四 | 27 | — | — | missing_source |
-| 柔和忍 | 卷三 | 33 | — | — | missing_source |
-| 忍辱 | 卷三 | 33 | — | — | missing_source |
-| 和忍辱 | 卷三 | 33 | — | — | missing_source |
-| 心无坚硬 | 卷三 | 55 | — | — | missing_source |
-| 心无坚 | 卷三 | 33 | — | — | missing_source |
-| 坚硬 | 卷三 | 33 | — | — | missing_source |
-| 无坚硬 | 卷三 | 33 | — | — | missing_source |
-| 柔顺善心 | 卷三 | 45 | — | — | missing_source |
-| 柔顺 | 卷三 | 27 | — | — | missing_source |
-| 柔顺善 | 卷三 | 27 | — | — | missing_source |
-| 善心 | 卷三 | 27 | — | — | missing_source |
-| 顺善心 | 卷三 | 27 | — | — | missing_source |
-| 心地柔和 | 卷三 | 45 | — | — | missing_source |
-| 心地柔 | 卷三 | 27 | — | — | missing_source |
-| 地柔和 | 卷三 | 27 | — | — | missing_source |
-| 人天尊敬 | 卷三 | 45 | — | — | missing_source |
-| 人天 | 卷三 | 27 | — | — | missing_source |
-| 人天尊 | 卷三 | 27 | — | — | missing_source |
-| 尊敬 | 卷三 | 27 | — | — | missing_source |
-| 天尊敬 | 卷三 | 27 | — | — | missing_source |
-| 十念必生 | 卷三 | 80 | — | — | missing_source |
-| 十念必 | 卷三 | 48 | — | — | missing_source |
-| 必生 | 卷三 | 48 | — | — | missing_source |
-| 念必生 | 卷三 | 48 | — | — | missing_source |
-| 若有众生念我 | 卷三 | 80 | — | — | missing_source |
-| 若有众 | 卷三 | 48 | — | — | missing_source |
-| 念我 | 卷三 | 48 | — | — | missing_source |
-| 生念我 | 卷三 | 48 | — | — | missing_source |
-| 念佛往生 | 卷三 | 80 | — | — | missing_source |
-| 念佛往 | 卷三 | 48 | — | — | missing_source |
-| 往生 | 卷三 | 48 | — | — | missing_source |
-| 佛往生 | 卷三 | 48 | — | — | missing_source |
-| 若不生者不取正觉 | 卷三 | 80 | — | — | missing_source |
-| 若不生 | 卷三 | 48 | — | — | missing_source |
-| 念佛无不往生 | 卷三 | 75 | — | — | missing_source |
-| 念佛无 | 卷三 | 45 | — | — | missing_source |
-| 不往生 | 卷三 | 45 | — | — | missing_source |
-| 南无阿弥陀佛 | 卷三 | 75 | — | — | missing_source |
-| 南无阿弥陀佛（六字名号） | 卷三 | 75 | — | — | missing_source |
-| 南无阿 | 卷三 | 45 | — | — | missing_source |
-| 一心系念 | 卷三 | 75 | — | — | missing_source |
-| 一心系 | 卷三 | 45 | — | — | missing_source |
-| 系念 | 卷三 | 45 | — | — | missing_source |
-| 心系念 | 卷三 | 45 | — | — | missing_source |
-| 惟念弥陀 | 卷三 | 70 | — | — | missing_source |
-| 惟念 | 卷三 | 42 | — | — | missing_source |
-| 惟念弥 | 卷三 | 42 | — | — | missing_source |
-| 念弥陀 | 卷三 | 42 | — | — | missing_source |
-| 临终念佛 | 卷三 | 70 | — | — | missing_source |
-| 临终念 | 卷三 | 42 | — | — | missing_source |
-| 终念佛 | 卷三 | 42 | — | — | missing_source |
-| 称名必生 | 卷三 | 75 | — | — | missing_source |
-| 称名 | 卷三 | 45 | — | — | missing_source |
-| 称名必 | 卷三 | 45 | — | — | missing_source |
-| 名必生 | 卷三 | 45 | — | — | missing_source |
-| 十念皆生 | 卷三 | 75 | — | — | missing_source |
-| 十念皆 | 卷三 | 45 | — | — | missing_source |
-| 皆生 | 卷三 | 45 | — | — | missing_source |
-| 念皆生 | 卷三 | 45 | — | — | missing_source |
-| 念佛功德不可思议 | 卷三 | 55 | — | — | missing_source |
-| 念佛功 | 卷三 | 33 | — | — | missing_source |
-| 思议 | 卷三 | 33 | — | — | missing_source |
-| 可思议 | 卷三 | 33 | — | — | missing_source |
-| 念我必生 | 卷三 | 75 | — | — | missing_source |
-| 念我必 | 卷三 | 45 | — | — | missing_source |
-| 我必生 | 卷三 | 45 | — | — | missing_source |
-| 名号力故往生 | 卷三 | 75 | — | — | missing_source |
-| 名号力 | 卷三 | 45 | — | — | missing_source |
-| 故往生 | 卷三 | 45 | — | — | missing_source |
-| 光明照曜 | 卷三 | 55 | — | — | missing_source |
-| 光明照 | 卷三 | 33 | — | — | missing_source |
-| 照曜 | 卷三 | 33 | — | — | missing_source |
-| 明照曜 | 卷三 | 33 | — | — | missing_source |
-| 光净无垢 | 卷三 | 55 | — | — | missing_source |
-| 光净无垢 | 卷四 | 45 | — | — | missing_source |
-| 光净无 | 卷三 | 33 | — | — | missing_source |
-| 光净无 | 卷四 | 27 | — | — | missing_source |
-| 净无垢 | 卷三 | 33 | — | — | missing_source |
-| 净无垢 | 卷四 | 27 | — | — | missing_source |
-| 光华自在 | 卷三 | 45 | — | — | missing_source |
-| 光华 | 卷三 | 27 | — | — | missing_source |
-| 光华自 | 卷三 | 27 | — | — | missing_source |
-| 华自在 | 卷三 | 27 | — | — | missing_source |
-| 光明周遍 | 卷三 | 45 | — | — | missing_source |
-| 光明周 | 卷三 | 27 | — | — | missing_source |
-| 明周遍 | 卷三 | 27 | — | — | missing_source |
-| 光色殊妙 | 卷三 | 45 | — | — | missing_source |
-| 光色 | 卷三 | 27 | — | — | missing_source |
-| 光色殊 | 卷三 | 27 | — | — | missing_source |
-| 殊妙 | 卷三 | 27 | — | — | missing_source |
-| 色殊妙 | 卷三 | 27 | — | — | missing_source |
-| 光照无尽界 | 卷三 | 55 | — | — | missing_source |
-| 光照无 | 卷三 | 33 | — | — | missing_source |
-| 尽界 | 卷三 | 33 | — | — | missing_source |
-| 无尽界 | 卷三 | 33 | — | — | missing_source |
-| 光如净月 | 卷三 | 45 | — | — | missing_source |
-| 光如 | 卷三 | 27 | — | — | missing_source |
-| 光如净 | 卷三 | 27 | — | — | missing_source |
-| 净月 | 卷三 | 27 | — | — | missing_source |
-| 净月 | 卷四 | 27 | — | — | missing_source |
-| 如净月 | 卷三 | 27 | — | — | missing_source |
-| 光如妙日 | 卷三 | 45 | — | — | missing_source |
-| 光如妙 | 卷三 | 27 | — | — | missing_source |
-| 妙日 | 卷三 | 27 | — | — | missing_source |
-| 妙日 | 卷四 | 27 | — | — | missing_source |
-| 如妙日 | 卷三 | 27 | — | — | missing_source |
-| 光色清凉 | 卷三 | 35 | — | — | missing_source |
-| 光色清 | 卷三 | 21 | — | — | missing_source |
-| 色清凉 | 卷三 | 21 | — | — | missing_source |
-| 地皆金刚 | 卷三 | 55 | — | — | missing_source |
-| 地皆 | 卷三 | 33 | — | — | missing_source |
-| 地皆金 | 卷三 | 33 | — | — | missing_source |
-| 皆金刚 | 卷三 | 33 | — | — | missing_source |
-| 地平如掌 | 卷三 | 45 | — | — | missing_source |
-| 地平如掌 | 卷四 | 55 | — | — | missing_source |
-| 地平 | 卷三 | 27 | — | — | missing_source |
-| 地平如 | 卷三 | 27 | — | — | missing_source |
-| 地平如 | 卷四 | 33 | — | — | missing_source |
-| 如掌 | 卷三 | 27 | — | — | missing_source |
-| 平如掌 | 卷三 | 27 | — | — | missing_source |
-| 平如掌 | 卷四 | 33 | — | — | missing_source |
-| 地无尘垢 | 卷三 | 45 | — | — | missing_source |
-| 地无 | 卷三 | 27 | — | — | missing_source |
-| 地无尘 | 卷三 | 27 | — | — | missing_source |
-| 尘垢 | 卷三 | 27 | — | — | missing_source |
-| 无尘垢 | 卷三 | 27 | — | — | missing_source |
-| 地若琉璃 | 卷三 | 45 | — | — | missing_source |
-| 地若 | 卷三 | 27 | — | — | missing_source |
-| 地若琉 | 卷三 | 27 | — | — | missing_source |
-| 若琉璃 | 卷三 | 27 | — | — | missing_source |
-| 地现宝光 | 卷三 | 45 | — | — | missing_source |
-| 地现 | 卷三 | 27 | — | — | missing_source |
-| 地现宝 | 卷三 | 27 | — | — | missing_source |
-| 宝光 | 卷三 | 27 | — | — | missing_source |
-| 宝光 | 卷五 | 27 | — | — | missing_source |
-| 现宝光 | 卷三 | 27 | — | — | missing_source |
-| 地放妙色 | 卷三 | 45 | — | — | missing_source |
-| 地放妙色 | 卷四 | 45 | — | — | missing_source |
-| 地放 | 卷三 | 27 | — | — | missing_source |
-| 地放妙 | 卷三 | 27 | — | — | missing_source |
-| 地放妙 | 卷四 | 27 | — | — | missing_source |
-| 妙色 | 卷三 | 27 | — | — | missing_source |
-| 妙色 | 卷四 | 5 | — | — | missing_source |
-| 放妙色 | 卷三 | 27 | — | — | missing_source |
-| 放妙色 | 卷四 | 27 | — | — | missing_source |
-| 宝地庄严 | 卷三 | 55 | — | — | missing_source |
-| 宝地 | 卷三 | 33 | — | — | missing_source |
-| 宝地庄 | 卷三 | 33 | — | — | missing_source |
-| 地庄严 | 卷三 | 33 | — | — | missing_source |
-| 地色清净 | 卷三 | 35 | — | — | missing_source |
-| 地色 | 卷三 | 21 | — | — | missing_source |
-| 地色清 | 卷三 | 21 | — | — | missing_source |
-| 色清净 | 卷三 | 21 | — | — | missing_source |
-| 地光遍照 | 卷三 | 35 | — | — | missing_source |
-| 地光 | 卷三 | 21 | — | — | missing_source |
-| 地光遍 | 卷三 | 21 | — | — | missing_source |
-| 地如宝镜 | 卷三 | 35 | — | — | missing_source |
-| 地如 | 卷三 | 21 | — | — | missing_source |
-| 地如宝 | 卷三 | 21 | — | — | missing_source |
-| 宝镜 | 卷三 | 21 | — | — | missing_source |
-| 如宝镜 | 卷三 | 21 | — | — | missing_source |
-| 如宝镜 | 卷四 | 27 | — | — | missing_source |
-| 宝树行列 | 卷三 | 50 | — | — | missing_source |
-| 宝树行列 | 卷四 | 55 | — | — | missing_source |
-| 宝树行 | 卷三 | 30 | — | — | missing_source |
-| 宝树行 | 卷四 | 33 | — | — | missing_source |
-| 行列 | 卷三 | 30 | — | — | missing_source |
-| 树行列 | 卷三 | 30 | — | — | missing_source |
-| 树行列 | 卷四 | 33 | — | — | missing_source |
-| 树影交辉 | 卷三 | 45 | — | — | missing_source |
-| 树影 | 卷三 | 27 | — | — | missing_source |
-| 树影交 | 卷三 | 27 | — | — | missing_source |
-| 交辉 | 卷三 | 27 | — | — | missing_source |
-| 影交辉 | 卷三 | 27 | — | — | missing_source |
-| 影交辉 | 卷四 | 27 | — | — | missing_source |
-| 罗网七重 | 卷三 | 45 | — | — | missing_source |
-| 罗网七 | 卷三 | 27 | — | — | missing_source |
-| 网七重 | 卷三 | 27 | — | — | missing_source |
-| 树放五色光 | 卷三 | 45 | — | — | missing_source |
-| 树放 | 卷三 | 27 | — | — | missing_source |
-| 树放五 | 卷三 | 27 | — | — | missing_source |
-| 色光 | 卷三 | 27 | — | — | missing_source |
-| 五色光 | 卷三 | 27 | — | — | missing_source |
-| 树音宣法 | 卷三 | 50 | — | — | missing_source |
-| 树音 | 卷三 | 30 | — | — | missing_source |
-| 树音宣 | 卷三 | 30 | — | — | missing_source |
-| 音宣法 | 卷三 | 30 | — | — | missing_source |
-| 音宣法 | 卷四 | 33 | — | — | missing_source |
-| 树下宝座 | 卷三 | 45 | — | — | missing_source |
-| 树下 | 卷三 | 27 | — | — | missing_source |
-| 树下宝 | 卷三 | 27 | — | — | missing_source |
-| 宝座 | 卷三 | 27 | — | — | missing_source |
-| 下宝座 | 卷三 | 27 | — | — | missing_source |
-| 树风清妙 | 卷三 | 35 | — | — | missing_source |
-| 树风 | 卷三 | 21 | — | — | missing_source |
-| 树风清 | 卷三 | 21 | — | — | missing_source |
-| 树风清 | 卷四 | 27 | — | — | missing_source |
-| 清妙 | 卷三 | 21 | — | — | missing_source |
-| 风清妙 | 卷三 | 21 | — | — | missing_source |
-| 树影明净 | 卷三 | 35 | — | — | missing_source |
-| 树影明净 | 卷四 | 45 | — | — | missing_source |
-| 树影明 | 卷三 | 21 | — | — | missing_source |
-| 树影明 | 卷四 | 27 | — | — | missing_source |
-| 影明净 | 卷三 | 21 | — | — | missing_source |
-| 影明净 | 卷四 | 27 | — | — | missing_source |
-| 树香普熏 | 卷三 | 35 | — | — | missing_source |
-| 树香 | 卷三 | 21 | — | — | missing_source |
-| 树香普 | 卷三 | 21 | — | — | missing_source |
-| 香普熏 | 卷三 | 21 | — | — | missing_source |
-| 宝莲千万 | 卷三 | 55 | — | — | missing_source |
-| 宝莲 | 卷三 | 33 | — | — | missing_source |
-| 宝莲千 | 卷三 | 33 | — | — | missing_source |
-| 千万 | 卷三 | 33 | — | — | missing_source |
-| 千万 | 卷四 | 27 | — | — | missing_source |
-| 莲千万 | 卷三 | 33 | — | — | missing_source |
-| 金莲光明 | 卷三 | 55 | — | — | missing_source |
-| 金莲 | 卷三 | 33 | — | — | missing_source |
-| 金莲光 | 卷三 | 33 | — | — | missing_source |
-| 莲光明 | 卷三 | 33 | — | — | missing_source |
-| 青莲光明 | 卷三 | 55 | — | — | missing_source |
-| 青莲 | 卷三 | 33 | — | — | missing_source |
-| 青莲光 | 卷三 | 33 | — | — | missing_source |
-| 红莲光明 | 卷三 | 55 | — | — | missing_source |
-| 红莲 | 卷三 | 33 | — | — | missing_source |
-| 红莲光 | 卷三 | 33 | — | — | missing_source |
-| 白莲光明 | 卷三 | 55 | — | — | missing_source |
-| 白莲 | 卷三 | 33 | — | — | missing_source |
-| 白莲光 | 卷三 | 33 | — | — | missing_source |
-| 莲华微妙 | 卷三 | 45 | — | — | missing_source |
-| 莲华微 | 卷三 | 27 | — | — | missing_source |
-| 微妙 | 卷三 | 27 | — | — | missing_source |
-| 微妙 | 卷四 | 27 | — | — | missing_source |
-| 华微妙 | 卷三 | 27 | — | — | missing_source |
-| 莲香普薰 | 卷三 | 45 | — | — | missing_source |
-| 莲香 | 卷三 | 27 | — | — | missing_source |
-| 莲香普 | 卷三 | 27 | — | — | missing_source |
-| 普薰 | 卷三 | 27 | — | — | missing_source |
-| 香普薰 | 卷三 | 27 | — | — | missing_source |
-| 香普薰 | 卷四 | 21 | — | — | missing_source |
-| 莲池光照 | 卷三 | 45 | — | — | missing_source |
-| 莲池 | 卷三 | 27 | — | — | missing_source |
-| 莲池光 | 卷三 | 27 | — | — | missing_source |
-| 池光照 | 卷三 | 27 | — | — | missing_source |
-| 莲华化佛 | 卷三 | 55 | — | — | missing_source |
-| 华化佛 | 卷三 | 33 | — | — | missing_source |
-| 莲华化生菩萨 | 卷三 | 55 | — | — | missing_source |
-| 生菩萨 | 卷三 | 33 | — | — | missing_source |
-| 上品莲华 | 卷三 | 45 | — | — | missing_source |
-| 上品 | 卷三 | 27 | — | — | missing_source |
-| 上品莲 | 卷三 | 27 | — | — | missing_source |
-| 品莲华 | 卷三 | 27 | — | — | missing_source |
-| 九品莲华 | 卷三 | 55 | — | — | missing_source |
-| 九品 | 卷三 | 33 | — | — | missing_source |
-| 九品莲 | 卷三 | 33 | — | — | missing_source |
-| 莲开化佛 | 卷三 | 50 | — | — | missing_source |
-| 莲开 | 卷三 | 30 | — | — | missing_source |
-| 莲开化 | 卷三 | 30 | — | — | missing_source |
-| 开化佛 | 卷三 | 30 | — | — | missing_source |
-| 莲香随风 | 卷三 | 35 | — | — | missing_source |
-| 莲香随 | 卷三 | 21 | — | — | missing_source |
-| 随风 | 卷三 | 21 | — | — | missing_source |
-| 香随风 | 卷三 | 21 | — | — | missing_source |
-| 莲华遍国 | 卷三 | 35 | — | — | missing_source |
-| 莲华遍 | 卷三 | 21 | — | — | missing_source |
-| 遍国 | 卷三 | 21 | — | — | missing_source |
-| 华遍国 | 卷三 | 21 | — | — | missing_source |
-| 华遍国 | 卷四 | 27 | — | — | missing_source |
-| 莲光照界 | 卷三 | 35 | — | — | missing_source |
-| 莲光 | 卷三 | 21 | — | — | missing_source |
-| 莲光照 | 卷三 | 21 | — | — | missing_source |
-| 照界 | 卷三 | 21 | — | — | missing_source |
-| 光照界 | 卷三 | 21 | — | — | missing_source |
-| 光照界 | 卷四 | 27 | — | — | missing_source |
-| 莲华相续 | 卷三 | 30 | — | — | missing_source |
-| 莲华相 | 卷三 | 18 | — | — | missing_source |
-| 相续 | 卷三 | 18 | — | — | missing_source |
-| 华相续 | 卷三 | 18 | — | — | missing_source |
-| 莲座自然 | 卷三 | 30 | — | — | missing_source |
-| 莲座 | 卷三 | 18 | — | — | missing_source |
-| 莲座自 | 卷三 | 18 | — | — | missing_source |
-| 座自然 | 卷三 | 18 | — | — | missing_source |
-| 莲座妙色 | 卷三 | 30 | — | — | missing_source |
-| 莲座妙 | 卷三 | 18 | — | — | missing_source |
-| 座妙色 | 卷三 | 18 | — | — | missing_source |
-| 莲座宝成 | 卷三 | 30 | — | — | missing_source |
-| 莲座宝 | 卷三 | 18 | — | — | missing_source |
-| 宝成 | 卷三 | 18 | — | — | missing_source |
-| 座宝成 | 卷三 | 18 | — | — | missing_source |
-| 天人来集 | 卷三 | 45 | — | — | missing_source |
-| 来集 | 卷三 | 27 | — | — | missing_source |
-| 人来集 | 卷三 | 27 | — | — | missing_source |
-| 天人礼敬 | 卷三 | 45 | — | — | missing_source |
-| 天人礼 | 卷三 | 27 | — | — | missing_source |
-| 礼敬 | 卷三 | 27 | — | — | missing_source |
-| 人礼敬 | 卷三 | 27 | — | — | missing_source |
-| 天人供佛 | 卷三 | 45 | — | — | missing_source |
-| 供佛 | 卷三 | 27 | — | — | missing_source |
-| 人供佛 | 卷三 | 27 | — | — | missing_source |
-| 天人散花 | 卷三 | 45 | — | — | missing_source |
-| 天人散 | 卷三 | 27 | — | — | missing_source |
-| 散花 | 卷三 | 27 | — | — | missing_source |
-| 人散花 | 卷三 | 27 | — | — | missing_source |
-| 天人游行 | 卷三 | 35 | — | — | missing_source |
-| 天人游 | 卷三 | 21 | — | — | missing_source |
-| 游行 | 卷三 | 21 | — | — | missing_source |
-| 人游行 | 卷三 | 21 | — | — | missing_source |
-| 天人合掌 | 卷三 | 35 | — | — | missing_source |
-| 天人合 | 卷三 | 21 | — | — | missing_source |
-| 合掌 | 卷三 | 21 | — | — | missing_source |
-| 合掌 | 卷五 | 54 | — | — | missing_source |
-| 人合掌 | 卷三 | 21 | — | — | missing_source |
-| 天人相庆 | 卷三 | 35 | — | — | missing_source |
-| 天人相 | 卷三 | 21 | — | — | missing_source |
-| 相庆 | 卷三 | 21 | — | — | missing_source |
-| 人相庆 | 卷三 | 21 | — | — | missing_source |
-| 天众无数 | 卷三 | 45 | — | — | missing_source |
-| 天众 | 卷三 | 27 | — | — | missing_source |
-| 天众 | 卷十 | 39 | — | — | missing_source |
-| 天众无 | 卷三 | 27 | — | — | missing_source |
-| 众无数 | 卷三 | 27 | — | — | missing_source |
-| 天人受乐 | 卷三 | 35 | — | — | missing_source |
-| 天人受 | 卷三 | 21 | — | — | missing_source |
-| 受乐 | 卷三 | 21 | — | — | missing_source |
-| 人受乐 | 卷三 | 21 | — | — | missing_source |
-| 天人光明 | 卷三 | 35 | — | — | missing_source |
-| 天人光 | 卷三 | 21 | — | — | missing_source |
-| 人光明 | 卷三 | 21 | — | — | missing_source |
-| 天人宝衣 | 卷三 | 30 | — | — | missing_source |
-| 天人宝 | 卷三 | 18 | — | — | missing_source |
-| 宝衣 | 卷三 | 18 | — | — | missing_source |
-| 人宝衣 | 卷三 | 18 | — | — | missing_source |
-| 天人宝香 | 卷三 | 30 | — | — | missing_source |
-| 宝香 | 卷三 | 18 | — | — | missing_source |
-| 人宝香 | 卷三 | 18 | — | — | missing_source |
-| 天人宝乐 | 卷三 | 30 | — | — | missing_source |
-| 宝乐 | 卷三 | 18 | — | — | missing_source |
-| 人宝乐 | 卷三 | 18 | — | — | missing_source |
-| 天界供具 | 卷三 | 30 | — | — | missing_source |
-| 天界 | 卷三 | 18 | — | — | missing_source |
-| 天界供 | 卷三 | 18 | — | — | missing_source |
-| 界供具 | 卷三 | 18 | — | — | missing_source |
-| 天界香音 | 卷三 | 30 | — | — | missing_source |
-| 天界香 | 卷三 | 18 | — | — | missing_source |
-| 香音 | 卷三 | 18 | — | — | missing_source |
-| 界香音 | 卷三 | 18 | — | — | missing_source |
-| 天界妙花 | 卷三 | 30 | — | — | missing_source |
-| 天界妙 | 卷三 | 18 | — | — | missing_source |
-| 妙花 | 卷三 | 18 | — | — | missing_source |
-| 界妙花 | 卷三 | 18 | — | — | missing_source |
-| 天界祥瑞 | 卷三 | 30 | — | — | missing_source |
-| 天界祥 | 卷三 | 18 | — | — | missing_source |
-| 祥瑞 | 卷三 | 18 | — | — | missing_source |
-| 界祥瑞 | 卷三 | 18 | — | — | missing_source |
-| 天界法音 | 卷三 | 30 | — | — | missing_source |
-| 天界法 | 卷三 | 18 | — | — | missing_source |
-| 法音 | 卷三 | 18 | — | — | missing_source |
-| 界法音 | 卷三 | 18 | — | — | missing_source |
-| 往生净土 | 卷三 | 35 | — | — | missing_source |
-| 往生净 | 卷三 | 21 | — | — | missing_source |
-| 净土 | 卷三 | 21 | — | — | missing_source |
-| 净土 | 卷十 | 48 | — | — | missing_source |
-| 生净土 | 卷三 | 21 | — | — | missing_source |
-| 求生净土 | 卷三 | 35 | — | — | missing_source |
-| 求生 | 卷三 | 21 | — | — | missing_source |
-| 求生净 | 卷三 | 21 | — | — | missing_source |
-| 愿生西方 | 卷三 | 35 | — | — | missing_source |
-| 愿生西 | 卷三 | 21 | — | — | missing_source |
-| 生西方 | 卷三 | 21 | — | — | missing_source |
-| 往生彼国 | 卷三 | 35 | — | — | missing_source |
-| 往生彼 | 卷三 | 21 | — | — | missing_source |
-| 生生净域 | 卷三 | 35 | — | — | missing_source |
-| 生生 | 卷三 | 21 | — | — | missing_source |
-| 生生净 | 卷三 | 21 | — | — | missing_source |
-| 净域 | 卷三 | 21 | — | — | missing_source |
-| 生净域 | 卷三 | 21 | — | — | missing_source |
-| 求往生处 | 卷三 | 30 | — | — | missing_source |
-| 求往 | 卷三 | 18 | — | — | missing_source |
-| 求往生 | 卷三 | 18 | — | — | missing_source |
-| 生处 | 卷三 | 18 | — | — | missing_source |
-| 往生处 | 卷三 | 18 | — | — | missing_source |
-| 求生佛国 | 卷三 | 30 | — | — | missing_source |
-| 求生佛 | 卷三 | 18 | — | — | missing_source |
-| 佛国 | 卷三 | 18 | — | — | missing_source |
-| 生佛国 | 卷三 | 18 | — | — | missing_source |
-| 生彼净域 | 卷三 | 30 | — | — | missing_source |
-| 生彼 | 卷三 | 18 | — | — | missing_source |
-| 生彼净 | 卷三 | 18 | — | — | missing_source |
-| 彼净域 | 卷三 | 18 | — | — | missing_source |
-| 愿归极乐 | 卷三 | 35 | — | — | missing_source |
-| 愿归 | 卷三 | 21 | — | — | missing_source |
-| 愿归极 | 卷三 | 21 | — | — | missing_source |
-| 归极乐 | 卷三 | 21 | — | — | missing_source |
-| 往生善处 | 卷三 | 30 | — | — | missing_source |
-| 往生善 | 卷三 | 18 | — | — | missing_source |
-| 善处 | 卷三 | 18 | — | — | missing_source |
-| 善处 | 卷四 | 15 | — | — | missing_source |
-| 生善处 | 卷三 | 18 | — | — | missing_source |
-| 生善处 | 卷四 | 15 | — | — | missing_source |
-| 求生极乐 | 卷三 | 35 | — | — | missing_source |
-| 求生极 | 卷三 | 21 | — | — | missing_source |
-| 生极乐 | 卷三 | 21 | — | — | missing_source |
-| 西方愿生 | 卷三 | 35 | — | — | missing_source |
-| 西方愿 | 卷三 | 21 | — | — | missing_source |
-| 方愿生 | 卷三 | 21 | — | — | missing_source |
-| 愿归莲邦 | 卷三 | 30 | — | — | missing_source |
-| 愿归莲 | 卷三 | 18 | — | — | missing_source |
-| 莲邦 | 卷三 | 18 | — | — | missing_source |
-| 归莲邦 | 卷三 | 18 | — | — | missing_source |
-| 愿归净土 | 卷三 | 35 | — | — | missing_source |
-| 愿归净 | 卷三 | 21 | — | — | missing_source |
-| 归净土 | 卷三 | 21 | — | — | missing_source |
-| 生于莲华 | 卷三 | 30 | — | — | missing_source |
-| 生于 | 卷三 | 18 | — | — | missing_source |
-| 生于莲 | 卷三 | 18 | — | — | missing_source |
-| 于莲华 | 卷三 | 18 | — | — | missing_source |
-| 愿逐佛光 | 卷三 | 30 | — | — | missing_source |
-| 愿逐 | 卷三 | 18 | — | — | missing_source |
-| 愿逐佛 | 卷三 | 18 | — | — | missing_source |
-| 逐佛光 | 卷三 | 18 | — | — | missing_source |
-| 随佛往生 | 卷三 | 30 | — | — | missing_source |
-| 随佛 | 卷三 | 18 | — | — | missing_source |
-| 随佛往 | 卷三 | 18 | — | — | missing_source |
-| 佛来迎接 | 卷三 | 35 | — | — | missing_source |
-| 迎接 | 卷三 | 21 | — | — | missing_source |
-| 来迎接 | 卷三 | 21 | — | — | missing_source |
-| 佛接引 | 卷三 | 35 | — | — | missing_source |
-| 佛接 | 卷三 | 21 | — | — | missing_source |
-| 西方迎接 | 卷三 | 35 | — | — | missing_source |
-| 西方迎 | 卷三 | 21 | — | — | missing_source |
-| 方迎接 | 卷三 | 21 | — | — | missing_source |
-| 莲胎 | 卷三 | 30 | — | — | missing_source |
-| 莲开见佛 | 卷三 | 35 | — | — | missing_source |
-| 莲开见 | 卷三 | 21 | — | — | missing_source |
-| 见佛 | 卷三 | 10 | — | — | missing_source |
-| 开见佛 | 卷三 | 21 | — | — | missing_source |
-| 莲中化生 | 卷三 | 35 | — | — | missing_source |
-| 莲中 | 卷三 | 21 | — | — | missing_source |
-| 莲中化 | 卷三 | 21 | — | — | missing_source |
-| 莲中安住 | 卷三 | 30 | — | — | missing_source |
-| 莲中安 | 卷三 | 18 | — | — | missing_source |
-| 安住 | 卷三 | 18 | — | — | missing_source |
-| 中安住 | 卷三 | 18 | — | — | missing_source |
-| 莲中往生 | 卷三 | 30 | — | — | missing_source |
-| 莲中往 | 卷三 | 18 | — | — | missing_source |
-| 中往生 | 卷三 | 18 | — | — | missing_source |
-| 华中化生 | 卷三 | 30 | — | — | missing_source |
-| 华中 | 卷三 | 18 | — | — | missing_source |
-| 华中化 | 卷三 | 18 | — | — | missing_source |
-| 华开莲现 | 卷三 | 30 | — | — | missing_source |
-| 华开 | 卷三 | 18 | — | — | missing_source |
-| 华开莲 | 卷三 | 18 | — | — | missing_source |
-| 莲现 | 卷三 | 18 | — | — | missing_source |
-| 开莲现 | 卷三 | 18 | — | — | missing_source |
-| 宝莲化佛 | 卷三 | 35 | — | — | missing_source |
-| 宝莲化 | 卷三 | 21 | — | — | missing_source |
-| 莲化佛 | 卷三 | 21 | — | — | missing_source |
-| 花开见佛 | 卷三 | 35 | — | — | missing_source |
-| 花开 | 卷三 | 21 | — | — | missing_source |
-| 花开见 | 卷三 | 21 | — | — | missing_source |
-| 华开闻法 | 卷三 | 30 | — | — | missing_source |
-| 华开闻 | 卷三 | 18 | — | — | missing_source |
-| 开闻法 | 卷三 | 18 | — | — | missing_source |
-| 莲香遍国 | 卷三 | 30 | — | — | missing_source |
-| 莲香遍 | 卷三 | 18 | — | — | missing_source |
-| 香遍国 | 卷三 | 18 | — | — | missing_source |
-| 香遍国 | 卷四 | 27 | — | — | missing_source |
-| 华光照世 | 卷三 | 30 | — | — | missing_source |
-| 华光 | 卷三 | 18 | — | — | missing_source |
-| 华光照 | 卷三 | 18 | — | — | missing_source |
-| 照世 | 卷三 | 18 | — | — | missing_source |
-| 光照世 | 卷三 | 18 | — | — | missing_source |
-| 华开见佛性 | 卷三 | 30 | — | — | missing_source |
-| 华开见 | 卷三 | 18 | — | — | missing_source |
-| 佛性 | 卷三 | 18 | — | — | missing_source |
-| 佛性 | 卷七 | 60 | — | — | missing_source |
-| 见佛性 | 卷三 | 18 | — | — | missing_source |
-| 莲台接引 | 卷三 | 35 | — | — | missing_source |
-| 莲台 | 卷三 | 21 | — | — | missing_source |
-| 莲台接 | 卷三 | 21 | — | — | missing_source |
-| 台接引 | 卷三 | 21 | — | — | missing_source |
-| 莲台化生 | 卷三 | 30 | — | — | missing_source |
-| 莲台化 | 卷三 | 18 | — | — | missing_source |
-| 台化生 | 卷三 | 18 | — | — | missing_source |
-| 宝莲化生人天 | 卷三 | 30 | — | — | missing_source |
-| 生人天 | 卷三 | 18 | — | — | missing_source |
-| 九品莲台 | 卷三 | 35 | — | — | missing_source |
-| 品莲台 | 卷三 | 21 | — | — | missing_source |
-| 华台安住 | 卷三 | 30 | — | — | missing_source |
-| 华台 | 卷三 | 18 | — | — | missing_source |
-| 华台安 | 卷三 | 18 | — | — | missing_source |
-| 台安住 | 卷三 | 18 | — | — | missing_source |
-| 华中自在 | 卷三 | 25 | — | — | missing_source |
-| 华中自 | 卷三 | 15 | — | — | missing_source |
-| 中自在 | 卷三 | 15 | — | — | missing_source |
-| 华光遍照 | 卷三 | 25 | — | — | missing_source |
-| 华光遍 | 卷三 | 15 | — | — | missing_source |
-| 功德殊胜 | 卷三 | 35 | — | — | missing_source |
-| 功德殊 | 卷三 | 21 | — | — | missing_source |
-| 殊胜 | 卷三 | 21 | — | — | missing_source |
-| 德殊胜 | 卷三 | 21 | — | — | missing_source |
-| 功德圆满 | 卷三 | 35 | — | — | missing_source |
-| 功德圆 | 卷三 | 21 | — | — | missing_source |
-| 德圆满 | 卷三 | 21 | — | — | missing_source |
-| 功德庄严 | 卷三 | 35 | — | — | missing_source |
-| 功德庄 | 卷三 | 21 | — | — | missing_source |
-| 德庄严 | 卷三 | 21 | — | — | missing_source |
-| 功德成就 | 卷三 | 35 | — | — | missing_source |
-| 功德成 | 卷三 | 21 | — | — | missing_source |
-| 德成就 | 卷三 | 21 | — | — | missing_source |
-| 功德无量 | 卷三 | 35 | — | — | missing_source |
-| 功德无 | 卷三 | 21 | — | — | missing_source |
-| 德无量 | 卷三 | 21 | — | — | missing_source |
-| 功德光明 | 卷三 | 30 | — | — | missing_source |
-| 功德光 | 卷三 | 18 | — | — | missing_source |
-| 德光明 | 卷三 | 18 | — | — | missing_source |
-| 功德增长 | 卷三 | 30 | — | — | missing_source |
-| 功德增 | 卷三 | 18 | — | — | missing_source |
-| 德增长 | 卷三 | 18 | — | — | missing_source |
-| 功德自然 | 卷三 | 30 | — | — | missing_source |
-| 功德自 | 卷三 | 18 | — | — | missing_source |
-| 德自然 | 卷三 | 18 | — | — | missing_source |
-| 功德庄国 | 卷三 | 25 | — | — | missing_source |
-| 庄国 | 卷三 | 15 | — | — | missing_source |
-| 德庄国 | 卷三 | 15 | — | — | missing_source |
-| 功德随喜 | 卷三 | 25 | — | — | missing_source |
-| 功德随 | 卷三 | 15 | — | — | missing_source |
-| 随喜 | 卷三 | 15 | — | — | missing_source |
-| 德随喜 | 卷三 | 15 | — | — | missing_source |
-| 功德清净 | 卷三 | 25 | — | — | missing_source |
-| 功德清 | 卷三 | 15 | — | — | missing_source |
-| 德清净 | 卷三 | 15 | — | — | missing_source |
-| 功德具足 | 卷三 | 25 | — | — | missing_source |
-| 功德具 | 卷三 | 15 | — | — | missing_source |
-| 德具足 | 卷三 | 15 | — | — | missing_source |
-| 功德自在 | 卷三 | 25 | — | — | missing_source |
-| 德自在 | 卷三 | 15 | — | — | missing_source |
-| 功德之力 | 卷三 | 25 | — | — | missing_source |
-| 功德之 | 卷三 | 15 | — | — | missing_source |
-| 之力 | 卷三 | 15 | — | — | missing_source |
-| 德之力 | 卷三 | 15 | — | — | missing_source |
-| 力能救度 | 卷三 | 25 | — | — | missing_source |
-| 力能 | 卷三 | 15 | — | — | missing_source |
-| 力能救 | 卷三 | 15 | — | — | missing_source |
-| 救度 | 卷三 | 15 | — | — | missing_source |
-| 能救度 | 卷三 | 15 | — | — | missing_source |
-| 功德遍满 | 卷三 | 25 | — | — | missing_source |
-| 功德遍 | 卷三 | 15 | — | — | missing_source |
-| 遍满 | 卷三 | 15 | — | — | missing_source |
-| 德遍满 | 卷三 | 15 | — | — | missing_source |
-| 功德广行 | 卷三 | 25 | — | — | missing_source |
-| 功德广 | 卷三 | 15 | — | — | missing_source |
-| 广行 | 卷三 | 15 | — | — | missing_source |
-| 德广行 | 卷三 | 15 | — | — | missing_source |
-| 功德无尽 | 卷三 | 25 | — | — | missing_source |
-| 德无尽 | 卷三 | 15 | — | — | missing_source |
-| 功德普遍 | 卷三 | 25 | — | — | missing_source |
-| 功德普 | 卷三 | 15 | — | — | missing_source |
-| 普遍 | 卷三 | 15 | — | — | missing_source |
-| 普遍 | 卷五 | 48 | — | — | missing_source |
-| 德普遍 | 卷三 | 15 | — | — | missing_source |
-| 功德庄严国 | 卷三 | 25 | — | — | missing_source |
-| 严国 | 卷三 | 15 | — | — | missing_source |
-| 庄严国 | 卷三 | 15 | — | — | missing_source |
-| 西方宝界 | 卷三 | 35 | — | — | missing_source |
-| 西方宝 | 卷三 | 21 | — | — | missing_source |
-| 宝界 | 卷三 | 21 | — | — | missing_source |
-| 宝界 | 卷四 | 5 | — | — | missing_source |
-| 方宝界 | 卷三 | 21 | — | — | missing_source |
-| 宝界清净 | 卷三 | 35 | — | — | missing_source |
-| 宝界清净 | 卷四 | 45 | — | — | missing_source |
-| 宝界清 | 卷三 | 21 | — | — | missing_source |
-| 宝界清 | 卷四 | 27 | — | — | missing_source |
-| 界清净 | 卷三 | 21 | — | — | missing_source |
-| 界清净 | 卷四 | 27 | — | — | missing_source |
-| 宝界庄严 | 卷三 | 35 | — | — | missing_source |
-| 宝界庄 | 卷三 | 21 | — | — | missing_source |
-| 界庄严 | 卷三 | 21 | — | — | missing_source |
-| 宝国无垢 | 卷三 | 30 | — | — | missing_source |
-| 宝国 | 卷三 | 18 | — | — | missing_source |
-| 宝国无 | 卷三 | 18 | — | — | missing_source |
-| 国无垢 | 卷三 | 18 | — | — | missing_source |
-| 宝国平正 | 卷三 | 30 | — | — | missing_source |
-| 宝国平 | 卷三 | 18 | — | — | missing_source |
-| 平正 | 卷三 | 18 | — | — | missing_source |
-| 国平正 | 卷三 | 18 | — | — | missing_source |
-| 宝国明净 | 卷三 | 30 | — | — | missing_source |
-| 宝国明 | 卷三 | 18 | — | — | missing_source |
-| 国明净 | 卷三 | 18 | — | — | missing_source |
-| 宝界光明 | 卷三 | 30 | — | — | missing_source |
-| 宝界光 | 卷三 | 18 | — | — | missing_source |
-| 界光明 | 卷三 | 18 | — | — | missing_source |
-| 西方光国 | 卷三 | 35 | — | — | missing_source |
-| 西方光 | 卷三 | 21 | — | — | missing_source |
-| 光国 | 卷三 | 21 | — | — | missing_source |
-| 方光国 | 卷三 | 21 | — | — | missing_source |
-| 西方明国 | 卷三 | 35 | — | — | missing_source |
-| 西方明 | 卷三 | 21 | — | — | missing_source |
-| 明国 | 卷三 | 21 | — | — | missing_source |
-| 方明国 | 卷三 | 21 | — | — | missing_source |
-| 西方净国 | 卷三 | 35 | — | — | missing_source |
-| 西方净 | 卷三 | 21 | — | — | missing_source |
-| 净国 | 卷三 | 21 | — | — | missing_source |
-| 方净国 | 卷三 | 21 | — | — | missing_source |
-| 净国安乐 | 卷三 | 30 | — | — | missing_source |
-| 净国安 | 卷三 | 18 | — | — | missing_source |
-| 国安乐 | 卷三 | 18 | — | — | missing_source |
-| 净国明净 | 卷三 | 30 | — | — | missing_source |
-| 净国明 | 卷三 | 18 | — | — | missing_source |
-| 净国无垢 | 卷三 | 30 | — | — | missing_source |
-| 净国无 | 卷三 | 18 | — | — | missing_source |
-| 净界安住 | 卷三 | 25 | — | — | missing_source |
-| 净界 | 卷三 | 15 | — | — | missing_source |
-| 净界安 | 卷三 | 15 | — | — | missing_source |
-| 界安住 | 卷三 | 15 | — | — | missing_source |
-| 净界朗然 | 卷三 | 25 | — | — | missing_source |
-| 净界朗 | 卷三 | 15 | — | — | missing_source |
-| 界朗然 | 卷三 | 15 | — | — | missing_source |
-| 净界光照 | 卷三 | 25 | — | — | missing_source |
-| 净界光 | 卷三 | 15 | — | — | missing_source |
-| 界光照 | 卷三 | 15 | — | — | missing_source |
-| 净界妙色 | 卷三 | 25 | — | — | missing_source |
-| 净界妙 | 卷三 | 15 | — | — | missing_source |
-| 界妙色 | 卷三 | 15 | — | — | missing_source |
-| 净界清净 | 卷三 | 25 | — | — | missing_source |
-| 净界清 | 卷三 | 15 | — | — | missing_source |
-| 光界清净 | 卷三 | 25 | — | — | missing_source |
-| 光界清净 | 卷四 | 45 | — | — | missing_source |
-| 光界 | 卷三 | 15 | — | — | missing_source |
-| 光界清 | 卷三 | 15 | — | — | missing_source |
-| 光界清 | 卷四 | 27 | — | — | missing_source |
-| 光界安住 | 卷三 | 25 | — | — | missing_source |
-| 光界安 | 卷三 | 15 | — | — | missing_source |
-| 阿彌陀佛 | 卷三 | — | — | — | missing_source |
-| 阿彌陀仏 | 卷三 | — | — | — | missing_source |
-| 阿𢆉陀佛 | 卷三 | — | — | — | missing_source |
-| 阿迷陀佛 | 卷三 | — | — | — | missing_source |
-| 阿彌陀覩 | 卷三 | — | — | — | missing_source |
-| 阿彌陀伯 | 卷三 | — | — | — | missing_source |
-| 阿彌陀彿 | 卷三 | — | — | — | missing_source |
-| 阿彌陀拂 | 卷三 | — | — | — | missing_source |
-| 阿彌多佛 | 卷三 | — | — | — | missing_source |
-| 阿弥佗佛 | 卷三 | — | — | — | missing_source |
-| 阿弥忑佛 | 卷三 | — | — | — | missing_source |
-| 阿弥怛佛 | 卷三 | — | — | — | missing_source |
-| 阿弥达佛 | 卷三 | — | — | — | missing_source |
-| 阿弭陀佛 | 卷三 | — | — | — | missing_source |
-| 阿𤣩陀佛 | 卷三 | — | — | — | missing_source |
-| 無量壽佛 | 卷三 | — | — | — | missing_source |
-| 無量光佛 | 卷三 | — | — | — | missing_source |
-| 无量夀佛 | 卷三 | — | — | — | missing_source |
-| 无量授佛 | 卷三 | — | — | — | missing_source |
-| 无量壽仏 | 卷三 | — | — | — | missing_source |
-| 無央數壽佛 | 卷三 | — | — | — | missing_source |
-| 無邊光佛 | 卷三 | — | — | — | missing_source |
-| 無盡光佛 | 卷三 | — | — | — | missing_source |
-| 無極光佛 | 卷三 | — | — | — | missing_source |
-| 無隔光佛 | 卷三 | — | — | — | missing_source |
-| 無碍光 | 卷三 | — | — | — | missing_source |
-| 無對光 | 卷三 | — | — | — | missing_source |
-| 離無量壽 | 卷三 | — | — | — | missing_source |
-| 無量昌佛 | 卷三 | — | — | — | missing_source |
-| 無量炤佛 | 卷三 | — | — | — | missing_source |
-| 無量照佛 | 卷三 | — | — | — | missing_source |
-| 無量曜佛 | 卷三 | — | — | — | missing_source |
-| 無央光佛 | 卷三 | — | — | — | missing_source |
-| 無極夀佛 | 卷三 | — | — | — | missing_source |
-| 無量夀如来 | 卷三 | — | — | — | missing_source |
-| 西方極樂 | 卷三 | — | — | — | missing_source |
-| 西方極樂界 | 卷三 | — | — | — | missing_source |
-| 西方淨域 | 卷三 | — | — | — | missing_source |
-| 西方淨土 | 卷三 | — | — | — | missing_source |
-| 西方淨界 | 卷三 | — | — | — | missing_source |
-| 極樂淨土 | 卷三 | — | — | — | missing_source |
-| 極樂世界 | 卷三 | — | — | — | missing_source |
-| 極樂界 | 卷三 | — | — | — | missing_source |
-| 安樂國 | 卷三 | — | — | — | missing_source |
-| 安養國 | 卷三 | — | — | — | missing_source |
-| 安鎔國 | 卷三 | — | — | — | missing_source |
-| 清淨佛國 | 卷三 | — | — | — | missing_source |
-| 無苦國 | 卷三 | — | — | — | missing_source |
-| 受樂國 | 卷三 | — | — | — | missing_source |
-| 福樂淨界 | 卷三 | — | — | — | missing_source |
-| 蓮華 | 卷三 | — | — | — | missing_source |
-| 蓮花 | 卷三 | — | — | — | missing_source |
-| 連華 | 卷三 | — | — | — | missing_source |
-| 聯華 | 卷三 | — | — | — | missing_source |
-| 九品蓮臺 | 卷三 | — | — | — | missing_source |
-| 蓮臺 | 卷三 | — | — | — | missing_source |
-| 菡蓞 | 卷三 | — | — | — | missing_source |
-| 菡蓞（古莲字） | 卷三 | — | — | — | missing_source |
-| 荷華 | 卷三 | — | — | — | missing_source |
-| 芙蓉 | 卷三 | — | — | — | missing_source |
-| 芙蓉（净土借代） | 卷三 | — | — | — | missing_source |
-| 蓮座 | 卷三 | — | — | — | missing_source |
-| 西方接引造 | 卷三 | 35 | — | — | missing_source |
-| 西方接 | 卷三 | 21 | — | — | missing_source |
-| 引造 | 卷三 | 21 | — | — | missing_source |
-| 接引造 | 卷三 | 21 | — | — | missing_source |
-| 西方大圣 | 卷三 | 35 | — | — | missing_source |
-| 西方大 | 卷三 | 21 | — | — | missing_source |
-| 大圣 | 卷三 | 21 | — | — | missing_source |
-| 方大圣 | 卷三 | 21 | — | — | missing_source |
-| 化生莲邦 | 卷三 | 30 | — | — | missing_source |
-| 化生莲 | 卷三 | 18 | — | — | missing_source |
-| 生莲邦 | 卷三 | 18 | — | — | missing_source |
-| 生于莲邦 | 卷三 | 30 | — | — | missing_source |
-| 于莲邦 | 卷三 | 18 | — | — | missing_source |
-| 愿归莲宫 | 卷三 | 30 | — | — | missing_source |
-| 莲宫 | 卷三 | 18 | — | — | missing_source |
-| 归莲宫 | 卷三 | 18 | — | — | missing_source |
-| 佛光照背 | 卷三 | 20 | — | — | missing_source |
-| 佛光照 | 卷三 | 12 | — | — | missing_source |
-| 照背 | 卷三 | 12 | — | — | missing_source |
-| 光照背 | 卷三 | 12 | — | — | missing_source |
-| 三圣接化 | 卷三 | 35 | — | — | missing_source |
-| 接化 | 卷三 | 21 | — | — | missing_source |
-| 圣接化 | 卷三 | 21 | — | — | missing_source |
-| 愿往西方 | 卷三 | 35 | — | — | missing_source |
-| 愿往西 | 卷三 | 21 | — | — | missing_source |
-| 往西方 | 卷三 | 21 | — | — | missing_source |
-| 往生宝国 | 卷三 | 30 | — | — | missing_source |
-| 往生宝 | 卷三 | 18 | — | — | missing_source |
-| 生宝国 | 卷三 | 18 | — | — | missing_source |
-| 极乐光界 | 卷三 | 30 | — | — | missing_source |
-| 极乐光 | 卷三 | 18 | — | — | missing_source |
-| 乐光界 | 卷三 | 18 | — | — | missing_source |
-| 极乐香界 | 卷三 | 30 | — | — | missing_source |
-| 极乐香 | 卷三 | 18 | — | — | missing_source |
-| 香界 | 卷三 | 18 | — | — | missing_source |
-| 乐香界 | 卷三 | 18 | — | — | missing_source |
-| 花开佛现 | 卷三 | 35 | — | — | missing_source |
-| 花开佛 | 卷三 | 21 | — | — | missing_source |
-| 开佛现 | 卷三 | 21 | — | — | missing_source |
-| 宝树清凉 | 卷三 | 20 | — | — | missing_source |
-| 宝树清 | 卷三 | 12 | — | — | missing_source |
-| 树清凉 | 卷三 | 12 | — | — | missing_source |
-| 天人香国 | 卷三 | 20 | — | — | missing_source |
-| 天人香 | 卷三 | 12 | — | — | missing_source |
-| 香国 | 卷三 | 12 | — | — | missing_source |
-| 人香国 | 卷三 | 12 | — | — | missing_source |
-| 香界清净 | 卷三 | 20 | — | — | missing_source |
-| 香界清 | 卷三 | 12 | — | — | missing_source |
-| 西方光明界 | 卷三 | 35 | — | — | missing_source |
-| 明界 | 卷三 | 21 | — | — | missing_source |
-| 光明界 | 卷三 | 21 | — | — | missing_source |
-| 光明界 | 卷四 | 45 | — | — | missing_source |
-| 西方香火界 | 卷三 | 20 | — | — | missing_source |
-| 西方香 | 卷三 | 12 | — | — | missing_source |
-| 火界 | 卷三 | 12 | — | — | missing_source |
-| 香火界 | 卷三 | 12 | — | — | missing_source |
-| 生彼宝界 | 卷三 | 30 | — | — | missing_source |
-| 生彼宝 | 卷三 | 18 | — | — | missing_source |
-| 彼宝界 | 卷三 | 18 | — | — | missing_source |
-| 宝界净域 | 卷三 | 25 | — | — | missing_source |
-| 宝界净 | 卷三 | 15 | — | — | missing_source |
-| 界净域 | 卷三 | 15 | — | — | missing_source |
-| 宝界众圣 | 卷三 | 25 | — | — | missing_source |
-| 宝界众 | 卷三 | 15 | — | — | missing_source |
-| 众圣 | 卷三 | 15 | — | — | missing_source |
-| 界众圣 | 卷三 | 15 | — | — | missing_source |
-| 宝界光华 | 卷三 | 25 | — | — | missing_source |
-| 界光华 | 卷三 | 15 | — | — | missing_source |
-| 莲池化生 | 卷三 | 35 | — | — | missing_source |
-| 莲池化 | 卷三 | 21 | — | — | missing_source |
-| 池化生 | 卷三 | 21 | — | — | missing_source |
-| 莲香满国 | 卷三 | 25 | — | — | missing_source |
-| 莲香满 | 卷三 | 15 | — | — | missing_source |
-| 满国 | 卷三 | 15 | — | — | missing_source |
-| 满国 | 卷四 | 27 | — | — | missing_source |
-| 香满国 | 卷三 | 15 | — | — | missing_source |
-| 莲座自生 | 卷三 | 25 | — | — | missing_source |
-| 自生 | 卷三 | 15 | — | — | missing_source |
-| 座自生 | 卷三 | 15 | — | — | missing_source |
-| 三圣光环 | 卷三 | 30 | — | — | missing_source |
-| 三圣光 | 卷三 | 18 | — | — | missing_source |
-| 光环 | 卷三 | 18 | — | — | missing_source |
-| 圣光环 | 卷三 | 18 | — | — | missing_source |
-| 佛来接引我 | 卷三 | 30 | — | — | missing_source |
-| 佛来接 | 卷三 | 18 | — | — | missing_source |
-| 引我 | 卷三 | 18 | — | — | missing_source |
-| 接引我 | 卷三 | 18 | — | — | missing_source |
-| 愿随佛往 | 卷三 | 30 | — | — | missing_source |
-| 愿随 | 卷三 | 18 | — | — | missing_source |
-| 愿随佛 | 卷三 | 18 | — | — | missing_source |
-| 佛往 | 卷三 | 18 | — | — | missing_source |
-| 智慧光国 | 卷三 | 25 | — | — | missing_source |
-| 慧光国 | 卷三 | 15 | — | — | missing_source |
-| 金界净土 | 卷三 | 25 | — | — | missing_source |
-| 金界 | 卷三 | 15 | — | — | missing_source |
-| 金界净 | 卷三 | 15 | — | — | missing_source |
-| 界净土 | 卷三 | 15 | — | — | missing_source |
-| 宝界明净 | 卷三 | 25 | — | — | missing_source |
-| 宝界明 | 卷三 | 15 | — | — | missing_source |
-| 界明净 | 卷三 | 15 | — | — | missing_source |
-| 见佛往生 | 卷三 | 35 | — | — | missing_source |
-| 见佛往 | 卷三 | 21 | — | — | missing_source |
-| 愿生花内 | 卷三 | 30 | — | — | missing_source |
-| 愿生花 | 卷三 | 18 | — | — | missing_source |
-| 花内 | 卷三 | 18 | — | — | missing_source |
-| 生花内 | 卷三 | 18 | — | — | missing_source |
-| 莲房安处 | 卷三 | 30 | — | — | missing_source |
-| 莲房 | 卷三 | 18 | — | — | missing_source |
-| 莲房安 | 卷三 | 18 | — | — | missing_source |
-| 安处 | 卷三 | 18 | — | — | missing_source |
-| 房安处 | 卷三 | 18 | — | — | missing_source |
-| 花中听法 | 卷三 | 30 | — | — | missing_source |
-| 花中 | 卷三 | 18 | — | — | missing_source |
-| 花中听 | 卷三 | 18 | — | — | missing_source |
-| 听法 | 卷三 | 18 | — | — | missing_source |
-| 中听法 | 卷三 | 18 | — | — | missing_source |
-| 极乐安住 | 卷三 | 35 | — | — | missing_source |
-| 极乐安 | 卷三 | 21 | — | — | missing_source |
-| 乐安住 | 卷三 | 21 | — | — | missing_source |
-| 安住宝池 | 卷三 | 30 | — | — | missing_source |
-| 安住宝 | 卷三 | 18 | — | — | missing_source |
-| 住宝池 | 卷三 | 18 | — | — | missing_source |
-| 安居净界 | 卷三 | 25 | — | — | missing_source |
-| 安居 | 卷三 | 15 | — | — | missing_source |
-| 安居净 | 卷三 | 15 | — | — | missing_source |
-| 居净界 | 卷三 | 15 | — | — | missing_source |
-| 香花异国 | 卷三 | 25 | — | — | missing_source |
-| 香花 | 卷三 | 15 | — | — | missing_source |
-| 香花异 | 卷三 | 15 | — | — | missing_source |
-| 异国 | 卷三 | 15 | — | — | missing_source |
-| 花异国 | 卷三 | 15 | — | — | missing_source |
-| 香光宝界 | 卷三 | 25 | — | — | missing_source |
-| 香光 | 卷三 | 15 | — | — | missing_source |
-| 香光宝 | 卷三 | 15 | — | — | missing_source |
-| 光宝界 | 卷三 | 15 | — | — | missing_source |
-| 香台化生 | 卷三 | 30 | — | — | missing_source |
-| 香台 | 卷三 | 18 | — | — | missing_source |
-| 香台化 | 卷三 | 18 | — | — | missing_source |
-| 佛国花开 | 卷三 | 25 | — | — | missing_source |
-| 佛国花 | 卷三 | 15 | — | — | missing_source |
-| 国花开 | 卷三 | 15 | — | — | missing_source |
-| 花座自生 | 卷三 | 25 | — | — | missing_source |
-| 花座 | 卷三 | 15 | — | — | missing_source |
-| 花座自 | 卷三 | 15 | — | — | missing_source |
-| 花光普照 | 卷三 | 25 | — | — | missing_source |
-| 花光 | 卷三 | 15 | — | — | missing_source |
-| 花光普 | 卷三 | 15 | — | — | missing_source |
-| 普照 | 卷三 | 15 | — | — | missing_source |
-| 光普照 | 卷三 | 15 | — | — | missing_source |
-| 光普照 | 卷四 | 33 | — | — | missing_source |
-| 莲中无忧 | 卷三 | 30 | — | — | missing_source |
-| 莲中无 | 卷三 | 18 | — | — | missing_source |
-| 无忧 | 卷三 | 18 | — | — | missing_source |
-| 中无忧 | 卷三 | 18 | — | — | missing_source |
-| 花开往生 | 卷三 | 35 | — | — | missing_source |
-| 花开往 | 卷三 | 21 | — | — | missing_source |
-| 开往生 | 卷三 | 21 | — | — | missing_source |
-| 花藏宝国 | 卷三 | 25 | — | — | missing_source |
-| 花藏 | 卷三 | 15 | — | — | missing_source |
-| 花藏宝 | 卷三 | 15 | — | — | missing_source |
-| 藏宝国 | 卷三 | 15 | — | — | missing_source |
-| 花开见佛母 | 卷三 | 20 | — | — | missing_source |
-| 佛母 | 卷三 | 12 | — | — | missing_source |
-| 佛母 | 卷五 | 36 | — | — | missing_source |
-| 见佛母 | 卷三 | 12 | — | — | missing_source |
-| 花开化音 | 卷三 | 20 | — | — | missing_source |
-| 花开化 | 卷三 | 12 | — | — | missing_source |
-| 化音 | 卷三 | 12 | — | — | missing_source |
-| 开化音 | 卷三 | 12 | — | — | missing_source |
-| 安乐宝地 | 卷三 | 25 | — | — | missing_source |
-| 安乐宝 | 卷三 | 15 | — | — | missing_source |
-| 乐宝地 | 卷三 | 15 | — | — | missing_source |
-| 莲宫化境 | 卷三 | 30 | — | — | missing_source |
-| 莲宫化 | 卷三 | 18 | — | — | missing_source |
-| 化境 | 卷三 | 18 | — | — | missing_source |
-| 宫化境 | 卷三 | 18 | — | — | missing_source |
-| 花宫净土 | 卷三 | 30 | — | — | missing_source |
-| 花宫 | 卷三 | 18 | — | — | missing_source |
-| 花宫净 | 卷三 | 18 | — | — | missing_source |
-| 宫净土 | 卷三 | 18 | — | — | missing_source |
-| 宝台化生 | 卷三 | 30 | — | — | missing_source |
-| 宝台 | 卷三 | 18 | — | — | missing_source |
-| 宝台化 | 卷三 | 18 | — | — | missing_source |
-| 圣众来迎 | 卷三 | 35 | — | — | missing_source |
-| 圣众来 | 卷三 | 21 | — | — | missing_source |
-| 众来迎 | 卷三 | 21 | — | — | missing_source |
-| 圣众列位 | 卷三 | 25 | — | — | missing_source |
-| 圣众列 | 卷三 | 15 | — | — | missing_source |
-| 列位 | 卷三 | 15 | — | — | missing_source |
-| 众列位 | 卷三 | 15 | — | — | missing_source |
-| 聖衆合掌 | 卷三 | 25 | — | — | missing_source |
-| 聖衆 | 卷三 | 15 | — | — | missing_source |
-| 聖衆合 | 卷三 | 15 | — | — | missing_source |
-| 衆合掌 | 卷三 | 15 | — | — | missing_source |
-| 十方光界 | 卷三 | 25 | — | — | missing_source |
-| 十方光 | 卷三 | 15 | — | — | missing_source |
-| 十方光 | 卷四 | 42 | — | — | missing_source |
-| 方光界 | 卷三 | 15 | — | — | missing_source |
-| 光净世界 | 卷三 | 25 | — | — | missing_source |
-| 光净世 | 卷三 | 15 | — | — | missing_source |
-| 净世界 | 卷三 | 15 | — | — | missing_source |
-| 光华宝境 | 卷三 | 25 | — | — | missing_source |
-| 光华宝 | 卷三 | 15 | — | — | missing_source |
-| 宝境 | 卷三 | 15 | — | — | missing_source |
-| 华宝境 | 卷三 | 15 | — | — | missing_source |
-| 愿还莲界 | 卷三 | 30 | — | — | missing_source |
-| 愿还 | 卷三 | 18 | — | — | missing_source |
-| 愿还莲 | 卷三 | 18 | — | — | missing_source |
-| 莲界 | 卷三 | 18 | — | — | missing_source |
-| 还莲界 | 卷三 | 18 | — | — | missing_source |
-| 愿归华邦 | 卷三 | 30 | — | — | missing_source |
-| 愿归华 | 卷三 | 18 | — | — | missing_source |
-| 华邦 | 卷三 | 18 | — | — | missing_source |
-| 归华邦 | 卷三 | 18 | — | — | missing_source |
-| 生在宝莲 | 卷三 | 25 | — | — | missing_source |
-| 生在 | 卷三 | 15 | — | — | missing_source |
-| 生在宝 | 卷三 | 15 | — | — | missing_source |
-| 在宝莲 | 卷三 | 15 | — | — | missing_source |
-| 劝生净界 | 卷三 | 25 | — | — | missing_source |
-| 劝生 | 卷三 | 15 | — | — | missing_source |
-| 劝生净 | 卷三 | 15 | — | — | missing_source |
-| 生净界 | 卷三 | 15 | — | — | missing_source |
-| 推生西方 | 卷三 | 30 | — | — | missing_source |
-| 推生 | 卷三 | 18 | — | — | missing_source |
-| 推生西 | 卷三 | 18 | — | — | missing_source |
-| 佛国天香 | 卷三 | 25 | — | — | missing_source |
-| 佛国天 | 卷三 | 15 | — | — | missing_source |
-| 天香 | 卷三 | 15 | — | — | missing_source |
-| 国天香 | 卷三 | 15 | — | — | missing_source |
-| 佛国宝花 | 卷三 | 25 | — | — | missing_source |
-| 佛国宝 | 卷三 | 15 | — | — | missing_source |
-| 宝花 | 卷三 | 15 | — | — | missing_source |
-| 国宝花 | 卷三 | 15 | — | — | missing_source |
-| 佛国清净光 | 卷三 | 25 | — | — | missing_source |
-| 佛国清 | 卷三 | 15 | — | — | missing_source |
-| 净光 | 卷三 | 15 | — | — | missing_source |
-| 佛国香风 | 卷三 | 20 | — | — | missing_source |
-| 佛国香 | 卷三 | 12 | — | — | missing_source |
-| 国香风 | 卷三 | 12 | — | — | missing_source |
-| 佛国香水 | 卷三 | 20 | — | — | missing_source |
-| 香水 | 卷三 | 12 | — | — | missing_source |
-| 国香水 | 卷三 | 12 | — | — | missing_source |
-| 佛国宝音 | 卷三 | 20 | — | — | missing_source |
-| 宝音 | 卷三 | 12 | — | — | missing_source |
-| 国宝音 | 卷三 | 12 | — | — | missing_source |
-| 十二大愿 | 卷三 | — | — | — | missing_source |
-| 琉璃光 | 卷三 | — | — | — | missing_source |
-| 琉璃光 | 卷四 | 45 | — | — | missing_source |
-| 地狱拔苦 | 卷三 | — | — | — | missing_source |
-| 地狱不空 | 卷三 | — | — | — | missing_source |
-| 三会 | 卷三 | — | — | — | missing_source |
-| 三会 | 卷十 | 45 | — | — | missing_source |
-| 下生 | 卷三 | — | — | — | missing_source |
-| 下生 | 卷十 | 48 | — | — | missing_source |
-| 背火焰光 | 卷三 | — | — | — | missing_source |
-| 背火焰光 | 卷五 | 45 | — | — | missing_source |
-| 背火焰光（密） | 卷三 | — | — | — | missing_source |
-| 大悲咒 | 卷三 | — | — | — | missing_source |
-| 八识 / 阿赖耶 | 卷三 | — | — | — | missing_source |
-| 善财 / 五十三参 | 卷三 | — | — | — | missing_source |
-| 普贤行愿 | 卷三 | — | — | — | missing_source |
-| 维摩 / 不二法门 | 卷三 | — | — | — | missing_source |
-| 菩萨戒、四无量心 | 卷三 | — | — | — | missing_source |
-| 金刚界、胎藏界 | 卷三 | — | — | — | missing_source |
-| 成正等觉 | 卷四 | 60 | — | — | missing_source |
-| 成正等 | 卷四 | 48 | — | — | missing_source |
-| 正等觉 | 卷四 | 48 | — | — | missing_source |
-| 具足三十二相 | 卷四 | 70 | — | — | missing_source |
-| 具足三 | 卷四 | 42 | — | — | missing_source |
-| 八十随形好 | 卷四 | 70 | — | — | missing_source |
-| 八十随 | 卷四 | 42 | — | — | missing_source |
-| 形好 | 卷四 | 5 | — | — | missing_source |
-| 随形好 | 卷四 | 42 | — | — | missing_source |
-| 威光普照 | 卷四 | 55 | — | — | missing_source |
-| 威光 | 卷四 | 5 | — | — | missing_source |
-| 威光普 | 卷四 | 33 | — | — | missing_source |
-| 光明遍照世界 | 卷四 | 55 | — | — | missing_source |
-| 光明遍 | 卷四 | 33 | — | — | missing_source |
-| 照世界 | 卷四 | 33 | — | — | missing_source |
-| 炽盛光明 | 卷四 | 55 | — | — | missing_source |
-| 盛光明 | 卷四 | 33 | — | — | missing_source |
-| 放大光明 | 卷四 | 55 | — | — | missing_source |
-| 放大光 | 卷四 | 33 | — | — | missing_source |
-| 大光明 | 卷四 | 33 | — | — | missing_source |
-| 大光明 | 卷五 | 51 | — | — | missing_source |
-| 光明普曜 | 卷四 | 45 | — | — | missing_source |
-| 光明普 | 卷四 | 27 | — | — | missing_source |
-| 明普曜 | 卷四 | 27 | — | — | missing_source |
-| 光明破暗 | 卷四 | 45 | — | — | missing_source |
-| 光明破 | 卷四 | 27 | — | — | missing_source |
-| 破暗 | 卷四 | 27 | — | — | missing_source |
-| 明破暗 | 卷四 | 27 | — | — | missing_source |
-| 十方众生悉得智慧 | 卷四 | 70 | — | — | missing_source |
-| 十方众 | 卷四 | 42 | — | — | missing_source |
-| 得智慧 | 卷四 | 42 | — | — | missing_source |
-| 身如琉璃 | 卷四 | 80 | — | — | missing_source |
-| 身如琉 | 卷四 | 48 | — | — | missing_source |
-| 如琉璃 | 卷四 | 48 | — | — | missing_source |
-| 清净无垢 | 卷四 | 30 | — | — | missing_source |
-| 内外明彻 | 卷四 | 75 | — | — | missing_source |
-| 内外 | 卷四 | 5 | — | — | missing_source |
-| 内外明 | 卷四 | 45 | — | — | missing_source |
-| 外明彻 | 卷四 | 45 | — | — | missing_source |
-| 身放光明 | 卷四 | 70 | — | — | missing_source |
-| 身放 | 卷四 | 5 | — | — | missing_source |
-| 身放光 | 卷四 | 42 | — | — | missing_source |
-| 放光明 | 卷四 | 42 | — | — | missing_source |
-| 光明极净 | 卷四 | 55 | — | — | missing_source |
-| 光明极 | 卷四 | 33 | — | — | missing_source |
-| 明极净 | 卷四 | 33 | — | — | missing_source |
-| 光如琉璃 | 卷四 | 55 | — | — | missing_source |
-| 光如琉 | 卷四 | 33 | — | — | missing_source |
-| 身清净光 | 卷四 | 55 | — | — | missing_source |
-| 身清净 | 卷四 | 33 | — | — | missing_source |
-| 炽然光照 | 卷四 | 55 | — | — | missing_source |
-| 炽然光 | 卷四 | 33 | — | — | missing_source |
-| 然光照 | 卷四 | 33 | — | — | missing_source |
-| 身如宝镜 | 卷四 | 45 | — | — | missing_source |
-| 身如宝 | 卷四 | 27 | — | — | missing_source |
-| 身若净月 | 卷四 | 45 | — | — | missing_source |
-| 身若 | 卷四 | 27 | — | — | missing_source |
-| 身若净 | 卷四 | 27 | — | — | missing_source |
-| 若净月 | 卷四 | 27 | — | — | missing_source |
-| 身若妙日 | 卷四 | 45 | — | — | missing_source |
-| 身若妙 | 卷四 | 27 | — | — | missing_source |
-| 若妙日 | 卷四 | 27 | — | — | missing_source |
-| 清净琉璃界 | 卷四 | 70 | — | — | missing_source |
-| 清净琉 | 卷四 | 42 | — | — | missing_source |
-| 琉璃界 | 卷四 | 42 | — | — | missing_source |
-| 琉璃世界 | 卷四 | 80 | — | — | missing_source |
-| 琉璃世 | 卷四 | 48 | — | — | missing_source |
-| 璃世界 | 卷四 | 48 | — | — | missing_source |
-| 智慧无量 | 卷四 | 75 | — | — | missing_source |
-| 慧无量 | 卷四 | 45 | — | — | missing_source |
-| 智慧无边 | 卷四 | 75 | — | — | missing_source |
-| 慧无边 | 卷四 | 45 | — | — | missing_source |
-| 智慧究竟 | 卷四 | 70 | — | — | missing_source |
-| 智慧究 | 卷四 | 42 | — | — | missing_source |
-| 究竟 | 卷四 | 5 | — | — | missing_source |
-| 慧究竟 | 卷四 | 42 | — | — | missing_source |
-| 慧光普照 | 卷四 | 55 | — | — | missing_source |
-| 慧光普 | 卷四 | 33 | — | — | missing_source |
-| 智慧破暗 | 卷四 | 55 | — | — | missing_source |
-| 智慧破 | 卷四 | 33 | — | — | missing_source |
-| 慧破暗 | 卷四 | 33 | — | — | missing_source |
-| 智慧清净光 | 卷四 | 55 | — | — | missing_source |
-| 智慧清 | 卷四 | 33 | — | — | missing_source |
-| 智慧如日 | 卷四 | 45 | — | — | missing_source |
-| 智慧如 | 卷四 | 27 | — | — | missing_source |
-| 如日 | 卷四 | 27 | — | — | missing_source |
-| 慧如日 | 卷四 | 27 | — | — | missing_source |
-| 智慧大明 | 卷四 | 45 | — | — | missing_source |
-| 智慧大 | 卷四 | 27 | — | — | missing_source |
-| 大明 | 卷四 | 27 | — | — | missing_source |
-| 大明 | 卷五 | 51 | — | — | missing_source |
-| 慧大明 | 卷四 | 27 | — | — | missing_source |
-| 智慧圆满 | 卷四 | 45 | — | — | missing_source |
-| 智慧圆 | 卷四 | 27 | — | — | missing_source |
-| 慧圆满 | 卷四 | 27 | — | — | missing_source |
-| 慧眼清明 | 卷四 | 45 | — | — | missing_source |
-| 慧眼清 | 卷四 | 27 | — | — | missing_source |
-| 慧光遍明 | 卷四 | 45 | — | — | missing_source |
-| 慧光遍 | 卷四 | 27 | — | — | missing_source |
-| 光遍明 | 卷四 | 27 | — | — | missing_source |
-| 众生无尽供具 | 卷四 | 70 | — | — | missing_source |
-| 众生无 | 卷四 | 42 | — | — | missing_source |
-| 尽供具 | 卷四 | 42 | — | — | missing_source |
-| 随求得供养 | 卷四 | 55 | — | — | missing_source |
-| 随求 | 卷四 | 5 | — | — | missing_source |
-| 随求得 | 卷四 | 33 | — | — | missing_source |
-| 得供养 | 卷四 | 33 | — | — | missing_source |
-| 自然生宝具 | 卷四 | 55 | — | — | missing_source |
-| 生宝具 | 卷四 | 33 | — | — | missing_source |
-| 宝物随念 | 卷四 | 45 | — | — | missing_source |
-| 宝物随 | 卷四 | 27 | — | — | missing_source |
-| 物随念 | 卷四 | 27 | — | — | missing_source |
-| 香花随生 | 卷四 | 45 | — | — | missing_source |
-| 香花随 | 卷四 | 27 | — | — | missing_source |
-| 花随生 | 卷四 | 27 | — | — | missing_source |
-| 无尽供具 | 卷四 | 45 | — | — | missing_source |
-| 无尽供 | 卷四 | 27 | — | — | missing_source |
-| 自然宝器 | 卷四 | 45 | — | — | missing_source |
-| 自然宝 | 卷四 | 27 | — | — | missing_source |
-| 然宝器 | 卷四 | 27 | — | — | missing_source |
-| 随念供养 | 卷四 | 35 | — | — | missing_source |
-| 随念供 | 卷四 | 21 | — | — | missing_source |
-| 念供养 | 卷四 | 21 | — | — | missing_source |
-| 宝具遍现 | 卷四 | 35 | — | — | missing_source |
-| 宝具遍 | 卷四 | 21 | — | — | missing_source |
-| 具遍现 | 卷四 | 21 | — | — | missing_source |
-| 宝香普薰 | 卷四 | 35 | — | — | missing_source |
-| 宝香普 | 卷四 | 21 | — | — | missing_source |
-| 宝花庄严 | 卷四 | 35 | — | — | missing_source |
-| 宝花庄 | 卷四 | 21 | — | — | missing_source |
-| 花庄严 | 卷四 | 21 | — | — | missing_source |
-| 身业清净 | 卷四 | 70 | — | — | missing_source |
-| 身业清 | 卷四 | 42 | — | — | missing_source |
-| 业清净 | 卷四 | 42 | — | — | missing_source |
-| 语业清净 | 卷四 | 70 | — | — | missing_source |
-| 语业清 | 卷四 | 42 | — | — | missing_source |
-| 意业清净 | 卷四 | 70 | — | — | missing_source |
-| 意业清 | 卷四 | 42 | — | — | missing_source |
-| 三业清净 | 卷四 | 75 | — | — | missing_source |
-| 三业清 | 卷四 | 45 | — | — | missing_source |
-| 行住坐卧皆修行 | 卷四 | 45 | — | — | missing_source |
-| 行住 | 卷七 | 39 | — | — | missing_source |
-| 行住坐 | 卷四 | 27 | — | — | missing_source |
-| 行住坐 | 卷七 | 39 | — | — | missing_source |
-| 修行 | 卷五 | 5 | — | — | missing_source |
-| 皆修行 | 卷四 | 27 | — | — | missing_source |
-| 离诸恶业 | 卷四 | 55 | — | — | missing_source |
-| 离诸恶 | 卷四 | 33 | — | — | missing_source |
-| 诸恶业 | 卷四 | 33 | — | — | missing_source |
-| 不造恶业 | 卷四 | 55 | — | — | missing_source |
-| 不造恶 | 卷四 | 33 | — | — | missing_source |
-| 造恶业 | 卷四 | 33 | — | — | missing_source |
-| 不作恶行 | 卷四 | 55 | — | — | missing_source |
-| 不作恶 | 卷四 | 33 | — | — | missing_source |
-| 作恶行 | 卷四 | 33 | — | — | missing_source |
-| 身语意无垢 | 卷四 | 55 | — | — | missing_source |
-| 身语意 | 卷四 | 33 | — | — | missing_source |
-| 意无垢 | 卷四 | 33 | — | — | missing_source |
-| 身语意善净 | 卷四 | 45 | — | — | missing_source |
-| 意善净 | 卷四 | 27 | — | — | missing_source |
-| 诸根具足 | 卷四 | 75 | — | — | missing_source |
-| 诸根具 | 卷四 | 45 | — | — | missing_source |
-| 根具足 | 卷四 | 45 | — | — | missing_source |
-| 五根完整 | 卷四 | 70 | — | — | missing_source |
-| 五根完 | 卷四 | 42 | — | — | missing_source |
-| 根完整 | 卷四 | 42 | — | — | missing_source |
-| 无残缺病苦 | 卷四 | 70 | — | — | missing_source |
-| 无残缺 | 卷四 | 42 | — | — | missing_source |
-| 缺病苦 | 卷四 | 42 | — | — | missing_source |
-| 无盲聋哑痖 | 卷四 | 55 | — | — | missing_source |
-| 无盲聋 | 卷四 | 33 | — | — | missing_source |
-| 聋哑痖 | 卷四 | 33 | — | — | missing_source |
-| 无疯癫狂乱 | 卷四 | 55 | — | — | missing_source |
-| 无疯癫 | 卷四 | 33 | — | — | missing_source |
-| 癫狂乱 | 卷四 | 33 | — | — | missing_source |
-| 身心健全 | 卷四 | 45 | — | — | missing_source |
-| 身心健 | 卷四 | 27 | — | — | missing_source |
-| 心健全 | 卷四 | 27 | — | — | missing_source |
-| 身强体健 | 卷四 | 45 | — | — | missing_source |
-| 身强体 | 卷四 | 27 | — | — | missing_source |
-| 强体健 | 卷四 | 27 | — | — | missing_source |
-| 无诸疾患 | 卷四 | 55 | — | — | missing_source |
-| 无诸疾 | 卷四 | 33 | — | — | missing_source |
-| 诸疾患 | 卷四 | 33 | — | — | missing_source |
-| 诸根明净 | 卷四 | 45 | — | — | missing_source |
-| 诸根明 | 卷四 | 27 | — | — | missing_source |
-| 根明净 | 卷四 | 27 | — | — | missing_source |
-| 根身不缺 | 卷四 | 45 | — | — | missing_source |
-| 根身不 | 卷四 | 27 | — | — | missing_source |
-| 身不缺 | 卷四 | 27 | — | — | missing_source |
-| 无障无碍 | 卷四 | 45 | — | — | missing_source |
-| 无障无 | 卷四 | 27 | — | — | missing_source |
-| 障无碍 | 卷四 | 27 | — | — | missing_source |
-| 身心和平 | 卷四 | 35 | — | — | missing_source |
-| 身心和 | 卷四 | 21 | — | — | missing_source |
-| 和平 | 卷四 | 21 | — | — | missing_source |
-| 心和平 | 卷四 | 21 | — | — | missing_source |
-| 安立正见 | 卷四 | 30 | — | — | missing_source |
-| 安立正 | 卷四 | 48 | — | — | missing_source |
-| 立正见 | 卷四 | 48 | — | — | missing_source |
-| 得正法眼 | 卷四 | 70 | — | — | missing_source |
-| 得正法 | 卷四 | 42 | — | — | missing_source |
-| 法眼 | 卷七 | 75 | — | — | missing_source |
-| 正法眼 | 卷四 | 42 | — | — | missing_source |
-| 得正慧眼 | 卷四 | 70 | — | — | missing_source |
-| 得正慧 | 卷四 | 42 | — | — | missing_source |
-| 正慧眼 | 卷四 | 42 | — | — | missing_source |
-| 正见不邪 | 卷四 | 55 | — | — | missing_source |
-| 正见不 | 卷四 | 33 | — | — | missing_source |
-| 见不邪 | 卷四 | 33 | — | — | missing_source |
-| 信佛正法 | 卷四 | 55 | — | — | missing_source |
-| 信佛正 | 卷四 | 33 | — | — | missing_source |
-| 佛正法 | 卷四 | 33 | — | — | missing_source |
-| 入正法道 | 卷四 | 55 | — | — | missing_source |
-| 入正法 | 卷四 | 33 | — | — | missing_source |
-| 正法道 | 卷四 | 33 | — | — | missing_source |
-| 修正法行 | 卷四 | 45 | — | — | missing_source |
-| 修正法 | 卷四 | 27 | — | — | missing_source |
-| 正法行 | 卷四 | 27 | — | — | missing_source |
-| 不堕邪道 | 卷四 | 55 | — | — | missing_source |
-| 不堕邪 | 卷四 | 33 | — | — | missing_source |
-| 堕邪道 | 卷四 | 33 | — | — | missing_source |
-| 常住正念 | 卷四 | 45 | — | — | missing_source |
-| 常住正 | 卷四 | 27 | — | — | missing_source |
-| 住正念 | 卷四 | 27 | — | — | missing_source |
-| 正念清净 | 卷四 | 45 | — | — | missing_source |
-| 正念清 | 卷四 | 27 | — | — | missing_source |
-| 念清净 | 卷四 | 27 | — | — | missing_source |
-| 远离邪师 | 卷四 | 45 | — | — | missing_source |
-| 远离邪 | 卷四 | 27 | — | — | missing_source |
-| 离邪师 | 卷四 | 27 | — | — | missing_source |
-| 不受邪见 | 卷四 | 55 | — | — | missing_source |
-| 不受邪 | 卷四 | 33 | — | — | missing_source |
-| 受邪见 | 卷四 | 33 | — | — | missing_source |
-| 持戒清净 | 卷四 | 30 | — | — | missing_source |
-| 持戒清 | 卷四 | 48 | — | — | missing_source |
-| 戒清净 | 卷四 | 48 | — | — | missing_source |
-| 无毁禁戒 | 卷四 | 75 | — | — | missing_source |
-| 无毁禁 | 卷四 | 45 | — | — | missing_source |
-| 毁禁戒 | 卷四 | 45 | — | — | missing_source |
-| 戒体清净 | 卷四 | 70 | — | — | missing_source |
-| 戒体清 | 卷四 | 42 | — | — | missing_source |
-| 体清净 | 卷四 | 42 | — | — | missing_source |
-| 持戒不犯 | 卷四 | 70 | — | — | missing_source |
-| 持戒不 | 卷四 | 42 | — | — | missing_source |
-| 戒不犯 | 卷四 | 42 | — | — | missing_source |
-| 持戒无缺 | 卷四 | 55 | — | — | missing_source |
-| 持戒无 | 卷四 | 33 | — | — | missing_source |
-| 无缺 | 卷四 | 5 | — | — | missing_source |
-| 戒无缺 | 卷四 | 33 | — | — | missing_source |
-| 持戒不动 | 卷四 | 55 | — | — | missing_source |
-| 不动 | 卷五 | 48 | — | — | missing_source |
-| 戒不动 | 卷四 | 33 | — | — | missing_source |
-| 戒香普薰 | 卷四 | 35 | — | — | missing_source |
-| 戒香普 | 卷四 | 21 | — | — | missing_source |
-| 戒光明净 | 卷四 | 35 | — | — | missing_source |
-| 戒光明 | 卷四 | 21 | — | — | missing_source |
-| 光明净 | 卷四 | 21 | — | — | missing_source |
-| 戒行圆满 | 卷四 | 45 | — | — | missing_source |
-| 戒行圆 | 卷四 | 27 | — | — | missing_source |
-| 行圆满 | 卷四 | 27 | — | — | missing_source |
-| 戒行善成 | 卷四 | 45 | — | — | missing_source |
-| 戒行善 | 卷四 | 27 | — | — | missing_source |
-| 行善成 | 卷四 | 27 | — | — | missing_source |
-| 不犯小戒 | 卷四 | 45 | — | — | missing_source |
-| 不犯小 | 卷四 | 27 | — | — | missing_source |
-| 犯小戒 | 卷四 | 27 | — | — | missing_source |
-| 不犯轻戒 | 卷四 | 45 | — | — | missing_source |
-| 不犯轻 | 卷四 | 27 | — | — | missing_source |
-| 犯轻戒 | 卷四 | 27 | — | — | missing_source |
-| 清净戒品 | 卷四 | 35 | — | — | missing_source |
-| 清净戒 | 卷四 | 21 | — | — | missing_source |
-| 净戒品 | 卷四 | 21 | — | — | missing_source |
-| 解脱困苦 | 卷四 | 30 | — | — | missing_source |
-| 解脱困 | 卷四 | 48 | — | — | missing_source |
-| 脱困苦 | 卷四 | 48 | — | — | missing_source |
-| 无饥渴苦 | 卷四 | 70 | — | — | missing_source |
-| 无饥渴 | 卷四 | 42 | — | — | missing_source |
-| 饥渴苦 | 卷四 | 42 | — | — | missing_source |
-| 无寒热苦 | 卷四 | 70 | — | — | missing_source |
-| 无寒热 | 卷四 | 42 | — | — | missing_source |
-| 寒热苦 | 卷四 | 42 | — | — | missing_source |
-| 无蚊虻蛇蚁 | 卷四 | 55 | — | — | missing_source |
-| 无蚊虻 | 卷四 | 33 | — | — | missing_source |
-| 虻蛇蚁 | 卷四 | 33 | — | — | missing_source |
-| 无忧恼苦 | 卷四 | 55 | — | — | missing_source |
-| 无忧恼 | 卷四 | 33 | — | — | missing_source |
-| 忧恼苦 | 卷四 | 33 | — | — | missing_source |
-| 身心安乐 | 卷四 | 45 | — | — | missing_source |
-| 身心安 | 卷四 | 27 | — | — | missing_source |
-| 心安乐 | 卷四 | 27 | — | — | missing_source |
-| 得安稳处 | 卷四 | 45 | — | — | missing_source |
-| 得安稳 | 卷四 | 27 | — | — | missing_source |
-| 安稳处 | 卷四 | 27 | — | — | missing_source |
-| 安乐无忧 | 卷四 | 45 | — | — | missing_source |
-| 安乐无 | 卷四 | 27 | — | — | missing_source |
-| 乐无忧 | 卷四 | 27 | — | — | missing_source |
-| 得安隐住 | 卷四 | 45 | — | — | missing_source |
-| 得安隐 | 卷四 | 27 | — | — | missing_source |
-| 安隐住 | 卷四 | 27 | — | — | missing_source |
-| 离诸苦患 | 卷四 | 55 | — | — | missing_source |
-| 离诸苦 | 卷四 | 33 | — | — | missing_source |
-| 诸苦患 | 卷四 | 33 | — | — | missing_source |
-| 离逼迫苦 | 卷四 | 55 | — | — | missing_source |
-| 离逼迫 | 卷四 | 33 | — | — | missing_source |
-| 逼迫苦 | 卷四 | 33 | — | — | missing_source |
-| 无逼恼处 | 卷四 | 45 | — | — | missing_source |
-| 无逼恼 | 卷四 | 27 | — | — | missing_source |
-| 逼恼处 | 卷四 | 27 | — | — | missing_source |
-| 安隐乐住 | 卷四 | 45 | — | — | missing_source |
-| 安隐乐 | 卷四 | 27 | — | — | missing_source |
-| 隐乐住 | 卷四 | 27 | — | — | missing_source |
-| 无难可忧 | 卷四 | 45 | — | — | missing_source |
-| 无难可 | 卷四 | 27 | — | — | missing_source |
-| 难可忧 | 卷四 | 27 | — | — | missing_source |
-| 安隐无患 | 卷四 | 45 | — | — | missing_source |
-| 安隐无 | 卷四 | 27 | — | — | missing_source |
-| 隐无患 | 卷四 | 27 | — | — | missing_source |
-| 饭食自然 | 卷四 | 75 | — | — | missing_source |
-| 衣服随念 | 卷四 | 70 | — | — | missing_source |
-| 衣服随 | 卷四 | 42 | — | — | missing_source |
-| 服随念 | 卷四 | 42 | — | — | missing_source |
-| 衣食无乏 | 卷四 | 70 | — | — | missing_source |
-| 衣食无 | 卷四 | 42 | — | — | missing_source |
-| 食无乏 | 卷四 | 42 | — | — | missing_source |
-| 食具自然生 | 卷四 | 55 | — | — | missing_source |
-| 食具自 | 卷四 | 33 | — | — | missing_source |
-| 衣具自然生 | 卷四 | 55 | — | — | missing_source |
-| 衣具自 | 卷四 | 33 | — | — | missing_source |
-| 饭食易得 | 卷四 | 55 | — | — | missing_source |
-| 饭食易 | 卷四 | 33 | — | — | missing_source |
-| 易得 | 卷四 | 5 | — | — | missing_source |
-| 食易得 | 卷四 | 33 | — | — | missing_source |
-| 衣食适身 | 卷四 | 45 | — | — | missing_source |
-| 衣食适 | 卷四 | 27 | — | — | missing_source |
-| 食适身 | 卷四 | 27 | — | — | missing_source |
-| 自然宝衣 | 卷四 | 45 | — | — | missing_source |
-| 然宝衣 | 卷四 | 27 | — | — | missing_source |
-| 自然妙食 | 卷四 | 45 | — | — | missing_source |
-| 自然妙 | 卷四 | 27 | — | — | missing_source |
-| 然妙食 | 卷四 | 27 | — | — | missing_source |
-| 宝衣自现 | 卷四 | 45 | — | — | missing_source |
-| 宝衣自 | 卷四 | 27 | — | — | missing_source |
-| 衣自现 | 卷四 | 27 | — | — | missing_source |
-| 宝食自生 | 卷四 | 45 | — | — | missing_source |
-| 宝食自 | 卷四 | 27 | — | — | missing_source |
-| 食自生 | 卷四 | 27 | — | — | missing_source |
-| 食具遍满 | 卷四 | 45 | — | — | missing_source |
-| 食具遍 | 卷四 | 27 | — | — | missing_source |
-| 具遍满 | 卷四 | 27 | — | — | missing_source |
-| 衣物清净 | 卷四 | 35 | — | — | missing_source |
-| 衣物清 | 卷四 | 21 | — | — | missing_source |
-| 物清净 | 卷四 | 21 | — | — | missing_source |
-| 忏悔清净 | 卷四 | 30 | — | — | missing_source |
-| 忏悔清 | 卷四 | 48 | — | — | missing_source |
-| 悔清净 | 卷四 | 48 | — | — | missing_source |
-| 忏除罪障 | 卷四 | 75 | — | — | missing_source |
-| 忏除 | 卷四 | 5 | — | — | missing_source |
-| 忏除罪 | 卷四 | 45 | — | — | missing_source |
-| 罪障 | 卷四 | 5 | — | — | missing_source |
-| 罪障 | 卷九 | 39 | — | — | missing_source |
-| 除罪障 | 卷四 | 45 | — | — | missing_source |
-| 破恶生善 | 卷四 | 70 | — | — | missing_source |
-| 破恶生 | 卷四 | 42 | — | — | missing_source |
-| 恶生善 | 卷四 | 42 | — | — | missing_source |
-| 忏悔灭罪 | 卷四 | 70 | — | — | missing_source |
-| 忏悔灭 | 卷四 | 42 | — | — | missing_source |
-| 悔灭罪 | 卷四 | 42 | — | — | missing_source |
-| 懺罪得净 | 卷四 | 55 | — | — | missing_source |
-| 懺罪得 | 卷四 | 33 | — | — | missing_source |
-| 罪得净 | 卷四 | 33 | — | — | missing_source |
-| 懺悔无垢 | 卷四 | 55 | — | — | missing_source |
-| 懺悔无 | 卷四 | 33 | — | — | missing_source |
-| 悔无垢 | 卷四 | 33 | — | — | missing_source |
-| 懺悔令清净 | 卷四 | 55 | — | — | missing_source |
-| 懺悔令 | 卷四 | 33 | — | — | missing_source |
-| 令清净 | 卷四 | 33 | — | — | missing_source |
-| 息灭罪根 | 卷四 | 45 | — | — | missing_source |
-| 息灭 | 卷四 | 27 | — | — | missing_source |
-| 息灭罪 | 卷四 | 27 | — | — | missing_source |
-| 灭罪根 | 卷四 | 27 | — | — | missing_source |
-| 离恶得安 | 卷四 | 45 | — | — | missing_source |
-| 离恶得 | 卷四 | 27 | — | — | missing_source |
-| 恶得安 | 卷四 | 27 | — | — | missing_source |
-| 忏心安乐 | 卷四 | 45 | — | — | missing_source |
-| 忏心安 | 卷四 | 27 | — | — | missing_source |
-| 忏除不善 | 卷四 | 45 | — | — | missing_source |
-| 忏除不 | 卷四 | 27 | — | — | missing_source |
-| 除不善 | 卷四 | 27 | — | — | missing_source |
-| 度脱众苦 | 卷四 | 30 | — | — | missing_source |
-| 度脱众 | 卷四 | 48 | — | — | missing_source |
-| 脱众苦 | 卷四 | 48 | — | — | missing_source |
-| 解脱病苦 | 卷四 | 75 | — | — | missing_source |
-| 解脱病 | 卷四 | 45 | — | — | missing_source |
-| 脱病苦 | 卷四 | 45 | — | — | missing_source |
-| 救诸疾病 | 卷四 | 75 | — | — | missing_source |
-| 救诸疾 | 卷四 | 45 | — | — | missing_source |
-| 诸疾病 | 卷四 | 45 | — | — | missing_source |
-| 病皆消除 | 卷四 | 75 | — | — | missing_source |
-| 病皆消 | 卷四 | 45 | — | — | missing_source |
-| 皆消除 | 卷四 | 45 | — | — | missing_source |
-| 无病安乐 | 卷四 | 70 | — | — | missing_source |
-| 无病 | 卷四 | 5 | — | — | missing_source |
-| 无病安 | 卷四 | 42 | — | — | missing_source |
-| 病安乐 | 卷四 | 42 | — | — | missing_source |
-| 天年常满 | 卷四 | 70 | — | — | missing_source |
-| 天年 | 卷四 | 5 | — | — | missing_source |
-| 天年常 | 卷四 | 42 | — | — | missing_source |
-| 年常满 | 卷四 | 42 | — | — | missing_source |
-| 长寿无病 | 卷四 | 70 | — | — | missing_source |
-| 长寿无 | 卷四 | 42 | — | — | missing_source |
-| 寿无病 | 卷四 | 42 | — | — | missing_source |
-| 离诸病患 | 卷四 | 70 | — | — | missing_source |
-| 离诸病 | 卷四 | 42 | — | — | missing_source |
-| 诸病患 | 卷四 | 42 | — | — | missing_source |
-| 离灾离厄 | 卷四 | 55 | — | — | missing_source |
-| 离灾离 | 卷四 | 33 | — | — | missing_source |
-| 灾离厄 | 卷四 | 33 | — | — | missing_source |
-| 离诸横死 | 卷四 | 55 | — | — | missing_source |
-| 离诸横 | 卷四 | 33 | — | — | missing_source |
-| 诸横死 | 卷四 | 33 | — | — | missing_source |
-| 无横死患 | 卷四 | 55 | — | — | missing_source |
-| 无横死 | 卷四 | 33 | — | — | missing_source |
-| 横死患 | 卷四 | 33 | — | — | missing_source |
-| 无一切病 | 卷四 | 55 | — | — | missing_source |
-| 无一切 | 卷四 | 33 | — | — | missing_source |
-| 一切病 | 卷四 | 33 | — | — | missing_source |
-| 病苦悉离 | 卷四 | 55 | — | — | missing_source |
-| 病苦悉 | 卷四 | 33 | — | — | missing_source |
-| 苦悉离 | 卷四 | 33 | — | — | missing_source |
-| 无诸夭折 | 卷四 | 45 | — | — | missing_source |
-| 无诸夭 | 卷四 | 27 | — | — | missing_source |
-| 诸夭折 | 卷四 | 27 | — | — | missing_source |
-| 得寿延长 | 卷四 | 45 | — | — | missing_source |
-| 得寿延 | 卷四 | 27 | — | — | missing_source |
-| 寿延长 | 卷四 | 27 | — | — | missing_source |
-| 得寿命长久 | 卷四 | 45 | — | — | missing_source |
-| 得寿命 | 卷四 | 27 | — | — | missing_source |
-| 得寿乐住 | 卷四 | 45 | — | — | missing_source |
-| 得寿乐 | 卷四 | 27 | — | — | missing_source |
-| 寿乐住 | 卷四 | 27 | — | — | missing_source |
-| 无病安住 | 卷四 | 45 | — | — | missing_source |
-| 病安住 | 卷四 | 27 | — | — | missing_source |
-| 无苦无病 | 卷四 | 45 | — | — | missing_source |
-| 无苦无 | 卷四 | 27 | — | — | missing_source |
-| 苦无病 | 卷四 | 27 | — | — | missing_source |
-| 药师琉璃光如来 | 卷四 | 80 | — | — | missing_source |
-| 药师 | 卷四 | 48 | — | — | missing_source |
-| 药师 | 卷五 | 5 | — | — | missing_source |
-| 药师琉 | 卷四 | 48 | — | — | missing_source |
-| 光如来 | 卷四 | 48 | — | — | missing_source |
-| 药师如来 | 卷四 | 80 | — | — | missing_source |
-| 药师如 | 卷四 | 48 | — | — | missing_source |
-| 师如来 | 卷四 | 48 | — | — | missing_source |
-| 药师佛 | 卷四 | 80 | — | — | missing_source |
-| 药师琉璃光佛 | 卷四 | 80 | — | — | missing_source |
-| 璃光佛 | 卷四 | 48 | — | — | missing_source |
-| 大医王佛 | 卷四 | 80 | — | — | missing_source |
-| 大医王 | 卷四 | 48 | — | — | missing_source |
-| 医王佛 | 卷四 | 48 | — | — | missing_source |
-| 医王善逝 | 卷四 | 80 | — | — | missing_source |
-| 医王善 | 卷四 | 48 | — | — | missing_source |
-| 王善逝 | 卷四 | 48 | — | — | missing_source |
-| 药王善逝 | 卷四 | 75 | — | — | missing_source |
-| 药王善 | 卷四 | 45 | — | — | missing_source |
-| 药上善逝 | 卷四 | 75 | — | — | missing_source |
-| 药上善 | 卷四 | 45 | — | — | missing_source |
-| 上善逝 | 卷四 | 45 | — | — | missing_source |
-| 药王光如来 | 卷四 | 75 | — | — | missing_source |
-| 药王光 | 卷四 | 45 | — | — | missing_source |
-| 药上光如来 | 卷四 | 75 | — | — | missing_source |
-| 药上光 | 卷四 | 45 | — | — | missing_source |
-| 大医王如来 | 卷四 | 75 | — | — | missing_source |
-| 王如来 | 卷四 | 45 | — | — | missing_source |
-| 善逝琉璃光 | 卷四 | 75 | — | — | missing_source |
-| 善逝琉 | 卷四 | 45 | — | — | missing_source |
-| 琉璃光王 | 卷四 | 75 | — | — | missing_source |
-| 璃光王 | 卷四 | 45 | — | — | missing_source |
-| 琉璃光师 | 卷四 | 70 | — | — | missing_source |
-| 璃光师 | 卷四 | 42 | — | — | missing_source |
-| 琉璃师佛 | 卷四 | 70 | — | — | missing_source |
-| 琉璃师 | 卷四 | 42 | — | — | missing_source |
-| 璃师佛 | 卷四 | 42 | — | — | missing_source |
-| 大悲医王 | 卷四 | 75 | — | — | missing_source |
-| 大悲医 | 卷四 | 45 | — | — | missing_source |
-| 悲医王 | 卷四 | 45 | — | — | missing_source |
-| 无上医王 | 卷四 | 75 | — | — | missing_source |
-| 无上医 | 卷四 | 45 | — | — | missing_source |
-| 上医王 | 卷四 | 45 | — | — | missing_source |
-| 大医上佛 | 卷四 | 70 | — | — | missing_source |
-| 大医上 | 卷四 | 42 | — | — | missing_source |
-| 医上佛 | 卷四 | 42 | — | — | missing_source |
-| 大医上如来 | 卷四 | 70 | — | — | missing_source |
-| 上如来 | 卷四 | 42 | — | — | missing_source |
-| 诸病医王 | 卷四 | 70 | — | — | missing_source |
-| 诸病医 | 卷四 | 42 | — | — | missing_source |
-| 病医王 | 卷四 | 42 | — | — | missing_source |
-| 大施疗者 | 卷四 | 70 | — | — | missing_source |
-| 大施 | 卷四 | 5 | — | — | missing_source |
-| 大施疗 | 卷四 | 42 | — | — | missing_source |
-| 施疗者 | 卷四 | 42 | — | — | missing_source |
-| 无尽光佛 | 卷四 | 70 | — | — | missing_source |
-| 无尽光佛（药师变称） | 卷四 | 70 | — | — | missing_source |
-| 无尽光 | 卷四 | 42 | — | — | missing_source |
-| 尽光佛 | 卷四 | 42 | — | — | missing_source |
-| 大光佛 | 卷四 | 70 | — | — | missing_source |
-| 大光佛（药师语境） | 卷四 | 70 | — | — | missing_source |
-| 大光 | 卷四 | 5 | — | — | missing_source |
-| 大光 | 卷五 | 51 | — | — | missing_source |
-| 大清净光佛 | 卷四 | 70 | — | — | missing_source |
-| 大清 | 卷四 | 5 | — | — | missing_source |
-| 大清净 | 卷四 | 42 | — | — | missing_source |
-| 琉璃清如佛 | 卷四 | 70 | — | — | missing_source |
-| 琉璃清 | 卷四 | 42 | — | — | missing_source |
-| 如佛 | 卷四 | 5 | — | — | missing_source |
-| 清如佛 | 卷四 | 42 | — | — | missing_source |
-| 清凉光佛 | 卷四 | 70 | — | — | missing_source |
-| 清凉光 | 卷四 | 42 | — | — | missing_source |
-| 凉光佛 | 卷四 | 42 | — | — | missing_source |
-| 无垢光佛 | 卷四 | 70 | — | — | missing_source |
-| 无垢光 | 卷四 | 42 | — | — | missing_source |
-| 垢光佛 | 卷四 | 42 | — | — | missing_source |
-| 日光药师佛 | 卷四 | 70 | — | — | missing_source |
-| 日光药 | 卷四 | 42 | — | — | missing_source |
-| 月光药师佛 | 卷四 | 70 | — | — | missing_source |
-| 月光药 | 卷四 | 42 | — | — | missing_source |
-| 上药王佛 | 卷四 | 70 | — | — | missing_source |
-| 上药王 | 卷四 | 42 | — | — | missing_source |
-| 药王佛 | 卷四 | 42 | — | — | missing_source |
-| 上药上佛 | 卷四 | 70 | — | — | missing_source |
-| 上药上 | 卷四 | 42 | — | — | missing_source |
-| 药上佛 | 卷四 | 42 | — | — | missing_source |
-| 无垢光药师佛 | 卷四 | 70 | — | — | missing_source |
-| 清凉光药师佛 | 卷四 | 70 | — | — | missing_source |
-| 无忧药师佛 | 卷四 | 70 | — | — | missing_source |
-| 无忧药 | 卷四 | 42 | — | — | missing_source |
-| 无病药师佛 | 卷四 | 70 | — | — | missing_source |
-| 无病药 | 卷四 | 42 | — | — | missing_source |
-| 寿命药师佛 | 卷四 | 70 | — | — | missing_source |
-| 寿命药 | 卷四 | 42 | — | — | missing_source |
-| 延命药师佛 | 卷四 | 70 | — | — | missing_source |
-| 延命 | 卷四 | 5 | — | — | missing_source |
-| 延命 | 卷十五 | 80 | — | — | missing_source |
-| 延命药 | 卷四 | 42 | — | — | missing_source |
-| 吉祥药师佛 | 卷四 | 70 | — | — | missing_source |
-| 吉祥 | 卷五 | 45 | — | — | missing_source |
-| 吉祥药 | 卷四 | 42 | — | — | missing_source |
-| 无畏药师佛 | 卷四 | 70 | — | — | missing_source |
-| 无畏 | 卷四 | 5 | — | — | missing_source |
-| 无畏药 | 卷四 | 42 | — | — | missing_source |
-| 大悲药师佛 | 卷四 | 70 | — | — | missing_source |
-| 大悲药 | 卷四 | 42 | — | — | missing_source |
-| 大愿药师佛 | 卷四 | 70 | — | — | missing_source |
-| 大愿药 | 卷四 | 42 | — | — | missing_source |
-| 大医药师佛 | 卷四 | 70 | — | — | missing_source |
-| 大医药 | 卷四 | 42 | — | — | missing_source |
-| 无尽寿药师佛 | 卷四 | 70 | — | — | missing_source |
-| 无尽寿 | 卷四 | 42 | — | — | missing_source |
-| 大光药师佛 | 卷四 | 70 | — | — | missing_source |
-| 大光药 | 卷四 | 42 | — | — | missing_source |
-| 普照药师佛 | 卷四 | 70 | — | — | missing_source |
-| 普照药 | 卷四 | 42 | — | — | missing_source |
-| 普明药师佛 | 卷四 | 70 | — | — | missing_source |
-| 普明药 | 卷四 | 42 | — | — | missing_source |
-| 普净药师佛 | 卷四 | 70 | — | — | missing_source |
-| 普净药 | 卷四 | 42 | — | — | missing_source |
-| 普慧药师佛 | 卷四 | 55 | — | — | missing_source |
-| 普慧药 | 卷四 | 33 | — | — | missing_source |
-| 善慧药师佛 | 卷四 | 55 | — | — | missing_source |
-| 善慧 | 卷六 | 42 | — | — | missing_source |
-| 善慧药 | 卷四 | 33 | — | — | missing_source |
-| 善吉药师佛 | 卷四 | 55 | — | — | missing_source |
-| 善吉药 | 卷四 | 33 | — | — | missing_source |
-| 宝光药师佛 | 卷四 | 55 | — | — | missing_source |
-| 宝光药 | 卷四 | 33 | — | — | missing_source |
-| 宝明药师佛 | 卷四 | 55 | — | — | missing_source |
-| 宝明药 | 卷四 | 33 | — | — | missing_source |
-| 宝净药师佛 | 卷四 | 55 | — | — | missing_source |
-| 宝净药 | 卷四 | 33 | — | — | missing_source |
-| 宝智药师佛 | 卷四 | 55 | — | — | missing_source |
-| 宝智药 | 卷四 | 33 | — | — | missing_source |
-| 宝王药师佛 | 卷四 | 55 | — | — | missing_source |
-| 宝王药 | 卷四 | 33 | — | — | missing_source |
-| 禅光药师佛 | 卷四 | 55 | — | — | missing_source |
-| 禅光药 | 卷四 | 33 | — | — | missing_source |
-| 禅明药师佛 | 卷四 | 55 | — | — | missing_source |
-| 禅明药 | 卷四 | 33 | — | — | missing_source |
-| 宝塔药方 | 卷四 | 55 | — | — | missing_source |
-| 宝塔药 | 卷四 | 33 | — | — | missing_source |
-| 塔药方 | 卷四 | 33 | — | — | missing_source |
-| 医方王 | 卷四 | 55 | — | — | missing_source |
-| 十方医王 | 卷四 | 70 | — | — | missing_source |
-| 十方医 | 卷四 | 42 | — | — | missing_source |
-| 方医王 | 卷四 | 42 | — | — | missing_source |
-| 大师医王 | 卷四 | 70 | — | — | missing_source |
-| 大师 | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match |
-| 大师医 | 卷四 | 42 | — | — | missing_source |
-| 师医王 | 卷四 | 42 | — | — | missing_source |
-| 医家大圣 | 卷四 | 55 | — | — | missing_source |
-| 医家大 | 卷四 | 33 | — | — | missing_source |
-| 家大圣 | 卷四 | 33 | — | — | missing_source |
-| 治疗诸病 | 卷四 | 55 | — | — | missing_source |
-| 治疗诸 | 卷四 | 33 | — | — | missing_source |
-| 疗诸病 | 卷四 | 33 | — | — | missing_source |
-| 破除疾病 | 卷四 | 55 | — | — | missing_source |
-| 破除疾 | 卷四 | 33 | — | — | missing_source |
-| 除疾病 | 卷四 | 33 | — | — | missing_source |
-| 治愈众病 | 卷四 | 55 | — | — | missing_source |
-| 治愈众 | 卷四 | 33 | — | — | missing_source |
-| 愈众病 | 卷四 | 33 | — | — | missing_source |
-| 解诸患病 | 卷四 | 55 | — | — | missing_source |
-| 解诸 | 卷四 | 5 | — | — | missing_source |
-| 解诸患 | 卷四 | 33 | — | — | missing_source |
-| 诸患病 | 卷四 | 33 | — | — | missing_source |
-| 药草随生 | 卷四 | 45 | — | — | missing_source |
-| 药草随 | 卷四 | 27 | — | — | missing_source |
-| 草随生 | 卷四 | 27 | — | — | missing_source |
-| 药王树 | 卷四 | 55 | — | — | missing_source |
-| 药王香 | 卷四 | 45 | — | — | missing_source |
-| 药灌顶 | 卷四 | 55 | — | — | missing_source |
-| 灌顶 | 卷五 | 45 | — | — | missing_source |
-| 灌顶 | 卷十三 | 45 | T1911 卷首“门人灌顶记”可复查臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match |
-| 药师七佛 | 卷四 | 70 | — | — | missing_source |
-| 药师七 | 卷四 | 42 | — | — | missing_source |
-| 师七佛 | 卷四 | 42 | — | — | missing_source |
-| 药师宝刹 | 卷四 | 55 | — | — | missing_source |
-| 药师宝 | 卷四 | 33 | — | — | missing_source |
-| 师宝刹 | 卷四 | 33 | — | — | missing_source |
-| 药师净域 | 卷四 | 55 | — | — | missing_source |
-| 药师净 | 卷四 | 33 | — | — | missing_source |
-| 师净域 | 卷四 | 33 | — | — | missing_source |
-| 药师净界 | 卷四 | 55 | — | — | missing_source |
-| 师净界 | 卷四 | 33 | — | — | missing_source |
-| 药师化生 | 卷四 | 55 | — | — | missing_source |
-| 药师化 | 卷四 | 33 | — | — | missing_source |
-| 师化生 | 卷四 | 33 | — | — | missing_source |
-| 大药王界 | 卷四 | 55 | — | — | missing_source |
-| 大药王 | 卷四 | 33 | — | — | missing_source |
-| 药王界 | 卷四 | 33 | — | — | missing_source |
-| 药王国土 | 卷四 | 55 | — | — | missing_source |
-| 药王国 | 卷四 | 33 | — | — | missing_source |
-| 王国土 | 卷四 | 33 | — | — | missing_source |
-| 药香遍国 | 卷四 | 45 | — | — | missing_source |
-| 药香遍 | 卷四 | 27 | — | — | missing_source |
-| 药气普熏 | 卷四 | 45 | — | — | missing_source |
-| 药气普 | 卷四 | 27 | — | — | missing_source |
-| 出药供具 | 卷四 | 45 | — | — | missing_source |
-| 出药供 | 卷四 | 27 | — | — | missing_source |
-| 药供具 | 卷四 | 27 | — | — | missing_source |
-| 药光普照 | 卷四 | 55 | — | — | missing_source |
-| 药光普 | 卷四 | 33 | — | — | missing_source |
-| 青琉璃光 | 卷四 | 70 | — | — | missing_source |
-| 青琉璃 | 卷四 | 42 | — | — | missing_source |
-| 琉璃明界 | 卷四 | 70 | — | — | missing_source |
-| 琉璃明 | 卷四 | 42 | — | — | missing_source |
-| 璃明界 | 卷四 | 42 | — | — | missing_source |
-| 藥師佛 | 卷四 | 75 | — | — | missing_source |
-| 藥師 | 卷四 | 5 | — | — | missing_source |
-| 師佛 | 卷四 | 5 | — | — | missing_source |
-| 藥師如來 | 卷四 | 75 | — | — | missing_source |
-| 藥師如 | 卷四 | 45 | — | — | missing_source |
-| 如來 | 卷四 | 5 | — | — | missing_source |
-| 師如來 | 卷四 | 45 | — | — | missing_source |
-| 藥師琉璃光佛 | 卷四 | 75 | — | — | missing_source |
-| 藥師琉 | 卷四 | 45 | — | — | missing_source |
-| 藥師琉璃光如來 | 卷四 | 75 | — | — | missing_source |
-| 光如來 | 卷四 | 45 | — | — | missing_source |
-| 瑠璃光佛 | 卷四 | 70 | — | — | missing_source |
-| 瑠璃 | 卷四 | 5 | — | — | missing_source |
-| 瑠璃光 | 卷四 | 42 | — | — | missing_source |
-| 醫王佛 | 卷四 | 75 | — | — | missing_source |
-| 醫王 | 卷四 | 5 | — | — | missing_source |
-| 醫王如來 | 卷四 | 75 | — | — | missing_source |
-| 醫王如 | 卷四 | 45 | — | — | missing_source |
-| 王如來 | 卷四 | 45 | — | — | missing_source |
-| 藥王佛 | 卷四 | 70 | — | — | missing_source |
-| 藥王 | 卷四 | 5 | — | — | missing_source |
-| 上藥王佛 | 卷四 | 70 | — | — | missing_source |
-| 上藥 | 卷四 | 5 | — | — | missing_source |
-| 上藥王 | 卷四 | 42 | — | — | missing_source |
-| 無垢光佛 | 卷四 | 70 | — | — | missing_source |
-| 無垢光佛（药师语境） | 卷四 | 70 | — | — | missing_source |
-| 無垢 | 卷四 | 5 | — | — | missing_source |
-| 無垢光 | 卷四 | 42 | — | — | missing_source |
-| 淨光佛 | 卷四 | 70 | — | — | missing_source |
-| 淨光佛（药师语境） | 卷四 | 70 | — | — | missing_source |
-| 淨光 | 卷四 | 5 | — | — | missing_source |
-| 无垢醫王 | 卷四 | 70 | — | — | missing_source |
-| 无垢醫 | 卷四 | 42 | — | — | missing_source |
-| 垢醫王 | 卷四 | 42 | — | — | missing_source |
-| 大醫王 | 卷四 | 75 | — | — | missing_source |
-| 大醫 | 卷四 | 5 | — | — | missing_source |
-| 大愈醫佛 | 卷四 | 70 | — | — | missing_source |
-| 大愈 | 卷四 | 5 | — | — | missing_source |
-| 大愈醫 | 卷四 | 42 | — | — | missing_source |
-| 醫佛 | 卷四 | 5 | — | — | missing_source |
-| 愈醫佛 | 卷四 | 42 | — | — | missing_source |
-| 大醫世尊 | 卷四 | 70 | — | — | missing_source |
-| 大醫世 | 卷四 | 42 | — | — | missing_source |
-| 醫世尊 | 卷四 | 42 | — | — | missing_source |
-| 大藥師佛 | 卷四 | 75 | — | — | missing_source |
-| 大藥 | 卷四 | 5 | — | — | missing_source |
-| 大藥師 | 卷四 | 45 | — | — | missing_source |
-| 瑠璃界佛 | 卷四 | 70 | — | — | missing_source |
-| 瑠璃界 | 卷四 | 42 | — | — | missing_source |
-| 界佛 | 卷四 | 5 | — | — | missing_source |
-| 璃界佛 | 卷四 | 42 | — | — | missing_source |
-| 瑠璃王佛 | 卷四 | 70 | — | — | missing_source |
-| 瑠璃王 | 卷四 | 42 | — | — | missing_source |
-| 璃王佛 | 卷四 | 42 | — | — | missing_source |
-| 大光醫王 | 卷四 | 70 | — | — | missing_source |
-| 大光醫 | 卷四 | 42 | — | — | missing_source |
-| 光醫王 | 卷四 | 42 | — | — | missing_source |
-| 明光藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 明光藥 | 卷四 | 42 | — | — | missing_source |
-| 吉祥藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 吉祥藥 | 卷四 | 42 | — | — | missing_source |
-| 無畏藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 無畏 | 卷四 | 5 | — | — | missing_source |
-| 無畏藥 | 卷四 | 42 | — | — | missing_source |
-| 延命藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 延命藥 | 卷四 | 42 | — | — | missing_source |
-| 長壽藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 長壽藥 | 卷四 | 42 | — | — | missing_source |
-| 解病藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 解病 | 卷四 | 5 | — | — | missing_source |
-| 解病藥 | 卷四 | 42 | — | — | missing_source |
-| 破病藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 破病 | 卷四 | 5 | — | — | missing_source |
-| 破病藥 | 卷四 | 42 | — | — | missing_source |
-| 消災藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 消災藥 | 卷四 | 42 | — | — | missing_source |
-| 除厄藥師佛 | 卷四 | 70 | — | — | missing_source |
-| 除厄 | 卷四 | 5 | — | — | missing_source |
-| 除厄藥 | 卷四 | 42 | — | — | missing_source |
-| 消災延壽佛 | 卷四 | 70 | — | — | missing_source |
-| 消災延 | 卷四 | 42 | — | — | missing_source |
-| 壽佛 | 卷四 | 5 | — | — | missing_source |
-| 延壽佛 | 卷四 | 42 | — | — | missing_source |
-| 延壽光佛 | 卷四 | 70 | — | — | missing_source |
-| 延壽光 | 卷四 | 42 | — | — | missing_source |
-| 壽光佛 | 卷四 | 42 | — | — | missing_source |
-| 青琉璃世界 | 卷四 | 80 | — | — | missing_source |
-| 净琉璃界 | 卷四 | 80 | — | — | missing_source |
-| 净琉璃 | 卷四 | 48 | — | — | missing_source |
-| 琉璃光界 | 卷四 | 75 | — | — | missing_source |
-| 璃光界 | 卷四 | 45 | — | — | missing_source |
-| 琉璃国土 | 卷四 | 75 | — | — | missing_source |
-| 琉璃国 | 卷四 | 45 | — | — | missing_source |
-| 璃国土 | 卷四 | 45 | — | — | missing_source |
-| 琉璃宝界 | 卷四 | 75 | — | — | missing_source |
-| 琉璃宝 | 卷四 | 45 | — | — | missing_source |
-| 璃宝界 | 卷四 | 45 | — | — | missing_source |
-| 琉璃光明界 | 卷四 | 75 | — | — | missing_source |
-| 七宝琉璃地 | 卷四 | 70 | — | — | missing_source |
-| 七宝琉 | 卷四 | 42 | — | — | missing_source |
-| 琉璃地 | 卷四 | 42 | — | — | missing_source |
-| 琉璃清净地 | 卷四 | 70 | — | — | missing_source |
-| 清净地 | 卷四 | 42 | — | — | missing_source |
-| 琉璃明净界 | 卷四 | 70 | — | — | missing_source |
-| 明净界 | 卷四 | 42 | — | — | missing_source |
-| 琉璃妙色国 | 卷四 | 70 | — | — | missing_source |
-| 琉璃妙 | 卷四 | 42 | — | — | missing_source |
-| 妙色国 | 卷四 | 42 | — | — | missing_source |
-| 琉璃宝土 | 卷四 | 70 | — | — | missing_source |
-| 宝土 | 卷四 | 5 | — | — | missing_source |
-| 璃宝土 | 卷四 | 42 | — | — | missing_source |
-| 世界如琉璃 | 卷四 | 70 | — | — | missing_source |
-| 世界如 | 卷四 | 42 | — | — | missing_source |
-| 国土如琉璃 | 卷四 | 70 | — | — | missing_source |
-| 国土如 | 卷四 | 42 | — | — | missing_source |
-| 琉璃遍照 | 卷四 | 55 | — | — | missing_source |
-| 琉璃遍 | 卷四 | 33 | — | — | missing_source |
-| 璃遍照 | 卷四 | 33 | — | — | missing_source |
-| 琉璃光色 | 卷四 | 55 | — | — | missing_source |
-| 璃光色 | 卷四 | 33 | — | — | missing_source |
-| 琉璃光照十方 | 卷四 | 55 | — | — | missing_source |
-| 琉璃光妙色 | 卷四 | 55 | — | — | missing_source |
-| 光妙色 | 卷四 | 33 | — | — | missing_source |
-| 琉璃清净光 | 卷四 | 55 | — | — | missing_source |
-| 光明无边 | 卷四 | 70 | — | — | missing_source |
-| 明无边 | 卷四 | 42 | — | — | missing_source |
-| 无量智慧光 | 卷四 | 70 | — | — | missing_source |
-| 无量智 | 卷四 | 42 | — | — | missing_source |
-| 无量无边光 | 卷四 | 70 | — | — | missing_source |
-| 无量无 | 卷四 | 42 | — | — | missing_source |
-| 无边光 | 卷四 | 42 | — | — | missing_source |
-| 遍照十方光 | 卷四 | 70 | — | — | missing_source |
-| 清净光明 | 卷四 | 55 | — | — | missing_source |
-| 净光明 | 卷四 | 33 | — | — | missing_source |
-| 净光普照 | 卷四 | 55 | — | — | missing_source |
-| 净光普 | 卷四 | 33 | — | — | missing_source |
-| 破暗光 | 卷四 | 55 | — | — | missing_source |
-| 身光炽然 | 卷四 | 55 | — | — | missing_source |
-| 身光炽 | 卷四 | 33 | — | — | missing_source |
-| 光炽然 | 卷四 | 33 | — | — | missing_source |
-| 破闇显明 | 卷四 | 55 | — | — | missing_source |
-| 破闇显 | 卷四 | 33 | — | — | missing_source |
-| 闇显明 | 卷四 | 33 | — | — | missing_source |
-| 光明朗彻 | 卷四 | 45 | — | — | missing_source |
-| 光明朗 | 卷四 | 27 | — | — | missing_source |
-| 明朗彻 | 卷四 | 27 | — | — | missing_source |
-| 光照普明 | 卷四 | 45 | — | — | missing_source |
-| 光照普 | 卷四 | 27 | — | — | missing_source |
-| 照普明 | 卷四 | 27 | — | — | missing_source |
-| 光照界内外 | 卷四 | 45 | — | — | missing_source |
-| 界内外 | 卷四 | 27 | — | — | missing_source |
-| 光色映国 | 卷四 | 45 | — | — | missing_source |
-| 光色映 | 卷四 | 27 | — | — | missing_source |
-| 色映国 | 卷四 | 27 | — | — | missing_source |
-| 光如宝镜 | 卷四 | 45 | — | — | missing_source |
-| 光如宝 | 卷四 | 27 | — | — | missing_source |
-| 光不动摇 | 卷四 | 45 | — | — | missing_source |
-| 光不 | 卷四 | 27 | — | — | missing_source |
-| 光不动 | 卷四 | 27 | — | — | missing_source |
-| 动摇 | 卷四 | 27 | — | — | missing_source |
-| 不动摇 | 卷四 | 27 | — | — | missing_source |
-| 光辉炽盛 | 卷四 | 45 | — | — | missing_source |
-| 光辉炽 | 卷四 | 27 | — | — | missing_source |
-| 辉炽盛 | 卷四 | 27 | — | — | missing_source |
-| 光耀世界 | 卷四 | 45 | — | — | missing_source |
-| 光耀世 | 卷四 | 27 | — | — | missing_source |
-| 耀世界 | 卷四 | 27 | — | — | missing_source |
-| 光明满国 | 卷四 | 45 | — | — | missing_source |
-| 光明满 | 卷四 | 27 | — | — | missing_source |
-| 明满国 | 卷四 | 27 | — | — | missing_source |
-| 地无丘陵 | 卷四 | 55 | — | — | missing_source |
-| 地无丘 | 卷四 | 33 | — | — | missing_source |
-| 丘陵 | 卷四 | 5 | — | — | missing_source |
-| 无丘陵 | 卷四 | 33 | — | — | missing_source |
-| 地皆平等 | 卷四 | 55 | — | — | missing_source |
-| 地皆平 | 卷四 | 33 | — | — | missing_source |
-| 皆平等 | 卷四 | 33 | — | — | missing_source |
-| 地若宝镜 | 卷四 | 55 | — | — | missing_source |
-| 地若宝 | 卷四 | 33 | — | — | missing_source |
-| 若宝镜 | 卷四 | 33 | — | — | missing_source |
-| 地作琉璃色 | 卷四 | 70 | — | — | missing_source |
-| 地作琉 | 卷四 | 42 | — | — | missing_source |
-| 琉璃色 | 卷四 | 42 | — | — | missing_source |
-| 地无荆棘 | 卷四 | 55 | — | — | missing_source |
-| 地无荆 | 卷四 | 33 | — | — | missing_source |
-| 荆棘 | 卷四 | 5 | — | — | missing_source |
-| 无荆棘 | 卷四 | 33 | — | — | missing_source |
-| 无瓦砾石 | 卷四 | 55 | — | — | missing_source |
-| 无瓦 | 卷四 | 5 | — | — | missing_source |
-| 无瓦砾 | 卷四 | 33 | — | — | missing_source |
-| 砾石 | 卷四 | 5 | — | — | missing_source |
-| 瓦砾石 | 卷四 | 33 | — | — | missing_source |
-| 柔软宝地 | 卷四 | 55 | — | — | missing_source |
-| 柔软宝 | 卷四 | 33 | — | — | missing_source |
-| 软宝地 | 卷四 | 33 | — | — | missing_source |
-| 地如天锦 | 卷四 | 45 | — | — | missing_source |
-| 地如天 | 卷四 | 27 | — | — | missing_source |
-| 天锦 | 卷四 | 27 | — | — | missing_source |
-| 如天锦 | 卷四 | 27 | — | — | missing_source |
-| 地出宝光 | 卷四 | 55 | — | — | missing_source |
-| 地出宝 | 卷四 | 33 | — | — | missing_source |
-| 出宝光 | 卷四 | 33 | — | — | missing_source |
-| 地色明净 | 卷四 | 45 | — | — | missing_source |
-| 地色明 | 卷四 | 27 | — | — | missing_source |
-| 色明净 | 卷四 | 27 | — | — | missing_source |
-| 地若金刚 | 卷四 | 45 | — | — | missing_source |
-| 地若金 | 卷四 | 27 | — | — | missing_source |
-| 若金刚 | 卷四 | 27 | — | — | missing_source |
-| 地光朗然 | 卷四 | 45 | — | — | missing_source |
-| 地光朗 | 卷四 | 27 | — | — | missing_source |
-| 光朗然 | 卷四 | 27 | — | — | missing_source |
-| 地华香洁 | 卷四 | 45 | — | — | missing_source |
-| 地华香 | 卷四 | 27 | — | — | missing_source |
-| 华香洁 | 卷四 | 27 | — | — | missing_source |
-| 随步生华 | 卷四 | 45 | — | — | missing_source |
-| 随步生 | 卷四 | 27 | — | — | missing_source |
-| 步生华 | 卷四 | 27 | — | — | missing_source |
-| 脚触生花 | 卷四 | 45 | — | — | missing_source |
-| 脚触生 | 卷四 | 27 | — | — | missing_source |
-| 触生花 | 卷四 | 27 | — | — | missing_source |
-| 地华遍国 | 卷四 | 45 | — | — | missing_source |
-| 地华遍 | 卷四 | 27 | — | — | missing_source |
-| 地如瑠璃 | 卷四 | 55 | — | — | missing_source |
-| 地如瑠 | 卷四 | 33 | — | — | missing_source |
-| 如瑠璃 | 卷四 | 33 | — | — | missing_source |
-| 地明彻净 | 卷四 | 45 | — | — | missing_source |
-| 地明彻 | 卷四 | 27 | — | — | missing_source |
-| 明彻净 | 卷四 | 27 | — | — | missing_source |
-| 七宝树 | 卷四 | 70 | — | — | missing_source |
-| 宝树放光 | 卷四 | 55 | — | — | missing_source |
-| 宝树放 | 卷四 | 33 | — | — | missing_source |
-| 树放光 | 卷四 | 33 | — | — | missing_source |
-| 宝树香气 | 卷四 | 45 | — | — | missing_source |
-| 树香气 | 卷四 | 27 | — | — | missing_source |
-| 宝树影交辉 | 卷四 | 45 | — | — | missing_source |
-| 宝树影 | 卷四 | 27 | — | — | missing_source |
-| 宝树无量 | 卷四 | 55 | — | — | missing_source |
-| 宝树无 | 卷四 | 33 | — | — | missing_source |
-| 树无量 | 卷四 | 33 | — | — | missing_source |
-| 宝树化音 | 卷四 | 55 | — | — | missing_source |
-| 宝树化 | 卷四 | 33 | — | — | missing_source |
-| 树化音 | 卷四 | 33 | — | — | missing_source |
-| 宝林普现 | 卷四 | 55 | — | — | missing_source |
-| 宝林普 | 卷四 | 33 | — | — | missing_source |
-| 林普现 | 卷四 | 33 | — | — | missing_source |
-| 宝林互照 | 卷四 | 45 | — | — | missing_source |
-| 宝林互 | 卷四 | 27 | — | — | missing_source |
-| 林互照 | 卷四 | 27 | — | — | missing_source |
-| 树风宣法 | 卷四 | 55 | — | — | missing_source |
-| 树风宣 | 卷四 | 33 | — | — | missing_source |
-| 树风香洁 | 卷四 | 45 | — | — | missing_source |
-| 树风香 | 卷四 | 27 | — | — | missing_source |
-| 风香洁 | 卷四 | 27 | — | — | missing_source |
-| 树风清凉 | 卷四 | 45 | — | — | missing_source |
-| 风清凉 | 卷四 | 27 | — | — | missing_source |
-| 树枝放光 | 卷四 | 55 | — | — | missing_source |
-| 树枝放 | 卷四 | 33 | — | — | missing_source |
-| 枝放光 | 卷四 | 33 | — | — | missing_source |
-| 树上宝盖 | 卷四 | 55 | — | — | missing_source |
-| 树上宝 | 卷四 | 33 | — | — | missing_source |
-| 上宝盖 | 卷四 | 33 | — | — | missing_source |
-| 树有宝珠 | 卷四 | 55 | — | — | missing_source |
-| 树有宝 | 卷四 | 33 | — | — | missing_source |
-| 宝珠 | 卷五 | 45 | — | — | missing_source |
-| 宝珠 | 卷九 | 42 | — | — | missing_source |
-| 有宝珠 | 卷四 | 33 | — | — | missing_source |
-| 宝华树 | 卷四 | 55 | — | — | missing_source |
-| 宝香树 | 卷四 | 45 | — | — | missing_source |
-| 宝花树 | 卷四 | 45 | — | — | missing_source |
-| 宝叶散花 | 卷四 | 45 | — | — | missing_source |
-| 宝叶散 | 卷四 | 27 | — | — | missing_source |
-| 叶散花 | 卷四 | 27 | — | — | missing_source |
-| 宝华遍国 | 卷四 | 45 | — | — | missing_source |
-| 宝华遍 | 卷四 | 27 | — | — | missing_source |
-| 树放宝音 | 卷四 | 55 | — | — | missing_source |
-| 树放宝 | 卷四 | 33 | — | — | missing_source |
-| 放宝音 | 卷四 | 33 | — | — | missing_source |
-| 树吐妙香 | 卷四 | 45 | — | — | missing_source |
-| 树吐妙 | 卷四 | 27 | — | — | missing_source |
-| 吐妙香 | 卷四 | 27 | — | — | missing_source |
-| 宝池清净 | 卷四 | 55 | — | — | missing_source |
-| 宝池清 | 卷四 | 33 | — | — | missing_source |
-| 池清净 | 卷四 | 33 | — | — | missing_source |
-| 宝池光明 | 卷四 | 55 | — | — | missing_source |
-| 宝池光 | 卷四 | 33 | — | — | missing_source |
-| 池光明 | 卷四 | 33 | — | — | missing_source |
-| 宝池微妙 | 卷四 | 45 | — | — | missing_source |
-| 宝池微 | 卷四 | 27 | — | — | missing_source |
-| 池微妙 | 卷四 | 27 | — | — | missing_source |
-| 池水八音 | 卷四 | 55 | — | — | missing_source |
-| 池水八 | 卷四 | 33 | — | — | missing_source |
-| 八音 | 卷四 | 5 | — | — | missing_source |
-| 水八音 | 卷四 | 33 | — | — | missing_source |
-| 池水柔和 | 卷四 | 45 | — | — | missing_source |
-| 池水柔 | 卷四 | 27 | — | — | missing_source |
-| 水柔和 | 卷四 | 27 | — | — | missing_source |
-| 池水清凉 | 卷四 | 45 | — | — | missing_source |
-| 池水清 | 卷四 | 27 | — | — | missing_source |
-| 水清凉 | 卷四 | 27 | — | — | missing_source |
-| 池底金沙 | 卷四 | 70 | — | — | missing_source |
-| 底金沙 | 卷四 | 42 | — | — | missing_source |
-| 池底珠宝 | 卷四 | 45 | — | — | missing_source |
-| 池底珠 | 卷四 | 27 | — | — | missing_source |
-| 珠宝 | 卷四 | 27 | — | — | missing_source |
-| 底珠宝 | 卷四 | 27 | — | — | missing_source |
-| 池中莲华 | 卷四 | 55 | — | — | missing_source |
-| 池中莲 | 卷四 | 33 | — | — | missing_source |
-| 中莲华 | 卷四 | 33 | — | — | missing_source |
-| 池上宝盖 | 卷四 | 55 | — | — | missing_source |
-| 池上宝 | 卷四 | 33 | — | — | missing_source |
-| 池边宝树 | 卷四 | 55 | — | — | missing_source |
-| 池边宝 | 卷四 | 33 | — | — | missing_source |
-| 边宝树 | 卷四 | 33 | — | — | missing_source |
-| 宝池庄严 | 卷四 | 55 | — | — | missing_source |
-| 宝池庄 | 卷四 | 33 | — | — | missing_source |
-| 池庄严 | 卷四 | 33 | — | — | missing_source |
-| 池中光影 | 卷四 | 45 | — | — | missing_source |
-| 池中光 | 卷四 | 27 | — | — | missing_source |
-| 中光影 | 卷四 | 27 | — | — | missing_source |
-| 池水映光 | 卷四 | 45 | — | — | missing_source |
-| 池水映 | 卷四 | 27 | — | — | missing_source |
-| 水映光 | 卷四 | 27 | — | — | missing_source |
-| 池水妙香 | 卷四 | 45 | — | — | missing_source |
-| 池水妙 | 卷四 | 27 | — | — | missing_source |
-| 水妙香 | 卷四 | 27 | — | — | missing_source |
-| 池水散花 | 卷四 | 45 | — | — | missing_source |
-| 池水散 | 卷四 | 27 | — | — | missing_source |
-| 水散花 | 卷四 | 27 | — | — | missing_source |
-| 池水随念起音 | 卷四 | 45 | — | — | missing_source |
-| 池水随 | 卷四 | 27 | — | — | missing_source |
-| 念起音 | 卷四 | 27 | — | — | missing_source |
-| 宝池宝音 | 卷四 | 55 | — | — | missing_source |
-| 宝池宝 | 卷四 | 33 | — | — | missing_source |
-| 池宝音 | 卷四 | 33 | — | — | missing_source |
-| 宝盖重重 | 卷四 | 55 | — | — | missing_source |
-| 宝盖重 | 卷四 | 33 | — | — | missing_source |
-| 重重 | 卷四 | 5 | — | — | missing_source |
-| 盖重重 | 卷四 | 33 | — | — | missing_source |
-| 宝盖垂珠 | 卷四 | 45 | — | — | missing_source |
-| 宝盖垂 | 卷四 | 27 | — | — | missing_source |
-| 盖垂珠 | 卷四 | 27 | — | — | missing_source |
-| 宝盖行列 | 卷四 | 45 | — | — | missing_source |
-| 宝盖行 | 卷四 | 27 | — | — | missing_source |
-| 盖行列 | 卷四 | 27 | — | — | missing_source |
-| 宝盖放光 | 卷四 | 55 | — | — | missing_source |
-| 宝盖放 | 卷四 | 33 | — | — | missing_source |
-| 盖放光 | 卷四 | 33 | — | — | missing_source |
-| 宝盖覆国 | 卷四 | 55 | — | — | missing_source |
-| 宝盖覆 | 卷四 | 33 | — | — | missing_source |
-| 覆国 | 卷四 | 5 | — | — | missing_source |
-| 盖覆国 | 卷四 | 33 | — | — | missing_source |
-| 宝盖宣法音 | 卷四 | 55 | — | — | missing_source |
-| 宝盖宣 | 卷四 | 33 | — | — | missing_source |
-| 宣法音 | 卷四 | 33 | — | — | missing_source |
-| 宝盖出香 | 卷四 | 45 | — | — | missing_source |
-| 宝盖出 | 卷四 | 27 | — | — | missing_source |
-| 盖出香 | 卷四 | 27 | — | — | missing_source |
-| 宝铃清音 | 卷四 | 45 | — | — | missing_source |
-| 宝铃清 | 卷四 | 27 | — | — | missing_source |
-| 铃清音 | 卷四 | 27 | — | — | missing_source |
-| 宝音宣法 | 卷四 | 55 | — | — | missing_source |
-| 宝音宣 | 卷四 | 33 | — | — | missing_source |
-| 宝音演妙 | 卷四 | 55 | — | — | missing_source |
-| 宝音演 | 卷四 | 33 | — | — | missing_source |
-| 演妙 | 卷四 | 5 | — | — | missing_source |
-| 音演妙 | 卷四 | 33 | — | — | missing_source |
-| 宝音遍国 | 卷四 | 45 | — | — | missing_source |
-| 宝音遍 | 卷四 | 27 | — | — | missing_source |
-| 音遍国 | 卷四 | 27 | — | — | missing_source |
-| 宝音清净 | 卷四 | 45 | — | — | missing_source |
-| 宝音清 | 卷四 | 27 | — | — | missing_source |
-| 音清净 | 卷四 | 27 | — | — | missing_source |
-| 宝音柔和 | 卷四 | 45 | — | — | missing_source |
-| 宝音柔 | 卷四 | 27 | — | — | missing_source |
-| 音柔和 | 卷四 | 27 | — | — | missing_source |
-| 宝风散香 | 卷四 | 45 | — | — | missing_source |
-| 宝风散 | 卷四 | 27 | — | — | missing_source |
-| 风散香 | 卷四 | 27 | — | — | missing_source |
-| 宝光照界 | 卷四 | 55 | — | — | missing_source |
-| 宝光照 | 卷四 | 33 | — | — | missing_source |
-| 清净药界 | 卷四 | 70 | — | — | missing_source |
-| 清净药 | 卷四 | 42 | — | — | missing_source |
-| 净药界 | 卷四 | 42 | — | — | missing_source |
-| 药师净国 | 卷四 | 70 | — | — | missing_source |
-| 师净国 | 卷四 | 42 | — | — | missing_source |
-| 琉璃净界 | 卷四 | 70 | — | — | missing_source |
-| 琉璃净 | 卷四 | 42 | — | — | missing_source |
-| 璃净界 | 卷四 | 42 | — | — | missing_source |
-| 清净光界 | 卷四 | 55 | — | — | missing_source |
-| 净光界 | 卷四 | 33 | — | — | missing_source |
-| 宝光净界 | 卷四 | 55 | — | — | missing_source |
-| 宝光净 | 卷四 | 33 | — | — | missing_source |
-| 光净界 | 卷四 | 33 | — | — | missing_source |
-| 明净药界 | 卷四 | 55 | — | — | missing_source |
-| 明净药 | 卷四 | 33 | — | — | missing_source |
-| 光净药界 | 卷四 | 55 | — | — | missing_source |
-| 光净药 | 卷四 | 33 | — | — | missing_source |
-| 明净药国 | 卷四 | 55 | — | — | missing_source |
-| 净药国 | 卷四 | 33 | — | — | missing_source |
-| 日光遍照菩萨 | 卷四 | 75 | — | — | missing_source |
-| 日光遍 | 卷四 | 45 | — | — | missing_source |
-| 照菩萨 | 卷四 | 45 | — | — | missing_source |
-| 日光菩萨 | 卷四 | 30 | — | — | missing_source |
-| 日光菩 | 卷四 | 45 | — | — | missing_source |
-| 光菩萨 | 卷四 | 45 | — | — | missing_source |
-| 日曜光菩萨 | 卷四 | 70 | — | — | missing_source |
-| 日曜光 | 卷四 | 42 | — | — | missing_source |
-| 日照菩萨 | 卷四 | 70 | — | — | missing_source |
-| 日照菩 | 卷四 | 42 | — | — | missing_source |
-| 日明菩萨 | 卷四 | 70 | — | — | missing_source |
-| 日明菩 | 卷四 | 42 | — | — | missing_source |
-| 明菩萨 | 卷四 | 42 | — | — | missing_source |
-| 日光遍照王 | 卷四 | 75 | — | — | missing_source |
-| 照王 | 卷四 | 5 | — | — | missing_source |
-| 遍照王 | 卷四 | 45 | — | — | missing_source |
-| 身如日轮 | 卷四 | 55 | — | — | missing_source |
-| 身如日 | 卷四 | 33 | — | — | missing_source |
-| 如日轮 | 卷四 | 33 | — | — | missing_source |
-| 光如日色 | 卷四 | 55 | — | — | missing_source |
-| 光如日 | 卷四 | 33 | — | — | missing_source |
-| 如日色 | 卷四 | 33 | — | — | missing_source |
-| 光明遍照 | 卷四 | 55 | — | — | missing_source |
-| 明遍照 | 卷四 | 33 | — | — | missing_source |
-| 放大日光 | 卷四 | 55 | — | — | missing_source |
-| 放大日 | 卷四 | 33 | — | — | missing_source |
-| 大日光 | 卷四 | 33 | — | — | missing_source |
-| 日轮光明 | 卷四 | 55 | — | — | missing_source |
-| 日轮光 | 卷四 | 33 | — | — | missing_source |
-| 轮光明 | 卷四 | 33 | — | — | missing_source |
-| 身放日光 | 卷四 | 55 | — | — | missing_source |
-| 身放日 | 卷四 | 33 | — | — | missing_source |
-| 放日光 | 卷四 | 33 | — | — | missing_source |
-| 日光照国 | 卷四 | 55 | — | — | missing_source |
-| 日光照 | 卷四 | 33 | — | — | missing_source |
-| 光照国 | 卷四 | 33 | — | — | missing_source |
-| 日光普照 | 卷四 | 55 | — | — | missing_source |
-| 日光普 | 卷四 | 33 | — | — | missing_source |
-| 日色光明 | 卷四 | 45 | — | — | missing_source |
-| 日色光 | 卷四 | 27 | — | — | missing_source |
-| 色光明 | 卷四 | 27 | — | — | missing_source |
-| 手持莲花 | 卷四 | 35 | — | — | missing_source |
-| 手持莲花（赤色） | 卷四 | 35 | — | — | missing_source |
-| 手持 | 卷五 | 5 | — | — | missing_source |
-| 手持莲 | 卷四 | 21 | — | — | missing_source |
-| 莲花 | 卷五 | 39 | — | — | missing_source |
-| 持莲花 | 卷四 | 21 | — | — | missing_source |
-| 持宝珠 | 卷四 | 35 | — | — | missing_source |
-| 持宝珠（暖色） | 卷四 | 35 | — | — | missing_source |
-| 持宝 | 卷四 | 21 | — | — | missing_source |
-| 持宝 | 卷五 | 45 | — | — | missing_source |
-| 持日轮 | 卷四 | 45 | — | — | missing_source |
-| 背光呈日轮型 | 卷四 | 45 | — | — | missing_source |
-| 背光呈 | 卷四 | 27 | — | — | missing_source |
-| 日轮型 | 卷四 | 27 | — | — | missing_source |
-| 身色赤金 | 卷四 | 35 | — | — | missing_source |
-| 身色赤 | 卷四 | 21 | — | — | missing_source |
-| 色赤金 | 卷四 | 21 | — | — | missing_source |
-| 日轮宝冠 | 卷四 | 45 | — | — | missing_source |
-| 日轮宝 | 卷四 | 27 | — | — | missing_source |
-| 宝冠 | 卷五 | 27 | — | — | missing_source |
-| 宝冠 | 卷七 | 42 | — | — | missing_source |
-| 轮宝冠 | 卷四 | 27 | — | — | missing_source |
-| 日辉环绕 | 卷四 | 35 | — | — | missing_source |
-| 日辉环 | 卷四 | 21 | — | — | missing_source |
-| 辉环绕 | 卷四 | 21 | — | — | missing_source |
-| 日光放射纹 | 卷四 | 35 | — | — | missing_source |
-| 日光放 | 卷四 | 21 | — | — | missing_source |
-| 放射纹 | 卷四 | 21 | — | — | missing_source |
-| 日光王 | 卷四 | 55 | — | — | missing_source |
-| 日照王 | 卷四 | 55 | — | — | missing_source |
-| 日明王 | 卷四 | 55 | — | — | missing_source |
-| 明王 | 卷五 | 54 | — | — | missing_source |
-| 日光尊 | 卷四 | 55 | — | — | missing_source |
-| 居左侍者 | 卷四 | 75 | — | — | missing_source |
-| 居左侍者（药师三尊） | 卷四 | 75 | — | — | missing_source |
-| 居左侍 | 卷四 | 45 | — | — | missing_source |
-| 左侍者 | 卷四 | 45 | — | — | missing_source |
-| 左侍日光 | 卷四 | 75 | — | — | missing_source |
-| 左侍日 | 卷四 | 45 | — | — | missing_source |
-| 侍日光 | 卷四 | 45 | — | — | missing_source |
-| 日侍者 | 卷四 | 70 | — | — | missing_source |
-| 日光侍者 | 卷四 | 70 | — | — | missing_source |
-| 日光侍 | 卷四 | 42 | — | — | missing_source |
-| 光侍者 | 卷四 | 42 | — | — | missing_source |
-| 日光立像 | 卷四 | 55 | — | — | missing_source |
-| 日光立 | 卷四 | 33 | — | — | missing_source |
-| 光立像 | 卷四 | 33 | — | — | missing_source |
-| 日光坐像 | 卷四 | 55 | — | — | missing_source |
-| 日光坐 | 卷四 | 33 | — | — | missing_source |
-| 光坐像 | 卷四 | 33 | — | — | missing_source |
-| 日光手印 | 卷四 | 45 | — | — | missing_source |
-| 日光手印（施愿型） | 卷四 | 45 | — | — | missing_source |
-| 日光手 | 卷四 | 27 | — | — | missing_source |
-| 手印 | 卷五 | 5 | — | — | missing_source |
-| 光手印 | 卷四 | 27 | — | — | missing_source |
-| 日光与月光并列 | 卷四 | 75 | — | — | missing_source |
-| 日光与 | 卷四 | 45 | — | — | missing_source |
-| 光并列 | 卷四 | 45 | — | — | missing_source |
-| 日光大士 | 卷四 | 70 | — | — | missing_source |
-| 日光大 | 卷四 | 42 | — | — | missing_source |
-| 光大士 | 卷四 | 42 | — | — | missing_source |
-| 日曜大士 | 卷四 | 70 | — | — | missing_source |
-| 日曜大 | 卷四 | 42 | — | — | missing_source |
-| 曜大士 | 卷四 | 42 | — | — | missing_source |
-| 日明大士 | 卷四 | 55 | — | — | missing_source |
-| 日明大 | 卷四 | 33 | — | — | missing_source |
-| 明大士 | 卷四 | 33 | — | — | missing_source |
-| 日照大士 | 卷四 | 55 | — | — | missing_source |
-| 日照大 | 卷四 | 33 | — | — | missing_source |
-| 照大士 | 卷四 | 33 | — | — | missing_source |
-| 日光普照大士 | 卷四 | 55 | — | — | missing_source |
-| 日照普明大士 | 卷四 | 45 | — | — | missing_source |
-| 日照普 | 卷四 | 27 | — | — | missing_source |
-| 日遍照大士 | 卷四 | 45 | — | — | missing_source |
-| 日遍照 | 卷四 | 27 | — | — | missing_source |
-| 月光遍照菩萨 | 卷四 | 75 | — | — | missing_source |
-| 月光遍 | 卷四 | 45 | — | — | missing_source |
-| 月光菩萨 | 卷四 | 30 | — | — | missing_source |
-| 月光菩 | 卷四 | 45 | — | — | missing_source |
-| 月曜光菩萨 | 卷四 | 70 | — | — | missing_source |
-| 月曜光 | 卷四 | 42 | — | — | missing_source |
-| 月明菩萨 | 卷四 | 70 | — | — | missing_source |
-| 月明菩 | 卷四 | 42 | — | — | missing_source |
-| 月照菩萨 | 卷四 | 70 | — | — | missing_source |
-| 月照菩 | 卷四 | 42 | — | — | missing_source |
-| 月光遍照王 | 卷四 | 75 | — | — | missing_source |
-| 身如月轮 | 卷四 | 55 | — | — | missing_source |
-| 身如月 | 卷四 | 33 | — | — | missing_source |
-| 如月轮 | 卷四 | 33 | — | — | missing_source |
-| 光如月色 | 卷四 | 55 | — | — | missing_source |
-| 光如月 | 卷四 | 33 | — | — | missing_source |
-| 如月色 | 卷四 | 33 | — | — | missing_source |
-| 月轮清净 | 卷四 | 55 | — | — | missing_source |
-| 月轮清 | 卷四 | 33 | — | — | missing_source |
-| 轮清净 | 卷四 | 33 | — | — | missing_source |
-| 月光普照 | 卷四 | 55 | — | — | missing_source |
-| 月光普 | 卷四 | 33 | — | — | missing_source |
-| 月色柔明 | 卷四 | 45 | — | — | missing_source |
-| 月色柔 | 卷四 | 27 | — | — | missing_source |
-| 色柔明 | 卷四 | 27 | — | — | missing_source |
-| 月光清凉 | 卷四 | 55 | — | — | missing_source |
-| 月光清 | 卷四 | 33 | — | — | missing_source |
-| 光清凉 | 卷四 | 33 | — | — | missing_source |
-| 月光遍照 | 卷四 | 55 | — | — | missing_source |
-| 月光柔和 | 卷四 | 45 | — | — | missing_source |
-| 月光柔 | 卷四 | 27 | — | — | missing_source |
-| 光柔和 | 卷四 | 27 | — | — | missing_source |
-| 手持白莲 | 卷四 | 35 | — | — | missing_source |
-| 手持白 | 卷四 | 21 | — | — | missing_source |
-| 持白莲 | 卷四 | 21 | — | — | missing_source |
-| 持宝珠（冷色） | 卷四 | 35 | — | — | missing_source |
-| 持月轮 | 卷四 | 45 | — | — | missing_source |
-| 背光呈月轮型 | 卷四 | 45 | — | — | missing_source |
-| 月轮型 | 卷四 | 27 | — | — | missing_source |
-| 身色白银 | 卷四 | 35 | — | — | missing_source |
-| 身色白 | 卷四 | 21 | — | — | missing_source |
-| 色白银 | 卷四 | 21 | — | — | missing_source |
-| 月轮宝冠 | 卷四 | 45 | — | — | missing_source |
-| 月轮宝 | 卷四 | 27 | — | — | missing_source |
-| 月辉环绕 | 卷四 | 35 | — | — | missing_source |
-| 月辉环 | 卷四 | 21 | — | — | missing_source |
-| 月光放射纹 | 卷四 | 35 | — | — | missing_source |
-| 月光放 | 卷四 | 21 | — | — | missing_source |
-| 月光王 | 卷四 | 55 | — | — | missing_source |
-| 月照王 | 卷四 | 55 | — | — | missing_source |
-| 月明王 | 卷四 | 55 | — | — | missing_source |
-| 月光尊 | 卷四 | 55 | — | — | missing_source |
-| 居右侍者 | 卷四 | 75 | — | — | missing_source |
-| 居右侍者（药师三尊） | 卷四 | 75 | — | — | missing_source |
-| 居右侍 | 卷四 | 45 | — | — | missing_source |
-| 右侍者 | 卷四 | 45 | — | — | missing_source |
-| 右侍月光 | 卷四 | 75 | — | — | missing_source |
-| 右侍月 | 卷四 | 45 | — | — | missing_source |
-| 侍月光 | 卷四 | 45 | — | — | missing_source |
-| 月侍者 | 卷四 | 70 | — | — | missing_source |
-| 月光侍者 | 卷四 | 70 | — | — | missing_source |
-| 月光侍 | 卷四 | 42 | — | — | missing_source |
-| 月光立像 | 卷四 | 55 | — | — | missing_source |
-| 月光立 | 卷四 | 33 | — | — | missing_source |
-| 月光坐像 | 卷四 | 55 | — | — | missing_source |
-| 月光坐 | 卷四 | 33 | — | — | missing_source |
-| 月光手印 | 卷四 | 45 | — | — | missing_source |
-| 月光手印（施愿型） | 卷四 | 45 | — | — | missing_source |
-| 月光手 | 卷四 | 27 | — | — | missing_source |
-| 日月并侍 | 卷四 | 75 | — | — | missing_source |
-| 日月并 | 卷四 | 45 | — | — | missing_source |
-| 月并侍 | 卷四 | 45 | — | — | missing_source |
-| 月光大士 | 卷四 | 70 | — | — | missing_source |
-| 月光大 | 卷四 | 42 | — | — | missing_source |
-| 月曜大士 | 卷四 | 70 | — | — | missing_source |
-| 月曜大 | 卷四 | 42 | — | — | missing_source |
-| 月明大士 | 卷四 | 55 | — | — | missing_source |
-| 月明大 | 卷四 | 33 | — | — | missing_source |
-| 月照大士 | 卷四 | 55 | — | — | missing_source |
-| 月照大 | 卷四 | 33 | — | — | missing_source |
-| 月光普照大士 | 卷四 | 55 | — | — | missing_source |
-| 月照普明大士 | 卷四 | 45 | — | — | missing_source |
-| 月照普 | 卷四 | 27 | — | — | missing_source |
-| 月遍照大士 | 卷四 | 45 | — | — | missing_source |
-| 月遍照 | 卷四 | 27 | — | — | missing_source |
-| 日光月光二菩萨 | 卷四 | 80 | — | — | missing_source |
-| 日光月 | 卷四 | 48 | — | — | missing_source |
-| 日侍・月侍 | 卷四 | 80 | — | — | missing_source |
-| 日侍・ | 卷四 | 48 | — | — | missing_source |
-| ・月侍 | 卷四 | 48 | — | — | missing_source |
-| 日光左侍・月光右侍 | 卷四 | 80 | — | — | missing_source |
-| 日光左 | 卷四 | 48 | — | — | missing_source |
-| 光右侍 | 卷四 | 48 | — | — | missing_source |
-| 宫毘罗 | 卷四 | 80 | — | — | missing_source |
-| 宫毘罗（宫毘罗大将） | 卷四 | 80 | — | — | missing_source |
-| 伐折罗 | 卷四 | 80 | — | — | missing_source |
-| 伐折罗（伐折罗大将） | 卷四 | 80 | — | — | missing_source |
-| 折罗 | 卷五 | 54 | — | — | missing_source |
-| 密迹金刚 | 卷四 | 80 | — | — | missing_source |
-| 密迹金刚（迷企罗） | 卷四 | 80 | — | — | missing_source |
-| 密迹金 | 卷四 | 48 | — | — | missing_source |
-| 迹金刚 | 卷四 | 48 | — | — | missing_source |
-| 安底罗 | 卷四 | 80 | — | — | missing_source |
-| 安底罗（安底罗大将） | 卷四 | 80 | — | — | missing_source |
-| 摩虎罗 | 卷四 | 80 | — | — | missing_source |
-| 摩虎罗（摩虎罗大将） | 卷四 | 80 | — | — | missing_source |
-| 真达罗 | 卷四 | 80 | — | — | missing_source |
-| 真达罗（真达罗大将） | 卷四 | 80 | — | — | missing_source |
-| 招杜罗 | 卷四 | 80 | — | — | missing_source |
-| 招杜罗（招杜罗大将） | 卷四 | 80 | — | — | missing_source |
-| 毗羯罗 | 卷四 | 80 | — | — | missing_source |
-| 毗羯罗（毗羯罗大将） | 卷四 | 80 | — | — | missing_source |
-| 薜茧罗 | 卷四 | 80 | — | — | missing_source |
-| 薜茧罗（薜茧罗大将） | 卷四 | 80 | — | — | missing_source |
-| 因达罗 | 卷四 | 80 | — | — | missing_source |
-| 因达罗（因达罗大将） | 卷四 | 80 | — | — | missing_source |
-| 波夷罗 | 卷四 | 80 | — | — | missing_source |
-| 波夷罗（波夷罗大将） | 卷四 | 80 | — | — | missing_source |
-| 摩揭罗 | 卷四 | 80 | — | — | missing_source |
-| 摩揭罗（摩揭罗大将） | 卷四 | 80 | — | — | missing_source |
-| 宫毗罗 | 卷四 | 70 | — | — | missing_source |
-| 宮比罗 | 卷四 | 70 | — | — | missing_source |
-| 伐阇罗 | 卷四 | 70 | — | — | missing_source |
-| 跋折罗 | 卷四 | 70 | — | — | missing_source |
-| 跋折罗 | 卷五 | 90 | — | — | missing_source |
-| 跋折 | 卷五 | 54 | — | — | missing_source |
-| 密迹将 | 卷四 | 70 | — | — | missing_source |
-| 安陀罗 | 卷四 | 70 | — | — | missing_source |
-| 安提罗 | 卷四 | 70 | — | — | missing_source |
-| 摩诃罗 | 卷四 | 70 | — | — | missing_source |
-| 摩呼罗 | 卷四 | 70 | — | — | missing_source |
-| 真陀罗 | 卷四 | 70 | — | — | missing_source |
-| 真多罗 | 卷四 | 70 | — | — | missing_source |
-| 招提罗 | 卷四 | 70 | — | — | missing_source |
-| 招度罗 | 卷四 | 70 | — | — | missing_source |
-| 毗羯罗将 | 卷四 | 70 | — | — | missing_source |
-| 羯罗将 | 卷四 | 42 | — | — | missing_source |
-| 毗迦罗 | 卷四 | 70 | — | — | missing_source |
-| 薜羯罗 | 卷四 | 70 | — | — | missing_source |
-| 薜伽罗 | 卷四 | 70 | — | — | missing_source |
-| 因陀罗 | 卷四 | 70 | — | — | missing_source |
-| 因怛罗 | 卷四 | 70 | — | — | missing_source |
-| 波夷罗将 | 卷四 | 70 | — | — | missing_source |
-| 夷罗将 | 卷四 | 42 | — | — | missing_source |
-| 波伊罗 | 卷四 | 70 | — | — | missing_source |
-| 摩竭罗 | 卷四 | 70 | — | — | missing_source |
-| 摩羯罗 | 卷四 | 70 | — | — | missing_source |
-| 十二药叉 | 卷四 | 70 | — | — | missing_source |
-| 十二 | 卷十一 | 48 | — | — | missing_source |
-| 十二药 | 卷四 | 42 | — | — | missing_source |
-| 二药叉 | 卷四 | 42 | — | — | missing_source |
-| 十二药叉大将 | 卷四 | 80 | — | — | missing_source |
-| 叉大将 | 卷四 | 48 | — | — | missing_source |
-| 十二神将 | 卷四 | 80 | — | — | missing_source |
-| 十二神 | 卷四 | 48 | — | — | missing_source |
-| 二神将 | 卷四 | 48 | — | — | missing_source |
-| 十二大将 | 卷四 | 75 | — | — | missing_source |
-| 十二大 | 卷四 | 45 | — | — | missing_source |
-| 二大将 | 卷四 | 45 | — | — | missing_source |
-| 藥叉十二将 | 卷四 | 75 | — | — | missing_source |
-| 藥叉十 | 卷四 | 45 | — | — | missing_source |
-| 十二将 | 卷四 | 45 | — | — | missing_source |
-| 藥师十二将 | 卷四 | 75 | — | — | missing_source |
-| 藥师 | 卷四 | 5 | — | — | missing_source |
-| 藥师十 | 卷四 | 45 | — | — | missing_source |
-| 護国十二将 | 卷四 | 55 | — | — | missing_source |
-| 護国十 | 卷四 | 33 | — | — | missing_source |
-| 保国药叉 | 卷四 | 55 | — | — | missing_source |
-| 保国药 | 卷四 | 33 | — | — | missing_source |
-| 国药叉 | 卷四 | 33 | — | — | missing_source |
-| 藏地称“纳伽十二将” | 卷四 | 45 | — | — | missing_source |
-| 藏地称 | 卷四 | 27 | — | — | missing_source |
-| 二将” | 卷四 | 27 | — | — | missing_source |
-| 十二勇将 | 卷四 | 45 | — | — | missing_source |
-| 十二勇 | 卷四 | 27 | — | — | missing_source |
-| 二勇将 | 卷四 | 27 | — | — | missing_source |
-| 药叉将军 | 卷四 | 55 | — | — | missing_source |
-| 药叉将 | 卷四 | 33 | — | — | missing_source |
-| 叉将军 | 卷四 | 33 | — | — | missing_source |
-| 药叉守护 | 卷四 | 55 | — | — | missing_source |
-| 药叉守 | 卷四 | 33 | — | — | missing_source |
-| 叉守护 | 卷四 | 33 | — | — | missing_source |
-| 護持药师佛 | 卷四 | 70 | — | — | missing_source |
-| 護持药 | 卷四 | 42 | — | — | missing_source |
-| 守护药师佛教法 | 卷四 | 70 | — | — | missing_source |
-| 守护药 | 卷四 | 42 | — | — | missing_source |
-| 教法 | 卷四 | 5 | — | — | missing_source |
-| 佛教法 | 卷四 | 42 | — | — | missing_source |
-| 護持持咒者 | 卷四 | 70 | — | — | missing_source |
-| 護持持 | 卷四 | 42 | — | — | missing_source |
-| 咒者 | 卷四 | 5 | — | — | missing_source |
-| 持咒者 | 卷四 | 42 | — | — | missing_source |
-| 随念即至 | 卷四 | 55 | — | — | missing_source |
-| 念即至 | 卷四 | 33 | — | — | missing_source |
-| 不令横死 | 卷四 | 55 | — | — | missing_source |
-| 不令横 | 卷四 | 33 | — | — | missing_source |
-| 令横死 | 卷四 | 33 | — | — | missing_source |
-| 除诸灾障 | 卷四 | 55 | — | — | missing_source |
-| 除诸 | 卷四 | 5 | — | — | missing_source |
-| 除诸灾 | 卷四 | 33 | — | — | missing_source |
-| 诸灾障 | 卷四 | 33 | — | — | missing_source |
-| 除病灭苦 | 卷四 | 55 | — | — | missing_source |
-| 除病 | 卷四 | 5 | — | — | missing_source |
-| 除病灭 | 卷四 | 33 | — | — | missing_source |
-| 灭苦 | 卷四 | 5 | — | — | missing_source |
-| 病灭苦 | 卷四 | 33 | — | — | missing_source |
-| 救离病苦 | 卷四 | 70 | — | — | missing_source |
-| 救离病 | 卷四 | 42 | — | — | missing_source |
-| 离病苦 | 卷四 | 42 | — | — | missing_source |
-| 随请即到 | 卷四 | 55 | — | — | missing_source |
-| 随请即 | 卷四 | 33 | — | — | missing_source |
-| 请即到 | 卷四 | 33 | — | — | missing_source |
-| 救护众生 | 卷四 | 55 | — | — | missing_source |
-| 救护众 | 卷四 | 33 | — | — | missing_source |
-| 护众生 | 卷四 | 33 | — | — | missing_source |
-| 護持国界 | 卷四 | 55 | — | — | missing_source |
-| 護持国 | 卷四 | 33 | — | — | missing_source |
-| 持国界 | 卷四 | 33 | — | — | missing_source |
-| 藏兵众千万 | 卷四 | 45 | — | — | missing_source |
-| 藏兵众 | 卷四 | 27 | — | — | missing_source |
-| 众千万 | 卷四 | 27 | — | — | missing_source |
-| 藏兵守护 | 卷四 | 45 | — | — | missing_source |
-| 藏兵守 | 卷四 | 27 | — | — | missing_source |
-| 兵守护 | 卷四 | 27 | — | — | missing_source |
-| 常随药师 | 卷四 | 55 | — | — | missing_source |
-| 常随药 | 卷四 | 33 | — | — | missing_source |
-| 随药师 | 卷四 | 33 | — | — | missing_source |
-| 共发大誓愿 | 卷四 | 55 | — | — | missing_source |
-| 共发大 | 卷四 | 33 | — | — | missing_source |
-| 大誓愿 | 卷四 | 33 | — | — | missing_source |
-| 誓护药师佛愿 | 卷四 | 55 | — | — | missing_source |
-| 誓护药 | 卷四 | 33 | — | — | missing_source |
-| 师佛愿 | 卷四 | 33 | — | — | missing_source |
-| 愿力救众生 | 卷四 | 45 | — | — | missing_source |
-| 愿力救 | 卷四 | 27 | — | — | missing_source |
-| 救众生 | 卷四 | 27 | — | — | missing_source |
-| 護持念佛者 | 卷四 | 55 | — | — | missing_source |
-| 護持念 | 卷四 | 33 | — | — | missing_source |
-| 念佛者 | 卷四 | 33 | — | — | missing_source |
-| 善护四众 | 卷四 | 45 | — | — | missing_source |
-| 善护四 | 卷四 | 27 | — | — | missing_source |
-| 护四众 | 卷四 | 27 | — | — | missing_source |
-| 共守药师国土 | 卷四 | 55 | — | — | missing_source |
-| 共守药 | 卷四 | 33 | — | — | missing_source |
-| 师国土 | 卷四 | 33 | — | — | missing_source |
-| 藏神兵众 | 卷四 | 45 | — | — | missing_source |
-| 藏神兵 | 卷四 | 27 | — | — | missing_source |
-| 神兵众 | 卷四 | 27 | — | — | missing_source |
-| 遍守东方世界 | 卷四 | 45 | — | — | missing_source |
-| 遍守东 | 卷四 | 27 | — | — | missing_source |
-| 方世界 | 卷四 | 27 | — | — | missing_source |
-| 護国保界 | 卷四 | 55 | — | — | missing_source |
-| 護国保 | 卷四 | 33 | — | — | missing_source |
-| 国保界 | 卷四 | 33 | — | — | missing_source |
-| 保命延寿 | 卷四 | 55 | — | — | missing_source |
-| 保命延 | 卷四 | 33 | — | — | missing_source |
-| 延寿 | 卷十五 | 75 | — | — | missing_source |
-| 命延寿 | 卷四 | 33 | — | — | missing_source |
-| 救难度厄 | 卷四 | 55 | — | — | missing_source |
-| 救难度 | 卷四 | 33 | — | — | missing_source |
-| 难度厄 | 卷四 | 33 | — | — | missing_source |
-| 除横死厄 | 卷四 | 55 | — | — | missing_source |
-| 除横死 | 卷四 | 33 | — | — | missing_source |
-| 横死厄 | 卷四 | 33 | — | — | missing_source |
-| 除灾障难 | 卷四 | 55 | — | — | missing_source |
-| 除灾 | 卷五 | 5 | — | — | missing_source |
-| 除灾障 | 卷四 | 33 | — | — | missing_source |
-| 除灾障 | 卷五 | 5 | — | — | missing_source |
-| 灾障难 | 卷四 | 33 | — | — | missing_source |
-| 破诸恶鬼 | 卷四 | 55 | — | — | missing_source |
-| 破诸 | 卷四 | 5 | — | — | missing_source |
-| 破诸恶 | 卷四 | 33 | — | — | missing_source |
-| 诸恶鬼 | 卷四 | 33 | — | — | missing_source |
-| 除诸恶病 | 卷四 | 55 | — | — | missing_source |
-| 除诸恶 | 卷四 | 33 | — | — | missing_source |
-| 诸恶病 | 卷四 | 33 | — | — | missing_source |
-| 保佑众生 | 卷四 | 45 | — | — | missing_source |
-| 保佑众 | 卷四 | 27 | — | — | missing_source |
-| 佑众生 | 卷四 | 27 | — | — | missing_source |
-| 救护病患 | 卷四 | 55 | — | — | missing_source |
-| 救护病 | 卷四 | 33 | — | — | missing_source |
-| 护病患 | 卷四 | 33 | — | — | missing_source |
-| 无不至者 | 卷四 | 45 | — | — | missing_source |
-| 无不至 | 卷四 | 27 | — | — | missing_source |
-| 不至者 | 卷四 | 27 | — | — | missing_source |
-| 怒目相 | 卷四 | 30 | — | — | missing_source |
-| 怒目 | 卷四 | 18 | — | — | missing_source |
-| 怒目 | 卷五 | 35 | — | — | missing_source |
-| 目相 | 卷四 | 18 | — | — | missing_source |
-| 甲胄武装 | 卷四 | 35 | — | — | missing_source |
-| 甲胄武 | 卷四 | 21 | — | — | missing_source |
-| 胄武装 | 卷四 | 21 | — | — | missing_source |
-| 护法武士相 | 卷四 | 35 | — | — | missing_source |
-| 护法武 | 卷四 | 21 | — | — | missing_source |
-| 武士相 | 卷四 | 21 | — | — | missing_source |
-| 手持宝杵 | 卷四 | 35 | — | — | missing_source |
-| 手持宝 | 卷四 | 21 | — | — | missing_source |
-| 持宝杵 | 卷四 | 21 | — | — | missing_source |
-| 手持宝剑 | 卷四 | 35 | — | — | missing_source |
-| 持宝剑 | 卷四 | 21 | — | — | missing_source |
-| 手持三叉戟 | 卷四 | 35 | — | — | missing_source |
-| 手持三 | 卷四 | 21 | — | — | missing_source |
-| 三叉戟 | 卷四 | 21 | — | — | missing_source |
-| 手持蛇 | 卷四 | 35 | — | — | missing_source |
-| 手持蛇（摩虎罗特征） | 卷四 | 35 | — | — | missing_source |
-| 护法姿态 | 卷四 | 30 | — | — | missing_source |
-| 护法姿 | 卷四 | 18 | — | — | missing_source |
-| 姿态 | 卷四 | 18 | — | — | missing_source |
-| 法姿态 | 卷四 | 18 | — | — | missing_source |
-| 合掌（守愿式） | 卷四 | 30 | — | — | missing_source |
-| 跪侍药师佛前 | 卷四 | 35 | — | — | missing_source |
-| 跪侍药 | 卷四 | 21 | — | — | missing_source |
-| 师佛前 | 卷四 | 21 | — | — | missing_source |
-| 两旁武士像 | 卷四 | 35 | — | — | missing_source |
-| 两旁武 | 卷四 | 21 | — | — | missing_source |
-| 武士像 | 卷四 | 21 | — | — | missing_source |
-| 十二像并列 | 卷四 | 35 | — | — | missing_source |
-| 十二像 | 卷四 | 21 | — | — | missing_source |
-| 像并列 | 卷四 | 21 | — | — | missing_source |
-| 头戴武士冠 | 卷四 | 30 | — | — | missing_source |
-| 头戴 | 卷四 | 18 | — | — | missing_source |
-| 头戴武 | 卷四 | 18 | — | — | missing_source |
-| 士冠 | 卷四 | 18 | — | — | missing_source |
-| 武士冠 | 卷四 | 18 | — | — | missing_source |
-| 兽面像 | 卷四 | 20 | — | — | missing_source |
-| 兽面像（少见） | 卷四 | 20 | — | — | missing_source |
-| 兽面 | 卷四 | 12 | — | — | missing_source |
-| 面像 | 卷四 | 12 | — | — | missing_source |
-| 狮子肩饰 | 卷四 | 20 | — | — | missing_source |
-| 狮子 | 卷四 | 12 | — | — | missing_source |
-| 狮子肩 | 卷四 | 12 | — | — | missing_source |
-| 肩饰 | 卷四 | 12 | — | — | missing_source |
-| 肩饰 | 卷十 | 39 | — | — | missing_source |
-| 子肩饰 | 卷四 | 12 | — | — | missing_source |
-| 披甲披帛 | 卷四 | 30 | — | — | missing_source |
-| 披甲 | 卷四 | 18 | — | — | missing_source |
-| 披甲披 | 卷四 | 18 | — | — | missing_source |
-| 披帛 | 卷四 | 18 | — | — | missing_source |
-| 披帛 | 卷十 | 39 | — | — | missing_source |
-| 甲披帛 | 卷四 | 18 | — | — | missing_source |
-| 手托日月图案 | 卷四 | 35 | — | — | missing_source |
-| 手托日 | 卷四 | 21 | — | — | missing_source |
-| 月图案 | 卷四 | 21 | — | — | missing_source |
-| 蛇络肩 | 卷四 | 35 | — | — | missing_source |
-| 地藏像旁出现十二神将 | 卷四 | 20 | — | — | missing_source |
-| 地藏 | 卷四 | 12 | — | — | missing_source |
-| 地藏 | 卷五 | 5 | — | — | missing_source |
-| 地藏 | 卷九 | 42 | — | — | missing_source |
-| 地藏像 | 卷四 | 12 | — | — | missing_source |
-| 药师前列侍者军 | 卷四 | 30 | — | — | missing_source |
-| 药师前 | 卷四 | 18 | — | — | missing_source |
-| 者军 | 卷四 | 18 | — | — | missing_source |
-| 侍者军 | 卷四 | 18 | — | — | missing_source |
-| 侍立二将 | 卷四 | 20 | — | — | missing_source |
-| 侍立二 | 卷四 | 12 | — | — | missing_source |
-| 立二将 | 卷四 | 12 | — | — | missing_source |
-| 四武士侍药师 | 卷四 | 20 | — | — | missing_source |
-| 四武 | 卷四 | 12 | — | — | missing_source |
-| 四武士 | 卷四 | 12 | — | — | missing_source |
-| 侍药师 | 卷四 | 12 | — | — | missing_source |
-| 身后火焰光 | 卷四 | 20 | — | — | missing_source |
-| 身后 | 卷四 | 12 | — | — | missing_source |
-| 身后火 | 卷四 | 12 | — | — | missing_source |
-| 焰光 | 卷四 | 12 | — | — | missing_source |
-| 焰光 | 卷五 | 27 | — | — | missing_source |
-| 火焰光 | 卷四 | 12 | — | — | missing_source |
-| 火焰光 | 卷五 | 27 | — | — | missing_source |
-| 兽头（麒麟型） | 卷四 | 20 | — | — | missing_source |
-| 善相武士 | 卷四 | 20 | — | — | missing_source |
-| 善相 | 卷四 | 12 | — | — | missing_source |
-| 善相武 | 卷四 | 12 | — | — | missing_source |
-| 武士 | 卷四 | 12 | — | — | missing_source |
-| 相武士 | 卷四 | 12 | — | — | missing_source |
-| 大力士相 | 卷四 | 20 | — | — | missing_source |
-| 大力 | 卷四 | 12 | — | — | missing_source |
-| 大力 | 卷五 | 45 | — | — | missing_source |
-| 大力士 | 卷四 | 12 | — | — | missing_source |
-| 力士相 | 卷四 | 12 | — | — | missing_source |
-| 曼陀罗 | 卷四 | 80 | — | — | missing_source |
-| 曼陀罗（mandala） | 卷四 | 80 | — | — | missing_source |
-| 罗刹（rāja / rakṣa） | 卷四 | 80 | — | — | missing_source |
-| 娑缚诃 | 卷四 | 80 | — | — | missing_source |
-| 娑缚诃（svāhā） | 卷四 | 80 | — | — | missing_source |
-| 娑缚 | 卷四 | 5 | — | — | missing_source |
-| 缚诃 | 卷四 | 5 | — | — | missing_source |
-| 婆誐（bhagā） | 卷四 | 80 | — | — | missing_source |
-| 跋折罗（vajra） | 卷四 | 80 | — | — | missing_source |
-| 跋折罗（vajra） | 卷五 | 90 | — | — | missing_source |
-| 阿伽（āgā） | 卷四 | 80 | — | — | missing_source |
-| 伽罗（kāra） | 卷四 | 80 | — | — | missing_source |
-| 三曼多 | 卷四 | 80 | — | — | missing_source |
-| 三曼多 | 卷五 | 85 | — | — | missing_source |
-| 三曼多（samanta） | 卷四 | 80 | — | — | missing_source |
-| 三曼多（samanta） | 卷五 | 85 | — | — | missing_source |
-| 三曼 | 卷五 | 51 | — | — | missing_source |
-| 曼多 | 卷五 | 51 | — | — | missing_source |
-| 娑波罗 | 卷四 | 80 | — | — | missing_source |
-| 娑波罗（svara） | 卷四 | 80 | — | — | missing_source |
-| 罗阇（rāja） | 卷四 | 80 | — | — | missing_source |
-| 枳尼（jñāna） | 卷四 | 80 | — | — | missing_source |
-| 颇啰耶 | 卷四 | 80 | — | — | missing_source |
-| 三多（sānta） | 卷四 | 80 | — | — | missing_source |
-| 阿缚悉地 | 卷四 | 80 | — | — | missing_source |
-| 阿缚悉地（ava-siddhi） | 卷四 | 80 | — | — | missing_source |
-| 阿缚悉 | 卷四 | 48 | — | — | missing_source |
-| 悉地 | 卷五 | 51 | — | — | missing_source |
-| 缚悉地 | 卷四 | 48 | — | — | missing_source |
-| 三藐（samyak） | 卷四 | 80 | — | — | missing_source |
-| 三菩陀 | 卷四 | 80 | — | — | missing_source |
-| 三菩陀（sambuddha） | 卷四 | 80 | — | — | missing_source |
-| 呵罗诃 | 卷四 | 80 | — | — | missing_source |
-| 呵罗诃（haraha） | 卷四 | 80 | — | — | missing_source |
-| 三拔（sambhava） | 卷四 | 80 | — | — | missing_source |
-| 婆卢吉帝 | 卷四 | 80 | — | — | missing_source |
-| 婆卢吉帝（bhṛgu-） | 卷四 | 80 | — | — | missing_source |
-| 婆卢吉 | 卷四 | 48 | — | — | missing_source |
-| 卢吉帝 | 卷四 | 48 | — | — | missing_source |
-| 摩诃般荼 | 卷四 | 80 | — | — | missing_source |
-| 诃般荼 | 卷四 | 48 | — | — | missing_source |
-| 南无（namo） | 卷四 | 20 | — | — | missing_source |
-| 薄伽伐帝 | 卷四 | 75 | — | — | missing_source |
-| 薄伽伐帝（bhagavate） | 卷四 | 75 | — | — | missing_source |
-| 薄伽伐 | 卷四 | 45 | — | — | missing_source |
-| 伐帝 | 卷四 | 5 | — | — | missing_source |
-| 伽伐帝 | 卷四 | 45 | — | — | missing_source |
-| 鞞杀社 | 卷四 | 80 | — | — | missing_source |
-| 鞞杀社（bhaiṣajya） | 卷四 | 80 | — | — | missing_source |
-| 窭噜（guru / jura） | 卷四 | 70 | — | — | missing_source |
-| 薜琉璃 | 卷四 | 80 | — | — | missing_source |
-| 薜琉璃（vaidurya） | 卷四 | 80 | — | — | missing_source |
-| 跋喇婆 | 卷四 | 70 | — | — | missing_source |
-| 跋喇婆（varāha） | 卷四 | 70 | — | — | missing_source |
-| 跋喇 | 卷四 | 5 | — | — | missing_source |
-| 喇婆 | 卷四 | 5 | — | — | missing_source |
-| 娑婆诃 | 卷四 | 80 | — | — | missing_source |
-| 娑婆诃 | 卷五 | 95 | — | — | missing_source |
-| 娑婆诃（svāhā） | 卷四 | 80 | — | — | missing_source |
-| 娑婆 | 卷五 | 57 | — | — | missing_source |
-| 婆诃 | 卷五 | 57 | — | — | missing_source |
-| 婆伽（bhaga） | 卷四 | 70 | — | — | missing_source |
-| 梨迦（rīka） | 卷四 | 70 | — | — | missing_source |
-| 囉乞（lakṣa） | 卷四 | 70 | — | — | missing_source |
-| 薜卢（“琉璃”异写） | 卷四 | 75 | — | — | missing_source |
-| 缚日啰 | 卷四 | — | — | — | missing_source |
-| 伐日啰 | 卷四 | 75 | — | — | missing_source |
-| 伐日啰（vajra） | 卷四 | 75 | — | — | missing_source |
-| 伐日 | 卷四 | 5 | — | — | missing_source |
-| 日啰 | 卷四 | 5 | — | — | missing_source |
-| 波利（pari） | 卷四 | 55 | — | — | missing_source |
-| 三曼陀 | 卷四 | 75 | — | — | missing_source |
-| 三曼陀（samanta） | 卷四 | 75 | — | — | missing_source |
-| 跋罗叉 | 卷四 | 80 | — | — | missing_source |
-| 跋罗叉（rakṣa） | 卷四 | 80 | — | — | missing_source |
-| 半那（三昧耶） | 卷四 | 55 | — | — | missing_source |
-| 波罗尼 | 卷四 | 55 | — | — | missing_source |
-| 波罗尼（bhāraṇī） | 卷四 | 55 | — | — | missing_source |
-| 秘萨（piṣa） | 卷四 | 55 | — | — | missing_source |
-| 光明焰熾 | 卷四 | 55 | — | — | missing_source |
-| 光明焰 | 卷四 | 33 | — | — | missing_source |
-| 明焰熾 | 卷四 | 33 | — | — | missing_source |
-| 破除病苦 | 卷四 | 55 | — | — | missing_source |
-| 破除病 | 卷四 | 33 | — | — | missing_source |
-| 除病苦 | 卷四 | 33 | — | — | missing_source |
-| 扫除冤障 | 卷四 | 55 | — | — | missing_source |
-| 扫除冤 | 卷四 | 33 | — | — | missing_source |
-| 除冤障 | 卷四 | 33 | — | — | missing_source |
-| 消灾延寿 | 卷四 | 55 | — | — | missing_source |
-| 消灾延寿 | 卷十五 | 80 | — | — | missing_source |
-| 消灾 | 卷十五 | 48 | — | — | missing_source |
-| 消灾延 | 卷四 | 33 | — | — | missing_source |
-| 消灾延 | 卷十五 | 48 | — | — | missing_source |
-| 灾延寿 | 卷四 | 33 | — | — | missing_source |
-| 灾延寿 | 卷十五 | 48 | — | — | missing_source |
-| 度脱众病 | 卷四 | 55 | — | — | missing_source |
-| 脱众病 | 卷四 | 33 | — | — | missing_source |
-| 解诸倒见 | 卷四 | 55 | — | — | missing_source |
-| 解诸倒 | 卷四 | 33 | — | — | missing_source |
-| 诸倒见 | 卷四 | 33 | — | — | missing_source |
-| 除无明暗 | 卷四 | 55 | — | — | missing_source |
-| 除无 | 卷四 | 5 | — | — | missing_source |
-| 除无明 | 卷四 | 33 | — | — | missing_source |
-| 无明暗 | 卷四 | 33 | — | — | missing_source |
-| 发大誓愿 | 卷四 | 55 | — | — | missing_source |
-| 发大誓 | 卷四 | 33 | — | — | missing_source |
-| 愿度众生 | 卷四 | 45 | — | — | missing_source |
-| 愿度众 | 卷四 | 27 | — | — | missing_source |
-| 度众生 | 卷四 | 27 | — | — | missing_source |
-| 度众生 | 卷十 | 42 | — | — | missing_source |
-| 救拔重苦 | 卷四 | 55 | — | — | missing_source |
-| 救拔重 | 卷四 | 33 | — | — | missing_source |
-| 拔重苦 | 卷四 | 33 | — | — | missing_source |
-| 离诸灾横 | 卷四 | 55 | — | — | missing_source |
-| 离诸灾 | 卷四 | 33 | — | — | missing_source |
-| 诸灾横 | 卷四 | 33 | — | — | missing_source |
-| 娑縛訶 | 卷四 | 55 | — | — | missing_source |
-| 娑縛訶（svāhā） | 卷四 | 55 | — | — | missing_source |
-| 娑縛 | 卷四 | 5 | — | — | missing_source |
-| 縛訶 | 卷四 | 5 | — | — | missing_source |
-| 娑嚩訶 | 卷四 | 55 | — | — | missing_source |
-| 娑嚩 | 卷四 | 5 | — | — | missing_source |
-| 嚩訶 | 卷四 | 5 | — | — | missing_source |
-| 娑嚩賀 | 卷四 | 55 | — | — | missing_source |
-| 嚩賀 | 卷四 | 5 | — | — | missing_source |
-| 伐闍羅 | 卷四 | 55 | — | — | missing_source |
-| 伐闍羅（vajra） | 卷四 | 55 | — | — | missing_source |
-| 伐闍 | 卷四 | 5 | — | — | missing_source |
-| 闍羅 | 卷四 | 5 | — | — | missing_source |
-| 跋闍羅 | 卷四 | 55 | — | — | missing_source |
-| 跋闍 | 卷四 | 5 | — | — | missing_source |
-| 跋闍 | 卷五 | 51 | — | — | missing_source |
-| 鞞杀枳 | 卷四 | 55 | — | — | missing_source |
-| 鞞杀枳（bhaiṣajī） | 卷四 | 55 | — | — | missing_source |
-| 杀枳 | 卷四 | 5 | — | — | missing_source |
-| 鞞萨遮 | 卷四 | 55 | — | — | missing_source |
-| 鞞萨 | 卷四 | 5 | — | — | missing_source |
-| 萨遮 | 卷四 | 5 | — | — | missing_source |
-| 伐日羅 | 卷四 | 55 | — | — | missing_source |
-| 日羅 | 卷四 | 5 | — | — | missing_source |
-| 跋日羅 | 卷四 | 55 | — | — | missing_source |
-| 跋日 | 卷四 | 5 | — | — | missing_source |
-| 薜嚧（vaidurya） | 卷四 | 55 | — | — | missing_source |
-| 婆嚧（bhag） | 卷四 | 55 | — | — | missing_source |
-| 婆伽嚧 | 卷四 | 55 | — | — | missing_source |
-| 伽嚧 | 卷四 | 5 | — | — | missing_source |
-| 吽字 | 卷五 | 90 | — | — | missing_source |
-| 吽字（单字） | 卷四 | 55 | — | — | missing_source |
-| 吽字光 | 卷四 | 55 | — | — | missing_source |
-| 字光 | 卷四 | 5 | — | — | missing_source |
-| 吽字周法界 | 卷四 | 55 | — | — | missing_source |
-| 吽字周 | 卷四 | 33 | — | — | missing_source |
-| 周法界 | 卷四 | 33 | — | — | missing_source |
-| bhaṃ | 卷四 | 80 | — | — | missing_source |
-| bha | 卷四 | 48 | — | — | missing_source |
-| haṃ | 卷四 | 48 | — | — | missing_source |
-| bhai | 卷四 | 80 | — | — | missing_source |
-| hai | 卷四 | 48 | — | — | missing_source |
-| jaṃ | 卷四 | 80 | — | — | missing_source |
-| raṃ | 卷四 | 80 | — | — | missing_source |
-| ra | 卷五 | 54 | — | — | missing_source |
-| hūṃ | 卷四 | 80 | — | — | missing_source |
-| hrīḥ | 卷四 | 80 | — | — | missing_source |
-| hrīḥ（或 hrih） | 卷四 | 80 | — | — | missing_source |
-| hrī | 卷四 | 48 | — | — | missing_source |
-| rīḥ | 卷四 | 48 | — | — | missing_source |
-| trāḥ | 卷四 | 75 | — | — | missing_source |
-| trā | 卷四 | 45 | — | — | missing_source |
-| rāḥ | 卷四 | 45 | — | — | missing_source |
-| phaṭ | 卷四 | 75 | — | — | missing_source |
-| pha | 卷四 | 45 | — | — | missing_source |
-| haṭ | 卷四 | 45 | — | — | missing_source |
-| oṃ（嗡） | 卷四 | 70 | — | — | missing_source |
-| svāhā | 卷四 | 80 | — | — | missing_source |
-| svāhā（娑婆诃） | 卷四 | 80 | — | — | missing_source |
-| svā | 卷四 | 48 | — | — | missing_source |
-| āhā | 卷四 | 48 | — | — | missing_source |
-| 鞞杀枳罗 | 卷四 | 55 | — | — | missing_source |
-| “鞞杀枳罗” | 卷四 | 55 | — | — | missing_source |
-| 枳罗 | 卷四 | 5 | — | — | missing_source |
-| 杀枳罗 | 卷四 | 33 | — | — | missing_source |
-| 鞞杀社吉 | 卷四 | 55 | — | — | missing_source |
-| “鞞杀社吉” | 卷四 | 55 | — | — | missing_source |
-| 社吉 | 卷四 | 5 | — | — | missing_source |
-| 杀社吉 | 卷四 | 33 | — | — | missing_source |
-| 跋折罗萨埵 | 卷四 | 55 | — | — | missing_source |
-| “跋折罗萨埵” | 卷四 | 55 | — | — | missing_source |
-| 萨埵 | 卷四 | 5 | — | — | missing_source |
-| 萨埵 | 卷五 | 51 | — | — | missing_source |
-| 罗萨埵 | 卷四 | 33 | — | — | missing_source |
-| 药师真言 | 卷四 | 70 | — | — | missing_source |
-| “药师真言” | 卷四 | 70 | — | — | missing_source |
-| 药师真 | 卷四 | 42 | — | — | missing_source |
-| 真言 | 卷五 | 45 | — | — | missing_source |
-| 师真言 | 卷四 | 42 | — | — | missing_source |
-| “药师咒” | 卷四 | 70 | — | — | missing_source |
-| “光明真言”误入药师文脉 | 卷四 | 20 | — | — | missing_source |
-| “光 | 卷四 | 12 | — | — | missing_source |
-| “光明 | 卷四 | 12 | — | — | missing_source |
-| 文脉 | 卷四 | 12 | — | — | missing_source |
-| 师文脉 | 卷四 | 12 | — | — | missing_source |
-| “悬病咒”与药师并见 | 卷四 | 45 | — | — | missing_source |
-| “悬病 | 卷四 | 27 | — | — | missing_source |
-| 师并见 | 卷四 | 27 | — | — | missing_source |
-| 消灾延寿咒 | 卷四 | 55 | — | — | missing_source |
-| “消灾延寿咒” | 卷四 | 55 | — | — | missing_source |
-| 延寿咒 | 卷四 | 33 | — | — | missing_source |
-| “延寿咒” | 卷四 | 55 | — | — | missing_source |
-| 平安咒 | 卷四 | 35 | — | — | missing_source |
-| “平安咒” | 卷四 | 35 | — | — | missing_source |
-| 药王咒 | 卷四 | 55 | — | — | missing_source |
-| “药王咒” | 卷四 | 55 | — | — | missing_source |
-| 宝光真言 | 卷四 | 55 | — | — | missing_source |
-| “宝光真言” | 卷四 | 55 | — | — | missing_source |
-| 宝光真 | 卷四 | 33 | — | — | missing_source |
-| 光真言 | 卷四 | 33 | — | — | missing_source |
-| 日光真言 | 卷四 | 55 | — | — | missing_source |
-| “日光真言” | 卷四 | 55 | — | — | missing_source |
-| 日光真 | 卷四 | 33 | — | — | missing_source |
-| 月光真言 | 卷四 | 55 | — | — | missing_source |
-| “月光真言” | 卷四 | 55 | — | — | missing_source |
-| 月光真 | 卷四 | 33 | — | — | missing_source |
-| 明咒 | 卷四 | 5 | — | — | missing_source |
-| 大明咒 | 卷四 | 45 | — | — | missing_source |
-| 多罗尼 | 卷四 | 45 | — | — | missing_source |
-| 呪文 | 卷四 | 5 | — | — | missing_source |
-| 呪愿 | 卷四 | 5 | — | — | missing_source |
-| 咒愿 | 卷四 | 5 | — | — | missing_source |
-| 一切如来心咒 | 卷四 | 20 | — | — | missing_source |
-| 一切如来心咒（非药师需判别） | 卷四 | 20 | — | — | missing_source |
-| 一切如 | 卷四 | 12 | — | — | missing_source |
-| 来心咒 | 卷四 | 12 | — | — | missing_source |
-| 佛顶心咒 | 卷四 | -20 | — | — | missing_source |
-| 佛顶心咒（需排除） | 卷四 | -20 | — | — | missing_source |
-| 地藏心咒 | 卷四 | -20 | — | — | missing_source |
-| 地藏心咒 | 卷九 | 70 | — | — | missing_source |
-| 地藏心咒（排除） | 卷四 | -20 | — | — | missing_source |
-| 愿脱病苦 | 卷四 | 55 | — | — | missing_source |
-| “愿脱病苦” | 卷四 | 55 | — | — | missing_source |
-| 愿脱病 | 卷四 | 33 | — | — | missing_source |
-| 愿除灾障 | 卷四 | 55 | — | — | missing_source |
-| “愿除灾障” | 卷四 | 55 | — | — | missing_source |
-| 愿除灾 | 卷四 | 33 | — | — | missing_source |
-| 愿灭诸横 | 卷四 | 55 | — | — | missing_source |
-| “愿灭诸横” | 卷四 | 55 | — | — | missing_source |
-| 愿灭诸 | 卷四 | 33 | — | — | missing_source |
-| 灭诸横 | 卷四 | 33 | — | — | missing_source |
-| 愿得安宁 | 卷四 | 45 | — | — | missing_source |
-| “愿得安宁” | 卷四 | 45 | — | — | missing_source |
-| 愿得安 | 卷四 | 27 | — | — | missing_source |
-| 得安宁 | 卷四 | 27 | — | — | missing_source |
-| 愿得长生 | 卷四 | 55 | — | — | missing_source |
-| “愿得长生” | 卷四 | 55 | — | — | missing_source |
-| 愿得长 | 卷四 | 33 | — | — | missing_source |
-| 得长生 | 卷四 | 33 | — | — | missing_source |
-| 愿离恶病 | 卷四 | 55 | — | — | missing_source |
-| “愿离恶病” | 卷四 | 55 | — | — | missing_source |
-| 愿离恶 | 卷四 | 33 | — | — | missing_source |
-| 离恶病 | 卷四 | 33 | — | — | missing_source |
-| 愿寿延年 | 卷四 | 55 | — | — | missing_source |
-| “愿寿延年” | 卷四 | 55 | — | — | missing_source |
-| 愿寿延 | 卷四 | 33 | — | — | missing_source |
-| 寿延年 | 卷四 | 33 | — | — | missing_source |
-| 愿息灾患 | 卷四 | 45 | — | — | missing_source |
-| “愿息灾患” | 卷四 | 45 | — | — | missing_source |
-| 愿息灾 | 卷四 | 27 | — | — | missing_source |
-| 息灾患 | 卷四 | 27 | — | — | missing_source |
-| 愿获吉祥 | 卷四 | 35 | — | — | missing_source |
-| “愿获吉祥” | 卷四 | 35 | — | — | missing_source |
-| 愿获吉 | 卷四 | 21 | — | — | missing_source |
-| 获吉祥 | 卷四 | 21 | — | — | missing_source |
-| 愿国泰民安 | 卷四 | 35 | — | — | missing_source |
-| “愿国泰民安” | 卷四 | 35 | — | — | missing_source |
-| 愿国泰 | 卷四 | 21 | — | — | missing_source |
-| 泰民安 | 卷四 | 21 | — | — | missing_source |
-| 敬造药师像 | 卷四 | 65 | — | — | missing_source |
-| “敬造药师像” | 卷四 | 65 | — | — | missing_source |
-| 药师像 | 卷四 | 39 | — | — | missing_source |
-| 为治病 | 卷四 | 65 | — | — | missing_source |
-| “为治病” | 卷四 | 65 | — | — | missing_source |
-| 为息病 | 卷四 | 65 | — | — | missing_source |
-| “为息病” | 卷四 | 65 | — | — | missing_source |
-| 为疗疾 | 卷四 | 55 | — | — | missing_source |
-| “为疗疾” | 卷四 | 55 | — | — | missing_source |
-| 为眷属病 | 卷四 | 55 | — | — | missing_source |
-| “为眷属病” | 卷四 | 55 | — | — | missing_source |
-| 为眷 | 卷四 | 5 | — | — | missing_source |
-| 为眷属 | 卷四 | 33 | — | — | missing_source |
-| 属病 | 卷四 | 5 | — | — | missing_source |
-| 眷属病 | 卷四 | 33 | — | — | missing_source |
-| 敬造药师佛 | 卷四 | 75 | — | — | missing_source |
-| “敬造药师佛” | 卷四 | 75 | — | — | missing_source |
-| 敬造琉璃光佛 | 卷四 | 75 | — | — | missing_source |
-| “敬造琉璃光佛” | 卷四 | 75 | — | — | missing_source |
-| 敬造琉 | 卷四 | 45 | — | — | missing_source |
-| 敬造东方佛 | 卷四 | 75 | — | — | missing_source |
-| “敬造东方佛” | 卷四 | 75 | — | — | missing_source |
-| 敬造东 | 卷四 | 45 | — | — | missing_source |
-| 东方佛 | 卷四 | 45 | — | — | missing_source |
-| 药师供养 | 卷四 | 70 | — | — | missing_source |
-| “药师供养” | 卷四 | 70 | — | — | missing_source |
-| 药师供 | 卷四 | 42 | — | — | missing_source |
-| 师供养 | 卷四 | 42 | — | — | missing_source |
-| 药师长寿 | 卷四 | 55 | — | — | missing_source |
-| “药师长寿” | 卷四 | 55 | — | — | missing_source |
-| 药师长 | 卷四 | 33 | — | — | missing_source |
-| 师长寿 | 卷四 | 33 | — | — | missing_source |
-| 药师延命 | 卷四 | 55 | — | — | missing_source |
-| “药师延命” | 卷四 | 55 | — | — | missing_source |
-| 药师延 | 卷四 | 33 | — | — | missing_source |
-| 师延命 | 卷四 | 33 | — | — | missing_source |
-| 为父母延寿 | 卷四 | 35 | — | — | missing_source |
-| “为父母延寿” | 卷四 | 35 | — | — | missing_source |
-| 为父 | 卷四 | 21 | — | — | missing_source |
-| 母延寿 | 卷四 | 21 | — | — | missing_source |
-| 敬造日光月光 | 卷四 | 75 | — | — | missing_source |
-| “敬造日光月光” | 卷四 | 75 | — | — | missing_source |
-| 敬造日 | 卷四 | 45 | — | — | missing_source |
-| 光月光 | 卷四 | 45 | — | — | missing_source |
-| “藥师佛”古隶写 | 卷四 | 65 | — | — | missing_source |
-| “藥师 | 卷四 | 39 | — | — | missing_source |
-| 古隶写 | 卷四 | 39 | — | — | missing_source |
-| 藥師彿 | 卷四 | 65 | — | — | missing_source |
-| “藥師彿” | 卷四 | 65 | — | — | missing_source |
-| 藥師仏 | 卷四 | 65 | — | — | missing_source |
-| “藥師仏” | 卷四 | 65 | — | — | missing_source |
-| 鞞杀佛 | 卷四 | 70 | — | — | missing_source |
-| “鞞杀佛” | 卷四 | 70 | — | — | missing_source |
-| 鞞杀社佛 | 卷四 | 75 | — | — | missing_source |
-| “鞞杀社佛” | 卷四 | 75 | — | — | missing_source |
-| 杀社佛 | 卷四 | 45 | — | — | missing_source |
-| 鞞杀枳佛 | 卷四 | 70 | — | — | missing_source |
-| “鞞杀枳佛” | 卷四 | 70 | — | — | missing_source |
-| 杀枳佛 | 卷四 | 42 | — | — | missing_source |
-| 薜琉璃佛 | 卷四 | 70 | — | — | missing_source |
-| “薜琉璃佛” | 卷四 | 70 | — | — | missing_source |
-| 琉璃佛 | 卷四 | 42 | — | — | missing_source |
-| 薜璃光佛 | 卷四 | 65 | — | — | missing_source |
-| “薜璃光佛” | 卷四 | 65 | — | — | missing_source |
-| 薜璃光 | 卷四 | 39 | — | — | missing_source |
-| 毘卢璃佛 | 卷四 | 65 | — | — | missing_source |
-| “毘卢璃佛” | 卷四 | 65 | — | — | missing_source |
-| 毘卢 | 卷六 | 5 | — | — | missing_source |
-| 毘卢璃 | 卷四 | 39 | — | — | missing_source |
-| 卢璃佛 | 卷四 | 39 | — | — | missing_source |
-| 东方彿 | 卷四 | 75 | — | — | missing_source |
-| “东方彿” | 卷四 | 75 | — | — | missing_source |
-| 东方 | 卷四 | 10 | — | — | missing_source |
-| 东方佛主 | 卷四 | 65 | — | — | missing_source |
-| “东方佛主” | 卷四 | 65 | — | — | missing_source |
-| 方佛主 | 卷四 | 39 | — | — | missing_source |
-| “药王佛” | 卷四 | 55 | — | — | missing_source |
-| “大医王佛” | 卷四 | 75 | — | — | missing_source |
-| “大医王” | 卷四 | 65 | — | — | missing_source |
-| 东方琉璃 | 卷四 | 70 | — | — | missing_source |
-| “东方琉璃” | 卷四 | 70 | — | — | missing_source |
-| 东方琉 | 卷四 | 42 | — | — | missing_source |
-| 方琉璃 | 卷四 | 42 | — | — | missing_source |
-| 琉璃光主 | 卷四 | 65 | — | — | missing_source |
-| “琉璃光主” | 卷四 | 65 | — | — | missing_source |
-| 璃光主 | 卷四 | 39 | — | — | missing_source |
-| 琉璃光王佛 | 卷四 | 75 | — | — | missing_source |
-| “琉璃光王佛” | 卷四 | 75 | — | — | missing_source |
-| 光王佛 | 卷四 | 45 | — | — | missing_source |
-| 药师道场 | 卷四 | 55 | — | — | missing_source |
-| 药师道 | 卷四 | 33 | — | — | missing_source |
-| 道场 | 卷五 | 5 | — | — | missing_source |
-| 道场 | 卷十 | 45 | — | — | missing_source |
-| 师道场 | 卷四 | 33 | — | — | missing_source |
-| 药师坛 | 卷四 | 55 | — | — | missing_source |
-| 药师法会 | 卷四 | 45 | — | — | missing_source |
-| 药师法 | 卷四 | 27 | — | — | missing_source |
-| 法会 | 卷五 | 5 | — | — | missing_source |
-| 师法会 | 卷四 | 27 | — | — | missing_source |
-| 药师忏 | 卷四 | 45 | — | — | missing_source |
-| 琉璃光法会 | 卷四 | 55 | — | — | missing_source |
-| 光法会 | 卷四 | 33 | — | — | missing_source |
-| 七佛药师 | 卷四 | 70 | — | — | missing_source |
-| 七佛药 | 卷四 | 42 | — | — | missing_source |
-| 佛药师 | 卷四 | 42 | — | — | missing_source |
-| 药师曼荼罗 | 卷四 | 75 | — | — | missing_source |
-| 药师曼 | 卷四 | 45 | — | — | missing_source |
-| 荼罗 | 卷四 | 5 | — | — | missing_source |
-| 荼罗 | 卷五 | 51 | — | — | missing_source |
-| 曼荼罗 | 卷四 | 45 | — | — | missing_source |
-| 曼荼罗 | 卷五 | 51 | — | — | missing_source |
-| 琉璃曼荼罗 | 卷四 | 65 | — | — | missing_source |
-| 琉璃曼 | 卷四 | 39 | — | — | missing_source |
-| 东方曼荼罗 | 卷四 | 65 | — | — | missing_source |
-| 东方曼 | 卷四 | 39 | — | — | missing_source |
-| 药师护摩 | 卷四 | 45 | — | — | missing_source |
-| 药师护 | 卷四 | 27 | — | — | missing_source |
-| 护摩 | 卷五 | 5 | — | — | missing_source |
-| 师护摩 | 卷四 | 27 | — | — | missing_source |
-| 药叉坛 | 卷四 | 55 | — | — | missing_source |
-| 叉坛 | 卷四 | 5 | — | — | missing_source |
-| 药叉护持 | 卷四 | 55 | — | — | missing_source |
-| 药叉护 | 卷四 | 33 | — | — | missing_source |
-| 叉护持 | 卷四 | 33 | — | — | missing_source |
-| 日月曼荼罗 | 卷四 | 45 | — | — | missing_source |
-| 日月曼 | 卷四 | 27 | — | — | missing_source |
-| 药师火供 | 卷四 | 45 | — | — | missing_source |
-| 药师火 | 卷四 | 27 | — | — | missing_source |
-| 火供 | 卷五 | 51 | — | — | missing_source |
-| 师火供 | 卷四 | 27 | — | — | missing_source |
-| 地方称“东方天界佛” | 卷四 | 35 | — | — | missing_source |
-| 地方称 | 卷四 | 21 | — | — | missing_source |
-| 界佛” | 卷四 | 21 | — | — | missing_source |
-| 东方清净界 | 卷四 | 55 | — | — | missing_source |
-| “东方清净界” | 卷四 | 55 | — | — | missing_source |
-| 东方清 | 卷四 | 33 | — | — | missing_source |
-| 清净界 | 卷四 | 33 | — | — | missing_source |
-| 东方琉璃世界 | 卷四 | 75 | — | — | missing_source |
-| “东方琉璃世界” | 卷四 | 75 | — | — | missing_source |
-| 光照东方界 | 卷四 | 55 | — | — | missing_source |
-| “光照东方界” | 卷四 | 55 | — | — | missing_source |
-| 光照东 | 卷四 | 33 | — | — | missing_source |
-| 东方界 | 卷四 | 33 | — | — | missing_source |
-| 东方明净土 | 卷四 | 55 | — | — | missing_source |
-| “东方明净土” | 卷四 | 55 | — | — | missing_source |
-| 东方明 | 卷四 | 33 | — | — | missing_source |
-| 明净土 | 卷四 | 33 | — | — | missing_source |
-| 东方净土王 | 卷四 | 55 | — | — | missing_source |
-| “东方净土王” | 卷四 | 55 | — | — | missing_source |
-| 东方净 | 卷四 | 33 | — | — | missing_source |
-| 净土王 | 卷四 | 33 | — | — | missing_source |
-| 东方琉璃国土 | 卷四 | 75 | — | — | missing_source |
-| “东方琉璃国土” | 卷四 | 75 | — | — | missing_source |
-| 弟子某甲发心造像 | 卷四 | 10 | — | — | missing_source |
-| “弟子某甲发心造像” | 卷四 | 10 | — | — | missing_source |
-| 心造像 | 卷四 | 10 | — | — | missing_source |
-| 信士某甲敬造佛像一龛 | 卷四 | 10 | — | — | missing_source |
-| “信士某甲敬造佛像一龛” | 卷四 | 10 | — | — | missing_source |
-| 信士 | 卷四 | 10 | — | — | missing_source |
-| 信士某 | 卷四 | 10 | — | — | missing_source |
-| 像一龛 | 卷四 | 10 | — | — | missing_source |
-| 女弟子某氏谨舍净财造佛一尊 | 卷四 | 10 | — | — | missing_source |
-| “女弟子某氏谨舍净财造佛一尊” | 卷四 | 10 | — | — | missing_source |
-| 女弟 | 卷四 | 10 | — | — | missing_source |
-| 佛一尊 | 卷四 | 10 | — | — | missing_source |
-| 为亡父/亡母/亡亲敬造佛像一身 | 卷四 | 10 | — | — | missing_source |
-| 一身 | 卷四 | 10 | — | — | missing_source |
-| 像一身 | 卷四 | 10 | — | — | missing_source |
-| 同宅眷属合家发心造像 | 卷四 | 10 | — | — | missing_source |
-| “同宅眷属合家发心造像” | 卷四 | 10 | — | — | missing_source |
-| 同宅 | 卷四 | 10 | — | — | missing_source |
-| 同宅眷 | 卷四 | 10 | — | — | missing_source |
-| 与同政某氏合造佛像若干身 | 卷四 | 10 | — | — | missing_source |
-| “与同政某氏合造佛像若干身” | 卷四 | 10 | — | — | missing_source |
-| 与同 | 卷四 | 10 | — | — | missing_source |
-| 与同政 | 卷四 | 10 | — | — | missing_source |
-| 干身 | 卷四 | 10 | — | — | missing_source |
-| 若干身 | 卷四 | 10 | — | — | missing_source |
-| 同愿众善弟子造佛一龛 | 卷四 | 10 | — | — | missing_source |
-| “同愿众善弟子造佛一龛” | 卷四 | 10 | — | — | missing_source |
-| 同愿 | 卷四 | 10 | — | — | missing_source |
-| 同愿众 | 卷四 | 10 | — | — | missing_source |
-| 佛一龛 | 卷四 | 10 | — | — | missing_source |
-| 今者命工开岩镌造 | 卷四 | 10 | — | — | missing_source |
-| “今者命工开岩镌造” | 卷四 | 10 | — | — | missing_source |
-| 今者 | 卷四 | 10 | — | — | missing_source |
-| 今者命 | 卷四 | 10 | — | — | missing_source |
-| 镌造 | 卷四 | 10 | — | — | missing_source |
-| 岩镌造 | 卷四 | 10 | — | — | missing_source |
-| 就院镌造圣像一身 | 卷四 | 10 | — | — | missing_source |
-| “就院镌造圣像一身” | 卷四 | 10 | — | — | missing_source |
-| 就院 | 卷四 | 10 | — | — | missing_source |
-| 就院镌 | 卷四 | 10 | — | — | missing_source |
-| 命匠雕刻妆銮圣容 | 卷四 | 10 | — | — | missing_source |
-| “命匠雕刻妆銮圣容” | 卷四 | 10 | — | — | missing_source |
-| 命匠 | 卷四 | 10 | — | — | missing_source |
-| 命匠雕 | 卷四 | 10 | — | — | missing_source |
-| 圣容 | 卷四 | 10 | — | — | missing_source |
-| 銮圣容 | 卷四 | 10 | — | — | missing_source |
-| 谨发诚心镌造某佛一龛 | 卷四 | 15 | — | — | missing_source |
-| “谨发诚心镌造某佛一龛” | 卷四 | 15 | — | — | missing_source |
-| 谨发 | 卷四 | 10 | — | — | missing_source |
-| 谨发诚 | 卷四 | 10 | — | — | missing_source |
-| 谨舍衣粮若干造像供养 | 卷四 | 15 | — | — | missing_source |
-| “谨舍衣粮若干造像供养” | 卷四 | 15 | — | — | missing_source |
-| 谨舍 | 卷四 | 10 | — | — | missing_source |
-| 谨舍衣 | 卷四 | 10 | — | — | missing_source |
-| 像供养 | 卷四 | 10 | — | — | missing_source |
-| 以某年某月修斋表庆讫 | 卷四 | 10 | — | — | missing_source |
-| “以某年某月修斋表庆讫” | 卷四 | 10 | — | — | missing_source |
-| 以某 | 卷四 | 10 | — | — | missing_source |
-| 以某年 | 卷四 | 10 | — | — | missing_source |
-| 庆讫 | 卷四 | 10 | — | — | missing_source |
-| 表庆讫 | 卷四 | 10 | — | — | missing_source |
-| 永为瞻仰供养 | 卷四 | 10 | — | — | missing_source |
-| “永为瞻仰供养” | 卷四 | 10 | — | — | missing_source |
-| 永为 | 卷四 | 10 | — | — | missing_source |
-| 永为瞻 | 卷四 | 10 | — | — | missing_source |
-| 仰供养 | 卷四 | 10 | — | — | missing_source |
-| 永为后世瞻礼 | 卷四 | 10 | — | — | missing_source |
-| “永为后世瞻礼” | 卷四 | 10 | — | — | missing_source |
-| 永为后 | 卷四 | 10 | — | — | missing_source |
-| 瞻礼 | 卷四 | 10 | — | — | missing_source |
-| 世瞻礼 | 卷四 | 10 | — | — | missing_source |
-| 伏愿三宝鉴兹诚心 | 卷四 | 15 | — | — | missing_source |
-| “伏愿三宝鉴兹诚心” | 卷四 | 15 | — | — | missing_source |
-| 伏愿 | 卷四 | 10 | — | — | missing_source |
-| 伏愿三 | 卷四 | 10 | — | — | missing_source |
-| 诚心 | 卷四 | 10 | — | — | missing_source |
-| 兹诚心 | 卷四 | 10 | — | — | missing_source |
-| 愿以此功德 | 卷四 | 20 | — | — | missing_source |
-| “愿以此功德” | 卷四 | 20 | — | — | missing_source |
-| 愿以 | 卷四 | 12 | — | — | missing_source |
-| 愿以此 | 卷四 | 12 | — | — | missing_source |
-| 此功德 | 卷四 | 12 | — | — | missing_source |
-| 同沾法利 | 卷四 | 10 | — | — | missing_source |
-| “同沾法利” | 卷四 | 10 | — | — | missing_source |
-| 同沾 | 卷四 | 10 | — | — | missing_source |
-| 同沾法 | 卷四 | 10 | — | — | missing_source |
-| 法利 | 卷四 | 10 | — | — | missing_source |
-| 沾法利 | 卷四 | 10 | — | — | missing_source |
-| 伏愿诸病消除 | 卷四 | 55 | — | — | missing_source |
-| “伏愿诸病消除” | 卷四 | 55 | — | — | missing_source |
-| 伏愿诸 | 卷四 | 33 | — | — | missing_source |
-| 病消除 | 卷四 | 33 | — | — | missing_source |
-| 伏愿疾疫不侵 | 卷四 | 55 | — | — | missing_source |
-| “伏愿疾疫不侵” | 卷四 | 55 | — | — | missing_source |
-| 伏愿疾 | 卷四 | 33 | — | — | missing_source |
-| 疫不侵 | 卷四 | 33 | — | — | missing_source |
-| 伏愿瘟疫远离 | 卷四 | 55 | — | — | missing_source |
-| “伏愿瘟疫远离” | 卷四 | 55 | — | — | missing_source |
-| 伏愿瘟 | 卷四 | 33 | — | — | missing_source |
-| 疫远离 | 卷四 | 33 | — | — | missing_source |
-| 伏愿饥荒不起 | 卷四 | 45 | — | — | missing_source |
-| “伏愿饥荒不起” | 卷四 | 45 | — | — | missing_source |
-| 伏愿饥 | 卷四 | 27 | — | — | missing_source |
-| 荒不起 | 卷四 | 27 | — | — | missing_source |
-| 伏愿一切灾障消灭 | 卷四 | 55 | — | — | missing_source |
-| “伏愿一切灾障消灭” | 卷四 | 55 | — | — | missing_source |
-| 伏愿一 | 卷四 | 33 | — | — | missing_source |
-| 障消灭 | 卷四 | 33 | — | — | missing_source |
-| 愿诸病苦悉得解脱 | 卷四 | 60 | — | — | missing_source |
-| “愿诸病苦悉得解脱” | 卷四 | 60 | — | — | missing_source |
-| 愿诸病 | 卷四 | 36 | — | — | missing_source |
-| 得解脱 | 卷四 | 36 | — | — | missing_source |
-| 愿离一切重病轻病 | 卷四 | 60 | — | — | missing_source |
-| “愿离一切重病轻病” | 卷四 | 60 | — | — | missing_source |
-| 愿离一 | 卷四 | 36 | — | — | missing_source |
-| 病轻病 | 卷四 | 36 | — | — | missing_source |
-| 愿身心清凉无诸苦患 | 卷四 | 55 | — | — | missing_source |
-| “愿身心清凉无诸苦患” | 卷四 | 55 | — | — | missing_source |
-| 愿身心 | 卷四 | 33 | — | — | missing_source |
-| 愿现世长寿安稳 | 卷四 | 60 | — | — | missing_source |
-| “愿现世长寿安稳” | 卷四 | 60 | — | — | missing_source |
-| 愿现世 | 卷四 | 36 | — | — | missing_source |
-| 寿安稳 | 卷四 | 36 | — | — | missing_source |
-| 愿寿命延长无诸横死 | 卷四 | 65 | — | — | missing_source |
-| “愿寿命延长无诸横死” | 卷四 | 65 | — | — | missing_source |
-| 愿寿命 | 卷四 | 39 | — | — | missing_source |
-| 愿远离刀兵水火之灾 | 卷四 | 50 | — | — | missing_source |
-| “愿远离刀兵水火之灾” | 卷四 | 50 | — | — | missing_source |
-| 愿远离 | 卷四 | 30 | — | — | missing_source |
-| 火之灾 | 卷四 | 30 | — | — | missing_source |
-| 愿除宿殃恶业病缘 | 卷四 | 60 | — | — | missing_source |
-| “愿除宿殃恶业病缘” | 卷四 | 60 | — | — | missing_source |
-| 愿除宿 | 卷四 | 36 | — | — | missing_source |
-| 业病缘 | 卷四 | 36 | — | — | missing_source |
-| 愿诸鬼神不为恼害 | 卷四 | 45 | — | — | missing_source |
-| “愿诸鬼神不为恼害” | 卷四 | 45 | — | — | missing_source |
-| 愿诸鬼 | 卷四 | 27 | — | — | missing_source |
-| 为恼害 | 卷四 | 27 | — | — | missing_source |
-| 愿诸冤家债主解怨释结 | 卷四 | 45 | — | — | missing_source |
-| “愿诸冤家债主解怨释结” | 卷四 | 45 | — | — | missing_source |
-| 愿诸冤 | 卷四 | 27 | — | — | missing_source |
-| 怨释结 | 卷四 | 27 | — | — | missing_source |
-| 愿父母眷属身心安乐 | 卷四 | 40 | — | — | missing_source |
-| “愿父母眷属身心安乐” | 卷四 | 40 | — | — | missing_source |
-| 愿父母 | 卷四 | 24 | — | — | missing_source |
-| 愿现世所求遂意 | 卷四 | 40 | — | — | missing_source |
-| “愿现世所求遂意” | 卷四 | 40 | — | — | missing_source |
-| 求遂意 | 卷四 | 24 | — | — | missing_source |
-| 愿身田清爽 | 卷四 | 55 | — | — | missing_source |
-| “愿身田清爽” | 卷四 | 55 | — | — | missing_source |
-| 愿身田 | 卷四 | 33 | — | — | missing_source |
-| 田清爽 | 卷四 | 33 | — | — | missing_source |
-| 愿寿算遐昌 | 卷四 | 55 | — | — | missing_source |
-| “愿寿算遐昌” | 卷四 | 55 | — | — | missing_source |
-| 愿寿算 | 卷四 | 33 | — | — | missing_source |
-| 算遐昌 | 卷四 | 33 | — | — | missing_source |
-| 愿眷属康宁 | 卷四 | 40 | — | — | missing_source |
-| “愿眷属康宁” | 卷四 | 40 | — | — | missing_source |
-| 愿眷属 | 卷四 | 24 | — | — | missing_source |
-| 属康宁 | 卷四 | 24 | — | — | missing_source |
-| 愿门阖昌盛 | 卷四 | 40 | — | — | missing_source |
-| “愿门阖昌盛” | 卷四 | 40 | — | — | missing_source |
-| 愿门阖 | 卷四 | 24 | — | — | missing_source |
-| 阖昌盛 | 卷四 | 24 | — | — | missing_source |
-| 愿灾星退舍福曜进宫 | 卷四 | 45 | — | — | missing_source |
-| “愿灾星退舍福曜进宫” | 卷四 | 45 | — | — | missing_source |
-| 愿灾 | 卷四 | 27 | — | — | missing_source |
-| 愿灾星 | 卷四 | 27 | — | — | missing_source |
-| 进宫 | 卷四 | 27 | — | — | missing_source |
-| 曜进宫 | 卷四 | 27 | — | — | missing_source |
-| 伏愿福寿双增 | 卷四 | 50 | — | — | missing_source |
-| “伏愿福寿双增” | 卷四 | 50 | — | — | missing_source |
-| 伏愿福 | 卷四 | 30 | — | — | missing_source |
-| 寿双增 | 卷四 | 30 | — | — | missing_source |
-| 设药师斋 | 卷四 | 60 | — | — | missing_source |
-| “设药师斋” | 卷四 | 60 | — | — | missing_source |
-| 设药师 | 卷四 | 36 | — | — | missing_source |
-| 药师斋 | 卷四 | 36 | — | — | missing_source |
-| 修药师法会 | 卷四 | 60 | — | — | missing_source |
-| “修药师法会” | 卷四 | 60 | — | — | missing_source |
-| 修药师 | 卷四 | 36 | — | — | missing_source |
-| 修药师忏法 | 卷四 | 65 | — | — | missing_source |
-| “修药师忏法” | 卷四 | 65 | — | — | missing_source |
-| 忏法 | 卷四 | 5 | — | — | missing_source |
-| 师忏法 | 卷四 | 39 | — | — | missing_source |
-| 建药师道场 | 卷四 | 65 | — | — | missing_source |
-| “建药师道场” | 卷四 | 65 | — | — | missing_source |
-| 建药师 | 卷四 | 39 | — | — | missing_source |
-| 建东方琉璃道场 | 卷四 | 70 | — | — | missing_source |
-| “建东方琉璃道场” | 卷四 | 70 | — | — | missing_source |
-| 建东方 | 卷四 | 42 | — | — | missing_source |
-| 璃道场 | 卷四 | 42 | — | — | missing_source |
-| 修斋表庆 | 卷四 | 30 | — | — | missing_source |
-| “修斋表庆” | 卷四 | 30 | — | — | missing_source |
-| 修斋 | 卷四 | 18 | — | — | missing_source |
-| 修斋表 | 卷四 | 18 | — | — | missing_source |
-| 表庆 | 卷四 | 18 | — | — | missing_source |
-| 斋表庆 | 卷四 | 18 | — | — | missing_source |
-| 修水陆斋 | 卷四 | 25 | — | — | missing_source |
-| “修水陆斋” | 卷四 | 25 | — | — | missing_source |
-| 修水 | 卷四 | 15 | — | — | missing_source |
-| 修水陆 | 卷四 | 15 | — | — | missing_source |
-| 陆斋 | 卷四 | 15 | — | — | missing_source |
-| 水陆斋 | 卷四 | 15 | — | — | missing_source |
-| 修忏悔业障法会 | 卷四 | 25 | — | — | missing_source |
-| “修忏悔业障法会” | 卷四 | 25 | — | — | missing_source |
-| 修忏 | 卷四 | 15 | — | — | missing_source |
-| 修忏悔 | 卷四 | 15 | — | — | missing_source |
-| 障法会 | 卷四 | 15 | — | — | missing_source |
-| 昼夜烧香礼拜 | 卷四 | 25 | — | — | missing_source |
-| “昼夜烧香礼拜” | 卷四 | 25 | — | — | missing_source |
-| 昼夜 | 卷四 | 15 | — | — | missing_source |
-| 昼夜烧 | 卷四 | 15 | — | — | missing_source |
-| 礼拜 | 卷四 | 15 | — | — | missing_source |
-| 香礼拜 | 卷四 | 15 | — | — | missing_source |
-| 昼夜读诵药师经 | 卷四 | 75 | — | — | missing_source |
-| “昼夜读诵药师经” | 卷四 | 75 | — | — | missing_source |
-| 昼夜读 | 卷四 | 45 | — | — | missing_source |
-| 药师经 | 卷四 | 40 | — | — | missing_source |
-| 书写药师经一部 | 卷四 | 75 | — | — | missing_source |
-| “书写药师经一部” | 卷四 | 75 | — | — | missing_source |
-| 书写药 | 卷四 | 45 | — | — | missing_source |
-| 经一部 | 卷四 | 45 | — | — | missing_source |
-| 诵持药师名号若干遍 | 卷四 | 70 | — | — | missing_source |
-| “诵持药师名号若干遍” | 卷四 | 70 | — | — | missing_source |
-| 诵持药 | 卷四 | 42 | — | — | missing_source |
-| 若干遍 | 卷四 | 42 | — | — | missing_source |
-| 命僧转读药师经 | 卷四 | 75 | — | — | missing_source |
-| “命僧转读药师经” | 卷四 | 75 | — | — | missing_source |
-| 命僧转 | 卷四 | 45 | — | — | missing_source |
-| 悬幡供养药师佛 | 卷四 | 70 | — | — | missing_source |
-| “悬幡供养药师佛” | 卷四 | 70 | — | — | missing_source |
-| 悬幡供 | 卷四 | 42 | — | — | missing_source |
-| 燃灯供养东方佛 | 卷四 | 65 | — | — | missing_source |
-| “燃灯供养东方佛” | 卷四 | 65 | — | — | missing_source |
-| 燃灯供 | 卷四 | 39 | — | — | missing_source |
-| 供养药师七佛 | 卷四 | 75 | — | — | missing_source |
-| “供养药师七佛” | 卷四 | 75 | — | — | missing_source |
-| 供养药 | 卷四 | 45 | — | — | missing_source |
-| 药师坛上供养诸佛菩萨 | 卷四 | 70 | — | — | missing_source |
-| “药师坛上供养诸佛菩萨” | 卷四 | 70 | — | — | missing_source |
-| 佛菩萨 | 卷四 | 42 | — | — | missing_source |
-| 药师道场中修此法 | 卷四 | 70 | — | — | missing_source |
-| “药师道场中修此法” | 卷四 | 70 | — | — | missing_source |
-| 修此法 | 卷四 | 42 | — | — | missing_source |
-| 上报四重恩，下济三途苦 | 卷四 | 20 | — | — | missing_source |
-| “上报四重恩，下济三途苦” | 卷四 | 20 | — | — | missing_source |
-| 上报 | 卷四 | 12 | — | — | missing_source |
-| 上报四 | 卷四 | 12 | — | — | missing_source |
-| 途苦 | 卷四 | 12 | — | — | missing_source |
-| 三途苦 | 卷四 | 12 | — | — | missing_source |
-| 同证菩提 | 卷四 | 20 | — | — | missing_source |
-| “同证菩提” | 卷四 | 20 | — | — | missing_source |
-| 同证 | 卷四 | 12 | — | — | missing_source |
-| 同证菩 | 卷四 | 12 | — | — | missing_source |
-| 同登觉岸 | 卷四 | 20 | — | — | missing_source |
-| “同登觉岸” | 卷四 | 20 | — | — | missing_source |
-| 同登 | 卷四 | 12 | — | — | missing_source |
-| 同登觉 | 卷四 | 12 | — | — | missing_source |
-| 觉岸 | 卷四 | 12 | — | — | missing_source |
-| 登觉岸 | 卷四 | 12 | — | — | missing_source |
-| 同入佛会 | 卷四 | 20 | — | — | missing_source |
-| “同入佛会” | 卷四 | 20 | — | — | missing_source |
-| 同入 | 卷四 | 12 | — | — | missing_source |
-| 同入佛 | 卷四 | 12 | — | — | missing_source |
-| 佛会 | 卷四 | 12 | — | — | missing_source |
-| 佛会 | 卷五 | 42 | — | — | missing_source |
-| 入佛会 | 卷四 | 12 | — | — | missing_source |
-| 同入法会 | 卷四 | 20 | — | — | missing_source |
-| “同入法会” | 卷四 | 20 | — | — | missing_source |
-| 同入法 | 卷四 | 12 | — | — | missing_source |
-| 入法会 | 卷四 | 12 | — | — | missing_source |
-| 愿法轮常转 | 卷四 | 20 | — | — | missing_source |
-| “愿法轮常转” | 卷四 | 20 | — | — | missing_source |
-| 愿法 | 卷四 | 12 | — | — | missing_source |
-| 愿法轮 | 卷四 | 12 | — | — | missing_source |
-| 常转 | 卷四 | 12 | — | — | missing_source |
-| 轮常转 | 卷四 | 12 | — | — | missing_source |
-| 愿佛日增辉 | 卷四 | 20 | — | — | missing_source |
-| “愿佛日增辉” | 卷四 | 20 | — | — | missing_source |
-| 愿佛 | 卷四 | 12 | — | — | missing_source |
-| 愿佛日 | 卷四 | 12 | — | — | missing_source |
-| 增辉 | 卷四 | 12 | — | — | missing_source |
-| 日增辉 | 卷四 | 12 | — | — | missing_source |
-| 愿法界有情同沾法利 | 卷四 | 20 | — | — | missing_source |
-| “愿法界有情同沾法利” | 卷四 | 20 | — | — | missing_source |
-| 愿法界 | 卷四 | 12 | — | — | missing_source |
-| 愿见闻者皆得度脱 | 卷四 | 25 | — | — | missing_source |
-| “愿见闻者皆得度脱” | 卷四 | 25 | — | — | missing_source |
-| 愿见 | 卷四 | 15 | — | — | missing_source |
-| 愿见闻 | 卷四 | 15 | — | — | missing_source |
-| 得度脱 | 卷四 | 15 | — | — | missing_source |
-| 愿有缘众生俱成佛道 | 卷四 | 20 | — | — | missing_source |
-| “愿有缘众生俱成佛道” | 卷四 | 20 | — | — | missing_source |
-| 愿有 | 卷四 | 12 | — | — | missing_source |
-| 愿有缘 | 卷四 | 12 | — | — | missing_source |
-| 愿诸有情离苦得乐 | 卷四 | 20 | — | — | missing_source |
-| “愿诸有情离苦得乐” | 卷四 | 20 | — | — | missing_source |
-| 愿诸有 | 卷四 | 12 | — | — | missing_source |
-| 得乐 | 卷四 | 12 | — | — | missing_source |
-| 苦得乐 | 卷四 | 12 | — | — | missing_source |
-| 愿现世安乐，后生善处 | 卷四 | 25 | — | — | missing_source |
-| “愿现世安乐，后生善处” | 卷四 | 25 | — | — | missing_source |
-| 愿身心安乐，寿命延长 | 卷四 | 40 | — | — | missing_source |
-| “愿身心安乐，寿命延长” | 卷四 | 40 | — | — | missing_source |
-| 命延长 | 卷四 | 24 | — | — | missing_source |
-| 愿众生身安业乐 | 卷四 | 35 | — | — | missing_source |
-| “愿众生身安业乐” | 卷四 | 35 | — | — | missing_source |
-| 愿众生 | 卷四 | 21 | — | — | missing_source |
-| 安业乐 | 卷四 | 21 | — | — | missing_source |
-| 愿父母现报安宁 | 卷四 | 30 | — | — | missing_source |
-| “愿父母现报安宁” | 卷四 | 30 | — | — | missing_source |
-| 报安宁 | 卷四 | 18 | — | — | missing_source |
-| 愿仰佛威力，业障消除 | 卷四 | 30 | — | — | missing_source |
-| “愿仰佛威力，业障消除” | 卷四 | 30 | — | — | missing_source |
-| 愿仰 | 卷四 | 18 | — | — | missing_source |
-| 愿仰佛 | 卷四 | 18 | — | — | missing_source |
-| 障消除 | 卷四 | 18 | — | — | missing_source |
-| 愿诸冤亲债主各离恶道 | 卷四 | 25 | — | — | missing_source |
-| “愿诸冤亲债主各离恶道” | 卷四 | 25 | — | — | missing_source |
-| 离恶道 | 卷四 | 15 | — | — | missing_source |
-| 愿世世生生常遇佛法 | 卷四 | 20 | — | — | missing_source |
-| “愿世世生生常遇佛法” | 卷四 | 20 | — | — | missing_source |
-| 愿世 | 卷四 | 12 | — | — | missing_source |
-| 愿世世 | 卷四 | 12 | — | — | missing_source |
-| 遇佛法 | 卷四 | 12 | — | — | missing_source |
-| 愿诸功德回向法界 | 卷四 | 20 | — | — | missing_source |
-| “愿诸功德回向法界” | 卷四 | 20 | — | — | missing_source |
-| 愿诸功 | 卷四 | 12 | — | — | missing_source |
-| 向法界 | 卷四 | 12 | — | — | missing_source |
-| 毗卢遮那佛 | 卷五 | 90 | — | — | missing_source |
-| 毗卢遮那佛（Vairocana） | 卷五 | 90 | — | — | missing_source |
-| 毗卢 | 卷五 | 54 | — | — | missing_source |
-| 毗卢遮 | 卷五 | 54 | — | — | missing_source |
-| 那佛 | 卷五 | 54 | — | — | missing_source |
-| 那佛 | 卷六 | 5 | — | — | missing_source |
-| 遮那佛 | 卷五 | 54 | — | — | missing_source |
-| 遮那佛 | 卷六 | 5 | — | — | missing_source |
-| 大日如来 | 卷五 | 90 | — | — | missing_source |
-| 大日 | 卷五 | 54 | — | — | missing_source |
-| 大日如 | 卷五 | 54 | — | — | missing_source |
-| 日如来 | 卷五 | 54 | — | — | missing_source |
-| 大光明佛 | 卷五 | 85 | — | — | missing_source |
-| 明佛 | 卷五 | 51 | — | — | missing_source |
-| 光明佛 | 卷五 | 51 | — | — | missing_source |
-| 法界体性佛 | 卷五 | 85 | — | — | missing_source |
-| 法界体 | 卷五 | 51 | — | — | missing_source |
-| 性佛 | 卷五 | 51 | — | — | missing_source |
-| 体性佛 | 卷五 | 51 | — | — | missing_source |
-| 毗卢佛 | 卷五 | 85 | — | — | missing_source |
-| 卢佛 | 卷五 | 51 | — | — | missing_source |
-| 阿閦如来 | 卷五 | 80 | — | — | missing_source |
-| 阿閦如来（Akṣobhya） | 卷五 | 80 | — | — | missing_source |
-| 阿閦 | 卷五 | 48 | — | — | missing_source |
-| 阿閦如 | 卷五 | 48 | — | — | missing_source |
-| 閦如来 | 卷五 | 48 | — | — | missing_source |
-| 不动如来 | 卷五 | 80 | — | — | missing_source |
-| 不动如 | 卷五 | 48 | — | — | missing_source |
-| 动如来 | 卷五 | 48 | — | — | missing_source |
-| 阿阇婆佛 | 卷五 | 70 | — | — | missing_source |
-| 阿阇 | 卷五 | 42 | — | — | missing_source |
-| 阿阇婆 | 卷五 | 42 | — | — | missing_source |
-| 婆佛 | 卷五 | 42 | — | — | missing_source |
-| 阇婆佛 | 卷五 | 42 | — | — | missing_source |
-| 阿湿波耶 | 卷五 | 70 | — | — | missing_source |
-| 阿湿 | 卷五 | 42 | — | — | missing_source |
-| 阿湿波 | 卷五 | 42 | — | — | missing_source |
-| 波耶 | 卷五 | 42 | — | — | missing_source |
-| 湿波耶 | 卷五 | 42 | — | — | missing_source |
-| 蓝色佛 | 卷五 | 45 | — | — | missing_source |
-| 蓝色佛（青身色） | 卷五 | 45 | — | — | missing_source |
-| 蓝色 | 卷五 | 27 | — | — | missing_source |
-| 色佛 | 卷五 | 27 | — | — | missing_source |
-| 宝生如来 | 卷五 | 80 | — | — | missing_source |
-| 宝生 | 卷五 | 48 | — | — | missing_source |
-| 宝生如 | 卷五 | 48 | — | — | missing_source |
-| 生如来 | 卷五 | 48 | — | — | missing_source |
-| 宝生佛 | 卷五 | 80 | — | — | missing_source |
-| 生佛 | 卷五 | 48 | — | — | missing_source |
-| 南方宝生 | 卷五 | 75 | — | — | missing_source |
-| 南方 | 卷五 | 45 | — | — | missing_source |
-| 南方宝 | 卷五 | 45 | — | — | missing_source |
-| 方宝生 | 卷五 | 45 | — | — | missing_source |
-| 黄色佛 | 卷五 | 45 | — | — | missing_source |
-| 黄色 | 卷五 | 27 | — | — | missing_source |
-| 阿弥陀如来（密教） | 卷五 | 70 | — | — | missing_source |
-| 西方密佛 | 卷五 | 5 | — | — | missing_source |
-| 西方密 | 卷五 | 42 | — | — | missing_source |
-| 密佛 | 卷五 | 42 | — | — | missing_source |
-| 方密佛 | 卷五 | 5 | — | — | missing_source |
-| 红色佛 | 卷五 | 40 | — | — | missing_source |
-| 红色 | 卷五 | 24 | — | — | missing_source |
-| 不空成就如来 | 卷五 | 80 | — | — | missing_source |
-| 不空 | 卷五 | 48 | — | — | missing_source |
-| 不空成 | 卷五 | 48 | — | — | missing_source |
-| 就如来 | 卷五 | 48 | — | — | missing_source |
-| 成就佛 | 卷五 | 75 | — | — | missing_source |
-| 就佛 | 卷五 | 45 | — | — | missing_source |
-| 成就尊 | 卷五 | 70 | — | — | missing_source |
-| 就尊 | 卷五 | 42 | — | — | missing_source |
-| 五方佛 | 卷五 | 80 | — | — | missing_source |
-| 五方 | 卷五 | 48 | — | — | missing_source |
-| 五智如来 | 卷五 | 80 | — | — | missing_source |
-| 五智如 | 卷五 | 48 | — | — | missing_source |
-| 智如来 | 卷五 | 48 | — | — | missing_source |
-| 金刚界五佛 | 卷五 | 80 | — | — | missing_source |
-| 金刚界 | 卷五 | 48 | — | — | missing_source |
-| 五佛 | 卷五 | 5 | — | — | missing_source |
-| 界五佛 | 卷五 | 48 | — | — | missing_source |
-| 五大佛 | 卷五 | 70 | — | — | missing_source |
-| 五大 | 卷五 | 42 | — | — | missing_source |
-| 大佛 | 卷五 | 42 | — | — | missing_source |
-| 中台五佛 | 卷五 | 80 | — | — | missing_source |
-| 中台 | 卷五 | 48 | — | — | missing_source |
-| 中台五 | 卷五 | 48 | — | — | missing_source |
-| 台五佛 | 卷五 | 48 | — | — | missing_source |
-| 佛部五佛 | 卷五 | 75 | — | — | missing_source |
-| 部五佛 | 卷五 | 45 | — | — | missing_source |
-| 五佛冠 | 卷五 | 45 | — | — | missing_source |
-| 五佛冠（图像） | 卷五 | 45 | — | — | missing_source |
-| 佛冠 | 卷五 | 27 | — | — | missing_source |
-| 五佛光 | 卷五 | 45 | — | — | missing_source |
-| 五智宝冠 | 卷五 | 45 | — | — | missing_source |
-| 五智宝 | 卷五 | 27 | — | — | missing_source |
-| 智宝冠 | 卷五 | 27 | — | — | missing_source |
-| 大圆镜智 | 卷五 | 85 | — | — | missing_source |
-| 大圆 | 卷五 | 51 | — | — | missing_source |
-| 大圆镜 | 卷五 | 51 | — | — | missing_source |
-| 镜智 | 卷五 | 51 | — | — | missing_source |
-| 圆镜智 | 卷五 | 51 | — | — | missing_source |
-| 平等性智 | 卷五 | 80 | — | — | missing_source |
-| 平等性 | 卷五 | 48 | — | — | missing_source |
-| 性智 | 卷五 | 48 | — | — | missing_source |
-| 等性智 | 卷五 | 48 | — | — | missing_source |
-| 妙观察智 | 卷五 | 80 | — | — | missing_source |
-| 妙观 | 卷五 | 48 | — | — | missing_source |
-| 妙观察 | 卷五 | 48 | — | — | missing_source |
-| 察智 | 卷五 | 48 | — | — | missing_source |
-| 观察智 | 卷五 | 48 | — | — | missing_source |
-| 成所作智 | 卷五 | 80 | — | — | missing_source |
-| 成所 | 卷五 | 48 | — | — | missing_source |
-| 成所作 | 卷五 | 48 | — | — | missing_source |
-| 作智 | 卷五 | 48 | — | — | missing_source |
-| 所作智 | 卷五 | 48 | — | — | missing_source |
-| 法界体性智 | 卷五 | 85 | — | — | missing_source |
-| 体性智 | 卷五 | 51 | — | — | missing_source |
-| 智佛 | 卷五 | 48 | — | — | missing_source |
-| 五智法门 | 卷五 | 75 | — | — | missing_source |
-| 五智法 | 卷五 | 45 | — | — | missing_source |
-| 法门 | 卷五 | 45 | — | — | missing_source |
-| 智法门 | 卷五 | 45 | — | — | missing_source |
-| 五段智 | 卷五 | 75 | — | — | missing_source |
-| 五段 | 卷五 | 45 | — | — | missing_source |
-| 段智 | 卷五 | 45 | — | — | missing_source |
-| 五智如意轮 | 卷五 | 75 | — | — | missing_source |
-| 意轮 | 卷五 | 45 | — | — | missing_source |
-| 五智焰光 | 卷五 | 45 | — | — | missing_source |
-| 五智焰 | 卷五 | 27 | — | — | missing_source |
-| 智焰光 | 卷五 | 27 | — | — | missing_source |
-| 五智金刚 | 卷五 | 75 | — | — | missing_source |
-| 五智金 | 卷五 | 45 | — | — | missing_source |
-| 智金刚 | 卷五 | 45 | — | — | missing_source |
-| 五智大日 | 卷五 | 80 | — | — | missing_source |
-| 五智大 | 卷五 | 48 | — | — | missing_source |
-| 智大日 | 卷五 | 48 | — | — | missing_source |
-| 法界智光 | 卷五 | 70 | — | — | missing_source |
-| 法界智 | 卷五 | 42 | — | — | missing_source |
-| 智光 | 卷五 | 42 | — | — | missing_source |
-| 界智光 | 卷五 | 42 | — | — | missing_source |
-| 智严 | 卷五 | 70 | — | — | missing_source |
-| 智海 | 卷五 | 45 | — | — | missing_source |
-| 智海 | 卷六 | 42 | 善知识赞词 | — | unresolved_source |
-| 智相 | 卷五 | 45 | — | — | missing_source |
-| 智境 | 卷五 | 45 | — | — | missing_source |
-| 智印 | 卷五 | 55 | — | — | missing_source |
-| 智印（密教印） | 卷五 | 55 | — | — | missing_source |
-| 智密 | 卷五 | 55 | — | — | missing_source |
-| 诸智圆满 | 卷五 | 55 | — | — | missing_source |
-| 诸智 | 卷五 | 33 | — | — | missing_source |
-| 诸智圆 | 卷五 | 33 | — | — | missing_source |
-| 智圆满 | 卷五 | 33 | — | — | missing_source |
-| 方便智 | 卷五 | 45 | — | — | missing_source |
-| 便智 | 卷五 | 27 | — | — | missing_source |
-| 智轮 | 卷五 | 45 | — | — | missing_source |
-| 智身 | 卷五 | 45 | — | — | missing_source |
-| 智地 | 卷五 | 45 | — | — | missing_source |
-| 金刚萨埵 | 卷五 | 85 | — | — | missing_source |
-| 金刚萨 | 卷五 | 51 | — | — | missing_source |
-| 刚萨埵 | 卷五 | 51 | — | — | missing_source |
-| 金刚手菩萨 | 卷五 | 80 | — | — | missing_source |
-| 金刚手菩萨（Vajrapāṇi） | 卷五 | 80 | — | — | missing_source |
-| 金刚手 | 卷五 | 48 | — | — | missing_source |
-| 手菩萨 | 卷五 | 48 | — | — | missing_source |
-| 金刚幢 | 卷五 | 70 | — | — | missing_source |
-| 刚幢 | 卷五 | 42 | — | — | missing_source |
-| 金刚王 | 卷五 | 70 | — | — | missing_source |
-| 刚王 | 卷五 | 42 | — | — | missing_source |
-| 金刚爱菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚爱 | 卷五 | 42 | — | — | missing_source |
-| 爱菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚语菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚语 | 卷五 | 42 | — | — | missing_source |
-| 语菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚业菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚业 | 卷五 | 42 | — | — | missing_source |
-| 业菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚宝菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚宝 | 卷五 | 42 | — | — | missing_source |
-| 宝菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚鬘菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚鬘 | 卷五 | 42 | — | — | missing_source |
-| 鬘菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚藏菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚藏 | 卷五 | 5 | — | — | missing_source |
-| 藏菩萨 | 卷五 | 42 | — | — | missing_source |
-| 藏菩萨 | 卷九 | 15 | — | — | missing_source |
-| 金刚药叉菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚药 | 卷五 | 42 | — | — | missing_source |
-| 叉菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚铃菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚铃 | 卷五 | 42 | — | — | missing_source |
-| 铃菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚拳菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚拳 | 卷五 | 42 | — | — | missing_source |
-| 拳菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚笑菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚笑 | 卷五 | 42 | — | — | missing_source |
-| 笑菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚语言菩萨 | 卷五 | 70 | — | — | missing_source |
-| 言菩萨 | 卷五 | 42 | — | — | missing_source |
-| 金刚焰菩萨 | 卷五 | 70 | — | — | missing_source |
-| 金刚焰 | 卷五 | 42 | — | — | missing_source |
-| 焰菩萨 | 卷五 | 42 | — | — | missing_source |
-| 十六大菩萨 | 卷五 | 75 | — | — | missing_source |
-| 十六大 | 卷五 | 45 | — | — | missing_source |
-| 大菩萨 | 卷五 | 45 | — | — | missing_source |
-| 金刚界十六尊 | 卷五 | 80 | — | — | missing_source |
-| 六尊 | 卷五 | 48 | — | — | missing_source |
-| 十六尊 | 卷五 | 48 | — | — | missing_source |
-| 金刚部十六尊 | 卷五 | 75 | — | — | missing_source |
-| 金刚部 | 卷五 | 45 | — | — | missing_source |
-| 十六菩萨院 | 卷五 | 80 | — | — | missing_source |
-| 十六菩 | 卷五 | 48 | — | — | missing_source |
-| 萨院 | 卷五 | 48 | — | — | missing_source |
-| 菩萨院 | 卷五 | 48 | — | — | missing_source |
-| 初会中院 | 卷五 | 80 | — | — | missing_source |
-| 初会 | 卷五 | 48 | — | — | missing_source |
-| 初会 | 卷十 | 48 | — | — | missing_source |
-| 初会中 | 卷五 | 48 | — | — | missing_source |
-| 中院 | 卷五 | 48 | — | — | missing_source |
-| 会中院 | 卷五 | 48 | — | — | missing_source |
-| 金刚心菩萨 | 卷五 | 80 | — | — | missing_source |
-| 金刚心 | 卷五 | 48 | — | — | missing_source |
-| 心菩萨 | 卷五 | 48 | — | — | missing_source |
-| 金刚顶菩萨 | 卷五 | 80 | — | — | missing_source |
-| 金刚顶 | 卷五 | 48 | — | — | missing_source |
-| 顶菩萨 | 卷五 | 48 | — | — | missing_source |
-| 金刚童子 | 卷五 | 75 | — | — | missing_source |
-| 金刚童 | 卷五 | 45 | — | — | missing_source |
-| 童子 | 卷五 | 45 | — | — | missing_source |
-| 刚童子 | 卷五 | 45 | — | — | missing_source |
-| 金刚身 | 卷五 | 70 | — | — | missing_source |
-| 刚身 | 卷五 | 42 | — | — | missing_source |
-| 萨埵（sattva） | 卷五 | 70 | — | — | missing_source |
-| 三昧耶萨埵 | 卷五 | 75 | — | — | missing_source |
-| 耶萨埵 | 卷五 | 45 | — | — | missing_source |
-| 金刚大士 | 卷五 | 70 | — | — | missing_source |
-| 金刚大 | 卷五 | 42 | — | — | missing_source |
-| 刚大士 | 卷五 | 42 | — | — | missing_source |
-| 金刚杵持 | 卷五 | 40 | — | — | missing_source |
-| 金刚杵 | 卷五 | 24 | — | — | missing_source |
-| 杵持 | 卷五 | 24 | — | — | missing_source |
-| 刚杵持 | 卷五 | 24 | — | — | missing_source |
-| 五股金刚杵 | 卷五 | 45 | — | — | missing_source |
-| 五股 | 卷五 | 27 | — | — | missing_source |
-| 五股金 | 卷五 | 27 | — | — | missing_source |
-| 刚杵 | 卷五 | 27 | — | — | missing_source |
-| 单股杵 | 卷五 | 40 | — | — | missing_source |
-| 单股 | 卷五 | 24 | — | — | missing_source |
-| 股杵 | 卷五 | 24 | — | — | missing_source |
-| 刚铃 | 卷五 | 24 | — | — | missing_source |
-| 杵铃双持 | 卷五 | 55 | — | — | missing_source |
-| 杵铃 | 卷五 | 33 | — | — | missing_source |
-| 杵铃双 | 卷五 | 33 | — | — | missing_source |
-| 双持 | 卷五 | 33 | — | — | missing_source |
-| 铃双持 | 卷五 | 33 | — | — | missing_source |
-| 金刚拳印 | 卷五 | 55 | — | — | missing_source |
-| 拳印 | 卷五 | 33 | — | — | missing_source |
-| 刚拳印 | 卷五 | 33 | — | — | missing_source |
-| 金刚界忿怒相 | 卷五 | 40 | — | — | missing_source |
-| 怒相 | 卷五 | 24 | — | — | missing_source |
-| 忿怒相 | 卷五 | 24 | — | — | missing_source |
-| 金刚冠 | 卷五 | 45 | — | — | missing_source |
-| 刚冠 | 卷五 | 27 | — | — | missing_source |
-| 金刚宝光 | 卷五 | 45 | — | — | missing_source |
-| 刚宝光 | 卷五 | 27 | — | — | missing_source |
-| 金刚界火焰背光 | 卷五 | 40 | — | — | missing_source |
-| 焰背光 | 卷五 | 24 | — | — | missing_source |
-| 金刚界曼荼罗 | 卷五 | 85 | — | — | missing_source |
-| 金刚界大曼荼罗 | 卷五 | 85 | — | — | missing_source |
-| 三昧耶会 | 卷五 | 80 | — | — | missing_source |
-| 耶会 | 卷五 | 48 | — | — | missing_source |
-| 昧耶会 | 卷五 | 48 | — | — | missing_source |
-| 三昧耶院 | 卷五 | 80 | — | — | missing_source |
-| 耶院 | 卷五 | 48 | — | — | missing_source |
-| 昧耶院 | 卷五 | 48 | — | — | missing_source |
-| 成身会 | 卷五 | 80 | — | — | missing_source |
-| 成身 | 卷五 | 48 | — | — | missing_source |
-| 身会 | 卷五 | 48 | — | — | missing_source |
-| 胎藏院 | 卷五 | 75 | — | — | missing_source |
-| 胎藏院（作为对举） | 卷五 | 75 | — | — | missing_source |
-| 胎藏 | 卷五 | 45 | — | — | missing_source |
-| 藏院 | 卷五 | 45 | — | — | missing_source |
-| 金刚部院 | 卷五 | 80 | — | — | missing_source |
-| 部院 | 卷五 | 48 | — | — | missing_source |
-| 刚部院 | 卷五 | 48 | — | — | missing_source |
-| 佛部院 | 卷五 | 75 | — | — | missing_source |
-| 佛部院（密） | 卷五 | 75 | — | — | missing_source |
-| 莲华部院 | 卷五 | 75 | — | — | missing_source |
-| 莲华部院（密） | 卷五 | 75 | — | — | missing_source |
-| 莲华部 | 卷五 | 45 | — | — | missing_source |
-| 华部院 | 卷五 | 45 | — | — | missing_source |
-| 金刚界八供养 | 卷五 | 45 | — | — | missing_source |
-| 八供养 | 卷五 | 27 | — | — | missing_source |
-| 金刚界四印 | 卷五 | 45 | — | — | missing_source |
-| 四印 | 卷五 | 27 | — | — | missing_source |
-| 界四印 | 卷五 | 27 | — | — | missing_source |
-| 金刚界坛 | 卷五 | 80 | — | — | missing_source |
-| 界坛 | 卷五 | 48 | — | — | missing_source |
-| 刚界坛 | 卷五 | 48 | — | — | missing_source |
-| 金刚界道场 | 卷五 | 80 | — | — | missing_source |
-| 界道场 | 卷五 | 48 | — | — | missing_source |
-| 五智院 | 卷五 | 80 | — | — | missing_source |
-| 智院 | 卷五 | 48 | — | — | missing_source |
-| 五曼院 | 卷五 | 75 | — | — | missing_source |
-| 五曼 | 卷五 | 45 | — | — | missing_source |
-| 曼院 | 卷五 | 45 | — | — | missing_source |
-| 大日堂 | 卷五 | 80 | — | — | missing_source |
-| 日堂 | 卷五 | 48 | — | — | missing_source |
-| 金刚界供养 | 卷五 | 75 | — | — | missing_source |
-| 界供养 | 卷五 | 45 | — | — | missing_source |
-| 大曼荼罗供养 | 卷五 | 80 | — | — | missing_source |
-| 大曼 | 卷五 | 48 | — | — | missing_source |
-| 大曼荼 | 卷五 | 48 | — | — | missing_source |
-| 罗供养 | 卷五 | 48 | — | — | missing_source |
-| 三密相应 | 卷五 | 70 | — | — | missing_source |
-| 三密 | 卷五 | 42 | — | — | missing_source |
-| 三密相 | 卷五 | 42 | — | — | missing_source |
-| 密相应 | 卷五 | 42 | — | — | missing_source |
-| 五相成身 | 卷五 | 70 | — | — | missing_source |
-| 五相 | 卷五 | 42 | — | — | missing_source |
-| 五相成 | 卷五 | 42 | — | — | missing_source |
-| 相成身 | 卷五 | 42 | — | — | missing_source |
-| 万字印 | 卷五 | 45 | — | — | missing_source |
-| 万字印（Svastika） | 卷五 | 45 | — | — | missing_source |
-| 万字 | 卷五 | 27 | — | — | missing_source |
-| 字印 | 卷五 | 27 | — | — | missing_source |
-| 般若界 | 卷五 | 45 | — | — | missing_source |
-| 若界 | 卷五 | 27 | — | — | missing_source |
-| 秘密界 | 卷五 | 55 | — | — | missing_source |
-| 秘密 | 卷五 | 33 | — | — | missing_source |
-| 密界 | 卷五 | 33 | — | — | missing_source |
-| 大日如来（胎藏界） | 卷五 | 90 | — | — | missing_source |
-| 毗卢遮那 | 卷五 | 90 | — | — | missing_source |
-| 毗卢遮那（胎藏） | 卷五 | 90 | — | — | missing_source |
-| 遮那 | 卷五 | 54 | — | — | missing_source |
-| 遮那 | 卷六 | 5 | — | — | missing_source |
-| 卢遮那 | 卷五 | 54 | — | — | missing_source |
-| 卢遮那 | 卷六 | 5 | — | — | missing_source |
-| 胎藏界大日 | 卷五 | 90 | — | — | missing_source |
-| 胎藏界 | 卷五 | 54 | — | — | missing_source |
-| 界大日 | 卷五 | 54 | — | — | missing_source |
-| 毗卢遮那法身 | 卷五 | 85 | — | — | missing_source |
-| 法身 | 卷五 | 51 | — | — | missing_source |
-| 那法身 | 卷五 | 51 | — | — | missing_source |
-| 毗卢法界身 | 卷五 | 85 | — | — | missing_source |
-| 毗卢法 | 卷五 | 51 | — | — | missing_source |
-| 界身 | 卷五 | 51 | — | — | missing_source |
-| 法界身 | 卷五 | 51 | — | — | missing_source |
-| 金刚波罗蜜菩萨 | 卷五 | 80 | — | — | missing_source |
-| 金刚波罗蜜菩萨（东） | 卷五 | 80 | — | — | missing_source |
-| 金刚波 | 卷五 | 48 | — | — | missing_source |
-| 蜜菩萨 | 卷五 | 48 | — | — | missing_source |
-| 妙吉祥菩萨（南）/ 妙吉祥 | 卷五 | 75 | — | — | missing_source |
-| 妙吉 | 卷五 | 5 | — | — | missing_source |
-| 妙吉祥 | 卷五 | 5 | — | — | missing_source |
-| 观世音菩萨（西）胎藏名 | 卷五 | 70 | — | — | missing_source |
-| 藏名 | 卷五 | 42 | — | — | missing_source |
-| 胎藏名 | 卷五 | 42 | — | — | missing_source |
-| 弥勒菩萨（北）胎藏名 | 卷五 | 70 | — | — | missing_source |
-| 弥勒 | 卷五 | 5 | — | — | missing_source |
-| 弥勒 | 卷十 | 48 | — | — | missing_source |
-| 弥勒菩 | 卷五 | 5 | — | — | missing_source |
-| 弥勒菩 | 卷十 | 48 | — | — | missing_source |
-| 普贤菩萨 | 卷五 | 5 | — | — | missing_source |
-| 普贤菩萨 | 卷六 | 75 | 八十卷华严 | — | unresolved_source |
-| 普贤菩萨（胎藏） | 卷五 | 5 | — | — | missing_source |
-| 普贤菩 | 卷五 | 5 | — | — | missing_source |
-| 普贤菩 | 卷六 | 45 | 八十卷华严 | — | unresolved_source |
-| 贤菩萨 | 卷五 | 42 | — | — | missing_source |
-| 贤菩萨 | 卷六 | 45 | 八十卷华严 | — | unresolved_source |
-| 地藏菩萨 | 卷五 | 5 | — | — | missing_source |
-| 地藏菩萨 | 卷九 | 80 | 地藏经 | T0412 | title_catalog_match |
-| 地藏菩萨（胎藏） | 卷五 | 65 | — | — | missing_source |
-| 地藏菩 | 卷五 | 5 | — | — | missing_source |
-| 虚空藏菩萨 | 卷五 | 75 | — | — | missing_source |
-| 虚空藏菩萨（胎藏） | 卷五 | 75 | — | — | missing_source |
-| 虚空 | 卷五 | 45 | — | — | missing_source |
-| 虚空藏 | 卷五 | 45 | — | — | missing_source |
-| 除盖障菩萨 | 卷五 | 80 | — | — | missing_source |
-| 除盖障菩萨（胎藏） | 卷五 | 80 | — | — | missing_source |
-| 除盖 | 卷五 | 48 | — | — | missing_source |
-| 除盖 | 卷九 | 39 | — | — | missing_source |
-| 除盖障 | 卷五 | 48 | — | — | missing_source |
-| 除盖障 | 卷九 | 39 | — | — | missing_source |
-| 障菩萨 | 卷五 | 48 | — | — | missing_source |
-| 八叶院 | 卷五 | 85 | — | — | missing_source |
-| 八叶 | 卷五 | 51 | — | — | missing_source |
-| 叶院 | 卷五 | 51 | — | — | missing_source |
-| 八叶莲花院 | 卷五 | 85 | — | — | missing_source |
-| 八叶莲 | 卷五 | 51 | — | — | missing_source |
-| 花院 | 卷五 | 51 | — | — | missing_source |
-| 莲花院 | 卷五 | 51 | — | — | missing_source |
-| 中台八叶 | 卷五 | 85 | — | — | missing_source |
-| 中台八 | 卷五 | 51 | — | — | missing_source |
-| 台八叶 | 卷五 | 51 | — | — | missing_source |
-| 胎藏界八叶 | 卷五 | 80 | — | — | missing_source |
-| 界八叶 | 卷五 | 48 | — | — | missing_source |
-| 八叶曼荼罗 | 卷五 | 80 | — | — | missing_source |
-| 八叶曼 | 卷五 | 48 | — | — | missing_source |
-| 八方菩萨 | 卷五 | 75 | — | — | missing_source |
-| 八方 | 卷五 | 45 | — | — | missing_source |
-| 八方菩 | 卷五 | 45 | — | — | missing_source |
-| 方菩萨 | 卷五 | 45 | — | — | missing_source |
-| 八瓣莲华 | 卷五 | 45 | — | — | missing_source |
-| 八瓣 | 卷五 | 27 | — | — | missing_source |
-| 八瓣莲 | 卷五 | 27 | — | — | missing_source |
-| 瓣莲华 | 卷五 | 27 | — | — | missing_source |
-| 中台院 | 卷五 | 85 | — | — | missing_source |
-| 台院 | 卷五 | 51 | — | — | missing_source |
-| 中台曼荼罗 | 卷五 | 80 | — | — | missing_source |
-| 中台曼 | 卷五 | 48 | — | — | missing_source |
-| 胎藏界中台 | 卷五 | 85 | — | — | missing_source |
-| 界中台 | 卷五 | 51 | — | — | missing_source |
-| 中台大曼荼罗 | 卷五 | 85 | — | — | missing_source |
-| 中台大 | 卷五 | 51 | — | — | missing_source |
-| 胎藏界梵网 | 卷五 | 75 | — | — | missing_source |
-| 梵网 | 卷五 | 45 | — | — | missing_source |
-| 界梵网 | 卷五 | 45 | — | — | missing_source |
-| 中台真言 | 卷五 | 75 | — | — | missing_source |
-| 中台真 | 卷五 | 45 | — | — | missing_source |
-| 台真言 | 卷五 | 45 | — | — | missing_source |
-| 八叶观 | 卷五 | 60 | — | — | missing_source |
-| 叶观 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界供养 | 卷五 | 70 | — | — | missing_source |
-| 胎藏界印 | 卷五 | 70 | — | — | missing_source |
-| 界印 | 卷五 | 42 | — | — | missing_source |
-| 藏界印 | 卷五 | 42 | — | — | missing_source |
-| 大莲花藏世界 | 卷五 | 75 | — | — | missing_source |
-| 大莲花藏世界（胎藏名） | 卷五 | 75 | — | — | missing_source |
-| 大莲 | 卷五 | 45 | — | — | missing_source |
-| 大莲花 | 卷五 | 45 | — | — | missing_source |
-| 藏世界 | 卷五 | 45 | — | — | missing_source |
-| 藏世界 | 卷六 | 48 | — | — | missing_source |
-| 金刚部院（胎藏） | 卷五 | 85 | — | — | missing_source |
-| 宝部院 | 卷五 | 85 | — | — | missing_source |
-| 宝部 | 卷五 | 51 | — | — | missing_source |
-| 羯磨部院 | 卷五 | 85 | — | — | missing_source |
-| 羯磨 | 卷五 | 51 | — | — | missing_source |
-| 羯磨部 | 卷五 | 51 | — | — | missing_source |
-| 磨部院 | 卷五 | 51 | — | — | missing_source |
-| 密严院 | 卷五 | 85 | — | — | missing_source |
-| 密严 | 卷五 | 51 | — | — | missing_source |
-| 严院 | 卷五 | 51 | — | — | missing_source |
-| 释迦牟尼胎藏 | 卷五 | 5 | — | — | missing_source |
-| 释迦牟尼胎藏（佛部主） | 卷五 | 5 | — | — | missing_source |
-| 大日二重身 | 卷五 | 75 | — | — | missing_source |
-| 大日二重身（胎藏佛部） | 卷五 | 75 | — | — | missing_source |
-| 大日二 | 卷五 | 45 | — | — | missing_source |
-| 重身 | 卷五 | 45 | — | — | missing_source |
-| 二重身 | 卷五 | 45 | — | — | missing_source |
-| 福德佛 | 卷五 | 60 | — | — | missing_source |
-| 福德 | 卷五 | 36 | — | — | missing_source |
-| 德佛 | 卷五 | 36 | — | — | missing_source |
-| 宝胜佛 | 卷五 | 70 | 密教五方佛（南方宝生佛/胎藏界） | — | unresolved_source |
-| 宝胜佛（胎藏） | 卷五 | 5 | — | — | missing_source |
-| 宝胜 | 卷五 | 42 | 密教五方佛简称 | — | unresolved_source |
-| 胜佛 | 卷五 | 42 | — | — | missing_source |
-| 观音菩萨胎藏 | 卷五 | 5 | — | — | missing_source |
-| 观音菩 | 卷五 | 5 | — | — | missing_source |
-| 萨胎藏 | 卷五 | 42 | — | — | missing_source |
-| 大势至菩萨胎藏 | 卷五 | 5 | — | — | missing_source |
-| 大势 | 卷五 | 5 | — | — | missing_source |
-| 大势至 | 卷五 | 5 | — | — | missing_source |
-| 白衣观音胎藏 | 卷五 | 60 | — | — | missing_source |
-| 白衣 | 卷五 | 36 | — | — | missing_source |
-| 白衣 | 卷二 | 50 | 白衣观音 | — | unresolved_source |
-| 白衣观 | 卷五 | 36 | — | — | missing_source |
-| 音胎藏 | 卷五 | 36 | — | — | missing_source |
-| 甘露观音胎藏 | 卷五 | 60 | — | — | missing_source |
-| 甘露 | 卷五 | 36 | — | — | missing_source |
-| 甘露观 | 卷五 | 36 | — | — | missing_source |
-| 施药观音胎藏 | 卷五 | 60 | — | — | missing_source |
-| 施药 | 卷五 | 36 | — | — | missing_source |
-| 施药观 | 卷五 | 36 | — | — | missing_source |
-| 金刚菩萨胎藏 | 卷五 | 5 | — | — | missing_source |
-| 金刚菩 | 卷五 | 42 | — | — | missing_source |
-| 金刚藏胎藏 | 卷五 | 5 | — | — | missing_source |
-| 藏胎藏 | 卷五 | 42 | — | — | missing_source |
-| 金刚幢胎藏 | 卷五 | 60 | — | — | missing_source |
-| 幢胎藏 | 卷五 | 36 | — | — | missing_source |
-| 金刚爱胎藏 | 卷五 | 60 | — | — | missing_source |
-| 爱胎藏 | 卷五 | 36 | — | — | missing_source |
-| 金刚笑胎藏 | 卷五 | 60 | — | — | missing_source |
-| 笑胎藏 | 卷五 | 36 | — | — | missing_source |
-| 虚空藏菩萨胎藏 | 卷五 | 75 | — | — | missing_source |
-| 虚空藏菩萨胎藏（宝部主） | 卷五 | 75 | — | — | missing_source |
-| 地藏胎藏 | 卷五 | 5 | — | — | missing_source |
-| 地藏胎藏（宝部配属） | 卷五 | 65 | — | — | missing_source |
-| 地藏胎 | 卷五 | 5 | — | — | missing_source |
-| 除灾障菩萨 | 卷五 | 5 | — | — | missing_source |
-| 吉祥菩萨 | 卷五 | 65 | — | — | missing_source |
-| 吉祥菩萨（宝部） | 卷五 | 65 | — | — | missing_source |
-| 吉祥菩 | 卷五 | 39 | — | — | missing_source |
-| 祥菩萨 | 卷五 | 39 | — | — | missing_source |
-| 弥勒胎藏 | 卷五 | 5 | — | — | missing_source |
-| 弥勒胎藏（羯磨主） | 卷五 | 5 | — | — | missing_source |
-| 弥勒胎 | 卷五 | 42 | — | — | missing_source |
-| 勒胎藏 | 卷五 | 42 | — | — | missing_source |
-| 能净菩萨 | 卷五 | 65 | — | — | missing_source |
-| 能净 | 卷五 | 39 | — | — | missing_source |
-| 能净菩 | 卷五 | 39 | — | — | missing_source |
-| 净菩萨 | 卷五 | 39 | — | — | missing_source |
-| 功德天胎藏 | 卷五 | 65 | — | — | missing_source |
-| 功德天 | 卷五 | 39 | — | — | missing_source |
-| 天胎藏 | 卷五 | 39 | — | — | missing_source |
-| 毗沙门天胎藏 | 卷五 | 60 | — | — | missing_source |
-| 毗沙 | 卷五 | 36 | — | — | missing_source |
-| 毗沙门 | 卷五 | 36 | — | — | missing_source |
-| 十罗刹女 | 卷五 | 70 | — | — | missing_source |
-| 十罗刹女（胎藏） | 卷五 | 70 | — | — | missing_source |
-| 十罗 | 卷五 | 42 | — | — | missing_source |
-| 十罗刹 | 卷五 | 42 | — | — | missing_source |
-| 刹女 | 卷五 | 42 | — | — | missing_source |
-| 罗刹女 | 卷五 | 42 | — | — | missing_source |
-| 伽蓝神 | 卷五 | 60 | — | — | missing_source |
-| 伽蓝神（胎藏配属） | 卷五 | 60 | — | — | missing_source |
-| 伽蓝 | 卷五 | 36 | — | — | missing_source |
-| 蓝神 | 卷五 | 36 | — | — | missing_source |
-| 梵天胎藏 | 卷五 | 60 | — | — | missing_source |
-| 梵天 | 卷五 | 36 | — | — | missing_source |
-| 梵天胎 | 卷五 | 36 | — | — | missing_source |
-| 帝释胎藏 | 卷五 | 60 | — | — | missing_source |
-| 帝释 | 卷五 | 36 | — | — | missing_source |
-| 帝释胎 | 卷五 | 36 | — | — | missing_source |
-| 释胎藏 | 卷五 | 36 | — | — | missing_source |
-| 四天王胎藏 | 卷五 | 60 | — | — | missing_source |
-| 四天 | 卷五 | 36 | — | — | missing_source |
-| 四天王 | 卷五 | 36 | — | — | missing_source |
-| 王胎藏 | 卷五 | 36 | — | — | missing_source |
-| 风天 | 卷五 | 55 | — | — | missing_source |
-| 龙王胎藏 | 卷五 | 55 | — | — | missing_source |
-| 龙王 | 卷五 | 33 | — | — | missing_source |
-| 龙王胎 | 卷五 | 33 | — | — | missing_source |
-| 鬼子母胎藏 | 卷五 | 55 | — | — | missing_source |
-| 鬼子 | 卷五 | 33 | — | — | missing_source |
-| 鬼子母 | 卷五 | 33 | — | — | missing_source |
-| 母胎藏 | 卷五 | 33 | — | — | missing_source |
-| 夜叉部 | 卷五 | 55 | — | — | missing_source |
-| 夜叉 | 卷五 | 33 | — | — | missing_source |
-| 叉部 | 卷五 | 33 | — | — | missing_source |
-| 胎藏界诸院 | 卷五 | 80 | — | — | missing_source |
-| 诸院 | 卷五 | 48 | — | — | missing_source |
-| 界诸院 | 卷五 | 48 | — | — | missing_source |
-| 胎藏界曼荼罗 | 卷五 | 85 | — | — | missing_source |
-| 胎藏界曼荼罗（院名共现） | 卷五 | 85 | — | — | missing_source |
-| 胎藏界诸尊 | 卷五 | 75 | — | — | missing_source |
-| 诸尊 | 卷五 | 45 | — | — | missing_source |
-| 界诸尊 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界百尊 | 卷五 | 75 | — | — | missing_source |
-| 百尊 | 卷五 | 45 | — | — | missing_source |
-| 界百尊 | 卷五 | 45 | — | — | missing_source |
-| 内院 | 卷五 | 60 | — | — | missing_source |
-| 内院 | 卷十 | 45 | — | — | missing_source |
-| 外院 | 卷五 | 60 | — | — | missing_source |
-| 諸部院 | 卷五 | 60 | — | — | missing_source |
-| 諸部 | 卷五 | 36 | — | — | missing_source |
-| 三十二院 | 卷五 | 70 | — | — | missing_source |
-| 二院 | 卷五 | 42 | — | — | missing_source |
-| 十二院 | 卷五 | 42 | — | — | missing_source |
-| 三十七尊 | 卷五 | 75 | — | — | missing_source |
-| 三十七尊（胎藏） | 卷五 | 75 | — | — | missing_source |
-| 三十七 | 卷五 | 45 | — | — | missing_source |
-| 七尊 | 卷五 | 45 | — | — | missing_source |
-| 十七尊 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界三昧耶 | 卷五 | 70 | — | — | missing_source |
-| 昧耶 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界供灯 | 卷五 | 60 | — | — | missing_source |
-| 供灯 | 卷五 | 36 | — | — | missing_source |
-| 界供灯 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界大坛 | 卷五 | 80 | — | — | missing_source |
-| 大坛 | 卷五 | 48 | — | — | missing_source |
-| 界大坛 | 卷五 | 48 | — | — | missing_source |
-| 胎藏界画 | 卷五 | 60 | — | — | missing_source |
-| 界画 | 卷五 | 36 | — | — | missing_source |
-| 藏界画 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界开显 | 卷五 | 70 | — | — | missing_source |
-| 开显 | 卷五 | 42 | — | — | missing_source |
-| 界开显 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界秘密 | 卷五 | 60 | — | — | missing_source |
-| 界秘密 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界法会 | 卷五 | 70 | — | — | missing_source |
-| 界法会 | 卷五 | 42 | — | — | missing_source |
-| 六大院供养 | 卷五 | 70 | — | — | missing_source |
-| 六大 | 卷五 | 42 | — | — | missing_source |
-| 六大院 | 卷五 | 42 | — | — | missing_source |
-| 院供养 | 卷五 | 42 | — | — | missing_source |
-| 六大院三昧耶 | 卷五 | 70 | — | — | missing_source |
-| 諸院曼荼罗 | 卷五 | 70 | — | — | missing_source |
-| 諸院 | 卷五 | 42 | — | — | missing_source |
-| 諸院曼 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界圣众 | 卷五 | 60 | — | — | missing_source |
-| 界圣众 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界院众 | 卷五 | 60 | — | — | missing_source |
-| 院众 | 卷五 | 36 | — | — | missing_source |
-| 界院众 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界佛会 | 卷五 | 70 | — | — | missing_source |
-| 界佛会 | 卷五 | 42 | — | — | missing_source |
-| 华部 | 卷五 | 45 | — | — | missing_source |
-| 刚部 | 卷五 | 45 | — | — | missing_source |
-| 磨部 | 卷五 | 45 | — | — | missing_source |
-| 金刚部（胎藏） | 卷五 | 75 | — | — | missing_source |
-| 五大部 | 卷五 | 80 | — | — | missing_source |
-| 大部 | 卷五 | 48 | — | — | missing_source |
-| 五部曼荼罗 | 卷五 | 80 | — | — | missing_source |
-| 五部 | 卷五 | 48 | — | — | missing_source |
-| 五部曼 | 卷五 | 48 | — | — | missing_source |
-| 五部供养 | 卷五 | 70 | — | — | missing_source |
-| 五部供 | 卷五 | 42 | — | — | missing_source |
-| 部供养 | 卷五 | 42 | — | — | missing_source |
-| 五部圣众 | 卷五 | 70 | — | — | missing_source |
-| 五部圣 | 卷五 | 42 | — | — | missing_source |
-| 部圣众 | 卷五 | 42 | — | — | missing_source |
-| 五部道场 | 卷五 | 75 | — | — | missing_source |
-| 五部道 | 卷五 | 45 | — | — | missing_source |
-| 部道场 | 卷五 | 45 | — | — | missing_source |
-| 五部坛 | 卷五 | 75 | — | — | missing_source |
-| 部坛 | 卷五 | 45 | — | — | missing_source |
-| 五部印 | 卷五 | 70 | — | — | missing_source |
-| 部印 | 卷五 | 42 | — | — | missing_source |
-| 五部灌顶 | 卷五 | 75 | — | — | missing_source |
-| 五部灌 | 卷五 | 45 | — | — | missing_source |
-| 部灌顶 | 卷五 | 45 | — | — | missing_source |
-| 五部流布 | 卷五 | 60 | — | — | missing_source |
-| 五部流 | 卷五 | 36 | — | — | missing_source |
-| 流布 | 卷五 | 36 | — | — | missing_source |
-| 部流布 | 卷五 | 36 | — | — | missing_source |
-| 五部法会 | 卷五 | 70 | — | — | missing_source |
-| 五部法 | 卷五 | 42 | — | — | missing_source |
-| 部法会 | 卷五 | 42 | — | — | missing_source |
-| 胎藏五部 | 卷五 | 75 | — | — | missing_source |
-| 胎藏五 | 卷五 | 45 | — | — | missing_source |
-| 藏五部 | 卷五 | 45 | — | — | missing_source |
-| 五部大曼荼罗 | 卷五 | 80 | — | — | missing_source |
-| 五部大 | 卷五 | 48 | — | — | missing_source |
-| 五部仪轨 | 卷五 | 70 | — | — | missing_source |
-| 五部仪 | 卷五 | 42 | — | — | missing_source |
-| 仪轨 | 卷五 | 42 | — | — | missing_source |
-| 部仪轨 | 卷五 | 42 | — | — | missing_source |
-| 五部总持 | 卷五 | 70 | — | — | missing_source |
-| 五部总 | 卷五 | 42 | — | — | missing_source |
-| 总持 | 卷五 | 42 | — | — | missing_source |
-| 部总持 | 卷五 | 42 | — | — | missing_source |
-| 五大菩萨部 | 卷五 | 70 | — | — | missing_source |
-| 五大菩 | 卷五 | 42 | — | — | missing_source |
-| 萨部 | 卷五 | 42 | — | — | missing_source |
-| 菩萨部 | 卷五 | 42 | — | — | missing_source |
-| 五部大日 | 卷五 | 80 | — | — | missing_source |
-| 部大日 | 卷五 | 48 | — | — | missing_source |
-| 五部真言 | 卷五 | 70 | — | — | missing_source |
-| 五部真 | 卷五 | 42 | — | — | missing_source |
-| 部真言 | 卷五 | 42 | — | — | missing_source |
-| 五部供灯 | 卷五 | 60 | — | — | missing_source |
-| 部供灯 | 卷五 | 36 | — | — | missing_source |
-| 五部忿怒 | 卷五 | 40 | — | — | missing_source |
-| 五部忿 | 卷五 | 24 | — | — | missing_source |
-| 忿怒 | 卷五 | 24 | — | — | missing_source |
-| 部忿怒 | 卷五 | 24 | — | — | missing_source |
-| 五部曼荼罗院 | 卷五 | 80 | — | — | missing_source |
-| 罗院 | 卷五 | 48 | — | — | missing_source |
-| 荼罗院 | 卷五 | 48 | — | — | missing_source |
-| 胎藏曼荼罗 | 卷五 | 80 | — | — | missing_source |
-| 胎藏曼 | 卷五 | 48 | — | — | missing_source |
-| 胎藏大曼荼罗 | 卷五 | 85 | — | — | missing_source |
-| 胎藏大 | 卷五 | 51 | — | — | missing_source |
-| 三十七尊曼荼罗 | 卷五 | 80 | — | — | missing_source |
-| 三身曼荼罗 | 卷五 | 75 | — | — | missing_source |
-| 三身曼荼罗（胎藏） | 卷五 | 75 | — | — | missing_source |
-| 三身 | 卷五 | 10 | — | — | missing_source |
-| 三身曼 | 卷五 | 45 | — | — | missing_source |
-| 三昧耶曼荼罗 | 卷五 | 75 | — | — | missing_source |
-| 胎藏界图像 | 卷五 | 70 | — | — | missing_source |
-| 图像 | 卷五 | 42 | — | — | missing_source |
-| 界图像 | 卷五 | 42 | — | — | missing_source |
-| 漫荼罗供养 | 卷五 | 60 | — | — | missing_source |
-| 漫荼 | 卷五 | 36 | — | — | missing_source |
-| 漫荼罗 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界供花 | 卷五 | 60 | — | — | missing_source |
-| 供花 | 卷五 | 36 | — | — | missing_source |
-| 界供花 | 卷五 | 36 | — | — | missing_source |
-| 三重曼荼罗 | 卷五 | 75 | — | — | missing_source |
-| 三重 | 卷五 | 45 | — | — | missing_source |
-| 三重曼 | 卷五 | 45 | — | — | missing_source |
-| 三身院 | 卷五 | 70 | — | — | missing_source |
-| 身院 | 卷五 | 42 | — | — | missing_source |
-| 四重曼荼罗 | 卷五 | 75 | — | — | missing_source |
-| 四重 | 卷五 | 45 | — | — | missing_source |
-| 四重曼 | 卷五 | 45 | — | — | missing_source |
-| 八会曼荼罗 | 卷五 | 75 | — | — | missing_source |
-| 八会 | 卷五 | 45 | — | — | missing_source |
-| 八会曼 | 卷五 | 45 | — | — | missing_source |
-| 拘尸那曼荼罗 | 卷五 | 60 | — | — | missing_source |
-| 拘尸 | 卷五 | 36 | — | — | missing_source |
-| 拘尸那 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界内坛 | 卷五 | 70 | — | — | missing_source |
-| 内坛 | 卷五 | 42 | — | — | missing_source |
-| 界内坛 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界外坛 | 卷五 | 70 | — | — | missing_source |
-| 外坛 | 卷五 | 42 | — | — | missing_source |
-| 界外坛 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界开敷 | 卷五 | 55 | — | — | missing_source |
-| 开敷 | 卷五 | 33 | — | — | missing_source |
-| 界开敷 | 卷五 | 33 | — | — | missing_source |
-| 大日印 | 卷五 | 80 | — | — | missing_source |
-| 大日印（法身印） | 卷五 | 80 | — | — | missing_source |
-| 日印 | 卷五 | 48 | — | — | missing_source |
-| 胎藏界智拳印 | 卷五 | 70 | — | — | missing_source |
-| 智拳印 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界三昧耶印 | 卷五 | 70 | — | — | missing_source |
-| 耶印 | 卷五 | 42 | — | — | missing_source |
-| 昧耶印 | 卷五 | 42 | — | — | missing_source |
-| 莲花部印 | 卷五 | 65 | — | — | missing_source |
-| 莲花部 | 卷五 | 39 | — | — | missing_source |
-| 花部印 | 卷五 | 39 | — | — | missing_source |
-| 宝部印 | 卷五 | 65 | — | — | missing_source |
-| 金刚部印 | 卷五 | 65 | — | — | missing_source |
-| 刚部印 | 卷五 | 39 | — | — | missing_source |
-| 羯磨部印 | 卷五 | 65 | — | — | missing_source |
-| 磨部印 | 卷五 | 39 | — | — | missing_source |
-| 胎藏界印相 | 卷五 | 60 | — | — | missing_source |
-| 印相 | 卷五 | 36 | — | — | missing_source |
-| 界印相 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界手印 | 卷五 | 70 | — | — | missing_source |
-| 界手印 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界灌顶 | 卷五 | 85 | — | — | missing_source |
-| 界灌顶 | 卷五 | 51 | — | — | missing_source |
-| 胎藏界供养法 | 卷五 | 75 | — | — | missing_source |
-| 养法 | 卷五 | 45 | — | — | missing_source |
-| 供养法 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界道场 | 卷五 | 75 | — | — | missing_source |
-| 胎藏界真言 | 卷五 | 75 | — | — | missing_source |
-| 界真言 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界仪轨 | 卷五 | 75 | — | — | missing_source |
-| 界仪轨 | 卷五 | 45 | — | — | missing_source |
-| 大曼荼罗供 | 卷五 | 75 | — | — | missing_source |
-| 罗供 | 卷五 | 45 | — | — | missing_source |
-| 荼罗供 | 卷五 | 45 | — | — | missing_source |
-| 三昧耶戒 | 卷五 | 70 | — | — | missing_source |
-| 耶戒 | 卷五 | 42 | — | — | missing_source |
-| 昧耶戒 | 卷五 | 42 | — | — | missing_source |
-| 三密修行 | 卷五 | 70 | — | — | missing_source |
-| 三密修 | 卷五 | 42 | — | — | missing_source |
-| 密修行 | 卷五 | 42 | — | — | missing_source |
-| 结界 | 卷五 | 60 | — | — | missing_source |
-| 修法供灯 | 卷五 | 35 | — | — | missing_source |
-| 修法 | 卷五 | 21 | — | — | missing_source |
-| 修法供 | 卷五 | 21 | — | — | missing_source |
-| 法供灯 | 卷五 | 21 | — | — | missing_source |
-| 修法供花 | 卷五 | 35 | — | — | missing_source |
-| 法供花 | 卷五 | 21 | — | — | missing_source |
-| 胎藏界供水 | 卷五 | 35 | — | — | missing_source |
-| 供水 | 卷五 | 21 | — | — | missing_source |
-| 界供水 | 卷五 | 21 | — | — | missing_source |
-| 胎藏界供香 | 卷五 | 35 | — | — | missing_source |
-| 供香 | 卷五 | 21 | — | — | missing_source |
-| 界供香 | 卷五 | 21 | — | — | missing_source |
-| 胎藏界供果 | 卷五 | 25 | — | — | missing_source |
-| 供果 | 卷五 | 15 | — | — | missing_source |
-| 界供果 | 卷五 | 15 | — | — | missing_source |
-| 胎藏界护摩 | 卷五 | 70 | — | — | missing_source |
-| 界护摩 | 卷五 | 42 | — | — | missing_source |
-| 胎藏界坛 | 卷五 | 75 | — | — | missing_source |
-| 藏界坛 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界密咒 | 卷五 | 75 | — | — | missing_source |
-| 密咒 | 卷五 | 45 | — | — | missing_source |
-| 界密咒 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界百字真言 | 卷五 | 60 | — | — | missing_source |
-| 胎藏界百字真言（并非金刚界版） | 卷五 | 60 | — | — | missing_source |
-| 字真言 | 卷五 | 36 | — | — | missing_source |
-| 胎藏界入坛 | 卷五 | 75 | — | — | missing_source |
-| 入坛 | 卷五 | 45 | — | — | missing_source |
-| 界入坛 | 卷五 | 45 | — | — | missing_source |
-| 胎藏界加持 | 卷五 | 70 | — | — | missing_source |
-| 加持 | 卷五 | 5 | — | — | missing_source |
-| 界加持 | 卷五 | 42 | — | — | missing_source |
-| 不动明王 | 卷五 | 90 | — | — | missing_source |
-| 不动明 | 卷五 | 54 | — | — | missing_source |
-| 动明王 | 卷五 | 54 | — | — | missing_source |
-| 阿遮罗曩 | 卷五 | 85 | — | — | missing_source |
-| 阿遮罗曩（Acala 早期音译） | 卷五 | 85 | — | — | missing_source |
-| 阿遮 | 卷五 | 51 | — | — | missing_source |
-| 阿遮罗 | 卷五 | 51 | — | — | missing_source |
-| 罗曩 | 卷五 | 51 | — | — | missing_source |
-| 遮罗曩 | 卷五 | 51 | — | — | missing_source |
-| 阿只利明王 | 卷五 | 80 | — | — | missing_source |
-| 阿只利明王（异写） | 卷五 | 80 | — | — | missing_source |
-| 阿只 | 卷五 | 48 | — | — | missing_source |
-| 阿只利 | 卷五 | 48 | — | — | missing_source |
-| 利明王 | 卷五 | 48 | — | — | missing_source |
-| 无动尊 | 卷五 | 85 | — | — | missing_source |
-| 无动 | 卷五 | 51 | — | — | missing_source |
-| 动尊 | 卷五 | 51 | — | — | missing_source |
-| 不动尊 | 卷五 | 85 | — | — | missing_source |
-| 不动使者 | 卷五 | 75 | — | — | missing_source |
-| 不动使 | 卷五 | 45 | — | — | missing_source |
-| 使者 | 卷五 | 45 | — | — | missing_source |
-| 动使者 | 卷五 | 45 | — | — | missing_source |
-| 大力明王 | 卷五 | 75 | — | — | missing_source |
-| 大力明 | 卷五 | 45 | — | — | missing_source |
-| 力明王 | 卷五 | 45 | — | — | missing_source |
-| 大不动 | 卷五 | 80 | — | — | missing_source |
-| 大不 | 卷五 | 48 | — | — | missing_source |
-| 怒目（双目圆睁） | 卷五 | 35 | — | — | missing_source |
-| 牙上出 | 卷五 | 40 | — | — | missing_source |
-| 牙上出（獠牙上露） | 卷五 | 40 | — | — | missing_source |
-| 牙上 | 卷五 | 24 | — | — | missing_source |
-| 上出 | 卷五 | 24 | — | — | missing_source |
-| 牙下出 | 卷五 | 40 | — | — | missing_source |
-| 牙下出（獠牙下露） | 卷五 | 40 | — | — | missing_source |
-| 牙下 | 卷五 | 24 | — | — | missing_source |
-| 下出 | 卷五 | 24 | — | — | missing_source |
-| 披发 | 卷五 | 50 | — | — | missing_source |
-| 披发（乱发或火焰状） | 卷五 | 50 | — | — | missing_source |
-| 背火焰光（不动特型） | 卷五 | 45 | — | — | missing_source |
-| 背火 | 卷五 | 27 | — | — | missing_source |
-| 背火焰 | 卷五 | 5 | — | — | missing_source |
-| 右手持利剑 | 卷五 | 45 | — | — | missing_source |
-| 右手 | 卷五 | 27 | — | — | missing_source |
-| 右手持 | 卷五 | 27 | — | — | missing_source |
-| 利剑 | 卷五 | 27 | — | — | missing_source |
-| 持利剑 | 卷五 | 27 | — | — | missing_source |
-| 左手持索 | 卷五 | 60 | — | — | missing_source |
-| 左手持索（羂索） | 卷五 | 60 | — | — | missing_source |
-| 左手 | 卷五 | 36 | — | — | missing_source |
-| 左手持 | 卷五 | 36 | — | — | missing_source |
-| 持索 | 卷五 | 36 | — | — | missing_source |
-| 手持索 | 卷五 | 36 | — | — | missing_source |
-| 跪坐岩座 | 卷五 | 55 | — | — | missing_source |
-| 跪坐岩座（吽座） | 卷五 | 55 | — | — | missing_source |
-| 跪坐 | 卷五 | 33 | — | — | missing_source |
-| 跪坐岩 | 卷五 | 33 | — | — | missing_source |
-| 岩座 | 卷五 | 33 | — | — | missing_source |
-| 坐岩座 | 卷五 | 33 | — | — | missing_source |
-| 山岳台座 | 卷五 | 50 | — | — | missing_source |
-| 山岳台座（不动常见） | 卷五 | 50 | — | — | missing_source |
-| 山岳 | 卷五 | 30 | — | — | missing_source |
-| 山岳台 | 卷五 | 30 | — | — | missing_source |
-| 台座 | 卷五 | 30 | — | — | missing_source |
-| 岳台座 | 卷五 | 30 | — | — | missing_source |
-| 三叉怒剑 | 卷五 | 55 | — | — | missing_source |
-| 三叉 | 卷五 | 33 | — | — | missing_source |
-| 三叉怒 | 卷五 | 33 | — | — | missing_source |
-| 怒剑 | 卷五 | 33 | — | — | missing_source |
-| 叉怒剑 | 卷五 | 33 | — | — | missing_source |
-| 羂索 | 卷五 | 60 | — | — | missing_source |
-| 火焰剑 | 卷五 | 55 | — | — | missing_source |
-| 火焰 | 卷五 | 33 | — | — | missing_source |
-| 焰剑 | 卷五 | 33 | — | — | missing_source |
-| 金刚杵剑 | 卷五 | 55 | — | — | missing_source |
-| 杵剑 | 卷五 | 33 | — | — | missing_source |
-| 刚杵剑 | 卷五 | 33 | — | — | missing_source |
-| 磐石坐 | 卷五 | 50 | — | — | missing_source |
-| 磐石坐（不动岩） | 卷五 | 50 | — | — | missing_source |
-| 磐石 | 卷五 | 30 | — | — | missing_source |
-| 石坐 | 卷五 | 30 | — | — | missing_source |
-| हां | 卷五 | 90 | — | — | missing_source |
-| हां（hāṃ / 吽） | 卷五 | 90 | — | — | missing_source |
-| हा | 卷五 | 54 | — | — | missing_source |
-| ां | 卷五 | 54 | — | — | missing_source |
-| त्रां | 卷五 | 90 | — | — | missing_source |
-| त्रां（trāṃ） | 卷五 | 90 | — | — | missing_source |
-| त् | 卷五 | 54 | — | — | missing_source |
-| त्र | 卷五 | 54 | — | — | missing_source |
-| रां | 卷五 | 54 | — | — | missing_source |
-| क़ां | 卷五 | 90 | — | — | missing_source |
-| क़ां（kāṃ） | 卷五 | 90 | — | — | missing_source |
-| क़ | 卷五 | 54 | — | — | missing_source |
-| क़ा | 卷五 | 54 | — | — | missing_source |
-| ़ां | 卷五 | 54 | — | — | missing_source |
-| नहां | 卷五 | 85 | — | — | missing_source |
-| नहां（nahaṃ） | 卷五 | 85 | — | — | missing_source |
-| नह | 卷五 | 51 | — | — | missing_source |
-| नहा | 卷五 | 51 | — | — | missing_source |
-| 吽字（汉地写法） | 卷五 | 90 | — | — | missing_source |
-| 八大童子 | 卷五 | 70 | — | — | missing_source |
-| 八大 | 卷五 | 42 | — | — | missing_source |
-| 八大童 | 卷五 | 42 | — | — | missing_source |
-| 大童子 | 卷五 | 42 | — | — | missing_source |
-| 制吒迦童子 | 卷五 | 70 | — | — | missing_source |
-| 制吒迦童子（Cetaka） | 卷五 | 70 | — | — | missing_source |
-| 制吒 | 卷五 | 42 | — | — | missing_source |
-| 制吒迦 | 卷五 | 42 | — | — | missing_source |
-| 迦童子 | 卷五 | 42 | — | — | missing_source |
-| 烈怒童子 | 卷五 | 65 | — | — | missing_source |
-| 烈怒 | 卷五 | 39 | — | — | missing_source |
-| 烈怒童 | 卷五 | 39 | — | — | missing_source |
-| 怒童子 | 卷五 | 39 | — | — | missing_source |
-| 宝檀童子 | 卷五 | 65 | — | — | missing_source |
-| 宝檀 | 卷五 | 39 | — | — | missing_source |
-| 宝檀童 | 卷五 | 39 | — | — | missing_source |
-| 檀童子 | 卷五 | 39 | — | — | missing_source |
-| 降三世明王 | 卷五 | 90 | — | — | missing_source |
-| 降三 | 卷五 | 54 | — | — | missing_source |
-| 降三世 | 卷五 | 54 | — | — | missing_source |
-| 世明王 | 卷五 | 54 | — | — | missing_source |
-| 金刚降三世 | 卷五 | 90 | — | — | missing_source |
-| 金刚降 | 卷五 | 54 | — | — | missing_source |
-| 胜三界明王 | 卷五 | 85 | — | — | missing_source |
-| 胜三 | 卷五 | 51 | — | — | missing_source |
-| 胜三界 | 卷五 | 51 | — | — | missing_source |
-| 界明王 | 卷五 | 51 | — | — | missing_source |
-| 大降三世 | 卷五 | 85 | — | — | missing_source |
-| 大降 | 卷五 | 51 | — | — | missing_source |
-| 大降三 | 卷五 | 51 | — | — | missing_source |
-| 降三世忿怒 | 卷五 | 75 | — | — | missing_source |
-| 世忿怒 | 卷五 | 45 | — | — | missing_source |
-| 降伏三界 | 卷五 | 75 | — | — | missing_source |
-| 降伏 | 卷五 | 45 | — | — | missing_source |
-| 降伏三 | 卷五 | 45 | — | — | missing_source |
-| 伏三界 | 卷五 | 45 | — | — | missing_source |
-| 三面六臂 | 卷五 | 70 | — | — | missing_source |
-| 三面 | 卷五 | 42 | — | — | missing_source |
-| 三面六 | 卷五 | 42 | — | — | missing_source |
-| 六臂 | 卷五 | 42 | — | — | missing_source |
-| 面六臂 | 卷五 | 42 | — | — | missing_source |
-| 踏尊 | 卷五 | 75 | — | — | missing_source |
-| 踏尊（踏湿婆形） | 卷五 | 75 | — | — | missing_source |
-| 绞索 | 卷五 | 70 | — | — | missing_source |
-| 铁锤 / 金刚杵锤 | 卷五 | 55 | — | — | missing_source |
-| 铁锤 | 卷五 | 33 | — | — | missing_source |
-| 铁锤  | 卷五 | 33 | — | — | missing_source |
-| 杵锤 | 卷五 | 33 | — | — | missing_source |
-| 刚杵锤 | 卷五 | 33 | — | — | missing_source |
-| 马头明王 | 卷五 | 90 | — | — | missing_source |
-| 马头明王（Hayagrīva） | 卷五 | 90 | — | — | missing_source |
-| 马头 | 卷五 | 54 | — | — | missing_source |
-| 马头明 | 卷五 | 54 | — | — | missing_source |
-| 头明王 | 卷五 | 54 | — | — | missing_source |
-| 马头观音 | 卷五 | 85 | — | — | missing_source |
-| 马头观音（密化） | 卷五 | 85 | — | — | missing_source |
-| 马头观 | 卷五 | 51 | — | — | missing_source |
-| 头观音 | 卷五 | 51 | — | — | missing_source |
-| 马头金刚 | 卷五 | 85 | — | — | missing_source |
-| 马头金 | 卷五 | 51 | — | — | missing_source |
-| 头金刚 | 卷五 | 51 | — | — | missing_source |
-| 马首出顶 | 卷五 | 70 | — | — | missing_source |
-| 马首 | 卷五 | 42 | — | — | missing_source |
-| 马首出 | 卷五 | 42 | — | — | missing_source |
-| 出顶 | 卷五 | 42 | — | — | missing_source |
-| 首出顶 | 卷五 | 42 | — | — | missing_source |
-| 三面八臂 | 卷五 | 55 | — | — | missing_source |
-| 三面八 | 卷五 | 33 | — | — | missing_source |
-| 八臂 | 卷五 | 33 | — | — | missing_source |
-| 面八臂 | 卷五 | 33 | — | — | missing_source |
-| 执莲花弓 | 卷五 | 60 | — | — | missing_source |
-| 执莲 | 卷五 | 36 | — | — | missing_source |
-| 执莲花 | 卷五 | 36 | — | — | missing_source |
-| 花弓 | 卷五 | 36 | — | — | missing_source |
-| 莲花弓 | 卷五 | 36 | — | — | missing_source |
-| 踏蛇 | 卷五 | 55 | — | — | missing_source |
-| 怒面马喉音 | 卷五 | 60 | — | — | missing_source |
-| 怒面 | 卷五 | 36 | — | — | missing_source |
-| 怒面马 | 卷五 | 36 | — | — | missing_source |
-| 喉音 | 卷五 | 36 | — | — | missing_source |
-| 马喉音 | 卷五 | 36 | — | — | missing_source |
-| 马头（未见马首） | 卷五 | 0 | — | — | missing_source |
-| 观音 + 马头特征 | 卷五 | — | — | — | missing_source |
-| 军荼利明王 | 卷五 | 90 | — | — | missing_source |
-| 军荼 | 卷五 | 54 | — | — | missing_source |
-| 军荼利 | 卷五 | 54 | — | — | missing_source |
-| 军荼利尊 | 卷五 | 85 | — | — | missing_source |
-| 利尊 | 卷五 | 51 | — | — | missing_source |
-| 荼利尊 | 卷五 | 51 | — | — | missing_source |
-| 金刚军荼利 | 卷五 | 85 | — | — | missing_source |
-| 金刚军 | 卷五 | 51 | — | — | missing_source |
-| 荼利 | 卷五 | 51 | — | — | missing_source |
-| 火焰军荼利 | 卷五 | 75 | — | — | missing_source |
-| 火焰军 | 卷五 | 45 | — | — | missing_source |
-| 蛇王军荼利 | 卷五 | 75 | — | — | missing_source |
-| 蛇王 | 卷五 | 45 | — | — | missing_source |
-| 蛇王军 | 卷五 | 45 | — | — | missing_source |
-| 四臂 / 六臂军荼利 | 卷五 | 70 | — | — | missing_source |
-| 四臂 | 卷五 | 42 | — | — | missing_source |
-| 四臂  | 卷五 | 42 | — | — | missing_source |
-| 全身蛇缠 | 卷五 | 60 | — | — | missing_source |
-| 全身 | 卷五 | 36 | — | — | missing_source |
-| 全身蛇 | 卷五 | 36 | — | — | missing_source |
-| 蛇缠 | 卷五 | 36 | — | — | missing_source |
-| 身蛇缠 | 卷五 | 36 | — | — | missing_source |
-| 水火军荼利 | 卷五 | 60 | — | — | missing_source |
-| 水火 | 卷五 | 36 | — | — | missing_source |
-| 水火军 | 卷五 | 36 | — | — | missing_source |
-| 大威德明王 | 卷五 | 90 | — | — | missing_source |
-| 大威 | 卷五 | 54 | — | — | missing_source |
-| 大威德 | 卷五 | 54 | — | — | missing_source |
-| 德明王 | 卷五 | 54 | — | — | missing_source |
-| 牛头明王 | 卷五 | 70 | — | — | missing_source |
-| 牛头 | 卷五 | 42 | — | — | missing_source |
-| 牛头明 | 卷五 | 42 | — | — | missing_source |
-| 马头牛面六足像 | 卷五 | 70 | — | — | missing_source |
-| 马头牛 | 卷五 | 42 | — | — | missing_source |
-| 足像 | 卷五 | 42 | — | — | missing_source |
-| 六足像 | 卷五 | 42 | — | — | missing_source |
-| 六面十六臂 | 卷五 | 75 | — | — | missing_source |
-| 六面 | 卷五 | 45 | — | — | missing_source |
-| 六面十 | 卷五 | 45 | — | — | missing_source |
-| 十六臂 | 卷五 | 45 | — | — | missing_source |
-| 踏阎魔 | 卷五 | 75 | — | — | missing_source |
-| 踏阎 | 卷五 | 45 | — | — | missing_source |
-| 阎魔 | 卷五 | 45 | — | — | missing_source |
-| 牟尼轮 | 卷五 | 60 | — | — | missing_source |
-| 牟尼 | 卷五 | 36 | — | — | missing_source |
-| 尼轮 | 卷五 | 36 | — | — | missing_source |
-| 大忿怒王 | 卷五 | 70 | — | — | missing_source |
-| 大忿 | 卷五 | 42 | — | — | missing_source |
-| 大忿怒 | 卷五 | 42 | — | — | missing_source |
-| 怒王 | 卷五 | 42 | — | — | missing_source |
-| 忿怒王 | 卷五 | 42 | — | — | missing_source |
-| 战胜阎魔 | 卷五 | 75 | — | — | missing_source |
-| 战胜 | 卷五 | 45 | — | — | missing_source |
-| 战胜阎 | 卷五 | 45 | — | — | missing_source |
-| 胜阎魔 | 卷五 | 45 | — | — | missing_source |
-| 五大明王 | 卷五 | 85 | — | — | missing_source |
-| 五大明 | 卷五 | 51 | — | — | missing_source |
-| 大明王 | 卷五 | 51 | — | — | missing_source |
-| 八大明王 | 卷五 | 80 | — | — | missing_source |
-| 八大明 | 卷五 | 48 | — | — | missing_source |
-| 忿怒尊 | 卷五 | 50 | — | — | missing_source |
-| 怒尊 | 卷五 | 30 | — | — | missing_source |
-| 三昧耶形（明王类） | 卷五 | 60 | — | — | missing_source |
-| 明王坛 | 卷五 | 80 | — | — | missing_source |
-| 王坛 | 卷五 | 48 | — | — | missing_source |
-| 明王道场 | 卷五 | 80 | — | — | missing_source |
-| 明王道 | 卷五 | 48 | — | — | missing_source |
-| 王道场 | 卷五 | 48 | — | — | missing_source |
-| 明王供养 | 卷五 | 70 | — | — | missing_source |
-| 明王供 | 卷五 | 42 | — | — | missing_source |
-| 王供养 | 卷五 | 42 | — | — | missing_source |
-| 明王火焰 | 卷五 | 55 | — | — | missing_source |
-| 明王火 | 卷五 | 33 | — | — | missing_source |
-| 王火焰 | 卷五 | 33 | — | — | missing_source |
-| 明王降魔 | 卷五 | 70 | — | — | missing_source |
-| 明王降 | 卷五 | 42 | — | — | missing_source |
-| 降魔 | 卷五 | 42 | — | — | missing_source |
-| 王降魔 | 卷五 | 42 | — | — | missing_source |
-| वं | 卷五 | 95 | — | — | missing_source |
-| वं（vaṃ / 梵） | 卷五 | 95 | — | — | missing_source |
-| ह्रीः | 卷五 | 95 | — | — | missing_source |
-| ह् | 卷五 | 57 | — | — | missing_source |
-| ह्र | 卷五 | 57 | — | — | missing_source |
-| ीः | 卷五 | 57 | — | — | missing_source |
-| रीः | 卷五 | 57 | — | — | missing_source |
-| हूँ | 卷五 | 95 | — | — | missing_source |
-| हूँ（hūṃ / 吽） | 卷五 | 95 | — | — | missing_source |
-| हू | 卷五 | 57 | — | — | missing_source |
-| ूँ | 卷五 | 57 | — | — | missing_source |
-| स्वाहा | 卷五 | 95 | — | — | missing_source |
-| स् | 卷五 | 57 | — | — | missing_source |
-| स्व | 卷五 | 57 | — | — | missing_source |
-| ाहा | 卷五 | 57 | — | — | missing_source |
-| हः | 卷五 | 95 | — | — | missing_source |
-| हः（haḥ / 訶） | 卷五 | 95 | — | — | missing_source |
-| हुं | 卷五 | 95 | — | — | missing_source |
-| हुं（huṃ） | 卷五 | 95 | — | — | missing_source |
-| हु | 卷五 | 57 | — | — | missing_source |
-| ुं | 卷五 | 57 | — | — | missing_source |
-| जूं | 卷五 | 90 | — | — | missing_source |
-| जूं（jūṃ / 朱吽） | 卷五 | 90 | — | — | missing_source |
-| जू | 卷五 | 54 | — | — | missing_source |
-| ूं | 卷五 | 54 | — | — | missing_source |
-| क्षूं | 卷五 | 90 | — | — | missing_source |
-| क्षूं（kṣūṃ / 些吽） | 卷五 | 90 | — | — | missing_source |
-| क् | 卷五 | 54 | — | — | missing_source |
-| क्ष | 卷五 | 54 | — | — | missing_source |
-| षूं | 卷五 | 54 | — | — | missing_source |
-| हौं | 卷五 | 90 | — | — | missing_source |
-| हौं（hauṃ） | 卷五 | 90 | — | — | missing_source |
-| हौ | 卷五 | 54 | — | — | missing_source |
-| ौं | 卷五 | 54 | — | — | missing_source |
-| मं | 卷五 | 85 | — | — | missing_source |
-| मं（maṃ） | 卷五 | 85 | — | — | missing_source |
-| अः | 卷五 | 85 | — | — | missing_source |
-| अः（aḥ） | 卷五 | 85 | — | — | missing_source |
-| 莎诃 | 卷五 | 90 | — | — | missing_source |
-| 莎诃（写作“娑呵”“娑嚩訶”） | 卷五 | 90 | — | — | missing_source |
-| 唵…吽 | 卷五 | 95 | — | — | missing_source |
-| 唵… | 卷五 | 57 | — | — | missing_source |
-| …吽 | 卷五 | 57 | — | — | missing_source |
-| 唵…莎诃 | 卷五 | 95 | — | — | missing_source |
-| 唵…莎 | 卷五 | 57 | — | — | missing_source |
-| …莎诃 | 卷五 | 57 | — | — | missing_source |
-| 阿…吽…吽 | 卷五 | 95 | — | — | missing_source |
-| 阿… | 卷五 | 57 | — | — | missing_source |
-| 阿…吽 | 卷五 | 57 | — | — | missing_source |
-| 吽…吽 | 卷五 | 57 | — | — | missing_source |
-| 吽… | 卷五 | 54 | — | — | missing_source |
-| 阿謨伽 | 卷五 | 85 | — | — | missing_source |
-| 阿謨伽（amogha） | 卷五 | 85 | — | — | missing_source |
-| 阿謨 | 卷五 | 51 | — | — | missing_source |
-| 謨伽 | 卷五 | 51 | — | — | missing_source |
-| 三昧耶（samaya） | 卷五 | 85 | — | — | missing_source |
-| 部多 | 卷五 | 80 | — | — | missing_source |
-| 部多（buddha） | 卷五 | 80 | — | — | missing_source |
-| 伽他 | 卷五 | 80 | — | — | missing_source |
-| 伽他（gata） | 卷五 | 80 | — | — | missing_source |
-| 摩诃（maha） | 卷五 | 80 | — | — | missing_source |
-| 阿謨伽婆嚩 | 卷五 | 90 | — | — | missing_source |
-| 婆嚩 | 卷五 | 54 | — | — | missing_source |
-| 伽婆嚩 | 卷五 | 54 | — | — | missing_source |
-| 三昧耶萨嚩 | 卷五 | 90 | — | — | missing_source |
-| 萨嚩 | 卷五 | 54 | — | — | missing_source |
-| 耶萨嚩 | 卷五 | 54 | — | — | missing_source |
-| 萨嚩达磨 | 卷五 | 85 | — | — | missing_source |
-| 萨嚩达 | 卷五 | 51 | — | — | missing_source |
-| 达磨 | 卷五 | 51 | — | — | missing_source |
-| 嚩达磨 | 卷五 | 51 | — | — | missing_source |
-| 部多波罗蜜 | 卷五 | 80 | — | — | missing_source |
-| 部多波 | 卷五 | 48 | — | — | missing_source |
-| 三摩地（samādhi）密译 | 卷五 | 75 | — | — | missing_source |
-| 三摩 | 卷五 | 45 | — | — | missing_source |
-| 三摩地 | 卷五 | 45 | — | — | missing_source |
-| 密译 | 卷五 | 45 | — | — | missing_source |
-| ）密译 | 卷五 | 45 | — | — | missing_source |
-| 萨嚩（sarva 的四川古写） | 卷五 | 85 | — | — | missing_source |
-| 阿謨（amogha 缩写） | 卷五 | 80 | — | — | missing_source |
-| 散摩地 | 卷五 | 75 | — | — | missing_source |
-| 散摩地（samādhi 错写） | 卷五 | 75 | — | — | missing_source |
-| 散摩 | 卷五 | 45 | — | — | missing_source |
-| 摩地 | 卷五 | 45 | — | — | missing_source |
-| 三麻也 | 卷五 | 80 | — | — | missing_source |
-| 三麻也（samaya 错写） | 卷五 | 80 | — | — | missing_source |
-| 三麻 | 卷五 | 48 | — | — | missing_source |
-| 麻也 | 卷五 | 48 | — | — | missing_source |
-| 大日真言 | 卷五 | 85 | — | — | missing_source |
-| 大日真 | 卷五 | 51 | — | — | missing_source |
-| 日真言 | 卷五 | 51 | — | — | missing_source |
-| 遍照金刚 | 卷五 | 85 | — | — | missing_source |
-| 遍照金刚（大日称号） | 卷五 | 85 | — | — | missing_source |
-| 遍照金 | 卷五 | 51 | — | — | missing_source |
-| 照金刚 | 卷五 | 51 | — | — | missing_source |
-| 密严真言 | 卷五 | 80 | — | — | missing_source |
-| 密严真 | 卷五 | 48 | — | — | missing_source |
-| 严真言 | 卷五 | 48 | — | — | missing_source |
-| 普遍真言 | 卷五 | 80 | — | — | missing_source |
-| 普遍真 | 卷五 | 48 | — | — | missing_source |
-| 遍真言 | 卷五 | 48 | — | — | missing_source |
-| vajra | 卷五 | 90 | — | — | missing_source |
-| vajra（金刚） | 卷五 | 90 | — | — | missing_source |
-| va | 卷五 | 54 | — | — | missing_source |
-| vaj | 卷五 | 54 | — | — | missing_source |
-| jra | 卷五 | 54 | — | — | missing_source |
-| vajradhātu | 卷五 | 95 | — | — | missing_source |
-| vajradhātu（金刚界） | 卷五 | 95 | — | — | missing_source |
-| tu | 卷五 | 57 | — | — | missing_source |
-| ātu | 卷五 | 57 | — | — | missing_source |
-| vajra-sattva | 卷五 | 95 | — | — | missing_source |
-| tva | 卷五 | 57 | — | — | missing_source |
-| samantabhadra | 卷五 | 85 | — | — | missing_source |
-| sa | 卷五 | 51 | — | — | missing_source |
-| sam | 卷五 | 51 | — | — | missing_source |
-| dra | 卷五 | 51 | — | — | missing_source |
-| bodhicitta | 卷五 | 85 | — | — | missing_source |
-| bo | 卷五 | 51 | — | — | missing_source |
-| bod | 卷五 | 51 | — | — | missing_source |
-| ta | 卷五 | 51 | — | — | missing_source |
-| tta | 卷五 | 51 | — | — | missing_source |
-| 跋折囉萨埵 | 卷五 | 95 | — | — | missing_source |
-| 跋折囉 | 卷五 | 57 | — | — | missing_source |
-| 囉萨埵 | 卷五 | 57 | — | — | missing_source |
-| 跋折罗达嚩 | 卷五 | 90 | — | — | missing_source |
-| 达嚩 | 卷五 | 54 | — | — | missing_source |
-| 罗达嚩 | 卷五 | 54 | — | — | missing_source |
-| 跋折罗部多 | 卷五 | 85 | — | — | missing_source |
-| 罗部多 | 卷五 | 51 | — | — | missing_source |
-| 三婆嚩 | 卷五 | 85 | — | — | missing_source |
-| 三婆嚩（svabhāva） | 卷五 | 85 | — | — | missing_source |
-| 三婆 | 卷五 | 51 | — | — | missing_source |
-| 三婆嚩悉地 | 卷五 | 85 | — | — | missing_source |
-| 嚩悉地 | 卷五 | 51 | — | — | missing_source |
-| 悉地（siddhi） | 卷五 | 85 | — | — | missing_source |
-| 密严悉地 | 卷五 | 85 | — | — | missing_source |
-| 密严悉 | 卷五 | 51 | — | — | missing_source |
-| 严悉地 | 卷五 | 51 | — | — | missing_source |
-| 陀罗尼悉地 | 卷五 | 85 | — | — | missing_source |
-| 尼悉地 | 卷五 | 51 | — | — | missing_source |
-| 金刚界真言 | 卷五 | 90 | — | — | missing_source |
-| 菩提心真言 | 卷五 | 85 | — | — | missing_source |
-| 菩提心 | 卷五 | 51 | — | — | missing_source |
-| 心真言 | 卷五 | 51 | — | — | missing_source |
-| 麻折罗 | 卷五 | 85 | — | — | missing_source |
-| 麻折罗（vajra 错写） | 卷五 | 85 | — | — | missing_source |
-| 麻折 | 卷五 | 51 | — | — | missing_source |
-| 跋闍罗 | 卷五 | 85 | — | — | missing_source |
-| 闍罗 | 卷五 | 51 | — | — | missing_source |
-| 悉哆 | 卷五 | 80 | — | — | missing_source |
-| 悉哆（siddha 错写） | 卷五 | 80 | — | — | missing_source |
-| 悉地（简单写法） | 卷五 | 85 | — | — | missing_source |
-| 陀罗尼（darani）密写 | 卷五 | 85 | — | — | missing_source |
-| 密写 | 卷五 | 51 | — | — | missing_source |
-| ）密写 | 卷五 | 51 | — | — | missing_source |
-| 摩诃陀罗尼 | 卷五 | 90 | — | — | missing_source |
-| 摩诃陀 | 卷五 | 54 | — | — | missing_source |
-| 金刚陀罗尼 | 卷五 | 90 | — | — | missing_source |
-| 金刚陀 | 卷五 | 54 | — | — | missing_source |
-| 胎藏陀罗尼 | 卷五 | 90 | — | — | missing_source |
-| 胎藏陀 | 卷五 | 54 | — | — | missing_source |
-| 三昧耶陀罗尼 | 卷五 | 90 | — | — | missing_source |
-| 普遍陀罗尼 | 卷五 | 85 | — | — | missing_source |
-| 普遍陀 | 卷五 | 51 | — | — | missing_source |
-| 十句观音陀罗尼 | 卷五 | 70 | — | — | missing_source |
-| 十句 | 卷五 | 42 | — | — | missing_source |
-| 十句观 | 卷五 | 42 | — | — | missing_source |
-| 大悲陀罗尼 | 卷五 | 5 | — | — | missing_source |
-| 大悲陀 | 卷五 | 5 | — | — | missing_source |
-| 如意轮陀罗尼 | 卷五 | 85 | — | — | missing_source |
-| 六字大明 | 卷五 | 85 | — | — | missing_source |
-| 六字大明（唵嘛呢叭咪吽） | 卷五 | 85 | — | — | missing_source |
-| 六字 | 卷五 | 51 | — | — | missing_source |
-| 六字大 | 卷五 | 51 | — | — | missing_source |
-| 字大明 | 卷五 | 51 | — | — | missing_source |
-| 护摩陀罗尼 | 卷五 | 85 | — | — | missing_source |
-| 护摩陀 | 卷五 | 51 | — | — | missing_source |
-| 火供陀罗尼 | 卷五 | 85 | — | — | missing_source |
-| 火供陀 | 卷五 | 51 | — | — | missing_source |
-| 火天陀罗尼 | 卷五 | 80 | — | — | missing_source |
-| 火天 | 卷五 | 48 | — | — | missing_source |
-| 火天陀 | 卷五 | 48 | — | — | missing_source |
-| 火罗陀罗尼 | 卷五 | 80 | — | — | missing_source |
-| 火罗 | 卷五 | 48 | — | — | missing_source |
-| 火罗陀 | 卷五 | 48 | — | — | missing_source |
-| 法华陀罗尼 | 卷五 | 20 | — | — | missing_source |
-| 法华陀 | 卷五 | 12 | — | — | missing_source |
-| 地藏陀罗尼 | 卷五 | 25 | — | — | missing_source |
-| 地藏陀罗尼 | 卷九 | 70 | — | — | missing_source |
-| 地藏陀 | 卷五 | 15 | — | — | missing_source |
-| 药师陀罗尼 | 卷五 | 5 | — | — | missing_source |
-| 药师陀 | 卷五 | 5 | — | — | missing_source |
-| 佛顶尊胜陀罗尼 | 卷五 | 30 | — | — | missing_source |
-| 佛顶 | 卷五 | 18 | — | — | missing_source |
-| 佛顶尊 | 卷五 | 18 | — | — | missing_source |
-| 佛母准提陀罗尼 | 卷五 | 60 | — | — | missing_source |
-| 佛母准 | 卷五 | 36 | — | — | missing_source |
-| 陀囉尼 | 卷五 | 85 | — | — | missing_source |
-| 陀囉尼（古写） | 卷五 | 85 | — | — | missing_source |
-| 陀囉 | 卷五 | 51 | — | — | missing_source |
-| 囉尼 | 卷五 | 51 | — | — | missing_source |
-| 怛囉尼 | 卷五 | 80 | — | — | missing_source |
-| 怛囉 | 卷五 | 48 | — | — | missing_source |
-| 陀羅寧 | 卷五 | 75 | — | — | missing_source |
-| 陀羅 | 卷五 | 45 | — | — | missing_source |
-| 羅寧 | 卷五 | 45 | — | — | missing_source |
-| 怛羅尼 | 卷五 | 80 | — | — | missing_source |
-| 怛羅 | 卷五 | 48 | — | — | missing_source |
-| 羅尼 | 卷五 | 48 | — | — | missing_source |
-| 佗羅尼 | 卷五 | 75 | — | — | missing_source |
-| 佗羅 | 卷五 | 45 | — | — | missing_source |
-| 陁羅尼 | 卷五 | 75 | — | — | missing_source |
-| 陁羅 | 卷五 | 45 | — | — | missing_source |
-| 唵写为“品” | 卷五 | 85 | — | — | missing_source |
-| 唵写 | 卷五 | 51 | — | — | missing_source |
-| 唵写为 | 卷五 | 51 | — | — | missing_source |
-| 品” | 卷五 | 51 | — | — | missing_source |
-| “品” | 卷五 | 51 | — | — | missing_source |
-| 莎诃写为“娑呵” | 卷五 | 85 | — | — | missing_source |
-| 莎诃写 | 卷五 | 51 | — | — | missing_source |
-| 呵” | 卷五 | 51 | — | — | missing_source |
-| 娑呵” | 卷五 | 51 | — | — | missing_source |
-| 吽写作“叵” | 卷五 | 80 | — | — | missing_source |
-| 吽写 | 卷五 | 48 | — | — | missing_source |
-| 吽写作 | 卷五 | 48 | — | — | missing_source |
-| 叵” | 卷五 | 48 | — | — | missing_source |
-| “叵” | 卷五 | 48 | — | — | missing_source |
-| 部多写作“佛陀” | 卷五 | 70 | — | — | missing_source |
-| 部多写 | 卷五 | 42 | — | — | missing_source |
-| 陀” | 卷五 | 42 | — | — | missing_source |
-| 佛陀” | 卷五 | 42 | — | — | missing_source |
-| 达嚩写作“多婆” | 卷五 | 70 | — | — | missing_source |
-| 达嚩写 | 卷五 | 42 | — | — | missing_source |
-| 婆” | 卷五 | 42 | — | — | missing_source |
-| 多婆” | 卷五 | 42 | — | — | missing_source |
-| 真言省略末尾 | 卷五 | 70 | — | — | missing_source |
-| 真言省 | 卷五 | 42 | — | — | missing_source |
-| 末尾 | 卷五 | 42 | — | — | missing_source |
-| 略末尾 | 卷五 | 42 | — | — | missing_source |
-| 真言前加“咒曰” | 卷五 | 70 | — | — | missing_source |
-| 真言前 | 卷五 | 42 | — | — | missing_source |
-| 曰” | 卷五 | 42 | — | — | missing_source |
-| 咒曰” | 卷五 | 42 | — | — | missing_source |
-| 咒语断句不分词 | 卷五 | 60 | — | — | missing_source |
-| 咒语 | 卷五 | 36 | — | — | missing_source |
-| 咒语断 | 卷五 | 36 | — | — | missing_source |
-| 分词 | 卷五 | 36 | — | — | missing_source |
-| 不分词 | 卷五 | 36 | — | — | missing_source |
-| 梵音汉写颠倒 | 卷五 | 60 | — | — | missing_source |
-| 梵音 | 卷五 | 36 | — | — | missing_source |
-| 梵音汉 | 卷五 | 36 | — | — | missing_source |
-| 写颠倒 | 卷五 | 36 | — | — | missing_source |
-| 咒尾重复 | 卷五 | 70 | — | — | missing_source |
-| 咒尾重复（莎诃×2） | 卷五 | 70 | — | — | missing_source |
-| 咒尾 | 卷五 | 42 | — | — | missing_source |
-| 咒尾重 | 卷五 | 42 | — | — | missing_source |
-| 重复 | 卷五 | 42 | — | — | missing_source |
-| 尾重复 | 卷五 | 42 | — | — | missing_source |
-| 真言（mantra） | 卷五 | 85 | — | — | missing_source |
-| 神咒 | 卷五 | 80 | — | — | missing_source |
-| 三昧耶咒 | 卷五 | 90 | — | — | missing_source |
-| 耶咒 | 卷五 | 54 | — | — | missing_source |
-| 昧耶咒 | 卷五 | 54 | — | — | missing_source |
-| 灌顶咒 | 卷五 | 85 | — | — | missing_source |
-| 顶咒 | 卷五 | 51 | — | — | missing_source |
-| 护摩咒 | 卷五 | 85 | — | — | missing_source |
-| 摩咒 | 卷五 | 51 | — | — | missing_source |
-| 诵咒 | 卷五 | 80 | — | — | missing_source |
-| 念真言 | 卷五 | 80 | — | — | missing_source |
-| 念真 | 卷五 | 48 | — | — | missing_source |
-| 加持真言 | 卷五 | 85 | — | — | missing_source |
-| 加持真 | 卷五 | 51 | — | — | missing_source |
-| 持真言 | 卷五 | 51 | — | — | missing_source |
-| 入坛咒 | 卷五 | 85 | — | — | missing_source |
-| 坛咒 | 卷五 | 51 | — | — | missing_source |
-| 智拳 | 卷五 | 57 | — | — | missing_source |
-| 金刚界智拳印 | 卷五 | 95 | — | — | missing_source |
-| 法界定印 | 卷五 | 90 | — | — | missing_source |
-| 法界定 | 卷五 | 54 | — | — | missing_source |
-| 定印 | 卷五 | 54 | — | — | missing_source |
-| 界定印 | 卷五 | 54 | — | — | missing_source |
-| 胎藏界法界定印 | 卷五 | 90 | — | — | missing_source |
-| 金刚合掌 | 卷五 | 90 | — | — | missing_source |
-| 金刚合 | 卷五 | 54 | — | — | missing_source |
-| 刚合掌 | 卷五 | 54 | — | — | missing_source |
-| 金刚合掌印 | 卷五 | 90 | — | — | missing_source |
-| 掌印 | 卷五 | 54 | — | — | missing_source |
-| 合掌印 | 卷五 | 54 | — | — | missing_source |
-| 降三世印 | 卷五 | 95 | — | — | missing_source |
-| 世印 | 卷五 | 57 | — | — | missing_source |
-| 三世印 | 卷五 | 57 | — | — | missing_source |
-| 降伏印 | 卷五 | 90 | — | — | missing_source |
-| 伏印 | 卷五 | 54 | — | — | missing_source |
-| 宝拳印 | 卷五 | 80 | — | — | missing_source |
-| 宝拳 | 卷五 | 48 | — | — | missing_source |
-| 金刚界大日印 | 卷五 | 90 | — | — | missing_source |
-| 金刚界法身印 | 卷五 | 90 | — | — | missing_source |
-| 身印 | 卷五 | 54 | — | — | missing_source |
-| 法身印 | 卷五 | 54 | — | — | missing_source |
-| 胎藏界大日印 | 卷五 | 90 | — | — | missing_source |
-| 施护印 | 卷五 | 80 | — | — | missing_source |
-| 施护印（捍力印） | 卷五 | 80 | — | — | missing_source |
-| 施护 | 卷五 | 48 | — | — | missing_source |
-| 护印 | 卷五 | 48 | — | — | missing_source |
-| 佛眼施护印 | 卷五 | 75 | — | — | missing_source |
-| 佛眼 | 卷五 | 45 | — | — | missing_source |
-| 佛眼施 | 卷五 | 45 | — | — | missing_source |
-| 持宝印 | 卷五 | 75 | — | — | missing_source |
-| 宝印 | 卷五 | 45 | — | — | missing_source |
-| 宝冠印 | 卷五 | 70 | — | — | missing_source |
-| 冠印 | 卷五 | 42 | — | — | missing_source |
-| 密教说法印 | 卷五 | 65 | — | — | missing_source |
-| 密教 | 卷五 | 39 | — | — | missing_source |
-| 密教说 | 卷五 | 39 | — | — | missing_source |
-| 法印 | 卷五 | 39 | — | — | missing_source |
-| 说法印 | 卷五 | 39 | — | — | missing_source |
-| 三昧耶说法印 | 卷五 | 70 | — | — | missing_source |
-| 金刚触地印 | 卷五 | 85 | — | — | missing_source |
-| 金刚触 | 卷五 | 51 | — | — | missing_source |
-| 地印 | 卷五 | 51 | — | — | missing_source |
-| 触地印 | 卷五 | 51 | — | — | missing_source |
-| 阿閦三昧耶印 | 卷五 | 90 | — | — | missing_source |
-| 阿閦三 | 卷五 | 54 | — | — | missing_source |
-| 施愿印 | 卷五 | 85 | — | — | missing_source |
-| 施愿印（宝生印） | 卷五 | 85 | — | — | missing_source |
-| 施愿 | 卷五 | 51 | — | — | missing_source |
-| 愿印 | 卷五 | 51 | — | — | missing_source |
-| 宝生三昧耶印 | 卷五 | 90 | — | — | missing_source |
-| 宝生三 | 卷五 | 54 | — | — | missing_source |
-| 阿弥陀三昧耶印 | 卷五 | 5 | — | — | missing_source |
-| 金刚界阿弥陀印 | 卷五 | 80 | — | — | missing_source |
-| 陀印 | 卷五 | 48 | — | — | missing_source |
-| 弥陀印 | 卷五 | 48 | — | — | missing_source |
-| 不空成就印 | 卷五 | 85 | — | — | missing_source |
-| 就印 | 卷五 | 51 | — | — | missing_source |
-| 成就印 | 卷五 | 51 | — | — | missing_source |
-| 成就三昧耶印 | 卷五 | 85 | — | — | missing_source |
-| 成就三 | 卷五 | 51 | — | — | missing_source |
-| 五智印 | 卷五 | 85 | — | — | missing_source |
-| 五佛印 | 卷五 | 80 | — | — | missing_source |
-| 佛印 | 卷五 | 48 | — | — | missing_source |
-| 五部印（与五佛对应） | 卷五 | 80 | — | — | missing_source |
-| 金刚杵握印 | 卷五 | 80 | — | — | missing_source |
-| 握印 | 卷五 | 48 | — | — | missing_source |
-| 杵握印 | 卷五 | 48 | — | — | missing_source |
-| 金刚顶印 | 卷五 | 80 | — | — | missing_source |
-| 顶印 | 卷五 | 48 | — | — | missing_source |
-| 刚顶印 | 卷五 | 48 | — | — | missing_source |
-| 金刚钩印 | 卷五 | 80 | — | — | missing_source |
-| 金刚钩 | 卷五 | 48 | — | — | missing_source |
-| 钩印 | 卷五 | 48 | — | — | missing_source |
-| 刚钩印 | 卷五 | 48 | — | — | missing_source |
-| 金刚锁印 | 卷五 | 80 | — | — | missing_source |
-| 金刚锁 | 卷五 | 48 | — | — | missing_source |
-| 锁印 | 卷五 | 48 | — | — | missing_source |
-| 刚锁印 | 卷五 | 48 | — | — | missing_source |
-| 莲华三昧耶印 | 卷五 | 80 | — | — | missing_source |
-| 莲华三 | 卷五 | 48 | — | — | missing_source |
-| 莲花掌印 | 卷五 | 75 | — | — | missing_source |
-| 莲花掌 | 卷五 | 45 | — | — | missing_source |
-| 花掌印 | 卷五 | 45 | — | — | missing_source |
-| 双莲华印 | 卷五 | 80 | — | — | missing_source |
-| 双莲 | 卷五 | 48 | — | — | missing_source |
-| 双莲华 | 卷五 | 48 | — | — | missing_source |
-| 华印 | 卷五 | 48 | — | — | missing_source |
-| 莲华印 | 卷五 | 48 | — | — | missing_source |
-| 开敷莲花印 | 卷五 | 80 | — | — | missing_source |
-| 开敷莲 | 卷五 | 48 | — | — | missing_source |
-| 花印 | 卷五 | 48 | — | — | missing_source |
-| 莲花印 | 卷五 | 48 | — | — | missing_source |
-| 金刚三昧耶印 | 卷五 | 85 | — | — | missing_source |
-| 金刚三 | 卷五 | 51 | — | — | missing_source |
-| 金刚施护印 | 卷五 | 80 | — | — | missing_source |
-| 金刚施 | 卷五 | 48 | — | — | missing_source |
-| 金刚宝瓶印 | 卷五 | 75 | — | — | missing_source |
-| 瓶印 | 卷五 | 45 | — | — | missing_source |
-| 宝瓶印 | 卷五 | 45 | — | — | missing_source |
-| 宝部三昧耶印 | 卷五 | 80 | — | — | missing_source |
-| 宝部三 | 卷五 | 48 | — | — | missing_source |
-| 宝轮印 | 卷五 | 75 | — | — | missing_source |
-| 宝轮 | 卷五 | 45 | — | — | missing_source |
-| 轮印 | 卷五 | 45 | — | — | missing_source |
-| 宝珠印 | 卷五 | 75 | — | — | missing_source |
-| 珠印 | 卷五 | 45 | — | — | missing_source |
-| 宝幢印 | 卷五 | 75 | — | — | missing_source |
-| 宝幢 | 卷五 | 45 | — | — | missing_source |
-| 幢印 | 卷五 | 45 | — | — | missing_source |
-| 如意轮印 | 卷五 | 85 | — | — | missing_source |
-| 意轮印 | 卷五 | 51 | — | — | missing_source |
-| 准提印 | 卷五 | 85 | — | — | missing_source |
-| 准提印（七俱胝佛母） | 卷五 | 85 | — | — | missing_source |
-| 准提 | 卷五 | 51 | — | — | missing_source |
-| 提印 | 卷五 | 51 | — | — | missing_source |
-| 马头明王印 | 卷五 | 85 | — | — | missing_source |
-| 王印 | 卷五 | 51 | — | — | missing_source |
-| 明王印 | 卷五 | 51 | — | — | missing_source |
-| 不动明王剑印 | 卷五 | 85 | — | — | missing_source |
-| 剑印 | 卷五 | 51 | — | — | missing_source |
-| 王剑印 | 卷五 | 51 | — | — | missing_source |
-| 绞索印 | 卷五 | 85 | — | — | missing_source |
-| 索印 | 卷五 | 51 | — | — | missing_source |
-| 牙吽印 | 卷五 | 85 | — | — | missing_source |
-| 牙吽 | 卷五 | 51 | — | — | missing_source |
-| 吽印 | 卷五 | 51 | — | — | missing_source |
-| 蛇缠印 | 卷五 | 80 | — | — | missing_source |
-| 缠印 | 卷五 | 48 | — | — | missing_source |
-| 水焰印 | 卷五 | 80 | — | — | missing_source |
-| 水焰 | 卷五 | 48 | — | — | missing_source |
-| 焰印 | 卷五 | 48 | — | — | missing_source |
-| 牛头降魔印 | 卷五 | 85 | — | — | missing_source |
-| 牛头降 | 卷五 | 51 | — | — | missing_source |
-| 魔印 | 卷五 | 51 | — | — | missing_source |
-| 降魔印 | 卷五 | 51 | — | — | missing_source |
-| 大威德执杵印 | 卷五 | 80 | — | — | missing_source |
-| 杵印 | 卷五 | 48 | — | — | missing_source |
-| 执杵印 | 卷五 | 48 | — | — | missing_source |
-| 忿怒施护印 | 卷五 | 75 | — | — | missing_source |
-| 忿怒施 | 卷五 | 45 | — | — | missing_source |
-| 加持印 | 卷五 | 70 | — | — | missing_source |
-| 加持印（四川写法） | 卷五 | 70 | — | — | missing_source |
-| 持印 | 卷五 | 42 | — | — | missing_source |
-| 手持加持印 | 卷五 | 70 | — | — | missing_source |
-| 手持加 | 卷五 | 42 | — | — | missing_source |
-| 宝瓶手 | 卷五 | 60 | — | — | missing_source |
-| 宝瓶手（手握瓶而不显象） | 卷五 | 60 | — | — | missing_source |
-| 宝瓶 | 卷五 | 36 | — | — | missing_source |
-| 瓶手 | 卷五 | 36 | — | — | missing_source |
-| 平掌托瓶印 | 卷五 | 60 | — | — | missing_source |
-| 平掌 | 卷五 | 36 | — | — | missing_source |
-| 平掌托 | 卷五 | 36 | — | — | missing_source |
-| 托瓶印 | 卷五 | 36 | — | — | missing_source |
-| 反叉指印 | 卷五 | 70 | — | — | missing_source |
-| 反叉 | 卷五 | 42 | — | — | missing_source |
-| 反叉指 | 卷五 | 42 | — | — | missing_source |
-| 指印 | 卷五 | 42 | — | — | missing_source |
-| 叉指印 | 卷五 | 42 | — | — | missing_source |
-| 反背宝印 | 卷五 | 70 | — | — | missing_source |
-| 反背 | 卷五 | 42 | — | — | missing_source |
-| 反背宝 | 卷五 | 42 | — | — | missing_source |
-| 背宝印 | 卷五 | 42 | — | — | missing_source |
-| 四川“横向索持印” | 卷五 | 75 | — | — | missing_source |
-| 四川 | 卷五 | 45 | — | — | missing_source |
-| 四川“ | 卷五 | 45 | — | — | missing_source |
-| 印” | 卷五 | 45 | — | — | missing_source |
-| 持印” | 卷五 | 45 | — | — | missing_source |
-| 倾斜索持印 | 卷五 | 70 | — | — | missing_source |
-| 倾斜 | 卷五 | 42 | — | — | missing_source |
-| 倾斜索 | 卷五 | 42 | — | — | missing_source |
-| 索持印 | 卷五 | 42 | — | — | missing_source |
-| 甘露施水印 | 卷五 | 65 | — | — | missing_source |
-| 甘露施 | 卷五 | 39 | — | — | missing_source |
-| 水印 | 卷五 | 39 | — | — | missing_source |
-| 施水印 | 卷五 | 39 | — | — | missing_source |
-| 托瓶施愿印 | 卷五 | 60 | — | — | missing_source |
-| 托瓶 | 卷五 | 36 | — | — | missing_source |
-| 托瓶施 | 卷五 | 36 | — | — | missing_source |
-| 手势残损印 | 卷五 | 45 | — | — | missing_source |
-| 手势残损印（部分可见） | 卷五 | 45 | — | — | missing_source |
-| 手势 | 卷五 | 27 | — | — | missing_source |
-| 手势残 | 卷五 | 27 | — | — | missing_source |
-| 损印 | 卷五 | 27 | — | — | missing_source |
-| 残损印 | 卷五 | 27 | — | — | missing_source |
-| 手印崩损后重刻 | 卷五 | 40 | — | — | missing_source |
-| 手印崩 | 卷五 | 24 | — | — | missing_source |
-| 重刻 | 卷五 | 24 | — | — | missing_source |
-| 后重刻 | 卷五 | 24 | — | — | missing_source |
-| 安岳 | 卷五 | 20 | — | — | missing_source |
-| 安岳 | 卷十 | 45 | — | — | missing_source |
-| 荣县 | 卷五 | 20 | — | — | missing_source |
-| 荣县 | 卷七 | 70 | — | — | missing_source |
-| 简州 | 卷五 | 20 | — | — | missing_source |
-| 蓬州 | 卷五 | 20 | — | — | missing_source |
-| 蓬州 | 卷七 | 60 | — | — | missing_source |
-| 遂宁 | 卷五 | 20 | — | — | missing_source |
-| 绵竹 | 卷五 | 20 | — | — | missing_source |
-| 巴县 | 卷五 | 20 | — | — | missing_source |
-| 汉州 | 卷五 | 20 | — | — | missing_source |
-| 三台 | 卷五 | 20 | — | — | missing_source |
-| 青城山 | 卷五 | 20 | — | — | missing_source |
-| 青城山 | 卷七 | 30 | — | — | missing_source |
-| 青城 | 卷五 | 12 | — | — | missing_source |
-| 青城 | 卷七 | 30 | — | — | missing_source |
-| 城山 | 卷五 | 12 | — | — | missing_source |
-| 城山 | 卷七 | 33 | — | — | missing_source |
-| 大慈寺 | 卷五 | 20 | — | — | missing_source |
-| 大慈寺 | 卷七 | 60 | — | — | missing_source |
-| 慈寺 | 卷五 | 12 | — | — | missing_source |
-| 慈寺 | 卷七 | 36 | — | — | missing_source |
-| 奉国寺 | 卷五 | 20 | — | — | missing_source |
-| 奉国 | 卷五 | 12 | — | — | missing_source |
-| 国寺 | 卷五 | 12 | — | — | missing_source |
-| 万佛寺 | 卷五 | 20 | — | — | missing_source |
-| 万佛 | 卷五 | 12 | — | — | missing_source |
-| 佛寺 | 卷五 | 12 | — | — | missing_source |
-| 龙兴寺 | 卷五 | 20 | — | — | missing_source |
-| 龙兴 | 卷五 | 12 | — | — | missing_source |
-| 兴寺 | 卷五 | 12 | — | — | missing_source |
-| 国清寺 | 卷五 | 20 | — | — | missing_source |
-| 国清 | 卷五 | 12 | — | — | missing_source |
-| 清寺 | 卷五 | 12 | — | — | missing_source |
-| 圣寿寺 | 卷五 | 20 | — | — | missing_source |
-| 圣寿 | 卷五 | 12 | — | — | missing_source |
-| 寿寺 | 卷五 | 12 | — | — | missing_source |
-| 石经寺 | 卷五 | 20 | — | — | missing_source |
-| 石经 | 卷五 | 12 | — | — | missing_source |
-| 经寺 | 卷五 | 12 | — | — | missing_source |
-| 白塔寺 | 卷五 | 20 | — | — | missing_source |
-| 白塔 | 卷五 | 12 | — | — | missing_source |
-| 塔寺 | 卷五 | 12 | — | — | missing_source |
-| 宝光寺 | 卷五 | 20 | — | — | missing_source |
-| 光寺 | 卷五 | 12 | — | — | missing_source |
-| 凿手 | 卷五 | 20 | — | — | missing_source |
-| 艺匠 | 卷五 | 20 | — | — | missing_source |
-| 石匠 | 卷五 | 20 | — | — | missing_source |
-| 刻手某某 | 卷五 | 20 | — | — | missing_source |
-| 刻手 | 卷五 | 12 | — | — | missing_source |
-| 刻手某 | 卷五 | 12 | — | — | missing_source |
-| 某某 | 卷五 | 12 | — | — | missing_source |
-| 手某某 | 卷五 | 12 | — | — | missing_source |
-| 官匠某某 | 卷五 | 20 | — | — | missing_source |
-| 官匠 | 卷五 | 12 | — | — | missing_source |
-| 官匠某 | 卷五 | 12 | — | — | missing_source |
-| 匠某某 | 卷五 | 12 | — | — | missing_source |
-| 州匠某某 | 卷五 | 20 | — | — | missing_source |
-| 州匠 | 卷五 | 12 | — | — | missing_source |
-| 州匠某 | 卷五 | 12 | — | — | missing_source |
-| 堂匠 | 卷五 | 20 | — | — | missing_source |
-| 古佛下弟子 | 卷五 | 20 | — | — | missing_source |
-| 古佛 | 卷五 | 12 | — | — | missing_source |
-| 古佛下 | 卷五 | 12 | — | — | missing_source |
-| 下弟子 | 卷五 | 12 | — | — | missing_source |
-| XX门徒 | 卷五 | 20 | — | — | missing_source |
-| XX | 卷五 | 12 | — | — | missing_source |
-| XX门 | 卷五 | 12 | — | — | missing_source |
-| 门徒 | 卷五 | 12 | — | — | missing_source |
-| X门徒 | 卷五 | 12 | — | — | missing_source |
-| 精匠 | 卷五 | 20 | — | — | missing_source |
-| 手某 | 卷五 | 20 | — | — | missing_source |
-| 明匠 | 卷五 | 20 | — | — | missing_source |
-| 州作者 | 卷五 | 20 | — | — | missing_source |
-| 州作 | 卷五 | 12 | — | — | missing_source |
-| 作者 | 卷五 | 12 | — | — | missing_source |
-| 能工 | 卷五 | 20 | — | — | missing_source |
-| 工造 | 卷五 | 20 | — | — | missing_source |
-| 造像能手 | 卷五 | 20 | — | — | missing_source |
-| 造像能 | 卷五 | 12 | — | — | missing_source |
-| 能手 | 卷五 | 12 | — | — | missing_source |
-| 像能手 | 卷五 | 12 | — | — | missing_source |
-| 州能匠 | 卷五 | 20 | — | — | missing_source |
-| 州能 | 卷五 | 12 | — | — | missing_source |
-| 能匠 | 卷五 | 12 | — | — | missing_source |
-| 绘匠 | 卷五 | 20 | — | — | missing_source |
-| 施主兼匠 | 卷五 | 20 | — | — | missing_source |
-| 施主 | 卷五 | 12 | — | — | missing_source |
-| 施主兼 | 卷五 | 12 | — | — | missing_source |
-| 兼匠 | 卷五 | 12 | — | — | missing_source |
-| 主兼匠 | 卷五 | 12 | — | — | missing_source |
-| 三教合一 | 卷五 | 25 | — | — | missing_source |
-| 三教 | 卷五 | 15 | — | — | missing_source |
-| 三教合 | 卷五 | 15 | — | — | missing_source |
-| 合一 | 卷五 | 15 | — | — | missing_source |
-| 教合一 | 卷五 | 15 | — | — | missing_source |
-| 三昧场 | 卷五 | 25 | — | — | missing_source |
-| 昧场 | 卷五 | 15 | — | — | missing_source |
-| 护摩场 | 卷五 | 25 | — | — | missing_source |
-| 摩场 | 卷五 | 15 | — | — | missing_source |
-| 火坛 | 卷五 | 25 | — | — | missing_source |
-| 遣灾文 | 卷五 | 25 | — | — | missing_source |
-| 遣灾 | 卷五 | 15 | — | — | missing_source |
-| 灾文 | 卷五 | 15 | — | — | missing_source |
-| 明王殿 | 卷五 | 25 | — | — | missing_source |
-| 王殿 | 卷五 | 15 | — | — | missing_source |
-| 密严殿 | 卷五 | 25 | — | — | missing_source |
-| 严殿 | 卷五 | 15 | — | — | missing_source |
-| 三部坛 | 卷五 | 25 | — | — | missing_source |
-| 三部 | 卷五 | 15 | — | — | missing_source |
-| 胎藏殿 | 卷五 | 25 | — | — | missing_source |
-| 藏殿 | 卷五 | 15 | — | — | missing_source |
-| 金刚坛 | 卷五 | 25 | — | — | missing_source |
-| 刚坛 | 卷五 | 15 | — | — | missing_source |
-| 加持位 | 卷五 | 25 | — | — | missing_source |
-| 持位 | 卷五 | 15 | — | — | missing_source |
-| 宝瓶坛 | 卷五 | 25 | — | — | missing_source |
-| 瓶坛 | 卷五 | 15 | — | — | missing_source |
-| 密坛 | 卷五 | 25 | — | — | missing_source |
-| 金刚曼荼罗 | 卷五 | 25 | — | — | missing_source |
-| 金刚曼 | 卷五 | 15 | — | — | missing_source |
-| 圆坛 | 卷五 | 25 | — | — | missing_source |
-| 密行 | 卷五 | 25 | — | — | missing_source |
-| 密师 | 卷五 | 25 | — | — | missing_source |
-| 真言师 | 卷五 | 25 | — | — | missing_source |
-| 言师 | 卷五 | 15 | — | — | missing_source |
-| 吽写为“叵” | 卷五 | 25 | — | — | missing_source |
-| 吽写为 | 卷五 | 15 | — | — | missing_source |
-| 娑诃写为“娑呵” | 卷五 | 25 | — | — | missing_source |
-| 娑诃 | 卷五 | 15 | — | — | missing_source |
-| 娑诃写 | 卷五 | 15 | — | — | missing_source |
-| 怛写作“咤/搭” | 卷五 | 25 | — | — | missing_source |
-| 怛写 | 卷五 | 15 | — | — | missing_source |
-| 怛写作 | 卷五 | 15 | — | — | missing_source |
-| 搭” | 卷五 | 15 | — | — | missing_source |
-| /搭” | 卷五 | 15 | — | — | missing_source |
-| 伽写为“加/珈” | 卷五 | 25 | — | — | missing_source |
-| 伽写 | 卷五 | 15 | — | — | missing_source |
-| 伽写为 | 卷五 | 15 | — | — | missing_source |
-| 珈” | 卷五 | 15 | — | — | missing_source |
-| /珈” | 卷五 | 15 | — | — | missing_source |
-| 摩诃写为“莫诃” | 卷五 | 25 | — | — | missing_source |
-| 摩诃写 | 卷五 | 15 | — | — | missing_source |
-| 诃” | 卷五 | 15 | — | — | missing_source |
-| 莫诃” | 卷五 | 15 | — | — | missing_source |
-| 波罗写为“婆罗” | 卷五 | 25 | — | — | missing_source |
-| 波罗写 | 卷五 | 15 | — | — | missing_source |
-| 罗” | 卷五 | 15 | — | — | missing_source |
-| 婆罗” | 卷五 | 15 | — | — | missing_source |
-| 堕写为“陀/拖” | 卷五 | 25 | — | — | missing_source |
-| 堕写 | 卷五 | 15 | — | — | missing_source |
-| 堕写为 | 卷五 | 15 | — | — | missing_source |
-| 拖” | 卷五 | 15 | — | — | missing_source |
-| /拖” | 卷五 | 15 | — | — | missing_source |
-| 缽写为“波/巴” | 卷五 | 25 | — | — | missing_source |
-| 缽写 | 卷五 | 15 | — | — | missing_source |
-| 缽写为 | 卷五 | 15 | — | — | missing_source |
-| 巴” | 卷五 | 15 | — | — | missing_source |
-| /巴” | 卷五 | 15 | — | — | missing_source |
-| 四川式咒语断句 | 卷五 | 20 | — | — | missing_source |
-| 四川式 | 卷五 | 12 | — | — | missing_source |
-| 断句 | 卷五 | 12 | — | — | missing_source |
-| 语断句 | 卷五 | 12 | — | — | missing_source |
-| 毘卢遮那佛 | 卷六 | 5 | — | — | missing_source |
-| 毘卢遮 | 卷六 | 5 | — | — | missing_source |
-| 卢舍那 | 卷六 | 39 | — | — | missing_source |
-| 舍那佛 | 卷六 | 39 | — | — | missing_source |
-| 初地 | 卷六 | 42 | — | — | missing_source |
-| 初地  | 卷六 | 42 | — | — | missing_source |
-| 喜地 | 卷六 | 42 | — | — | missing_source |
-| 欢喜地 | 卷六 | 42 | — | — | missing_source |
-| 大行普贤 | 卷六 | 75 | 行愿品 | T0293 | title_catalog_match |
-| 五十三参 | 卷六 | 85 | — | — | missing_source |
-| 弥勒菩萨 | 卷十 | 80 | — | — | missing_source |
-| 勒菩萨 | 卷十 | 48 | — | — | missing_source |
-| 华严海会 | 卷六 | 80 | — | — | missing_source |
-| 善财童子 | 卷六 | 85 | — | — | missing_source |
-| 文殊·普贤侍侧 | 卷六 | 80 | — | — | missing_source |
-| 华藏世界 | 卷六 | 80 | — | — | missing_source |
-| 善财童子五十三参 | 卷六 | 85 | — | — | missing_source |
-| 文殊台 / 普贤台 | 卷六 | 80 | — | — | missing_source |
-| 法界 / 法界会 | 卷六 | 80 | — | — | missing_source |
-| 各善知识名号 | 卷六 | 80 | — | — | missing_source |
-| 华藏海 / 华严 | 卷六 | 75 | — | — | missing_source |
-| 禅定 | 卷七 | 55 | — | — | missing_source |
-| 结构 | 卷十 | 48 | — | — | missing_source |
-| 须弥台左右侍立文殊普贤 | 卷六 | 75 | — | — | missing_source |
-| 本来无一物 | 卷七 | 85 | — | — | missing_source |
-| 本来 | 卷七 | 51 | — | — | missing_source |
-| 本来无 | 卷七 | 51 | — | — | missing_source |
-| 一物 | 卷七 | 51 | — | — | missing_source |
-| 无一物 | 卷七 | 51 | — | — | missing_source |
-| 明镜亦非台 | 卷七 | 80 | — | — | missing_source |
-| 明镜 | 卷七 | 48 | — | — | missing_source |
-| 明镜亦 | 卷七 | 48 | — | — | missing_source |
-| 非台 | 卷七 | 48 | — | — | missing_source |
-| 亦非台 | 卷七 | 48 | — | — | missing_source |
-| 拈花微笑 | 卷七 | 75 | — | — | missing_source |
-| 拈花 | 卷七 | 45 | — | — | missing_source |
-| 拈花微 | 卷七 | 45 | — | — | missing_source |
-| 微笑 | 卷七 | 45 | — | — | missing_source |
-| 花微笑 | 卷七 | 45 | — | — | missing_source |
-| 达摩面壁 | 卷七 | 80 | — | — | missing_source |
-| 达摩 | 卷七 | 48 | — | — | missing_source |
-| 达摩面 | 卷七 | 48 | — | — | missing_source |
-| 面壁 | 卷七 | 48 | — | — | missing_source |
-| 摩面壁 | 卷七 | 48 | — | — | missing_source |
-| 不立文字 | 卷七 | 70 | — | — | missing_source |
-| 不立 | 卷七 | 42 | — | — | missing_source |
-| 不立文 | 卷七 | 42 | — | — | missing_source |
-| 文字 | 卷七 | 42 | — | — | missing_source |
-| 立文字 | 卷七 | 42 | — | — | missing_source |
-| 直指人心 | 卷七 | 70 | — | — | missing_source |
-| 直指 | 卷七 | 42 | — | — | missing_source |
-| 直指人 | 卷七 | 42 | — | — | missing_source |
-| 指人心 | 卷七 | 42 | — | — | missing_source |
-| 见性成佛 | 卷七 | 80 | — | — | missing_source |
-| 见性 | 卷七 | 48 | — | — | missing_source |
-| 见性成 | 卷七 | 48 | — | — | missing_source |
-| 性成佛 | 卷七 | 48 | — | — | missing_source |
-| 参禅 | 卷七 | 70 | — | — | missing_source |
-| 看话头 | 卷七 | 75 | — | — | missing_source |
-| 看话 | 卷七 | 45 | — | — | missing_source |
-| 话头 | 卷七 | 45 | — | — | missing_source |
-| 打坐参 | 卷七 | 60 | — | — | missing_source |
-| 打坐 | 卷七 | 36 | — | — | missing_source |
-| 坐参 | 卷七 | 36 | — | — | missing_source |
-| 棒喝 | 卷七 | 70 | — | — | missing_source |
-| 拈提 | 卷七 | 65 | — | — | missing_source |
-| 当下 | 卷七 | 60 | — | — | missing_source |
-| 本心 | 卷七 | 65 | — | — | missing_source |
-| 无念 | 卷七 | 70 | — | — | missing_source |
-| 无相 | 卷七 | 70 | — | — | missing_source |
-| 无住 | 卷七 | 70 | — | — | missing_source |
-| 真如 | 卷七 | 60 | — | — | missing_source |
-| 不思善 不思恶 | 卷七 | 75 | — | — | missing_source |
-| 不思善 | 卷七 | 45 | — | — | missing_source |
-| 思恶 | 卷七 | 45 | — | — | missing_source |
-| 不思恶 | 卷七 | 45 | — | — | missing_source |
-| 万法归一 一归何处 | 卷七 | 70 | — | — | missing_source |
-| 万法 | 卷七 | 42 | — | — | missing_source |
-| 万法 | 卷十二 | 48 | — | — | missing_source |
-| 万法归 | 卷七 | 42 | — | — | missing_source |
-| 何处 | 卷七 | 42 | — | — | missing_source |
-| 归何处 | 卷七 | 42 | — | — | missing_source |
-| 踏破草鞋无觅处 | 卷七 | 60 | — | — | missing_source |
-| 踏破 | 卷七 | 36 | — | — | missing_source |
-| 踏破草 | 卷七 | 36 | — | — | missing_source |
-| 觅处 | 卷七 | 36 | — | — | missing_source |
-| 无觅处 | 卷七 | 36 | — | — | missing_source |
-| 山是山，水是水 | 卷七 | 65 | — | — | missing_source |
-| 山是 | 卷七 | 39 | — | — | missing_source |
-| 山是山 | 卷七 | 39 | — | — | missing_source |
-| 是水 | 卷七 | 39 | — | — | missing_source |
-| 水是水 | 卷七 | 39 | — | — | missing_source |
-| 本来面目 | 卷七 | 80 | — | — | missing_source |
-| 本来面 | 卷七 | 48 | — | — | missing_source |
-| 面目 | 卷七 | 48 | — | — | missing_source |
-| 来面目 | 卷七 | 48 | — | — | missing_source |
-| 我今悟此心 | 卷七 | 60 | — | — | missing_source |
-| 我今 | 卷七 | 36 | — | — | missing_source |
-| 我今悟 | 卷七 | 36 | — | — | missing_source |
-| 此心 | 卷七 | 36 | — | — | missing_source |
-| 悟此心 | 卷七 | 36 | — | — | missing_source |
-| 自性常清净 | 卷七 | 60 | — | — | missing_source |
-| 自性 | 卷七 | 36 | — | — | missing_source |
-| 自性 | 卷十一 | 45 | — | — | missing_source |
-| 自性常 | 卷七 | 36 | — | — | missing_source |
-| 常清净 | 卷七 | 36 | — | — | missing_source |
-| 慧可 | 卷七 | 80 | — | — | missing_source |
-| 僧璨 | 卷七 | 75 | — | — | missing_source |
-| 道信 | 卷七 | 75 | — | — | missing_source |
-| 弘忍 | 卷七 | 75 | — | — | missing_source |
-| 慧能 | 卷七 | 90 | — | — | missing_source |
-| 临济 | 卷七 | 90 | — | — | missing_source |
-| 曹洞 | 卷七 | 85 | — | — | missing_source |
-| 云门 | 卷七 | 85 | — | — | missing_source |
-| 沩仰 | 卷七 | 80 | — | — | missing_source |
-| 黄龙派 | 卷七 | 70 | — | — | missing_source |
-| 黄龙 | 卷七 | 42 | — | — | missing_source |
-| 龙派 | 卷七 | 42 | — | — | missing_source |
-| 杨岐派 | 卷七 | 70 | — | — | missing_source |
-| 杨岐 | 卷七 | 42 | — | — | missing_source |
-| 岐派 | 卷七 | 42 | — | — | missing_source |
-| 坐禅 | 卷七 | 50 | — | — | missing_source |
-| 禅定（不同于密教三昧） | 卷七 | 55 | — | — | missing_source |
-| 行住坐卧皆禅 | 卷七 | 65 | — | — | missing_source |
-| 皆禅 | 卷七 | 39 | — | — | missing_source |
-| 卧皆禅 | 卷七 | 39 | — | — | missing_source |
-| 扫地即道 | 卷七 | 60 | — | — | missing_source |
-| 扫地 | 卷七 | 36 | — | — | missing_source |
-| 扫地即 | 卷七 | 36 | — | — | missing_source |
-| 即道 | 卷七 | 36 | — | — | missing_source |
-| 地即道 | 卷七 | 36 | — | — | missing_source |
-| 作务 | 卷七 | 55 | — | — | missing_source |
-| 方丈 | 卷七 | 60 | — | — | missing_source |
-| 维那 | 卷七 | 55 | — | — | missing_source |
-| 藏主 | 卷七 | 40 | — | — | missing_source |
-| 监寺 | 卷七 | 45 | — | — | missing_source |
-| 僧堂 | 卷七 | 55 | — | — | missing_source |
-| 禅堂 | 卷七 | 70 | — | — | missing_source |
-| 青城山禅林 | 卷七 | 50 | — | — | missing_source |
-| 禅林 | 卷七 | 30 | — | — | missing_source |
-| 山禅林 | 卷七 | 30 | — | — | missing_source |
-| 常寂光院 | 卷七 | 55 | — | — | missing_source |
-| 常寂 | 卷七 | 33 | — | — | missing_source |
-| 常寂光 | 卷七 | 33 | — | — | missing_source |
-| 光院 | 卷七 | 33 | — | — | missing_source |
-| 寂光院 | 卷七 | 33 | — | — | missing_source |
-| 达摩对墙坐 | 卷七 | 90 | — | — | missing_source |
-| 达摩对 | 卷七 | 54 | — | — | missing_source |
-| 墙坐 | 卷七 | 54 | — | — | missing_source |
-| 对墙坐 | 卷七 | 54 | — | — | missing_source |
-| 单僧坐禅、背对观者 | 卷七 | 80 | — | — | missing_source |
-| 单僧 | 卷七 | 48 | — | — | missing_source |
-| 单僧坐 | 卷七 | 48 | — | — | missing_source |
-| 观者 | 卷七 | 48 | — | — | missing_source |
-| 对观者 | 卷七 | 48 | — | — | missing_source |
-| 山洞 / 石室中坐禅 | 卷七 | 75 | — | — | missing_source |
-| 山洞 | 卷七 | 45 | — | — | missing_source |
-| 山洞  | 卷七 | 45 | — | — | missing_source |
-| 中坐禅 | 卷七 | 45 | — | — | missing_source |
-| 执芦渡江 | 卷七 | 75 | — | — | missing_source |
-| 执芦 | 卷七 | 45 | — | — | missing_source |
-| 执芦渡 | 卷七 | 45 | — | — | missing_source |
-| 渡江 | 卷七 | 45 | — | — | missing_source |
-| 芦渡江 | 卷七 | 45 | — | — | missing_source |
-| 独舟东来 | 卷七 | 70 | — | — | missing_source |
-| 独舟 | 卷七 | 42 | — | — | missing_source |
-| 独舟东 | 卷七 | 42 | — | — | missing_source |
-| 东来 | 卷七 | 42 | — | — | missing_source |
-| 舟东来 | 卷七 | 42 | — | — | missing_source |
-| 僧人砍柴 / 舂米 | 卷七 | 85 | — | — | missing_source |
-| 僧人 | 卷七 | 51 | — | — | missing_source |
-| 僧人砍 | 卷七 | 51 | — | — | missing_source |
-| 舂米 | 卷七 | 51 | — | — | missing_source |
-|  舂米 | 卷七 | 51 | — | — | missing_source |
-| 与五祖对话 | 卷七 | 80 | — | — | missing_source |
-| 与五 | 卷七 | 48 | — | — | missing_source |
-| 与五祖 | 卷七 | 48 | — | — | missing_source |
-| 对话 | 卷七 | 48 | — | — | missing_source |
-| 祖对话 | 卷七 | 48 | — | — | missing_source |
-| 无佛光背 | 卷七 | 75 | — | — | missing_source |
-| 无佛 | 卷七 | 45 | — | — | missing_source |
-| 无佛光 | 卷七 | 45 | — | — | missing_source |
-| 光背 | 卷七 | 45 | — | — | missing_source |
-| 佛光背 | 卷七 | 45 | — | — | missing_source |
-| 无天冠、无宝冠 | 卷七 | 70 | — | — | missing_source |
-| 无天 | 卷七 | 42 | — | — | missing_source |
-| 无天冠 | 卷七 | 42 | — | — | missing_source |
-| 无宝冠 | 卷七 | 42 | — | — | missing_source |
-| 衣纹简朴 | 卷七 | 60 | — | — | missing_source |
-| 衣纹 | 卷七 | 36 | — | — | missing_source |
-| 衣纹简 | 卷七 | 36 | — | — | missing_source |
-| 简朴 | 卷七 | 36 | — | — | missing_source |
-| 纹简朴 | 卷七 | 36 | — | — | missing_source |
-| 环境为山林/石室 | 卷七 | 65 | — | — | missing_source |
-| 环境 | 卷七 | 39 | — | — | missing_source |
-| 环境为 | 卷七 | 39 | — | — | missing_source |
-| 石室 | 卷七 | 39 | — | — | missing_source |
-| /石室 | 卷七 | 39 | — | — | missing_source |
-| 佛陀拈花，迦叶微笑 | 卷七 | 80 | — | — | missing_source |
-| 佛陀 | 卷七 | 48 | — | — | missing_source |
-| 佛陀拈 | 卷七 | 48 | — | — | missing_source |
-| 叶微笑 | 卷七 | 48 | — | — | missing_source |
-| 僧人持杖行走 | 卷七 | 65 | — | — | missing_source |
-| 僧人持 | 卷七 | 39 | — | — | missing_source |
-| 行走 | 卷七 | 39 | — | — | missing_source |
-| 杖行走 | 卷七 | 39 | — | — | missing_source |
-| 僧人荷囊 | 卷七 | 55 | — | — | missing_source |
-| 僧人荷 | 卷七 | 33 | — | — | missing_source |
-| 荷囊 | 卷七 | 33 | — | — | missing_source |
-| 人荷囊 | 卷七 | 33 | — | — | missing_source |
-| 僧人立于山路 | 卷七 | 60 | — | — | missing_source |
-| 僧人立 | 卷七 | 36 | — | — | missing_source |
-| 山路 | 卷七 | 36 | — | — | missing_source |
-| 于山路 | 卷七 | 36 | — | — | missing_source |
-| 无佛菩萨出现 | 卷七 | — | — | — | missing_source |
-| 扶风 | 卷七 | 48 | — | — | missing_source |
-| 扶风  | 卷七 | 48 | — | — | missing_source |
-| 宝鸡 | 卷七 | 48 | — | — | missing_source |
-|  宝鸡 | 卷七 | 48 | — | — | missing_source |
-| 西安 | 卷七 | 75 | — | — | missing_source |
-| 天台山 | 卷七 | — | — | — | missing_source |
-| 台州 | 卷七 | — | — | — | missing_source |
-| 杭州 | 卷七 | — | — | — | missing_source |
-| 宁波 | 卷七 | — | — | — | missing_source |
-| 苏州 | 卷七 | — | — | — | missing_source |
-| 扬州 | 卷七 | — | — | — | missing_source |
-| 南京 | 卷七 | — | — | — | missing_source |
-| 嵩山 | 卷七 | — | — | — | missing_source |
-| 洛阳 | 卷七 | — | — | — | missing_source |
-| 邢台 | 卷七 | — | — | — | missing_source |
-| 开皇 | 卷七 | — | — | — | missing_source |
-| 仁寿 | 卷七 | — | — | — | missing_source |
-| 大业 | 卷七 | — | — | — | missing_source |
-| 贞观 | 卷七 | — | — | — | missing_source |
-| 永徽 | 卷七 | — | — | — | missing_source |
-| 咸亨 | 卷七 | — | — | — | missing_source |
-| 上元 | 卷七 | — | — | — | missing_source |
-| 开元 | 卷七 | — | — | — | missing_source |
-| 天宝 | 卷七 | — | — | — | missing_source |
-| 宝应 | 卷七 | — | — | — | missing_source |
-| 大历 | 卷七 | — | — | — | missing_source |
-| 建中 | 卷七 | — | — | — | missing_source |
-| 元和 | 卷七 | — | — | — | missing_source |
-| 会昌 | 卷七 | — | — | — | missing_source |
-| 咸通 | 卷七 | — | — | — | missing_source |
-| 天复 / 光化 / 广明 | 卷七 | — | — | — | missing_source |
-| 前蜀天成 | 卷七 | — | — | — | missing_source |
-| 太平兴国 | 卷七 | — | — | — | missing_source |
-| 天禧 | 卷七 | — | — | — | missing_source |
-| 熙宁 / 元丰 | 卷七 | — | — | — | missing_source |
-| 绍兴 | 卷七 | — | — | — | missing_source |
-| 陈君贵 | 卷七 | — | — | — | missing_source |
-| 刘刻师 | 卷七 | — | — | — | missing_source |
-| 陈用之 | 卷七 | — | — | — | missing_source |
-| 龙昌 | 卷七 | — | — | — | missing_source |
-| 陈文德 | 卷七 | — | — | — | missing_source |
-| 王大昌 | 卷七 | — | — | — | missing_source |
-| 阿彌陀 | 卷七 | — | — | — | missing_source |
-| 普賢 | 卷七 | — | — | — | missing_source |
-| 文殊師利 | 卷七 | — | — | — | missing_source |
-| 蘇悉地 | 卷七 | — | — | — | missing_source |
-| 陀羅尼 | 卷七 | — | — | — | missing_source |
-| 大日如來 | 卷七 | — | — | — | missing_source |
-| 達磨 | 卷七 | — | — | — | missing_source |
-| 惠能 | 卷七 | — | — | — | missing_source |
-| 地狱未空 誓不成佛 | 卷九 | 90 | — | — | missing_source |
-| 众生度尽 方证菩提 | 卷九 | 85 | — | — | missing_source |
-| 南无地藏王菩萨 | 卷九 | 80 | — | — | missing_source |
-| 大愿地藏王 | 卷九 | 80 | — | — | missing_source |
-| 地藏王 | 卷九 | 48 | — | — | missing_source |
-| 慈悲大士 | 卷九 | 70 | — | — | missing_source |
-| 拔苦 | 卷九 | 45 | — | — | missing_source |
-| 超度 | 卷九 | 45 | — | — | missing_source |
-| 荐亡 | 卷九 | 45 | — | — | missing_source |
-| 拔罪 | 卷九 | 45 | — | — | missing_source |
-| 罪报 | 卷九 | 65 | — | — | missing_source |
-| 冥司 | 卷九 | 45 | — | — | missing_source |
-| 泥犁 | 卷九 | 85 | — | — | missing_source |
-| 泥犁（泥梨） | 卷九 | 85 | — | — | missing_source |
-| 阿鼻地狱 | 卷九 | 80 | — | — | missing_source |
-| 阿鼻 | 卷九 | 30 | — | — | missing_source |
-| 苦具 | 卷九 | 65 | — | — | missing_source |
-| 受罪 | 卷九 | 65 | — | — | missing_source |
-| 亡母 / 亡父 | 卷九 | 70 | — | — | missing_source |
-| 亡母  | 卷九 | 42 | — | — | missing_source |
-|  亡父 | 卷九 | 42 | — | — | missing_source |
-| 历代宗亲 | 卷九 | 65 | — | — | missing_source |
-| 度亡 | 卷九 | 45 | — | — | missing_source |
-| 荐拔 | 卷九 | 70 | — | — | missing_source |
-| 追荐 | 卷九 | 70 | — | — | missing_source |
-| 德主 | 卷九 | 42 | — | — | missing_source |
-| 秦广王 | 卷九 | 80 | — | — | missing_source |
-| 秦广 | 卷九 | 30 | — | — | missing_source |
-| 初江王 | 卷九 | 80 | — | — | missing_source |
-| 初江 | 卷九 | 30 | — | — | missing_source |
-| 宋帝王 | 卷九 | 70 | — | — | missing_source |
-| 五官王 | 卷九 | 60 | — | — | missing_source |
-| 阎罗王 | 卷九 | 75 | — | — | missing_source |
-| 阎罗 | 卷九 | 30 | — | — | missing_source |
-| 罗王 | 卷九 | 45 | — | — | missing_source |
-| 六道 | 卷九 | — | — | — | missing_source |
-| 鬼道 | 卷九 | — | — | — | missing_source |
-| 畜生道 | 卷九 | — | — | — | missing_source |
-| 地狱道 | 卷九 | — | — | — | missing_source |
-| 轮回 | 卷九 | — | — | — | missing_source |
-| 酆都 | 卷九 | 60 | — | — | missing_source |
-| 地狱体系 | 卷九 | 85 | — | — | missing_source |
-| 狱体系 | 卷九 | 51 | — | — | missing_source |
-| 荐亡体系 | 卷九 | 80 | — | — | missing_source |
-| 救苦地藏 | 卷九 | — | — | — | missing_source |
-| 无毒地藏 | 卷九 | — | — | — | missing_source |
-| 宝珠地藏 | 卷九 | — | — | — | missing_source |
-| 除盖障地藏 | 卷九 | — | — | — | missing_source |
-| 延寿地藏 | 卷九 | — | — | — | missing_source |
-| 禅定地藏 | 卷九 | — | — | — | missing_source |
-| 大愿地藏王菩萨 | 卷九 | 60 | — | — | missing_source |
-| 大悲地藏王 | 卷九 | 80 | — | — | missing_source |
-| 大士地藏王 | 卷九 | 70 | — | — | missing_source |
-| 救苦地藏菩萨 | 卷九 | 75 | — | — | missing_source |
-| 障地藏 | 卷九 | 39 | — | — | missing_source |
-| 禅定地 | 卷九 | 36 | — | — | missing_source |
-| 定地藏 | 卷九 | 36 | — | — | missing_source |
-| 普度地藏 | 卷九 | 70 | — | — | missing_source |
-| 护国地藏 | 卷九 | 65 | — | — | missing_source |
-| 吉祥地藏 | 卷九 | 60 | — | — | missing_source |
-| 功德地藏 | 卷九 | 60 | — | — | missing_source |
-| 大权地藏 | 卷九 | 60 | — | — | missing_source |
-| 地藏菩萨灭定业真言 | 卷九 | 85 | — | — | missing_source |
-| 业真言 | 卷九 | 51 | — | — | missing_source |
-| 南无地藏菩萨摩诃萨 | 卷九 | 75 | — | — | missing_source |
-| 南无地藏菩萨摩诃萨（咒前行） | 卷九 | 75 | — | — | missing_source |
-| 南无本尊地藏菩萨 | 卷九 | 75 | — | — | missing_source |
-| 愿灭定业重罪 | 卷九 | 70 | — | — | missing_source |
-| 愿脱轮回 | 卷九 | 70 | — | — | missing_source |
-| 愿离恶趣 | 卷九 | 70 | — | — | missing_source |
-| 愿离三涂 | 卷九 | 70 | — | — | missing_source |
-| 愿离苦得乐 | 卷九 | 65 | — | — | missing_source |
-| 愿免业报 | 卷九 | 70 | — | — | missing_source |
-| 愿离一切罪障 | 卷九 | 65 | — | — | missing_source |
-| 愿解冤释结 | 卷九 | 65 | — | — | missing_source |
-| 普利含识 | 卷九 | 70 | — | — | missing_source |
-| 普利群萌 / 普利有情 | 卷九 | 65 | — | — | missing_source |
-| 愿诸冤亲债主得解脱 | 卷九 | 75 | — | — | missing_source |
-| 愿先亡宗亲离苦趣 | 卷九 | 75 | — | — | missing_source |
-| 愿在世父母增福延寿 | 卷九 | 65 | — | — | missing_source |
-| 所修功德回向法界有情 | 卷九 | 65 | — | — | missing_source |
-| 施食 | 卷九 | 45 | — | — | missing_source |
-| 普施饿鬼 | 卷九 | 80 | — | — | missing_source |
-| 施幽冥众生 | 卷九 | 75 | — | — | missing_source |
-| 放焰口 | 卷九 | 50 | — | — | missing_source |
-| 水陆道场 | 卷九 | 30 | — | — | missing_source |
-| 药王施食 | 卷九 | 60 | — | — | missing_source |
-| 净供十方孤魂 | 卷九 | 75 | — | — | missing_source |
-| 孤魂 | 卷九 | 30 | — | — | missing_source |
-| 普济幽魂 | 卷九 | 70 | — | — | missing_source |
-| 盂兰盆会 | 卷九 | 30 | — | — | missing_source |
-| 盂兰 | 卷九 | 33 | — | — | missing_source |
-| 盂兰盆 | 卷九 | 33 | — | — | missing_source |
-| 盆会 | 卷九 | 33 | — | — | missing_source |
-| 兰盆会 | 卷九 | 33 | — | — | missing_source |
-| 孤魂野鬼 | 卷九 | 65 | — | — | missing_source |
-| 酆都大帝 | 卷九 | — | — | — | missing_source |
-| 东岳大帝 | 卷九 | — | — | — | missing_source |
-| 城隍 | 卷九 | — | — | — | missing_source |
-| 泰山府君 | 卷九 | — | — | — | missing_source |
-| 判官 | 卷九 | — | — | — | missing_source |
-| 牛头马面 | 卷九 | — | — | — | missing_source |
-| 地府 | 卷九 | — | — | — | missing_source |
-| 慈氏菩萨 | 卷十 | 80 | — | — | missing_source |
-| 慈氏 | 卷十 | 48 | — | — | missing_source |
-| 慈氏菩 | 卷十 | 48 | — | — | missing_source |
-| 氏菩萨 | 卷十 | 48 | — | — | missing_source |
-| 上生兜率 | 卷十 | 80 | — | — | missing_source |
-| 上生 | 卷十 | 48 | — | — | missing_source |
-| 上生兜 | 卷十 | 48 | — | — | missing_source |
-| 兜率 | 卷十 | 48 | — | — | missing_source |
-| 生兜率 | 卷十 | 48 | — | — | missing_source |
-| 内院天宫 | 卷十 | 75 | — | — | missing_source |
-| 内院天 | 卷十 | 45 | — | — | missing_source |
-| 天宫 | 卷十 | 45 | — | — | missing_source |
-| 院天宫 | 卷十 | 45 | — | — | missing_source |
-| 弥勒佛 | 卷十 | 80 | — | — | missing_source |
-| 勒佛 | 卷十 | 48 | — | — | missing_source |
-| 下生产佛 | 卷十 | 80 | — | — | missing_source |
-| 下生产 | 卷十 | 48 | — | — | missing_source |
-| 产佛 | 卷十 | 48 | — | — | missing_source |
-| 生产佛 | 卷十 | 48 | — | — | missing_source |
-| 龙华三会 | 卷十 | 75 | — | — | missing_source |
-| 龙华 | 卷十 | 45 | — | — | missing_source |
-| 龙华三 | 卷十 | 45 | — | — | missing_source |
-| 华三会 | 卷十 | 45 | — | — | missing_source |
-| 当来佛 | 卷十 | 80 | — | — | missing_source |
-| 当来 | 卷十 | 48 | — | — | missing_source |
-| 来佛 | 卷十 | 48 | — | — | missing_source |
-| 下生成佛 | 卷十 | 80 | — | — | missing_source |
-| 下生成 | 卷十 | 48 | — | — | missing_source |
-| 生成佛 | 卷十 | 48 | — | — | missing_source |
-| 兜率天 | 卷十 | 75 | — | — | missing_source |
-| 率天 | 卷十 | 45 | — | — | missing_source |
-| 未来佛 | 卷十 | 80 | — | — | missing_source |
-| 未来 | 卷十 | 48 | — | — | missing_source |
-| 兜率天王 | 卷十 | 65 | — | — | missing_source |
-| 天王 | 卷十 | 39 | — | — | missing_source |
-| 率天王 | 卷十 | 39 | — | — | missing_source |
-| 弥勒大士 | 卷十 | 75 | — | — | missing_source |
-| 弥勒大 | 卷十 | 45 | — | — | missing_source |
-| 勒大士 | 卷十 | 45 | — | — | missing_source |
-| 慈尊 | 卷十 | 70 | — | — | missing_source |
-| 龙华三会佛 | 卷十 | 75 | — | — | missing_source |
-| 会佛 | 卷十 | 45 | — | — | missing_source |
-| 三会佛 | 卷十 | 45 | — | — | missing_source |
-| 下一佛 | 卷十 | 70 | — | — | missing_source |
-| 下一 | 卷十 | 42 | — | — | missing_source |
-| 一佛 | 卷十 | 42 | — | — | missing_source |
-| 半跏思惟像 | 卷十 | 80 | — | — | missing_source |
-| 半跏思惟像（右足踩下） | 卷十 | 80 | — | — | missing_source |
-| 半跏 | 卷十 | 48 | — | — | missing_source |
-| 半跏思 | 卷十 | 48 | — | — | missing_source |
-| 惟像 | 卷十 | 48 | — | — | missing_source |
-| 思惟像 | 卷十 | 48 | — | — | missing_source |
-| 双腿自然下垂坐姿 | 卷十 | 75 | — | — | missing_source |
-| 双腿自然下垂坐姿（欧式坐） | 卷十 | 75 | — | — | missing_source |
-| 双腿 | 卷十 | 45 | — | — | missing_source |
-| 双腿自 | 卷十 | 45 | — | — | missing_source |
-| 坐姿 | 卷十 | 45 | — | — | missing_source |
-| 垂坐姿 | 卷十 | 45 | — | — | missing_source |
-| 坐狮像 | 卷十 | 70 | — | — | missing_source |
-| 坐狮 | 卷十 | 42 | — | — | missing_source |
-| 狮像 | 卷十 | 42 | — | — | missing_source |
-| 肩饰厚重披帛 | 卷十 | 65 | — | — | missing_source |
-| 肩饰厚 | 卷十 | 39 | — | — | missing_source |
-| 重披帛 | 卷十 | 39 | — | — | missing_source |
-| 大足巨大弥勒像结构 | 卷十 | 80 | — | — | missing_source |
-| 大足巨 | 卷十 | 48 | — | — | missing_source |
-| 像结构 | 卷十 | 48 | — | — | missing_source |
-| 天众围绕 | 卷十 | 65 | — | — | missing_source |
-| 天众围 | 卷十 | 39 | — | — | missing_source |
-| 兜率净土 | 卷十 | 80 | — | — | missing_source |
-| 兜率净 | 卷十 | 48 | — | — | missing_source |
-| 率净土 | 卷十 | 48 | — | — | missing_source |
-| 第三会成佛 | 卷十 | 70 | — | — | missing_source |
-| 第三 | 卷十 | 42 | — | — | missing_source |
-| 第三会 | 卷十 | 42 | — | — | missing_source |
-| 会成佛 | 卷十 | 42 | — | — | missing_source |
-| 当来下生 | 卷十 | 80 | — | — | missing_source |
-| 当来下 | 卷十 | 48 | — | — | missing_source |
-| 来下生 | 卷十 | 48 | — | — | missing_source |
-| 大足石刻弥勒 | 卷十 | 75 | — | — | missing_source |
-| 大足石 | 卷十 | 45 | — | — | missing_source |
-| 刻弥勒 | 卷十 | 45 | — | — | missing_source |
-| 安岳弥勒 | 卷十 | 75 | — | — | missing_source |
-| 安岳弥 | 卷十 | 45 | — | — | missing_source |
-| 岳弥勒 | 卷十 | 45 | — | — | missing_source |
-| 化佛弥勒 | 卷十 | 65 | — | — | missing_source |
-| 化佛弥 | 卷十 | 39 | — | — | missing_source |
-| 佛弥勒 | 卷十 | 39 | — | — | missing_source |
-| 宽肩弥勒像 | 卷十 | 60 | — | — | missing_source |
-| 宽肩 | 卷十 | 36 | — | — | missing_source |
-| 宽肩弥 | 卷十 | 36 | — | — | missing_source |
-| 勒像 | 卷十 | 36 | — | — | missing_source |
-| 弥勒像 | 卷十 | 36 | — | — | missing_source |
-| 初会龙华 | 卷十 | 80 | — | — | missing_source |
-| 初会龙 | 卷十 | 48 | — | — | missing_source |
-| 会龙华 | 卷十 | 48 | — | — | missing_source |
-| 度千亿众生 | 卷十 | 75 | — | — | missing_source |
-| 度千 | 卷十 | 45 | — | — | missing_source |
-| 度千亿 | 卷十 | 45 | — | — | missing_source |
-| 亿众生 | 卷十 | 45 | — | — | missing_source |
-| 二会龙华 | 卷十 | 70 | — | — | missing_source |
-| 二会 | 卷十 | 42 | — | — | missing_source |
-| 二会龙 | 卷十 | 42 | — | — | missing_source |
-| 再度众生 | 卷十 | 70 | — | — | missing_source |
-| 再度 | 卷十 | 42 | — | — | missing_source |
-| 再度众 | 卷十 | 42 | — | — | missing_source |
-| 三会龙华 | 卷十 | 70 | — | — | missing_source |
-| 三会龙 | 卷十 | 42 | — | — | missing_source |
-| 十亿众生得道 | 卷十 | 70 | — | — | missing_source |
-| 十亿 | 卷十 | 42 | — | — | missing_source |
-| 十亿众 | 卷十 | 42 | — | — | missing_source |
-| 得道 | 卷十 | 42 | — | — | missing_source |
-| 生得道 | 卷十 | 42 | — | — | missing_source |
-| 龙华树下成佛 | 卷十 | 75 | — | — | missing_source |
-| 龙华树 | 卷十 | 45 | — | — | missing_source |
-| 下成佛 | 卷十 | 45 | — | — | missing_source |
-| 龙华道场 | 卷十 | 75 | — | — | missing_source |
-| 龙华道 | 卷十 | 45 | — | — | missing_source |
-| 华道场 | 卷十 | 45 | — | — | missing_source |
-| 清瘦、孤立的菩萨相 | 卷十 | 70 | — | — | missing_source |
-| 清瘦 | 卷十 | 42 | — | — | missing_source |
-| 清瘦、 | 卷十 | 42 | — | — | missing_source |
-| 萨相 | 卷十 | 42 | — | — | missing_source |
-| 菩萨相 | 卷十 | 42 | — | — | missing_source |
-| 僧众 / 天众围绕 | 卷十 | 60 | — | — | missing_source |
-| 僧众 | 卷十 | 36 | — | — | missing_source |
-| 僧众  | 卷十 | 36 | — | — | missing_source |
-| 破有显空 | 卷十一 | 80 | — | — | missing_source |
-| 破有 | 卷十一 | 48 | — | — | missing_source |
-| 破有显 | 卷十一 | 48 | — | — | missing_source |
-| 显空 | 卷十一 | 48 | — | — | missing_source |
-| 有显空 | 卷十一 | 48 | — | — | missing_source |
-| 二谛圆融 | 卷十一 | 80 | — | — | missing_source |
-| 二谛 | 卷十一 | 48 | — | — | missing_source |
-| 二谛圆 | 卷十一 | 48 | — | — | missing_source |
-| 圆融 | 卷十一 | 48 | — | — | missing_source |
-| 谛圆融 | 卷十一 | 48 | — | — | missing_source |
-| 八不中道 | 卷十一 | 80 | — | — | missing_source |
-| 八不 | 卷十一 | 48 | — | — | missing_source |
-| 八不中 | 卷十一 | 48 | — | — | missing_source |
-| 中道 | 卷十一 | 48 | — | — | missing_source |
-| 中道 | 卷十三 | 15 | — | — | missing_source |
-| 不中道 | 卷十一 | 48 | — | — | missing_source |
-| 诸法皆空 | 卷十一 | 75 | — | — | missing_source |
-| 诸法 | 卷十一 | 45 | — | — | missing_source |
-| 诸法皆 | 卷十一 | 45 | — | — | missing_source |
-| 皆空 | 卷十一 | 45 | — | — | missing_source |
-| 法皆空 | 卷十一 | 45 | — | — | missing_source |
-| 假名无性 | 卷十一 | 75 | — | — | missing_source |
-| 假名 | 卷十一 | 45 | — | — | missing_source |
-| 假名 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source |
-| 假名无 | 卷十一 | 45 | — | — | missing_source |
-| 无性 | 卷十一 | 45 | — | — | missing_source |
-| 无性 | 卷十二 | 48 | — | — | missing_source |
-| 名无性 | 卷十一 | 45 | — | — | missing_source |
-| 因缘所生法 | 卷十一 | 75 | — | — | missing_source |
-| 因缘 | 卷十一 | 45 | — | — | missing_source |
-| 因缘所 | 卷十一 | 45 | — | — | missing_source |
-| 生法 | 卷十一 | 45 | — | — | missing_source |
-| 所生法 | 卷十一 | 45 | — | — | missing_source |
-| 涅槃既不生 | 卷十一 | 75 | — | — | missing_source |
-| 涅槃既 | 卷十一 | 45 | — | — | missing_source |
-| 不生 | 卷十一 | 45 | — | — | missing_source |
-| 既不生 | 卷十一 | 45 | — | — | missing_source |
-| 非有非无 | 卷十一 | 80 | — | — | missing_source |
-| 非有 | 卷十一 | 48 | — | — | missing_source |
-| 非有非 | 卷十一 | 48 | — | — | missing_source |
-| 非无 | 卷十一 | 48 | — | — | missing_source |
-| 有非无 | 卷十一 | 48 | — | — | missing_source |
-| 不生不灭 | 卷十一 | 80 | — | — | missing_source |
-| 不生不 | 卷十一 | 48 | — | — | missing_source |
-| 不灭 | 卷十一 | 48 | — | — | missing_source |
-| 生不灭 | 卷十一 | 48 | — | — | missing_source |
-| 破因门 | 卷十一 | 75 | — | — | missing_source |
-| 破因 | 卷十一 | 45 | — | — | missing_source |
-| 因门 | 卷十一 | 45 | — | — | missing_source |
-| 破果门 | 卷十一 | 75 | — | — | missing_source |
-| 破果 | 卷十一 | 45 | — | — | missing_source |
-| 果门 | 卷十一 | 45 | — | — | missing_source |
-| 破作门 | 卷十一 | 75 | — | — | missing_source |
-| 破作 | 卷十一 | 45 | — | — | missing_source |
-| 作门 | 卷十一 | 45 | — | — | missing_source |
-| 十二破 | 卷十一 | 80 | — | — | missing_source |
-| 二破 | 卷十一 | 48 | — | — | missing_source |
-| 诸法假名 | 卷十一 | 70 | — | — | missing_source |
-| 诸法假 | 卷十一 | 42 | — | — | missing_source |
-| 法假名 | 卷十一 | 42 | — | — | missing_source |
-| 无自性 | 卷十一 | 75 | — | — | missing_source |
-| 无自 | 卷十一 | 45 | — | — | missing_source |
-| 名言假立 | 卷十一 | 70 | — | — | missing_source |
-| 名言 | 卷十一 | 42 | — | — | missing_source |
-| 名言假 | 卷十一 | 42 | — | — | missing_source |
-| 假立 | 卷十一 | 42 | — | — | missing_source |
-| 言假立 | 卷十一 | 42 | — | — | missing_source |
-| 真俗二谛 | 卷十一 | 70 | — | — | missing_source |
-| 真俗 | 卷十一 | 42 | — | — | missing_source |
-| 真俗二 | 卷十一 | 42 | — | — | missing_source |
-| 俗二谛 | 卷十一 | 42 | — | — | missing_source |
-| 双遮 | 卷十一 | 70 | — | — | missing_source |
-| 遣灭 | 卷十一 | 75 | — | — | missing_source |
-| 非一非异 | 卷十一 | 80 | — | — | missing_source |
-| 非一 | 卷十一 | 48 | — | — | missing_source |
-| 非一非 | 卷十一 | 48 | — | — | missing_source |
-| 非异 | 卷十一 | 48 | — | — | missing_source |
-| 一非异 | 卷十一 | 48 | — | — | missing_source |
-| 非断非常 | 卷十一 | 75 | — | — | missing_source |
-| 非断 | 卷十一 | 45 | — | — | missing_source |
-| 非断非 | 卷十一 | 45 | — | — | missing_source |
-| 非常 | 卷十一 | 45 | — | — | missing_source |
-| 断非常 | 卷十一 | 45 | — | — | missing_source |
-| 无性无生 | 卷十一 | 75 | — | — | missing_source |
-| 无性无 | 卷十一 | 45 | — | — | missing_source |
-| 无生 | 卷十一 | 45 | — | — | missing_source |
-| 性无生 | 卷十一 | 45 | — | — | missing_source |
-| 非因非常 | 卷十一 | 75 | — | — | missing_source |
-| 非因 | 卷十一 | 45 | — | — | missing_source |
-| 非因非 | 卷十一 | 45 | — | — | missing_source |
-| 因非常 | 卷十一 | 45 | — | — | missing_source |
-| 吉藏 | 卷十一 | 80 | — | — | missing_source |
-| 法朗 | 卷十一 | 70 | — | — | missing_source |
-| 道朗 | 卷十一 | 70 | — | — | missing_source |
-| 僧朗 | 卷十一 | 70 | — | — | missing_source |
-| 嘉祥寺 | 卷十一 | 75 | — | — | missing_source |
-| 嘉祥寺（吉藏所在） | 卷十一 | 75 | — | — | missing_source |
-| 嘉祥 | 卷十一 | 45 | — | — | missing_source |
-| 祥寺 | 卷十一 | 45 | — | — | missing_source |
-| 齐梁地区寺院名 | 卷十一 | 70 | — | — | missing_source |
-| 齐梁 | 卷十一 | 42 | — | — | missing_source |
-| 齐梁地 | 卷十一 | 42 | — | — | missing_source |
-| 院名 | 卷十一 | 42 | — | — | missing_source |
-| 寺院名 | 卷十一 | 42 | — | — | missing_source |
-| 唯识 | 卷十二 | 85 | — | — | missing_source |
-| 识所变 | 卷十二 | 80 | — | — | missing_source |
-| 识所 | 卷十二 | 48 | — | — | missing_source |
-| 所变 | 卷十二 | 48 | — | — | missing_source |
-| 万法唯识 | 卷十二 | 80 | — | — | missing_source |
-| 万法唯 | 卷十二 | 48 | — | — | missing_source |
-| 法唯识 | 卷十二 | 48 | — | — | missing_source |
-| 唯心所现 | 卷十二 | 80 | — | — | missing_source |
-| 唯心 | 卷十二 | 48 | — | — | missing_source |
-| 唯心所 | 卷十二 | 48 | — | — | missing_source |
-| 所现 | 卷十二 | 48 | — | — | missing_source |
-| 心所现 | 卷十二 | 48 | — | — | missing_source |
-| 藏识 | 卷十二 | 80 | — | — | missing_source |
-| 八识 | 卷十二 | 80 | — | — | missing_source |
-| 阿赖耶识 | 卷十二 | 85 | — | — | missing_source |
-| 阿赖 | 卷十二 | 51 | — | — | missing_source |
-| 阿赖耶 | 卷十二 | 51 | — | — | missing_source |
-| 耶识 | 卷十二 | 51 | — | — | missing_source |
-| 赖耶识 | 卷十二 | 51 | — | — | missing_source |
-| 末那识 | 卷十二 | 80 | — | — | missing_source |
-| 末那 | 卷十二 | 48 | — | — | missing_source |
-| 那识 | 卷十二 | 48 | — | — | missing_source |
-| 识变 | 卷十二 | 75 | — | — | missing_source |
-| 成唯识 | 卷十二 | 85 | — | — | missing_source |
-| 成唯 | 卷十二 | 51 | — | — | missing_source |
-| 八识规矩 | 卷十二 | 80 | — | — | missing_source |
-| 八识规 | 卷十二 | 48 | — | — | missing_source |
-| 规矩 | 卷十二 | 48 | — | — | missing_source |
-| 识规矩 | 卷十二 | 48 | — | — | missing_source |
-| 三性 | 卷十二 | 80 | — | — | missing_source |
-| 三无性 | 卷十二 | 80 | — | — | missing_source |
-| 三无 | 卷十二 | 48 | — | — | missing_source |
-| 二取 | 卷十二 | 75 | — | — | missing_source |
-| 见分、相分 | 卷十二 | 75 | — | — | missing_source |
-| 见分 | 卷十二 | 45 | — | — | missing_source |
-| 见分、 | 卷十二 | 45 | — | — | missing_source |
-| 相分 | 卷十二 | 45 | — | — | missing_source |
-| 、相分 | 卷十二 | 45 | — | — | missing_source |
-| 众缘和合识 | 卷十二 | 75 | — | — | missing_source |
-| 众缘 | 卷十二 | 45 | — | — | missing_source |
-| 众缘和 | 卷十二 | 45 | — | — | missing_source |
-| 合识 | 卷十二 | 45 | — | — | missing_source |
-| 和合识 | 卷十二 | 45 | — | — | missing_source |
-| 瑜伽行 | 卷十二 | 75 | — | — | missing_source |
-| 瑜伽 | 卷十二 | 45 | — | — | missing_source |
-| 伽行 | 卷十二 | 45 | — | — | missing_source |
-| 心意识三性 | 卷十二 | 80 | — | — | missing_source |
-| 心意 | 卷十二 | 48 | — | — | missing_source |
-| 心意识 | 卷十二 | 48 | — | — | missing_source |
-| 识三性 | 卷十二 | 48 | — | — | missing_source |
-| 增上意乐 | 卷十二 | 70 | — | — | missing_source |
-| 增上 | 卷十二 | 42 | — | — | missing_source |
-| 增上意 | 卷十二 | 42 | — | — | missing_source |
-| 意乐 | 卷十二 | 42 | — | — | missing_source |
-| 上意乐 | 卷十二 | 42 | — | — | missing_source |
-| 遍计所执性 | 卷十二 | 80 | — | — | missing_source |
-| 遍计 | 卷十二 | 48 | — | — | missing_source |
-| 遍计所 | 卷十二 | 48 | — | — | missing_source |
-| 执性 | 卷十二 | 48 | — | — | missing_source |
-| 所执性 | 卷十二 | 48 | — | — | missing_source |
-| 依他起性 | 卷十二 | 75 | — | — | missing_source |
-| 依他 | 卷十二 | 45 | — | — | missing_source |
-| 依他起 | 卷十二 | 45 | — | — | missing_source |
-| 起性 | 卷十二 | 45 | — | — | missing_source |
-| 他起性 | 卷十二 | 45 | — | — | missing_source |
-| 圆成实性 | 卷十二 | 80 | — | — | missing_source |
-| 圆成 | 卷十二 | 48 | — | — | missing_source |
-| 圆成实 | 卷十二 | 48 | — | — | missing_source |
-| 实性 | 卷十二 | 48 | — | — | missing_source |
-| 成实性 | 卷十二 | 48 | — | — | missing_source |
-| 相无性 | 卷十二 | 75 | — | — | missing_source |
-| 相无 | 卷十二 | 45 | — | — | missing_source |
-| 生无性 | 卷十二 | 75 | — | — | missing_source |
-| 生无 | 卷十二 | 45 | — | — | missing_source |
-| 胜义无性 | 卷十二 | 80 | — | — | missing_source |
-| 胜义 | 卷十二 | 48 | — | — | missing_source |
-| 胜义无 | 卷十二 | 48 | — | — | missing_source |
-| 义无性 | 卷十二 | 48 | — | — | missing_source |
-| 能取 | 卷十二 | 80 | — | — | missing_source |
-| 所取 | 卷十二 | 80 | — | — | missing_source |
-| 自证分 | 卷十二 | 80 | — | — | missing_source |
-| 自证 | 卷十二 | 48 | — | — | missing_source |
-| 证分 | 卷十二 | 48 | — | — | missing_source |
-| 证自证分 | 卷十二 | 85 | — | — | missing_source |
-| 证自 | 卷十二 | 51 | — | — | missing_source |
-| 证自证 | 卷十二 | 51 | — | — | missing_source |
-| 玄奘 | 卷十二 | 80 | — | — | missing_source |
-| 窥基 | 卷十二 | 80 | — | — | missing_source |
-| 慈恩 | 卷十二 | 75 | — | — | missing_source |
-| 智周 / 法明 等 | 卷十二 | 60 | — | — | missing_source |
-| 智周 | 卷十二 | 36 | — | — | missing_source |
-| 智周  | 卷十二 | 36 | — | — | missing_source |
-|  等 | 卷十二 | 36 | — | — | missing_source |
-| 明 等 | 卷十二 | 36 | — | — | missing_source |
-| 华严寺 | 卷十二 | 60 | — | — | missing_source |
-| 华严寺（慈恩宗活动处） | 卷十二 | 60 | — | — | missing_source |
-| 严寺 | 卷十二 | 36 | — | — | missing_source |
-| 慈恩寺 | 卷十二 | 70 | — | — | missing_source |
-| 恩寺 | 卷十二 | 42 | — | — | missing_source |
-| 摩诃止观 | 卷十三 | 85 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match |
-| 摩诃止 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match |
-| 止观 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match |
-| 诃止观 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match |
-| 法华玄义 | 卷十三 | 85 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match |
-| 法华玄 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match |
-| 玄义 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match |
-| 华玄义 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match |
-| 法华文句 | 卷十三 | 85 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match |
-| 法华文 | 卷十三 | 51 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match |
-| 文句 | 卷十三 | 51 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match |
-| 华文句 | 卷十三 | 51 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match |
-| 天台四教仪 | 卷十三 | 85 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match |
-| 天台 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match |
-| 天台四 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match |
-| 教仪 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match |
-| 四教仪 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match |
-| 四教义 | 卷十三 | 80 | T1929《四教義》cbetaonline.dila.edu.tw+1 | T1929 | explicit_id_catalog_match |
-| 四教 | 卷十三 | 48 | T1929《四教義》cbetaonline.dila.edu.tw+1 | T1929 | explicit_id_catalog_match |
-| 教义 | 卷十三 | 48 | T1929《四教義》cbetaonline.dila.edu.tw+1 | T1929 | explicit_id_catalog_match |
-| 止观义例 | 卷十三 | 80 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match |
-| 止观义 | 卷十三 | 48 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match |
-| 义例 | 卷十三 | 48 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match |
-| 观义例 | 卷十三 | 48 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match |
-| 十不二门 | 卷十三 | 80 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 十不 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 十不二 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 二门 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 不二门 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 教观纲宗 | 卷十三 | 80 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match |
-| 教观 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match |
-| 教观纲 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match |
-| 纲宗 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match |
-| 观纲宗 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match |
-| 五时八教 | 卷十三 | 75 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match |
-| 五时 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match |
-| 五时八 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match |
-| 八教 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match |
-| 时八教 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match |
-| 一心三观 | 卷十三 | 75 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match |
-| 一心三 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match |
-| 三观 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match |
-| 心三观 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match |
-| 藏通别圆 | 卷十三 | 75 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match |
-| 藏通别圆（四教） | 卷十三 | 75 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match |
-| 藏通 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match |
-| 藏通别 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match |
-| 别圆 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match |
-| 通别圆 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match |
-| 三谛 | 卷十三 | 70 | 天台教观体系多处讨论；可与 T1913“止观”体系同域臺大佛學數位圖書館+1 | T1913 | explicit_id_catalog_match |
-| 三谛（圆融/不二） | 卷十三 | 70 | 天台教观体系多处讨论；可与 T1913“止观”体系同域臺大佛學數位圖書館+1 | T1913 | explicit_id_catalog_match |
-| 一念三千 | 卷十三 | 75 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match |
-| 一念 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match |
-| 一念三 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match |
-| 三千 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match |
-| 念三千 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match |
-| 十界互具 / 十界性融互具 | 卷十三 | 70 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match |
-| 十界 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match |
-| 十界互 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match |
-| 互具 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match |
-| 融互具 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match |
-| 百界千如 / 千如 | 卷十三 | 65 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match |
-| 百界 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match |
-| 百界千 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match |
-| 千如 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match |
-|  千如 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match |
-| 智顗 / 智者大师 | 卷十三 | 50 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match |
-| 智顗 | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match |
-| 智顗  | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match |
-| 者大师 | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match |
-| 谛观 | 卷十三 | 45 | T1931 署“高丽沙门谛观录”可复查臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match |
-| 知礼 | 卷十三 | 45 | 与天台教观传承相关文献可检索（如 T1937 中出现“一念三千”等讨论与署名）臺大佛學數位圖書館+1 | T1937 | explicit_id_catalog_match |
-| 知礼（法智/四明） | 卷十三 | 45 | 与天台教观传承相关文献可检索（如 T1937 中出现“一念三千”等讨论与署名）臺大佛學數位圖書館+1 | T1937 | explicit_id_catalog_match |
-| 观心 | 卷十三 | 45 | 天台释经与观行传统中高频（例：T1927 对“观心”定位）cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 观心（作为方法论用语） | 卷十三 | 45 | 天台释经与观行传统中高频（例：T1927 对“观心”定位）cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match |
-| 法华经 / 妙法莲华经 | 卷十三 | 25 | — | — | missing_source |
-| 法华经 / 妙法莲华经（仅经名） | 卷十三 | 25 | — | — | missing_source |
-| 法华经 | 卷十三 | 15 | — | — | missing_source |
-| 中道 / 实相 / 圆教 | 卷十三 | 25 | — | — | missing_source |
-| 中道  | 卷十三 | 15 | — | — | missing_source |
-| 圆教 | 卷十三 | 15 | — | — | missing_source |
-|  圆教 | 卷十三 | 15 | — | — | missing_source |
-| 三观（不带“一心”） | 卷十三 | 25 | — | — | missing_source |
-| 开权显实 / 会三归一 | 卷十三 | 25 | — | — | missing_source |
-| 开权 | 卷十三 | 15 | — | — | missing_source |
-| 开权显 | 卷十三 | 15 | — | — | missing_source |
-| 归一 | 卷十三 | 15 | — | — | missing_source |
-| 三归一 | 卷十三 | 15 | — | — | missing_source |
-| 成实论 / 成實論 | 卷十四 | 85 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match |
-| 成实 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match |
-| 成实论 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match |
-| 實論 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match |
-| 成實論 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match |
-| 成论 / 成論 | 卷十四 | 70 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source |
-| 成论 | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source |
-| 成论  | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source |
-| 成論 | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source |
-|  成論 | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source |
-| 訶梨跋摩 | 卷十四 | 85 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 訶梨 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 訶梨跋 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 跋摩 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 梨跋摩 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 鸠摩罗什 / 鳩摩羅什 | 卷十四 | 80 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 鸠摩 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 鸠摩罗 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 羅什 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 摩羅什 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match |
-| 五聚 | 卷十四 | 55 | “五聚”本身易泛化 臺大佛學數位圖書館 | — | unresolved_source |
-| 成实五聚 / 成實五聚 | 卷十四 | 85 | 曇影重组“五聚”传统；他宗文献亦提及“成实五聚” 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 成实五 | 卷十四 | 51 | 曇影重组“五聚”传统；他宗文献亦提及“成实五聚” 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 實五聚 | 卷十四 | 51 | 曇影重组“五聚”传统；他宗文献亦提及“成实五聚” 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 发聚 / 發聚 | 卷十四 | 60 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source |
-| 发聚 | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source |
-| 发聚  | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source |
-| 發聚 | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source |
-|  發聚 | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source |
-| 苦谛聚/集谛聚/灭谛聚/道谛聚 | 卷十四 | 60 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 苦谛 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 苦谛聚 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 谛聚 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 道谛聚 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 三藏中实义 / 三藏中實義 | 卷十四 | 80 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match |
-| 三藏 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match |
-| 三藏中 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match |
-| 實義 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match |
-| 中實義 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match |
-| 实名四谛 / 實名四諦 | 卷十四 | 85 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 实名 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 实名四 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 四諦 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 名四諦 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 为成是法故造斯论 | 卷十四 | 75 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 为成 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 为成是 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 斯论 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 造斯论 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match |
-| 假名人空 | 卷十四 | 85 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source |
-| 假名人 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source |
-| 人空 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source |
-| 名人空 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source |
-| 知五阴所成 / 五阴所成 | 卷十四 | 60 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source |
-| 知五 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source |
-| 知五阴 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source |
-| 所成 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source |
-| 阴所成 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source |
-| 人空法空 | 卷十四 | 45 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source |
-| 人空法 | 卷十四 | 27 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source |
-| 法空 | 卷十四 | 27 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source |
-| 空法空 | 卷十四 | 27 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source |
-| 成实论义疏 / 成實論義疏 | 卷十四 | 80 | 梁代义疏传统的研究整理 臺大佛學數位圖書館 | — | unresolved_source |
-| 義疏 | 卷十四 | 48 | 梁代义疏传统的研究整理 臺大佛學數位圖書館 | — | unresolved_source |
-| 論義疏 | 卷十四 | 48 | 梁代义疏传统的研究整理 臺大佛學數位圖書館 | — | unresolved_source |
-| 成实论大义记 / 成實論大義記 | 卷十四 | 80 | 智藏相关研究条目与论文整理 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 義記 | 卷十四 | 48 | 智藏相关研究条目与论文整理 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 大義記 | 卷十四 | 48 | 智藏相关研究条目与论文整理 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 智藏 | 卷十四 | 70 | 梁代三大法师之一、成实学派重要人物 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 僧旻 | 卷十四 | 65 | 梁代成实师系统（研究列举其义疏） 臺大佛學數位圖書館 | — | unresolved_source |
-| 法云 | 卷十四 | 65 | 梁代成实师系统（研究列举其义疏） 臺大佛學數位圖書館 | — | unresolved_source |
-| 开善 / 庄严 / 光宅 | 卷十四 | 55 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source |
-| 开善 | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source |
-| 开善  | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source |
-| 光宅 | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source |
-|  光宅 | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source |
-| 成论师 / 成論師 | 卷十四 | 70 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source |
-| 成论师 | 卷十四 | 42 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source |
-| 論師 | 卷十四 | 42 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source |
-| 成論師 | 卷十四 | 42 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source |
-| 成实论义记 / 成實論義記 | 卷十四 | 70 | 敦煌文献与研究目录条目 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 論義記 | 卷十四 | 42 | 敦煌文献与研究目录条目 臺大佛學數位圖書館+1 | — | unresolved_source |
-| 延生 | 卷十五 | 75 | — | — | missing_source |
-| 增寿 | 卷十五 | 70 | — | — | missing_source |
-| 较大，偏圆，不发光 | 卷十五 | — | — | — | missing_source |
-| 与药钵连用 | 卷十五 | — | — | — | missing_source |
-| 配十二神将 | 卷十五 | — | — | — | missing_source |
-| 珠光更大、光芒外射 | 卷十五 | — | — | — | missing_source |
-| 常与锡杖并列 | 卷十五 | — | — | — | missing_source |
-| 站或坐于地狱场景 | 卷十五 | — | — | — | missing_source |
-| 大乘通用经文 | 卷十五 | — | — | — | missing_source |
-| 观音体系 | 卷十五 | — | — | — | missing_source |
-| 净土体系 | 卷十五 | — | — | — | missing_source |
-| 药师体系 | 卷十五 | — | — | — | missing_source |
-| 密教体系 | 卷十五 | — | — | — | missing_source |
-| 华严体系 | 卷十五 | — | — | — | missing_source |
-| 禅宗体系 | 卷十五 | — | — | — | missing_source |
-| 区域体系 | 卷十五 | — | — | — | missing_source |
-| 地藏体系 | 卷十五 | — | — | — | missing_source |
-| 弥勒体系 | 卷十五 | — | — | — | missing_source |
-| 三论宗 | 卷十五 | — | — | — | missing_source |
-| 唯识宗 | 卷十五 | — | — | — | missing_source |
-| 孔雀明王 | 卷五 | 80 | 孔雀明王经 | — | unresolved_source |
-| 毗沙门天王 | 卷五 | 85 | 陀罗尼集经 | — | unresolved_source |
-| 观音菩萨 | 卷二 | 80 | 普门品 | T0262 | title_catalog_match |
-| 大悲千手观音菩萨 | 卷二 | 85 | 密教仪轨 | — | unresolved_source |
-| 大威德炽盛光佛 | 卷五 | 85 | — | — | missing_source |
-| 九曜 | 卷五 | 70 | — | — | missing_source |
-| 千手观音 | 卷五 | 80 | 密教观音本尊 | — | unresolved_source |
-| 千手观音 | 卷二 | 80 | 密教观音（观音体系交叉） | — | unresolved_source |
-| 千手千眼 | 卷五 | 75 | 密教观音特征 | — | unresolved_source |
-| 准提观音 | 卷五 | 75 | 密教六观音 | — | unresolved_source |
-| 白衣观音 | 卷五 | 65 | 密教观音 | — | unresolved_source |
-| 白衣观音 | 卷二 | 80 | 密教观音变相 | — | unresolved_source |
-| 不空羂索观音 | 卷五 | 75 | 密教观音本尊 | — | unresolved_source |
-| 尊胜幢 | 卷五 | 80 | 密教器物 | — | unresolved_source |
-| 佛顶尊胜幢 | 卷五 | 80 | 密教器物 | — | unresolved_source |
-| 尊胜陀罗尼 | 卷五 | 75 | 密教陀罗尼 | — | unresolved_source |
-| 陀罗尼经幢 | 卷五 | 70 | 密教器物 | — | unresolved_source |
-| 尊胜石幢 | 卷五 | 70 | 密教器物 | — | unresolved_source |
-| 大威德炽盛光 | 卷五 | 85 | 密教本尊 | — | unresolved_source |
-| 大威德金轮 | 卷五 | 80 | 密教本尊 | — | unresolved_source |
-| 柳本尊 | 卷五 | 85 | 密教祖师 | — | unresolved_source |
-| 柳本尊十炼 | 卷五 | 85 | 密教祖师 | — | unresolved_source |
-| 数珠手观音 | 卷五 | 75 | 密教观音变相 | — | unresolved_source |
-| 数珠手观音 | 卷二 | 75 | 密教观音变相 | — | unresolved_source |
-| 水月观音 | 卷五 | 65 | 密教观音变相 | — | unresolved_source |
-| 水月观音 | 卷二 | 65 | 密教观音变相 | — | unresolved_source |
-| 如意轮菩萨 | 卷五 | 70 | 密教观音变相 | — | unresolved_source |
-| 如意轮菩萨 | 卷二 | 70 | 密教观音变相 | — | unresolved_source |
-| 大悲千手 | 卷五 | 75 | 密教观音变相 | — | unresolved_source |
-| 大悲千手 | 卷二 | 75 | 密教观音变相 | — | unresolved_source |
-| 大悲千手观音 | 卷五 | 80 | 密教观音变相 | — | unresolved_source |
-| 大悲千手观音 | 卷二 | 80 | 密教观音变相 | — | unresolved_source |
-| 正法明王观音 | 卷五 | 70 | 密教观音变相 | — | unresolved_source |
-| 正法明王观音 | 卷二 | 70 | 密教观音变相 | — | unresolved_source |
-| 六臂如意轮 | 卷五 | 70 | 密教观音变相 | — | unresolved_source |
-| 六臂如意轮 | 卷二 | 70 | 密教观音变相 | — | unresolved_source |
-| 北方天王 | 卷五 | 70 | 密教护法 | — | unresolved_source |
-| 九子母 | 卷五 | 65 | 密教护法 | — | unresolved_source |
-| 解冤结菩萨 | 卷五 | 65 | 密教菩萨 | — | unresolved_source |
-| 解冤结 | 卷五 | 55 | 密教菩萨 | — | unresolved_source |
-| 欢喜王菩萨 | 卷五 | 65 | 密教菩萨 | — | unresolved_source |
-| 普见菩萨 | 卷五 | 60 | 密教菩萨 | — | unresolved_source |
-| 多宝塔 | 卷五 | 60 | 密教器物 | — | unresolved_source |
-| 阿閦佛 | 卷五 | 70 | 密教五方佛东方 | — | unresolved_source |
-| 华严经变 | 卷六 | 85 | 华严经 | T0279 | title_catalog_match |
-| 大方广佛华严经 | 卷六 | 80 | 华严经 | T0279 | title_catalog_match |
-| 卢舍那佛 | 卷六 | 80 | 华严经 | T0279 | title_catalog_match |
-| 华严三圣 | 卷六 | 80 | 华严经 | T0279 | title_catalog_match |
-| 释迦牟尼佛 | 卷一 | 65 | 大乘诸经 | — | unresolved_source |
-| 三世佛 | 卷一 | 45 | 大乘诸经 | — | unresolved_source |
-| 三世佛 | 卷三 | 5 | — | — | missing_source |
-| 救苦菩萨 | 卷二 | 60 | r10b | — | unresolved_source |
-| 救苦观音 | 卷二 | 65 | r10b | — | unresolved_source |
-| 引路王菩萨 | 卷二 | 65 | r10b | — | unresolved_source |
-| 引路王 | 卷二 | 55 | r10b | — | unresolved_source |
-| 二圣 | 卷二 | 45 | r10b | — | unresolved_source |
-| 四分律 | 卷十五 | 85 | T1428 | T1428 | explicit_id_catalog_match |
-| 四分律删繁补阙行事钞 | 卷十五 | 80 | T1804 | T1804 | explicit_id_catalog_match |
-| 四分律删补随机羯磨 | 卷十五 | 80 | T1808 | T1808 | explicit_id_catalog_match |
-| 比丘戒本 | 卷十五 | 75 | T1429 | T1429 | explicit_id_catalog_match |
-| 四分律比丘戒本 | 卷十五 | 80 | T1429 | T1429 | explicit_id_catalog_match |
-| 十诵律 | 卷十五 | 80 | T1435 | T1435 | explicit_id_catalog_match |
-| 摩诃僧祇律 | 卷十五 | 80 | T1425 | T1425 | explicit_id_catalog_match |
-| 根本说一切有部毘奈耶 | 卷十五 | 75 | T1442 | T1442 | explicit_id_catalog_match |
-| 十诵比丘波罗提木叉戒本 | 卷十五 | 70 | T1436 | T1436 | explicit_id_catalog_match |
-| 白四羯磨 | 卷十五 | 75 | 律宗仪轨 | — | unresolved_source |
-| 布萨 | 卷十五 | 65 | 律宗制度 | — | unresolved_source |
-| 布萨说戒 | 卷十五 | 75 | 律宗制度 | — | unresolved_source |
-| 说戒 | 卷十五 | 55 | 律宗制度 | — | unresolved_source |
-| 波罗夷 | 卷十五 | 70 | 律宗戒法 | — | unresolved_source |
-| 戒本 | 卷十五 | 55 | 律宗文献 | — | unresolved_source |
-| 戒律 | 卷十五 | 50 | 律宗总称 | — | unresolved_source |
-| 受戒 | 卷十五 | 55 | 律宗制度 | — | unresolved_source |
-| 持戒 | 卷十五 | 50 | 律宗行持 | — | unresolved_source |
-| 律宗 | 卷十五 | 85 | 宗派名 | — | unresolved_source |
-| 道宣 | 卷十五 | 75 | 南山律宗祖师 | — | unresolved_source |
-| 南山宗 | 卷十五 | 80 | 南山律宗 | — | unresolved_source |
-| 行事钞 | 卷十五 | 70 | T1804 | T1804 | explicit_id_catalog_match |
-| 随机羯磨 | 卷十五 | 70 | T1808 | T1808 | explicit_id_catalog_match |
-| 羯磨法 | 卷十五 | 65 | 律宗仪轨 | — | unresolved_source |
-| 戒坛 | 卷十五 | 60 | 律宗制度 | — | unresolved_source |
-| 具足戒 | 卷十五 | 60 | 律宗戒法 | — | unresolved_source |
-| 普法 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source |
-| 普敬 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source |
-| 无尽藏 | 卷十六 | 80 | 大乘无尽藏法 | — | unresolved_source |
-| 无尽藏法 | 卷十六 | 80 | 大乘无尽藏法 | — | unresolved_source |
-| 泥龛 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source |
-| 三阶佛法 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source |
-| 大乘无尽藏法 | 卷十六 | 80 | 大乘无尽藏法 | — | unresolved_source |
-| 普佛 | 卷十六 | 75 | 三阶佛法 | — | unresolved_source |
-| 认恶 | 卷十六 | 75 | 三阶佛法 | — | unresolved_source |
-| 三阶大德 | 卷十六 | 75 | 造像碑 | — | unresolved_source |
-| 末法众生 | 卷十六 | 70 | 三阶佛法 | — | unresolved_source |
-| 三阶 | 卷十六 | 70 | 三阶佛法 | — | unresolved_source |
-| 信行 | 卷十六 | 65 | 续高僧传 | — | unresolved_source |
-| 化度寺 | 卷十六 | 65 | 长安志 | — | unresolved_source |
+| 关键词 | 卷别 | 历史权重 | 原始来源 | 当前经录指向 | 来源状态 | 语境复核 |
+|---|---|---|---|---|---|---|
+| 妙法莲华 | 卷一 | 5 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙法 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙法 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 妙法莲 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 莲华 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 莲华 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 莲华 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 法莲华 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙法莲华经 | 卷一 | 5 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 华经 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 华经 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 莲华经 | 卷一 | 10 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 莲华经 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 序品 | 卷一 | 5 | 法华经卷一 | T0262 | title_catalog_match | 未逐条复核 |
+| 方便品 | 卷一 | 5 | 法华经卷二 | T0262 | title_catalog_match | 未逐条复核 |
+| 方便 | 卷一 | 10 | 法华经卷二 | T0262 | title_catalog_match | 未逐条复核 |
+| 方便 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 便品 | 卷一 | 10 | 法华经卷二 | T0262 | title_catalog_match | 未逐条复核 |
+| 信解品 | 卷一 | 5 | 法华经卷三 | T0262 | title_catalog_match | 未逐条复核 |
+| 信解 | 卷一 | 10 | 法华经卷三 | T0262 | title_catalog_match | 未逐条复核 |
+| 解品 | 卷一 | 10 | 法华经卷三 | T0262 | title_catalog_match | 未逐条复核 |
+| 药草喻品 | 卷一 | 5 | 法华经卷五 | T0262 | title_catalog_match | 未逐条复核 |
+| 药草 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match | 未逐条复核 |
+| 药草喻 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match | 未逐条复核 |
+| 喻品 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match | 未逐条复核 |
+| 草喻品 | 卷一 | 10 | 法华经卷五 | T0262 | title_catalog_match | 未逐条复核 |
+| 授记品 | 卷一 | 5 | 法华经卷六 | T0262 | title_catalog_match | 未逐条复核 |
+| 授记 | 卷一 | 10 | 法华经卷六 | T0262 | title_catalog_match | 未逐条复核 |
+| 记品 | 卷一 | 10 | 法华经卷六 | T0262 | title_catalog_match | 未逐条复核 |
+| 观世音普门品 | 卷一 | 5 | 法华经卷七 | T0262 | title_catalog_match | 未逐条复核 |
+| 观世 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match | 未逐条复核 |
+| 观世 | 卷二 | 48 | 法华·普门品 | — | unresolved_source | 未逐条复核 |
+| 观世 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 观世音 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match | 未逐条复核 |
+| 观世音 | 卷二 | 80 | 法华·普门品 | — | unresolved_source | 未逐条复核 |
+| 观世音 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 门品 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match | 未逐条复核 |
+| 普门品 | 卷一 | 10 | 法华经卷七 | T0262 | title_catalog_match | 经文题名识别不等于天台身份。 |
+| 一乘 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 三界无安 | 卷一 | 5 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 三界 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 三界 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三界无 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 无安 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 界无安 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 法华七喻 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 法华 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 法华 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 法华 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match | 未逐条复核 |
+| 法华七 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 七喻 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 华七喻 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 诸佛方便 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 诸佛 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 诸佛 | 卷三 | 10 | — | — | missing_source | 未逐条复核 |
+| 诸佛方 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 佛方便 | 卷一 | 10 | 法华经 | T0262 | title_catalog_match | 未逐条复核 |
+| 大方广佛华严 | 卷一 | 5 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 大方 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 大方广 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 华严 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 华严 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 华严 | 卷十二 | 36 | — | — | missing_source | 未逐条复核 |
+| 佛华严 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 華嚴 | 卷一 | 5 | 略写（唐写本） | — | unresolved_source | 未逐条复核 |
+| 華嚴 | 卷六 | 45 | — | — | missing_source | 未逐条复核 |
+| 世主妙严品 | 卷一 | 5 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 世主 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 世主妙 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 严品 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 妙严品 | 卷一 | 10 | 华严经卷一 | T0279 | title_catalog_match | 未逐条复核 |
+| 十地品 | 卷一 | 5 | 华严经卷二十六 | T0279 | title_catalog_match | 未逐条复核 |
+| 十地品 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 十地 | 卷一 | 10 | 华严经卷二十六 | T0279 | title_catalog_match | 未逐条复核 |
+| 十地 | 卷六 | 75 | — | — | missing_source | 未逐条复核 |
+| 地品 | 卷一 | 10 | 华严经卷二十六 | T0279 | title_catalog_match | 未逐条复核 |
+| 地品 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 入法界品 | 卷一 | 5 | 华严经卷七十九 | T0279 | title_catalog_match | 未逐条复核 |
+| 入法界品 | 卷六 | 75 | — | — | missing_source | 未逐条复核 |
+| 入法 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match | 未逐条复核 |
+| 入法界 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match | 未逐条复核 |
+| 入法界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 入法界 | 卷六 | 75 | — | — | missing_source | 未逐条复核 |
+| 界品 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match | 未逐条复核 |
+| 界品 | 卷六 | 45 | — | — | missing_source | 未逐条复核 |
+| 法界品 | 卷一 | 10 | 华严经卷七十九 | T0279 | title_catalog_match | 未逐条复核 |
+| 法界品 | 卷六 | 45 | — | — | missing_source | 未逐条复核 |
+| 普贤行愿品 | 卷一 | 5 | 华严经卷八十 | T0279 | title_catalog_match | 未逐条复核 |
+| 普贤行愿品 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 普贤 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match | 未逐条复核 |
+| 普贤 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 普贤 | 卷六 | 39 | — | — | missing_source | 未逐条复核 |
+| 普贤行 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match | 未逐条复核 |
+| 普贤行 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 愿品 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match | 未逐条复核 |
+| 愿品 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 行愿品 | 卷一 | 10 | 华严经卷八十 | T0279 | title_catalog_match | 未逐条复核 |
+| 行愿品 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 法界 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 微尘 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 海印 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 菩萨海会 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 菩萨海 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 海会 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 海会 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 萨海会 | 卷一 | 10 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 般若波罗蜜 | 卷一 | 5 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 般若 | 卷一 | 10 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 般若 | 卷二 | 35 | — | — | missing_source | 未逐条复核 |
+| 般若 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 般若波 | 卷一 | 10 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 罗蜜 | 卷一 | 10 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 罗蜜 | 卷二 | 18 | — | — | missing_source | 未逐条复核 |
+| 罗蜜 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 波罗蜜 | 卷一 | 10 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 波罗蜜 | 卷二 | 30 | — | — | missing_source | 未逐条复核 |
+| 波罗蜜 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 大般若 | 卷一 | 5 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 大般 | 卷一 | 10 | 大般若经 | — | unresolved_source | 未逐条复核 |
+| 般若经 | 卷一 | 5 | 般若类总称 | — | unresolved_source | 未逐条复核 |
+| 若经 | 卷一 | 10 | 般若类总称 | — | unresolved_source | 未逐条复核 |
+| 摩诃般若波罗蜜多心经 | 卷一 | 5 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 摩诃 | 卷一 | 10 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 摩诃 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 摩诃 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 摩诃般 | 卷一 | 10 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 摩诃般 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 心经 | 卷一 | 10 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 多心经 | 卷一 | 10 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 金刚般若波罗蜜经 | 卷一 | 5 | 金刚经 | T0235 | title_catalog_match | 未逐条复核 |
+| 金刚 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match | 未逐条复核 |
+| 金刚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 金刚 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 金刚般 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match | 未逐条复核 |
+| 蜜经 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match | 未逐条复核 |
+| 罗蜜经 | 卷一 | 10 | 金刚经 | T0235 | title_catalog_match | 未逐条复核 |
+| 金刚经 | 卷一 | 5 | 略写 | — | unresolved_source | 未逐条复核 |
+| 刚经 | 卷一 | 10 | 略写 | — | unresolved_source | 未逐条复核 |
+| 维摩诘经 | 卷一 | 5 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 维摩 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 维摩诘 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 诘经 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 摩诘经 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 不思议解脱 | 卷一 | 5 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 不思 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 不思 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 不思议 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 解脱 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 解脱 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 解脱 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 议解脱 | 卷一 | 10 | 维摩经 | — | unresolved_source | 未逐条复核 |
+| 首楞严 | 卷一 | 5 | 楞严经 | T0945 | title_catalog_match | 未逐条复核 |
+| 首楞 | 卷一 | 10 | 楞严经 | T0945 | title_catalog_match | 未逐条复核 |
+| 楞严 | 卷一 | 10 | 楞严经 | T0945 | title_catalog_match | 未逐条复核 |
+| 楞严咒 | 卷一 | 5 | 楞严经（咒段） | — | unresolved_source | 未逐条复核 |
+| 楞严咒（简称） | 卷一 | 5 | 楞严经（咒段） | — | unresolved_source | 未逐条复核 |
+| 严咒 | 卷一 | 10 | 楞严经（咒段） | — | unresolved_source | 未逐条复核 |
+| 大般涅槃 | 卷一 | 5 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 大般涅 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 涅槃 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 涅槃 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 般涅槃 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 常乐我净 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 常乐 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 常乐我 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 我净 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 乐我净 | 卷一 | 10 | 涅槃经 | — | unresolved_source | 未逐条复核 |
+| 菩萨 | 卷一 | 5 | 通用 | — | unresolved_source | 未逐条复核 |
+| 摩诃萨 | 卷一 | 5 | 通用 | — | unresolved_source | 未逐条复核 |
+| 摩诃萨 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 摩诃萨 | 卷九 | 15 | — | — | missing_source | 未逐条复核 |
+| 诃萨 | 卷一 | 10 | 通用 | — | unresolved_source | 未逐条复核 |
+| 诃萨 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 诃萨 | 卷九 | 15 | — | — | missing_source | 未逐条复核 |
+| 大士 | 卷一 | 5 | 通用 | — | unresolved_source | 未逐条复核 |
+| 大士 | 卷二 | 27 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 大士 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大士 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 佛子 | 卷一 | 5 | 通用 | — | unresolved_source | 未逐条复核 |
+| 大乘 | 卷一 | 5 | 通用 | — | unresolved_source | 未逐条复核 |
+| 嗡、阿、吽 等种子字 | 卷一 | 5 | 各大咒语 | — | unresolved_source | 未逐条复核 |
+| 嗡、 | 卷一 | 10 | 各大咒语 | — | unresolved_source | 未逐条复核 |
+| 嗡、阿 | 卷一 | 10 | 各大咒语 | — | unresolved_source | 未逐条复核 |
+| 子字 | 卷一 | 10 | 各大咒语 | — | unresolved_source | 未逐条复核 |
+| 种子字 | 卷一 | 10 | 各大咒语 | — | unresolved_source | 未逐条复核 |
+| 波罗 | 卷一 | 10 | 般若咒 | — | unresolved_source | 未逐条复核 |
+| 波罗 | 卷二 | 18 | — | — | missing_source | 未逐条复核 |
+| 波罗 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 波罗 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 陀罗尼 | 卷一 | 5 | 通用 | — | unresolved_source | 未逐条复核 |
+| 陀罗尼 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 世音 | 卷二 | 48 | 法华·普门品 | — | unresolved_source | 未逐条复核 |
+| 观世自在 | 卷二 | 75 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 观世自 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 自在 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 自在 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 世自在 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 观自在 | 卷二 | 75 | 心经 | T0251 | title_catalog_match | 心经版本线索倾向玄奘译本，但该名号跨经出现，不能单独判宗派。 |
+| 观自在 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 观自 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 圣观世音 | 卷二 | 75 | 法华 | — | unresolved_source | 未逐条复核 |
+| 圣观 | 卷二 | 45 | 法华 | — | unresolved_source | 未逐条复核 |
+| 圣观世 | 卷二 | 45 | 法华 | — | unresolved_source | 未逐条复核 |
+| 圣观自在 | 卷二 | 75 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 圣观自 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 大悲观音 | 卷二 | 80 | 法华系/民间拓写 | — | unresolved_source | 未逐条复核 |
+| 大悲观音 | 卷五 | 70 | 密教观音本尊 | — | unresolved_source | 未逐条复核 |
+| 大悲 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source | 未逐条复核 |
+| 大悲 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 大悲 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 大悲观 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source | 未逐条复核 |
+| 观音 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source | 未逐条复核 |
+| 观音 | 卷三 | 50 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 观音 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 悲观音 | 卷二 | 48 | 法华系/民间拓写 | — | unresolved_source | 未逐条复核 |
+| 大慈大悲观音 | 卷二 | 75 | 法华系 | — | unresolved_source | 未逐条复核 |
+| 大慈 | 卷二 | 45 | 法华系 | — | unresolved_source | 未逐条复核 |
+| 大慈 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 大慈 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 大慈大 | 卷二 | 45 | 法华系 | — | unresolved_source | 未逐条复核 |
+| 普门 | 卷二 | 80 | 普门品 | T0262 | title_catalog_match | 保留观音／法华关联，撤销见词即天台的最终判定规则。 |
+| 普门示现 | 卷二 | 80 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 普门示现 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 普门示 | 卷二 | 48 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 示现 | 卷二 | 48 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 门示现 | 卷二 | 48 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 三十二应 | 卷二 | 75 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 三十 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 三十二 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 三十二 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 三十二 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 二应 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 十二应 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 海潮音 | 卷二 | 75 | 普门品 | T0262 | title_catalog_match | 可作普门品语境线索；不足以单独证明天台宗。需要独立的教观、章疏或师承锚点。 |
+| 海潮 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 潮音 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙音观音 | 卷二 | 70 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙音 | 卷二 | 42 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙音 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 妙音观 | 卷二 | 42 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 音观音 | 卷二 | 42 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 大悲救世 | 卷二 | 55 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 大悲救 | 卷二 | 33 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 救世 | 卷二 | 33 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 悲救世 | 卷二 | 33 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 观音妙相 | 卷二 | 50 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 观音妙 | 卷二 | 30 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 妙相 | 卷二 | 30 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 音妙相 | 卷二 | 30 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 大士观音 | 卷二 | 45 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 大士观 | 卷二 | 27 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 士观音 | 卷二 | 27 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 慈航 | 卷二 | 35 | 民间法华系 | — | unresolved_source | 未逐条复核 |
+| 救苦救难 | 卷二 | 30 | 法华影响 | — | unresolved_source | 未逐条复核 |
+| 救苦 | 卷二 | 18 | 法华影响 | — | unresolved_source | 未逐条复核 |
+| 救苦 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 救苦救 | 卷二 | 18 | 法华影响 | — | unresolved_source | 未逐条复核 |
+| 救难 | 卷二 | 18 | 法华影响 | — | unresolved_source | 未逐条复核 |
+| 苦救难 | 卷二 | 18 | 法华影响 | — | unresolved_source | 未逐条复核 |
+| 照见五蕴 | 卷二 | 75 | 心经 | T0251 | title_catalog_match | 对应T0251译语；与T0250五阴措辞区分，不能仅据片段断言历史使用版本。 |
+| 照见 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 照见五 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 五蕴 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 见五蕴 | 卷二 | 45 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 度一切苦厄 | 卷二 | 70 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 度一 | 卷二 | 42 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 度一切 | 卷二 | 42 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 苦厄 | 卷二 | 42 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 切苦厄 | 卷二 | 42 | 心经 | T0251 | title_catalog_match | 未逐条复核 |
+| 色即是空 | 卷二 | 55 | 般若 | — | unresolved_source | 未逐条复核 |
+| 色即是空 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 色即 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 色即是 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 是空 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 即是空 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 空即是色 | 卷二 | 55 | 般若 | — | unresolved_source | 未逐条复核 |
+| 空即 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 空即是 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 是色 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 即是色 | 卷二 | 33 | 般若 | — | unresolved_source | 未逐条复核 |
+| 五蕴空寂 | 卷二 | 45 | 般若 | — | unresolved_source | 未逐条复核 |
+| 五蕴空 | 卷二 | 27 | 般若 | — | unresolved_source | 未逐条复核 |
+| 空寂 | 卷二 | 27 | 般若 | — | unresolved_source | 未逐条复核 |
+| 蕴空寂 | 卷二 | 27 | 般若 | — | unresolved_source | 未逐条复核 |
+| 千手千眼观音 | 卷二 | 80 | 密教仪轨 | — | unresolved_source | 未逐条复核 |
+| 千手千眼观音 | 卷五 | 80 | 密教观音本尊 | — | unresolved_source | 未逐条复核 |
+| 千手 | 卷二 | 48 | 密教仪轨 | — | unresolved_source | 未逐条复核 |
+| 千手千 | 卷二 | 48 | 密教仪轨 | — | unresolved_source | 未逐条复核 |
+| 眼观音 | 卷二 | 48 | 密教仪轨 | — | unresolved_source | 未逐条复核 |
+| 千手眼观音 | 卷二 | 70 | 密教 | — | unresolved_source | 未逐条复核 |
+| 千手眼 | 卷二 | 42 | 密教 | — | unresolved_source | 未逐条复核 |
+| 十一面观音 | 卷二 | 70 | 金刚顶经 | T0865 | title_catalog_match | 未逐条复核 |
+| 十一面观音 | 卷五 | 70 | 密教六观音 | — | unresolved_source | 未逐条复核 |
+| 十一 | 卷二 | 42 | 金刚顶经 | T0865 | title_catalog_match | 未逐条复核 |
+| 十一面 | 卷二 | 42 | 金刚顶经 | T0865 | title_catalog_match | 未逐条复核 |
+| 面观音 | 卷二 | 42 | 金刚顶经 | T0865 | title_catalog_match | 未逐条复核 |
+| 如意轮观音 | 卷二 | 70 | 唐密 | — | unresolved_source | 未逐条复核 |
+| 如意轮观音 | 卷五 | 70 | 密教六观音 | — | unresolved_source | 未逐条复核 |
+| 如意 | 卷二 | 42 | 唐密 | — | unresolved_source | 未逐条复核 |
+| 如意 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 如意轮 | 卷二 | 42 | 唐密 | — | unresolved_source | 未逐条复核 |
+| 如意轮 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 轮观音 | 卷二 | 42 | 唐密 | — | unresolved_source | 未逐条复核 |
+| 三昧耶形 | 卷二 | 55 | 密教 | — | unresolved_source | 未逐条复核 |
+| 三昧耶形 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 三昧耶形 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 三昧 | 卷二 | 33 | 密教 | — | unresolved_source | 未逐条复核 |
+| 三昧 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三昧耶 | 卷二 | 33 | 密教 | — | unresolved_source | 未逐条复核 |
+| 三昧耶 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 耶形 | 卷二 | 33 | 密教 | — | unresolved_source | 未逐条复核 |
+| 耶形 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 昧耶形 | 卷二 | 33 | 密教 | — | unresolved_source | 未逐条复核 |
+| 昧耶形 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 背光火焰纹 | 卷二 | 45 | 密教 | — | unresolved_source | 未逐条复核 |
+| 背光火焰纹（密） | 卷二 | 45 | 密教 | — | unresolved_source | 未逐条复核 |
+| 背光 | 卷二 | 27 | 密教 | — | unresolved_source | 未逐条复核 |
+| 背光 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 背光 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 背光火 | 卷二 | 27 | 密教 | — | unresolved_source | 未逐条复核 |
+| 焰纹 | 卷二 | 27 | 密教 | — | unresolved_source | 未逐条复核 |
+| 火焰纹 | 卷二 | 27 | 密教 | — | unresolved_source | 未逐条复核 |
+| 五智佛关系词 | 卷二 | 50 | 密教 | — | unresolved_source | 未逐条复核 |
+| 五智 | 卷二 | 30 | 密教 | — | unresolved_source | 未逐条复核 |
+| 五智 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 五智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五智佛 | 卷二 | 30 | 密教 | — | unresolved_source | 未逐条复核 |
+| 五智佛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 系词 | 卷二 | 30 | 密教 | — | unresolved_source | 未逐条复核 |
+| 关系词 | 卷二 | 30 | 密教 | — | unresolved_source | 未逐条复核 |
+| 大悲者 | 卷二 | 25 | — | — | missing_source | 未逐条复核 |
+| 悲者 | 卷二 | 15 | — | — | missing_source | 未逐条复核 |
+| 救苦者 | 卷二 | 25 | — | — | missing_source | 未逐条复核 |
+| 苦者 | 卷二 | 15 | — | — | missing_source | 未逐条复核 |
+| 慈悲者 | 卷二 | 20 | — | — | missing_source | 未逐条复核 |
+| 慈悲 | 卷二 | 12 | — | — | missing_source | 未逐条复核 |
+| 慈悲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 菩萨摩诃萨 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 菩萨摩 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 大行菩萨 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 大行 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 大行 | 卷六 | 45 | 行愿品 | T0293 | title_catalog_match | 未逐条复核 |
+| 大行菩 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 行菩萨 | 卷二 | 10 | — | — | missing_source | 未逐条复核 |
+| 阿弥陀佛 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 阿弥 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 阿弥 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 阿弥陀 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 阿弥陀 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 陀佛 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 弥陀佛 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 阿弥陀如来 | 卷三 | 75 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 阿弥陀如来 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 陀如来 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 陀如来 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 无量寿佛 | 卷三 | 75 | 无量寿经 | T0360 | title_catalog_match | 未逐条复核 |
+| 无量 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match | 未逐条复核 |
+| 无量寿 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match | 未逐条复核 |
+| 寿佛 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match | 未逐条复核 |
+| 量寿佛 | 卷三 | 45 | 无量寿经 | T0360 | title_catalog_match | 未逐条复核 |
+| 无量光佛 | 卷三 | 75 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 无量光 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 光佛 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 光佛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 量光佛 | 卷三 | 45 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 无碍光佛 | 卷三 | 70 | 阿弥陀经 | T0360 | corrected_by_passage_review | 原source标为阿弥陀经，十二光名号相关段落应更正至无量寿经；词条原始source保留备查。 |
+| 无碍 | 卷三 | 42 | 阿弥陀经 | T0360 | inferred_reference_correction | 未逐条复核 |
+| 无碍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无碍光 | 卷三 | 42 | 阿弥陀经 | T0360 | inferred_reference_correction | 未逐条复核 |
+| 碍光佛 | 卷三 | 42 | 阿弥陀经 | T0360 | inferred_reference_correction | 未逐条复核 |
+| 无对光佛 | 卷三 | 70 | 阿弥陀经 | T0360 | corrected_by_passage_review | 原source标为阿弥陀经，十二光名号相关段落应更正至无量寿经；词条原始source保留备查。 |
+| 无对 | 卷三 | 42 | 阿弥陀经 | T0360 | inferred_reference_correction | 未逐条复核 |
+| 无对光 | 卷三 | 42 | 阿弥陀经 | T0360 | inferred_reference_correction | 未逐条复核 |
+| 对光佛 | 卷三 | 42 | 阿弥陀经 | T0360 | inferred_reference_correction | 未逐条复核 |
+| 炽盛光佛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 炽盛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 炽盛光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 炽盛光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 盛光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 难思光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 难思 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 难思光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 思光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 无极光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 无极 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 无极光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 极光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 清净光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 清净光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清净 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 清净 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 清净光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 清净光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 净光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 净光佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 欢喜光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 欢喜 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 欢喜光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 喜光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 智慧光佛 | 卷三 | 70 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 智慧光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 智慧 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 智慧光 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 智慧光 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 慧光佛 | 卷三 | 42 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 慧光佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 西方三圣 | 卷三 | 55 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 西方 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 西方 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 西方三 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 三圣 | 卷三 | 10 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 方三圣 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 阿弥陀（中尊） | 卷三 | 50 | 三经 | — | unresolved_source | 未逐条复核 |
+| 弥陀 | 卷三 | 30 | 三经 | — | unresolved_source | 未逐条复核 |
+| 观音（右） | 卷三 | 50 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 势至 | 卷三 | 50 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 势至（左） | 卷三 | 50 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 三尊并座 | 卷三 | 50 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 三尊 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 三尊并 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 并座 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 尊并座 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 三圣并立 | 卷三 | 50 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 三圣并 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 并立 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 圣并立 | 卷三 | 30 | 四川题记 | — | unresolved_source | 未逐条复核 |
+| 西方来迎 | 卷三 | 55 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 西方来 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 来迎 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 方来迎 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 佛来迎 | 卷三 | 50 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 佛来 | 卷三 | 30 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 三圣接引 | 卷三 | 55 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 三圣接 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 接引 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 圣接引 | 卷三 | 33 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 二菩萨侍立 | 卷三 | 50 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 二菩 | 卷三 | 30 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 二菩萨 | 卷三 | 30 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 二菩萨 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 侍立 | 卷三 | 30 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 侍立 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 萨侍立 | 卷三 | 30 | 观经 | T0365 | title_catalog_match | 未逐条复核 |
+| 中尊跏趺 + 两侧菩萨立像 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 中尊 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 中尊跏 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 立像 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 萨立像 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 中尊大背光 + 两侧小背光 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 中尊大 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 小背光 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 中尊禅定印 + 左右菩萨合十 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 中尊禅 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 合十 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 萨合十 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 平行三光纹 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 平行 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 平行三 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 光纹 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 三光纹 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 西方莲池结构基座 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方莲 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 基座 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 构基座 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 极乐世界 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 极乐 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 极乐世 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 乐世界 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 西方极乐 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 西方极 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 方极乐 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 国名极乐 | 卷三 | 80 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 国名 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 国名极 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 名极乐 | 卷三 | 48 | 阿弥陀经 | T0366 | title_catalog_match | 未逐条复核 |
+| 无有众苦但受诸乐 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 无有 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无有众 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 诸乐 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 受诸乐 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无三恶道 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 无三 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无三恶 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 恶道 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 恶道 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 三恶道 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 七宝池 | 卷三 | 75 | — | — | missing_source | 可见于净土经文，药师关联须另有直接语境；不能把共享景物视为宗派独占。 |
+| 七宝池 | 卷四 | 70 | — | — | missing_source | 可见于净土经文，药师关联须另有直接语境；不能把共享景物视为宗派独占。 |
+| 七宝 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝池 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 八功德水 | 卷三 | 75 | — | — | missing_source | 诊断对照中跨多部经典出现；保留同词异权，但高权重须结合本尊、引经或固定组合验证。 |
+| 八功德水 | 卷四 | 70 | — | — | missing_source | 诊断对照中跨多部经典出现；保留同词异权，但高权重须结合本尊、引经或固定组合验证。 |
+| 八功 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 八功德 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 八功德 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 德水 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 功德水 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 功德水 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 七重罗网 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 七重 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 七重罗 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 罗网 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 重罗网 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 七重行树 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 七重行 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 行树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 重行树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 七重栏楯 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 七重栏 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 栏楯 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 重栏楯 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 琉璃 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 玻璃 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 琥珀 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 珊瑚 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 玛瑙 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 七宝合成池 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 七宝合 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 成池 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 合成池 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 池底金沙布地 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 池底 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 池底金 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 池底金 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 布地 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 沙布地 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 澄清 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 冷暖自适 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 冷暖 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 冷暖自 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 自适 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 暖自适 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 香气自然 | 卷三 | 40 | — | — | missing_source | 未逐条复核 |
+| 香气 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 香气自 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 自然 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 气自然 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 柔软触身 | 卷三 | 40 | — | — | missing_source | 未逐条复核 |
+| 柔软 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 柔软 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 柔软触 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 触身 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 软触身 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 随心湛然 | 卷三 | 40 | — | — | missing_source | 未逐条复核 |
+| 随心 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 随心湛 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 湛然 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 湛然 | 卷十三 | 45 | T1913 卷首“天台沙门湛然述”可复查臺大佛學數位圖書館+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 心湛然 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 安和调适 | 卷三 | 40 | — | — | missing_source | 未逐条复核 |
+| 安和 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 安和调 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 调适 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 和调适 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 清净无染 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 清净无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 清净无 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 无染 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 净无染 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 清凉水声 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 清凉 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 清凉水 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 水声 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 凉水声 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝树庄严 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝树庄 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 庄严 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 庄严 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 树庄严 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 金树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 银树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 璃树 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 珊瑚树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 瑚树 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 玛瑙树 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 瑙树 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝树出妙音 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝树出 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 出妙音 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 八风和鸣 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 八风 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 八风和 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 和鸣 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 风和鸣 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 清风来往 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 清风 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 清风来 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 来往 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 风来往 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 德音遍闻 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 德音 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 德音遍 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 遍闻 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 音遍闻 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 鸾鸟 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 孔雀 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 鹦鹉 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 胜鸠 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 鸳鸯 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 鸂鶒 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 鸂鶒（音xi chì） | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 非罪报所生 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 非罪 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 非罪报 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 所生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 报所生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宣说佛法声 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 宣说 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宣说佛 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 法声 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 佛法声 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 至心信乐 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 至心 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 至心信 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 信乐 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 心信乐 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 欲生彼国 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 欲生 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 欲生彼 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 彼国 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 生彼国 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 一心念佛 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 一心 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 一心 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 一心念 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 念佛 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 心念佛 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 乃至十念 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 乃至 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 乃至十 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 十念 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 至十念 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 若有善男子善女人 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 若有 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 若有善 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 女人 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善女人 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 持名念佛 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 持名 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 持名念 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 名念佛 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 与佛相应 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 与佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 与佛相 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 相应 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 相应 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 佛相应 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心不颠倒 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 心不 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心不颠 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 颠倒 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 颠倒 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 不颠倒 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 临终正念 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 临终 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 临终正 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 正念 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 正念 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 终正念 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛光无量 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 佛光 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 佛光 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 佛光无 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 光无量 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 遍照十方 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 遍照 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 遍照 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 遍照十 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 遍照十 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 照十方 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 照十方 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无量庄严 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无量庄 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 量庄严 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 如黄金色 | 卷三 | 40 | — | — | missing_source | 未逐条复核 |
+| 如黄 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 如黄金 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 金色 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 黄金色 | 卷三 | 24 | — | — | missing_source | 未逐条复核 |
+| 国无地狱 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 国无 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 国无地 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 地狱 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 地狱 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 无地狱 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 国无饿鬼 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 国无饿 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 饿鬼 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 饿鬼 | 卷九 | 48 | — | — | missing_source | 未逐条复核 |
+| 无饿鬼 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 国无畜生 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 国无畜 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 畜生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 无畜生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 唯诸善趣 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 唯诸 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 唯诸善 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 善趣 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 诸善趣 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 身皆金色 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 身皆 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 身皆金 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 皆金色 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 三十二相 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 二相 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 十二相 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 十二相 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 八十种好 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 八十种 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 种好 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 十种好 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 身无差别 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 身无 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 身无差 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 差别 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 无差别 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 形体平等 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 形体 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 形体平 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 平等 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 平等 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 体平等 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 光明无量 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 光明无量 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 光明 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明无 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明无 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 明无量 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 明无量 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 光照十方 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 光照十方 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光照 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 光照 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光照十 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 光照十 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光中化佛 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光中 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光中化 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 化佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 化佛 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 中化佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光明彻照 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明彻照 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明彻 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光明彻 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 彻照 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 明彻照 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 明彻照 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光明超世 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明超 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 超世 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 明超世 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光中显化 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 光中显 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 显化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 中显化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 寿命无量 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 寿命 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 寿命无 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 命无量 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 寿命长久 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 寿命长 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 长久 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 长久 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 命长久 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 命长久 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 寿命不可计 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 寿命不 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 可计 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 不可计 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 寿命无量数 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 量数 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无量数 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无量寿国 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 寿国 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 量寿国 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 声闻无数 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 声闻 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 声闻无 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无数 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 闻无数 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 菩萨无数 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 菩萨无 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 萨无数 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 大智声闻 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 大智 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 大智声 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 智声闻 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 菩萨众多 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 菩萨众 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 众多 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 萨众多 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 一切声闻皆成佛 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 一切声 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 成佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 成佛 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 成佛 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 皆成佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 众会广大 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 众会 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 众会广 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 广大 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 会广大 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 声闻三乘断除 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 声闻三 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 断除 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 乘断除 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 无量圣众 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 无量圣 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 圣众 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 圣众 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 量圣众 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天人平等 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 天人 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 天人平 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 人平等 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 身色无差 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 身色 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 身色 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 身色无 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 无差 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 色无差 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 悉得神通 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 悉得 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 悉得神 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 神通 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 得神通 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 身无男女 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 身无男 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 男女 | 卷三 | 10 | — | — | missing_source | 未逐条复核 |
+| 无男女 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 形相平等 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 形相 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 形相平 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 相平等 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 若不成佛誓不取正觉 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 若不 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 若不成 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 正觉 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 取正觉 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 誓不取正觉 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 誓不 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 誓不取 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 国无州郡 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国无州 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 州郡 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无州郡 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 国无山河 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 国无山 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 山河 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无山河 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无不善名 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 无不 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无不 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无不善 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 善名 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 不善名 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无恶名声 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无恶 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无恶名 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 名声 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 恶名声 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 树皆宝树 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 树皆 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 树皆宝 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 皆宝树 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 宝树相照 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树相 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 相照 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 树相照 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝树高广 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝树高广 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树高 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝树高 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 高广 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树高广 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树高广 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树无杂色 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 树无 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 树无杂 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 杂色 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 无杂色 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝树香洁 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝树香 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝树香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 香洁 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 树香洁 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 国光遍照 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国光 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 国光遍 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 光遍照 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 光遍照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光照十方界 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 方界 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 十方界 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光明无垢 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无垢 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无垢 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明无垢 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 鸟声宣法 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 鸟声 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 鸟声宣 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 宣法 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 声宣法 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 风声宣法 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 风声 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 风声宣 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 宝树宣法 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 宝树宣法 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树宣 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 宝树宣 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树宣法 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 树宣法 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 水声宣法 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 水声宣 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 声皆佛法 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 声皆 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 声皆佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 皆佛法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 国无暗冥 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国无暗 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 暗冥 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无暗冥 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 光明无尽 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无尽 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无尽 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明无尽 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无三光依赖 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无三光依赖（无日月星） | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无三光 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 依赖 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光依赖 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天乐常作 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天乐 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天乐常 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 常作 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 乐常作 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 乐无不善声 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 乐无 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 乐无不 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 善声 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 不善声 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 乐音宣妙法 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 乐音 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 乐音宣 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宣妙法 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 衣服自然 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 衣服 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣服 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 衣服自 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 服自然 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣食自然满足 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 衣食 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣食自 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣食自 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 满足 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 然满足 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣服妙色自然生 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 衣服妙 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 然生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 自然生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 自然生 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 饭食香洁自然生 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 饭食 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 饭食香 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 自然供具具足 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 自然供 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 具足 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 具足 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 具具足 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 衣服自然现前 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 现前 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 然现前 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 饭食自然现前 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 饭食自 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 饭食自 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 种种供具自然现 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 种种 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 种种供 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 然现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 自然现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 衣服香洁 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 衣服香 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 服香洁 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 食具清净 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 食具 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 食具清 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 具清净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 妙食自然生起 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 妙食 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 妙食自 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生起 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 然生起 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 随念即得 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 随念 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 随念即 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 随念即 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 即得 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 念即得 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 国无耕作 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国无耕 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 耕作 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无耕作 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣食自然 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 衣食自然 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 食自然 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 食自然 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无求无乏 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无求 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无求无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无乏 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 求无乏 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 国无不善 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国无不 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 不善 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 身心清净 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 身心 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 身心 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身心清 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心清净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善念常存 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 善念 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 善念常 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 常存 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 念常存 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 香气普熏 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 香气普 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 普熏 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 气普熏 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 气普熏 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 香风周遍 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 香风 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 香风周 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 周遍 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 风周遍 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 香气悦人心 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 香气悦 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人心 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人心 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 悦人心 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 香风宣法 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 香风宣 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 风宣法 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 风宣法 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无女身 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 无女 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 女身 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 国无女人 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国无女 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无女人 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 平等一相 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 平等一 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 一相 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 等一相 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 不受女身 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 不受 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 不受女 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 受女身 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 莲华化生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 莲华化 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 化生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 华化生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 寶華之中化生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 寶華 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 寶華之 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 中化生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 念佛莲生 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 念佛莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 莲生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛莲生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 青色宝华 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 青色 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 青色宝 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝华 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 色宝华 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 金色莲华 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 金色莲 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 色莲华 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 乐受无量 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 乐受 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 乐受无 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 受无量 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 国皆安乐 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 国皆 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 国皆安 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 安乐 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 皆安乐 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无苦但乐 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 无苦 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 无苦但 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 但乐 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 苦但乐 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天人来礼 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天人来 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 来礼 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 人来礼 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天人供养 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天人供 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 人供养 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天人自然至 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天人自 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 然至 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 自然至 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人齐集 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天人齐 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 齐集 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人齐集 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人闻法 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天人闻 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 闻法 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 人闻法 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善人俱会 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 善人 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善人俱 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 俱会 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 人俱会 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善人无量 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 善人无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 人无量 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 同会一处 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 同会 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 同会一 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 一处 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 会一处 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 俱来共集 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 俱来 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 俱来共 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 共集 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 来共集 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善众围绕 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善众 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善众围 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 围绕 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 围绕 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 众围绕 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 众围绕 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 明彻无碍 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 明彻 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 明彻无 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 彻无碍 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 智慧光明 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 智慧光明 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 慧光明 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 慧光明 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 心眼明彻 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心眼 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心眼明 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 眼明彻 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 智慧无碍 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧无碍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 智慧无 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 慧无碍 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 慧无碍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 证悟空性 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 证悟 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 证悟空 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 空性 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 悟空性 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 解脱自然 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 解脱自 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 脱自然 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无复烦恼 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无复 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无复烦 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 烦恼 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 复烦恼 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 一心清净 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 一心清 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心性明净 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心性 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心性明 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 明净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 性明净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宿命自知 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 宿命 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 宿命自 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 自知 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 命自知 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 自知宿命 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 自知宿 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 知宿命 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宿命明彻 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 宿命明 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 命明彻 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宿命智慧 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 宿命智 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 命智慧 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天眼清明 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 天眼 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 天眼清 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 清明 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 眼清明 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 眼清明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 天眼无碍 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天眼无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 眼无碍 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天眼见十方 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天眼见 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 见十方 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天眼洞然 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天眼洞 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 洞然 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 眼洞然 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天耳圆通 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 天耳 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 天耳圆 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 圆通 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 耳圆通 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 天耳无碍 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天耳无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 耳无碍 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天耳闻法 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 天耳闻 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 耳闻法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 天耳洞达 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天耳洞 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 洞达 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 耳洞达 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 他心智通 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 他心 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 他心智 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 智通 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 心智通 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 知他心念 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 知他 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 知他心 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心念 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 他心念 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 洞察众心 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 洞察 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 洞察众 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 众心 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 察众心 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心行洞见 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心行 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心行洞 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 洞见 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 行洞见 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 神足自在 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 神足 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 神足自 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 足自在 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 神足无碍 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 神足无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 足无碍 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 能至十方 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 能至 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 能至十 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 至十方 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 神通遨游 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 神通遨 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 遨游 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 通遨游 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 自在行走诸世界 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 自在行 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 诸世界 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 身住诸佛前 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 身住 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 身住诸 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 佛前 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 诸佛前 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 面见诸佛 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 面见 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 面见诸 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 见诸佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 常见佛身 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 常见 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 常见佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛身 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 见佛身 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 亲近诸佛 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 亲近 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 亲近诸 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 近诸佛 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 佛现其前 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 佛现 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 佛现其 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 其前 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 现其前 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 供养诸佛 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 供养诸 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 养诸佛 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 遍供十方佛 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 遍供 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 遍供十 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 方佛 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 方佛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 十方佛 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 供具随念现 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 供具 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 供具 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 供具随 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 念现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 随念现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 十方佛赞叹 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 赞叹 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛赞叹 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 衣食随念至 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 衣食随 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 念至 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 随念至 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 随念便至 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 随念便 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 便至 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 念便至 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 法衣自然生 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 法衣 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 法衣自 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 法食自然现 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 法食 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 法食自 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无须劳作 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无须 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无须劳 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 劳作 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 须劳作 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 食无粗细 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 食无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 食无粗 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 粗细 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无粗细 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 衣无冷热 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 衣无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 衣无冷 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 冷热 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无冷热 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 饭食如意生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 饭食如 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 意生 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 如意生 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 国土清净 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 国土 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 国土 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 国土清 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 土清净 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 清净如镜 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 清净如 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 如镜 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 净如镜 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 国如磨镜 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 国如 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 国如磨 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 磨镜 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 如磨镜 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 无瑕无垢 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无瑕 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无瑕无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 瑕无垢 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光影自现 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光影 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光影自 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 自现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 影自现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 映现诸界 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 映现 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 映现诸 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸界 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 现诸界 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 影现无尽 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 影现 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 影现无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 现无尽 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 清净无尘 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无尘 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 净无尘 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光净朗然 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光净朗 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 朗然 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 净朗然 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 明净遍照 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 明净遍 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 净遍照 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 成等正觉 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 成等 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 成等正 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 等正觉 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 一切菩萨皆证正觉 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 一切菩 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 证正觉 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 速成佛道 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 速成 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 速成佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛道 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛道 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 成佛道 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 成佛道 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 速证菩提 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 速证 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 速证菩 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 菩提 | 卷三 | 10 | — | — | missing_source | 未逐条复核 |
+| 菩提 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 菩提 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 证菩提 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 证菩提 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 菩提自然成 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 菩提自 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 然成 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 自然成 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 一生补处 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 一生 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 一生补 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 补处 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 生补处 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 决定成佛 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 决定 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 决定成 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 定成佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 菩提平等 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 菩提平 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 提平等 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 菩萨无退 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 无退 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 萨无退 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 不退转地 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 不退 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 不退转 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 转地 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 退转地 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 大悲教化 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 大悲教 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 教化 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 悲教化 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 教化十方 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 教化十 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 化十方 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 教化无量众生 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 教化无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 量众生 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宣扬佛法 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 宣扬 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宣扬佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 扬佛法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 慈悲教导 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 慈悲教 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 教导 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 悲教导 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 教化众生离苦 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 教化众 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 离苦 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 生离苦 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 大悲弘愿 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 大悲弘 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 弘愿 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 悲弘愿 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 普利十方 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 普利 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 普利 | 卷九 | 42 | — | — | missing_source | 未逐条复核 |
+| 普利十 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 利十方 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 声满十方 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 声满 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 声满十 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 满十方 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 普度群生 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 普度 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 普度群 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 群生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 度群生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 无碍辩才 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 无碍辩 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 辩才 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 碍辩才 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 辩才无尽 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 辩才无 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 才无尽 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 百千微妙音 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 百千 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 百千微 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 微妙音 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 辩才宣法 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 辩才宣 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 才宣法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 辩才广博 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 辩才广 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 广博 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 才广博 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 一音演法 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 一音 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 一音演 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 演法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 音演法 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 随类化身演说 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 随类 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 随类化 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 演说 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 身演说 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 善根增长 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 善根 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善根增 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 增长 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 根增长 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善根不断 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 善根不 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 不断 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 根不断 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 善根成熟 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 善根成 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 成熟 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 根成熟 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 善根成就 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 成就 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 成就 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 根成就 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 善根坚固 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善根坚 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 坚固 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 根坚固 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善根圆满 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 善根圆 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 圆满 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 圆满 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 根圆满 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 善根无尽 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善根无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 根无尽 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善根随生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 善根随 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 随生 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 根随生 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 离诸烦恼 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 离诸 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 离诸 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 离诸烦 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 诸烦恼 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 烦恼永断 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 烦恼永 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 永断 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 恼永断 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 烦恼不起 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 烦恼不 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 不起 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 不起 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 恼不起 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无诸结缚 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 无诸 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无诸 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无诸结 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 结缚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸结缚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心无贪欲 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 心无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心无贪 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 贪欲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无贪欲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心无瞋恚 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 心无瞋 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 瞋恚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无瞋恚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心无愚迷 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 心无愚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 愚迷 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无愚迷 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 贪嗔痴断 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 贪嗔 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 贪嗔痴 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 痴断 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 嗔痴断 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心地清净 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心地 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心地清 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地清净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心无挂碍 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心无挂 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 挂碍 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无挂碍 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 法喜常满 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 法喜 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 法喜常 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 常满 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 喜常满 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 法喜无尽 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 法喜无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 喜无尽 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心常欢喜 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 心常 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心常欢 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 常欢喜 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 得法欢喜 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 得法 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 得法欢 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 法欢喜 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 喜乐无边 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 喜乐 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 喜乐无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无边 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无边 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 乐无边 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 身心柔软 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 身心柔 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 心柔软 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 柔和忍辱 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 柔和 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 柔和 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 柔和忍 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 忍辱 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 和忍辱 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 心无坚硬 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 心无坚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 坚硬 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无坚硬 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 柔顺善心 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 柔顺 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 柔顺善 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 善心 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 顺善心 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 心地柔和 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心地柔 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地柔和 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人天尊敬 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 人天 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人天尊 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 尊敬 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天尊敬 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 十念必生 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 十念必 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 必生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 念必生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 若有众生念我 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 若有众 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 念我 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 生念我 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 念佛往生 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 念佛往 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 往生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 佛往生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 若不生者不取正觉 | 卷三 | 80 | — | — | missing_source | 未逐条复核 |
+| 若不生 | 卷三 | 48 | — | — | missing_source | 未逐条复核 |
+| 念佛无不往生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 念佛无 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 不往生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 南无阿弥陀佛 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 南无阿弥陀佛（六字名号） | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 南无阿 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 一心系念 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 一心系 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 系念 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 心系念 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 惟念弥陀 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 惟念 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 惟念弥 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 念弥陀 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 临终念佛 | 卷三 | 70 | — | — | missing_source | 未逐条复核 |
+| 临终念 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 终念佛 | 卷三 | 42 | — | — | missing_source | 未逐条复核 |
+| 称名必生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 称名 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 称名必 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 名必生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 十念皆生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 十念皆 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 皆生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 念皆生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 念佛功德不可思议 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 念佛功 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 思议 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 可思议 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 念我必生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 念我必 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 我必生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 名号力故往生 | 卷三 | 75 | — | — | missing_source | 未逐条复核 |
+| 名号力 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 故往生 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明照曜 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明照 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 照曜 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 明照曜 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光净无垢 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光净无垢 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光净无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光净无 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 净无垢 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 净无垢 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光华自在 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光华 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光华自 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 华自在 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光明周遍 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明周 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 明周遍 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光色殊妙 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光色 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光色殊 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 殊妙 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 色殊妙 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光照无尽界 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 光照无 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 尽界 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 无尽界 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 光如净月 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光如 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光如净 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 净月 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 净月 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 如净月 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光如妙日 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 光如妙 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 妙日 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 妙日 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 如妙日 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 光色清凉 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 光色清 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 色清凉 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 地皆金刚 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 地皆 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 地皆金 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 皆金刚 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 地平如掌 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 地平如掌 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地平 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地平如 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地平如 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 如掌 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 平如掌 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 平如掌 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地无尘垢 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 地无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地无尘 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 尘垢 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 无尘垢 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地若琉璃 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 地若 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地若琉 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 若琉璃 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地现宝光 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 地现 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地现宝 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝光 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝光 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 现宝光 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地放妙色 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 地放妙色 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地放 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地放妙 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 地放妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 妙色 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 妙色 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 放妙色 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 放妙色 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝地庄严 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝地 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝地庄 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 地庄严 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 地色清净 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 地色 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 地色清 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 色清净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 地光遍照 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 地光 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 地光遍 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 地如宝镜 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 地如 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 地如宝 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝镜 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 如宝镜 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 如宝镜 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝树行列 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 宝树行列 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树行 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝树行 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 行列 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 树行列 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 树行列 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树影交辉 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 树影 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树影交 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 交辉 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 影交辉 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 影交辉 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 罗网七重 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 罗网七 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 网七重 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树放五色光 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 树放 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树放五 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 色光 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 五色光 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树音宣法 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 树音 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 树音宣 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 音宣法 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 音宣法 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树下宝座 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 树下 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树下宝 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝座 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 下宝座 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 树风清妙 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 树风 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 树风清 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 树风清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 清妙 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 风清妙 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 树影明净 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 树影明净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 树影明 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 树影明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 影明净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 影明净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 树香普熏 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 树香 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 树香普 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 香普熏 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝莲千万 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝莲千 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 千万 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 千万 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲千万 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 金莲光明 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 金莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 金莲光 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 莲光明 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 青莲光明 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 青莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 青莲光 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 红莲光明 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 红莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 红莲光 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 白莲光明 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 白莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 白莲光 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 莲华微妙 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 莲华微 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 微妙 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 微妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 华微妙 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲香普薰 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 莲香 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲香普 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 普薰 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 香普薰 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 香普薰 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲池光照 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 莲池 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲池光 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 池光照 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲华化佛 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 华化佛 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 莲华化生菩萨 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 生菩萨 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 上品莲华 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 上品 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 上品莲 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 品莲华 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 九品莲华 | 卷三 | 55 | — | — | missing_source | 未逐条复核 |
+| 九品 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 九品莲 | 卷三 | 33 | — | — | missing_source | 未逐条复核 |
+| 莲开化佛 | 卷三 | 50 | — | — | missing_source | 未逐条复核 |
+| 莲开 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲开化 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 开化佛 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲香随风 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲香随 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 随风 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 香随风 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲华遍国 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲华遍 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 遍国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 华遍国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 华遍国 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲光照界 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲光 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲光照 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 照界 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 光照界 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 光照界 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 莲华相续 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲华相 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 相续 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华相续 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲座自然 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲座 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲座自 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 座自然 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲座妙色 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲座妙 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 座妙色 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲座宝成 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲座宝 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝成 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 座宝成 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天人来集 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 来集 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人来集 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人礼敬 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天人礼 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 礼敬 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人礼敬 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人供佛 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 供佛 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人供佛 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人散花 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天人散 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 散花 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 人散花 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人游行 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 天人游 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 游行 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 人游行 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 天人合掌 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 天人合 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 合掌 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 合掌 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 人合掌 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 天人相庆 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 天人相 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 相庆 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 人相庆 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 天众无数 | 卷三 | 45 | — | — | missing_source | 未逐条复核 |
+| 天众 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天众 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 天众无 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 众无数 | 卷三 | 27 | — | — | missing_source | 未逐条复核 |
+| 天人受乐 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 天人受 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 受乐 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 人受乐 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 天人光明 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 天人光 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 人光明 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 天人宝衣 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天人宝 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝衣 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 人宝衣 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天人宝香 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝香 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 人宝香 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天人宝乐 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝乐 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 人宝乐 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天界供具 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天界供 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 界供具 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天界香音 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天界香 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 香音 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 界香音 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天界妙花 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天界妙 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 妙花 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 界妙花 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天界祥瑞 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天界祥 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 祥瑞 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 界祥瑞 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 天界法音 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 天界法 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 法音 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 界法音 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 往生净土 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 往生净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 净土 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 净土 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 生净土 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 求生净土 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 求生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 求生净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿生西方 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿生西 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生西方 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 往生彼国 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 往生彼 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生生净域 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 生生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生生净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 净域 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生净域 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 求往生处 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 求往 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 求往生 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生处 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 往生处 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 求生佛国 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 求生佛 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛国 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生佛国 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生彼净域 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 生彼 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生彼净 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 彼净域 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿归极乐 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿归 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿归极 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 归极乐 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 往生善处 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 往生善 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 善处 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 善处 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 生善处 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生善处 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 求生极乐 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 求生极 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生极乐 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 西方愿生 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方愿 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 方愿生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿归莲邦 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿归莲 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲邦 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 归莲邦 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿归净土 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿归净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 归净土 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 生于莲华 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 生于 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生于莲 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 于莲华 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿逐佛光 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿逐 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿逐佛 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 逐佛光 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 随佛往生 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 随佛 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 随佛往 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛来迎接 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 迎接 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 来迎接 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 佛接引 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 佛接 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 西方迎接 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方迎 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 方迎接 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲胎 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲开见佛 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲开见 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 见佛 | 卷三 | 10 | — | — | missing_source | 未逐条复核 |
+| 开见佛 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲中化生 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲中 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲中化 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲中安住 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲中安 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 安住 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 中安住 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲中往生 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲中往 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 中往生 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华中化生 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 华中 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华中化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华开莲现 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 华开 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华开莲 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲现 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 开莲现 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝莲化佛 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝莲化 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲化佛 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 花开见佛 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 花开 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 花开见 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 华开闻法 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 华开闻 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 开闻法 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲香遍国 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲香遍 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 香遍国 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 香遍国 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 华光照世 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 华光 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华光照 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 照世 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 光照世 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华开见佛性 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 华开见 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛性 | 卷三 | 18 | — | — | missing_source | 共享术语按宗派语境复核；词条自身不能充当证明该语境的独立锚点。 |
+| 佛性 | 卷七 | 60 | — | — | missing_source | 共享术语按宗派语境复核；词条自身不能充当证明该语境的独立锚点。 |
+| 见佛性 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲台接引 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲台 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲台接 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 台接引 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲台化生 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲台化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 台化生 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝莲化生人天 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 生人天 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 九品莲台 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 品莲台 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 华台安住 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 华台 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华台安 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 台安住 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华中自在 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 华中自 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 中自在 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 华光遍照 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 华光遍 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德殊胜 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 功德殊 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 殊胜 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 德殊胜 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 功德圆满 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 功德圆 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 德圆满 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 功德庄严 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 功德庄 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 德庄严 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 功德成就 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 功德成 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 德成就 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 功德无量 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 功德无 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 德无量 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 功德光明 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 功德光 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 德光明 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 功德增长 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 功德增 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 德增长 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 功德自然 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 功德自 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 德自然 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 功德庄国 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 庄国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德庄国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德随喜 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德随 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 随喜 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德随喜 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德清净 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德清 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德清净 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德具足 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德具 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德具足 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德自在 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 德自在 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德之力 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德之 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 之力 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德之力 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 力能救度 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 力能 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 力能救 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 救度 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 能救度 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德遍满 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德遍 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 遍满 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德遍满 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德广行 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德广 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 广行 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 德广行 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德无尽 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 德无尽 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德普遍 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 功德普 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 普遍 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 普遍 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 德普遍 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 功德庄严国 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 严国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 庄严国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 西方宝界 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方宝 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝界 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝界 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 方宝界 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝界清净 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝界清净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝界清 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝界清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 界清净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 界清净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝界庄严 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝界庄 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 界庄严 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝国无垢 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝国 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝国无 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 国无垢 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝国平正 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝国平 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 平正 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 国平正 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝国明净 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝国明 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 国明净 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝界光明 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝界光 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 界光明 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 西方光国 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方光 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 光国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 方光国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 西方明国 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方明 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 明国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 方明国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 西方净国 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方净 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 净国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 方净国 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 净国安乐 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 净国安 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 国安乐 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 净国明净 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 净国明 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 净国无垢 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 净国无 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 净界安住 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 净界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净界安 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界安住 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净界朗然 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 净界朗 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界朗然 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净界光照 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 净界光 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界光照 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净界妙色 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 净界妙 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界妙色 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净界清净 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 净界清 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光界清净 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 光界清净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光界清 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光界清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光界安住 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 光界安 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 阿彌陀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌陀仏 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿𢆉陀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿迷陀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌陀覩 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌陀伯 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌陀彿 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌陀拂 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌多佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿弥佗佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿弥忑佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿弥怛佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿弥达佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿弭陀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 阿𤣩陀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量壽佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量光佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 无量夀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 无量授佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 无量壽仏 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無央數壽佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無邊光佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無盡光佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無極光佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無隔光佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無碍光 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無對光 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 離無量壽 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量昌佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量炤佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量照佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量曜佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無央光佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無極夀佛 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無量夀如来 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 西方極樂 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 西方極樂界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 西方淨域 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 西方淨土 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 西方淨界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 極樂淨土 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 極樂世界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 極樂界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 安樂國 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 安養國 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 安鎔國 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 清淨佛國 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 無苦國 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 受樂國 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 福樂淨界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 蓮華 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 蓮花 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 連華 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 聯華 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 九品蓮臺 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 蓮臺 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 菡蓞 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 菡蓞（古莲字） | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 荷華 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 芙蓉 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 芙蓉（净土借代） | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 蓮座 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 西方接引造 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方接 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 引造 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 接引造 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 西方大圣 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 西方大 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 大圣 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 方大圣 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 化生莲邦 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 化生莲 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生莲邦 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生于莲邦 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 于莲邦 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿归莲宫 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲宫 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 归莲宫 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛光照背 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 佛光照 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 照背 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 光照背 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 三圣接化 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 接化 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 圣接化 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿往西方 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿往西 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 往西方 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 往生宝国 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 往生宝 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生宝国 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 极乐光界 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 极乐光 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 乐光界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 极乐香界 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 极乐香 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 香界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 乐香界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花开佛现 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 花开佛 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 开佛现 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝树清凉 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 宝树清 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 树清凉 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 天人香国 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 天人香 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 香国 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 人香国 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 香界清净 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 香界清 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 西方光明界 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 明界 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 光明界 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 光明界 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 西方香火界 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 西方香 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 火界 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 香火界 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 生彼宝界 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 生彼宝 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 彼宝界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝界净域 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 宝界净 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界净域 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 宝界众圣 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 宝界众 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 众圣 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界众圣 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 宝界光华 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 界光华 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 莲池化生 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 莲池化 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 池化生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲香满国 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 莲香满 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 满国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 满国 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 香满国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 莲座自生 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 自生 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 座自生 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 三圣光环 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 三圣光 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 光环 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 圣光环 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛来接引我 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 佛来接 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 引我 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 接引我 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿随佛往 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿随 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿随佛 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛往 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 智慧光国 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 慧光国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 金界净土 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 金界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 金界净 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界净土 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 宝界明净 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 宝界明 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 界明净 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 见佛往生 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 见佛往 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿生花内 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿生花 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花内 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生花内 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲房安处 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲房 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲房安 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 安处 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 房安处 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花中听法 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 花中 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花中听 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 听法 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 中听法 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 极乐安住 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 极乐安 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 乐安住 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 安住宝池 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 安住宝 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 住宝池 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 安居净界 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 安居 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 安居净 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 居净界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 香花异国 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 香花 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 香花异 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 异国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花异国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 香光宝界 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 香光 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 香光宝 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光宝界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 香台化生 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 香台 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 香台化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛国花开 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 佛国花 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 国花开 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花座自生 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 花座 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花座自 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花光普照 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 花光 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花光普 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 普照 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光普照 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光普照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 莲中无忧 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲中无 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 无忧 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 中无忧 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花开往生 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 花开往 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 开往生 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 花藏宝国 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 花藏 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花藏宝 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 藏宝国 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 花开见佛母 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 佛母 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛母 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 见佛母 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 花开化音 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 花开化 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 化音 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 开化音 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 安乐宝地 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 安乐宝 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 乐宝地 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 莲宫化境 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 莲宫化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 化境 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宫化境 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花宫净土 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 花宫 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 花宫净 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宫净土 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝台化生 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 宝台 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 宝台化 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 圣众来迎 | 卷三 | 35 | — | — | missing_source | 未逐条复核 |
+| 圣众来 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 众来迎 | 卷三 | 21 | — | — | missing_source | 未逐条复核 |
+| 圣众列位 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 圣众列 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 列位 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 众列位 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 聖衆合掌 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 聖衆 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 聖衆合 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 衆合掌 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 十方光界 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 十方光 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 十方光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 方光界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光净世界 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 光净世 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净世界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 光华宝境 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 光华宝 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 宝境 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 华宝境 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 愿还莲界 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿还 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿还莲 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 莲界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 还莲界 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿归华邦 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿归华 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 华邦 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 归华邦 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 生在宝莲 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 生在 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 生在宝 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 在宝莲 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 劝生净界 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 劝生 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 劝生净 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 生净界 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 推生西方 | 卷三 | 30 | — | — | missing_source | 未逐条复核 |
+| 推生 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 推生西 | 卷三 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛国天香 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 佛国天 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 天香 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 国天香 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 佛国宝花 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 佛国宝 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 宝花 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 国宝花 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 佛国清净光 | 卷三 | 25 | — | — | missing_source | 未逐条复核 |
+| 佛国清 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 净光 | 卷三 | 15 | — | — | missing_source | 未逐条复核 |
+| 佛国香风 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 佛国香 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 国香风 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛国香水 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 香水 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 国香水 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛国宝音 | 卷三 | 20 | — | — | missing_source | 未逐条复核 |
+| 宝音 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 国宝音 | 卷三 | 12 | — | — | missing_source | 未逐条复核 |
+| 十二大愿 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 琉璃光 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 琉璃光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地狱拔苦 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 地狱不空 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 三会 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 三会 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 下生 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 下生 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 背火焰光 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 背火焰光 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 背火焰光（密） | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 大悲咒 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 八识 / 阿赖耶 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 善财 / 五十三参 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 普贤行愿 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 维摩 / 不二法门 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 菩萨戒、四无量心 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 金刚界、胎藏界 | 卷三 | — | — | — | missing_source | 未逐条复核 |
+| 成正等觉 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 成正等 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 正等觉 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 具足三十二相 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 具足三 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 八十随形好 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 八十随 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 形好 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 随形好 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 威光普照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 威光 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 威光普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光明遍照世界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明遍 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 照世界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 炽盛光明 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 盛光明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 放大光明 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 放大光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 大光明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 大光明 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 光明普曜 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明普 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明普曜 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光明破暗 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明破 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 破暗 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明破暗 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 十方众生悉得智慧 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 十方众 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 得智慧 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 身如琉璃 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 身如琉 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 如琉璃 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 清净无垢 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 内外明彻 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 内外 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 内外明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 外明彻 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身放光明 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 身放 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 身放光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 放光明 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 光明极净 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明极 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明极净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光如琉璃 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光如琉 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身清净光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身清净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 炽然光照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 炽然光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 然光照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身如宝镜 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身如宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身若净月 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身若 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身若净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 若净月 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身若妙日 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身若妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 若妙日 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 清净琉璃界 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清净琉 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃界 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃世界 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 琉璃世 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 璃世界 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 智慧无量 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 慧无量 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧无边 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 慧无边 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧究竟 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 智慧究 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 究竟 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 慧究竟 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 慧光普照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 慧光普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 智慧破暗 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 智慧破 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 慧破暗 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 智慧清净光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 智慧清 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 智慧如日 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧如 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 如日 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 慧如日 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 智慧大明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧大 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 大明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 大明 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 慧大明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 智慧圆满 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 智慧圆 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 慧圆满 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 慧眼清明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 慧眼清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 慧光遍明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 慧光遍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光遍明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 众生无尽供具 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 众生无 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 尽供具 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 随求得供养 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 随求 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 随求得 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 得供养 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 自然生宝具 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 生宝具 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝物随念 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝物随 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 物随念 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 香花随生 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 香花随 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 花随生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无尽供具 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无尽供 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 自然宝器 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 自然宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 然宝器 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 随念供养 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 随念供 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 念供养 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝具遍现 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝具遍 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 具遍现 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝香普薰 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝香普 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 宝花庄严 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 宝花庄 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 花庄严 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 身业清净 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 身业清 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 业清净 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 语业清净 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 语业清 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 意业清净 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 意业清 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 三业清净 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 三业清 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 行住坐卧皆修行 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 行住 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 行住坐 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 行住坐 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 修行 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 皆修行 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 离诸恶业 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 离诸恶 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸恶业 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 不造恶业 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 不造恶 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 造恶业 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 不作恶行 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 不作恶 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 作恶行 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身语意无垢 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身语意 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 意无垢 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身语意善净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 意善净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 诸根具足 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 诸根具 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 根具足 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 五根完整 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 五根完 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 根完整 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无残缺病苦 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无残缺 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 缺病苦 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无盲聋哑痖 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无盲聋 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 聋哑痖 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无疯癫狂乱 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无疯癫 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 癫狂乱 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身心健全 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身心健 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 心健全 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身强体健 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身强体 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 强体健 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无诸疾患 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无诸疾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸疾患 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸根明净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 诸根明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 根明净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 根身不缺 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 根身不 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身不缺 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无障无碍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无障无 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 障无碍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身心和平 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 身心和 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 和平 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 心和平 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 安立正见 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 安立正 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 立正见 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 得正法眼 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 得正法 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 法眼 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 正法眼 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 得正慧眼 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 得正慧 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 正慧眼 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 正见不邪 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 正见不 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 见不邪 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 信佛正法 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 信佛正 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 佛正法 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 入正法道 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 入正法 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 正法道 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 修正法行 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 修正法 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 正法行 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 不堕邪道 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 不堕邪 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 堕邪道 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 常住正念 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 常住正 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 住正念 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 正念清净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 正念清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 念清净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 远离邪师 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 远离邪 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 离邪师 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 不受邪见 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 不受邪 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 受邪见 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 持戒清净 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 持戒清 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 戒清净 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 无毁禁戒 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 无毁禁 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 毁禁戒 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 戒体清净 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 戒体清 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 体清净 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 持戒不犯 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 持戒不 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 戒不犯 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 持戒无缺 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 持戒无 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无缺 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 戒无缺 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 持戒不动 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 不动 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 戒不动 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 戒香普薰 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 戒香普 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 戒光明净 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 戒光明 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 光明净 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 戒行圆满 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 戒行圆 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 行圆满 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 戒行善成 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 戒行善 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 行善成 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 不犯小戒 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 不犯小 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 犯小戒 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 不犯轻戒 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 不犯轻 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 犯轻戒 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 清净戒品 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 清净戒 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 净戒品 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 解脱困苦 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 解脱困 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 脱困苦 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 无饥渴苦 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无饥渴 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 饥渴苦 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无寒热苦 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无寒热 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 寒热苦 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无蚊虻蛇蚁 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无蚊虻 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 虻蛇蚁 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无忧恼苦 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无忧恼 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 忧恼苦 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身心安乐 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身心安 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 心安乐 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 得安稳处 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 得安稳 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 安稳处 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 安乐无忧 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 安乐无 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 乐无忧 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 得安隐住 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 得安隐 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 安隐住 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 离诸苦患 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 离诸苦 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸苦患 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 离逼迫苦 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 离逼迫 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 逼迫苦 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无逼恼处 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无逼恼 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 逼恼处 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 安隐乐住 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 安隐乐 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 隐乐住 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无难可忧 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无难可 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 难可忧 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 安隐无患 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 安隐无 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 隐无患 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 饭食自然 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 衣服随念 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 衣服随 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 服随念 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣食无乏 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 衣食无 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 食无乏 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 食具自然生 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 食具自 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 衣具自然生 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 衣具自 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 饭食易得 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 饭食易 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 易得 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 食易得 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 衣食适身 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 衣食适 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 食适身 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 自然宝衣 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 然宝衣 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 自然妙食 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 自然妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 然妙食 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝衣自现 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝衣自 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 衣自现 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝食自生 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝食自 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 食自生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 食具遍满 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 食具遍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 具遍满 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 衣物清净 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 衣物清 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 物清净 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 忏悔清净 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 忏悔清 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 悔清净 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 忏除罪障 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 忏除 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 忏除罪 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 罪障 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 罪障 | 卷九 | 39 | — | — | missing_source | 未逐条复核 |
+| 除罪障 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 破恶生善 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 破恶生 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 恶生善 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 忏悔灭罪 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 忏悔灭 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 悔灭罪 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 懺罪得净 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 懺罪得 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 罪得净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 懺悔无垢 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 懺悔无 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 悔无垢 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 懺悔令清净 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 懺悔令 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 令清净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 息灭罪根 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 息灭 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 息灭罪 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 灭罪根 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 离恶得安 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 离恶得 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 恶得安 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 忏心安乐 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 忏心安 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 忏除不善 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 忏除不 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 除不善 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 度脱众苦 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 度脱众 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 脱众苦 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 解脱病苦 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 解脱病 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 脱病苦 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 救诸疾病 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 救诸疾 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 诸疾病 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 病皆消除 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 病皆消 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 皆消除 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无病安乐 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无病 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无病安 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 病安乐 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 天年常满 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 天年 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 天年常 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 年常满 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 长寿无病 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 长寿无 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 寿无病 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 离诸病患 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 离诸病 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 诸病患 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 离灾离厄 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 离灾离 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 灾离厄 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 离诸横死 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 离诸横 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸横死 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无横死患 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无横死 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 横死患 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无一切病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无一切 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 一切病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 病苦悉离 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 病苦悉 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 苦悉离 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无诸夭折 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无诸夭 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 诸夭折 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 得寿延长 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 得寿延 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 寿延长 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 得寿命长久 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 得寿命 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 得寿乐住 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 得寿乐 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 寿乐住 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无病安住 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 病安住 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 无苦无病 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无苦无 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 苦无病 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药师琉璃光如来 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 药师 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 药师 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 药师琉 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 光如来 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 药师如来 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 药师如 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 师如来 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 药师佛 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 药师琉璃光佛 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 璃光佛 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 大医王佛 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 大医王 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 医王佛 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 医王善逝 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 医王善 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 王善逝 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 药王善逝 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 药王善 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药上善逝 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 药上善 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 上善逝 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药王光如来 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 药王光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药上光如来 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 药上光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 大医王如来 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 王如来 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 善逝琉璃光 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 善逝琉 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃光王 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 璃光王 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃光师 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 璃光师 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 琉璃师 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 璃师佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大悲医王 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 大悲医 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 悲医王 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无上医王 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 无上医 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 上医王 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 大医上佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大医上 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 医上佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大医上如来 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 上如来 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 诸病医王 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 诸病医 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 病医王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大施疗者 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大施 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大施疗 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 施疗者 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无尽光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无尽光佛（药师变称） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无尽光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 尽光佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大光佛（药师语境） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大光 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大光 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 大清净光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大清 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大清净 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃清如佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 琉璃清 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 如佛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 清如佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 清凉光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清凉光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 凉光佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无垢光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无垢光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 垢光佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日光药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日光药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月光药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月光药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 上药王佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 上药王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药王佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 上药上佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 上药上 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药上佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无垢光药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清凉光药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无忧药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无忧药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无病药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无病药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 寿命药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 寿命药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 延命药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 延命 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 延命 | 卷十五 | 80 | — | — | missing_source | 未逐条复核 |
+| 延命药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 吉祥药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 吉祥 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 吉祥药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无畏药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无畏 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无畏药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大悲药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大悲药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大愿药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大愿药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大医药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大医药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无尽寿药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无尽寿 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大光药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大光药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 普照药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 普照药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 普明药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 普明药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 普净药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 普净药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 普慧药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 普慧药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 善慧药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 善慧 | 卷六 | 42 | — | — | missing_source | 未逐条复核 |
+| 善慧药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 善吉药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 善吉药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝光药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝光药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝明药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝明药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝净药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝净药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝智药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝智药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝王药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝王药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 禅光药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 禅光药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 禅明药师佛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 禅明药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝塔药方 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝塔药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 塔药方 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 医方王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 十方医王 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 十方医 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 方医王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大师医王 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大师 | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 大师医 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 师医王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 医家大圣 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 医家大 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 家大圣 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 治疗诸病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 治疗诸 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 疗诸病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 破除疾病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 破除疾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除疾病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 治愈众病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 治愈众 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愈众病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 解诸患病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 解诸 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 解诸患 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸患病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药草随生 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药草随 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 草随生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药王树 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药王香 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药灌顶 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 灌顶 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 灌顶 | 卷十三 | 45 | T1911 卷首“门人灌顶记”可复查臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 药师七佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 药师七 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 师七佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药师宝刹 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师宝刹 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药师净域 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师净域 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药师净界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 师净界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药师化生 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师化 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师化生 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 大药王界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 大药王 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药王界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药王国土 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药王国 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 王国土 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药香遍国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药香遍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药气普熏 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药气普 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 出药供具 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 出药供 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药供具 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药光普照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药光普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 青琉璃光 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 青琉璃 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃明界 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 琉璃明 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 璃明界 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 藥師佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 藥師 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 師佛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 藥師如來 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 藥師如 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 如來 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 師如來 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藥師琉璃光佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 藥師琉 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藥師琉璃光如來 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 光如來 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 瑠璃光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 瑠璃 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 瑠璃光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 醫王佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 醫王 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 醫王如來 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 醫王如 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 王如來 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藥王佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 藥王 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 上藥王佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 上藥 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 上藥王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 無垢光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 無垢光佛（药师语境） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 無垢 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 無垢光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 淨光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 淨光佛（药师语境） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 淨光 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无垢醫王 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无垢醫 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 垢醫王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大醫王 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 大醫 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大愈醫佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大愈 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大愈醫 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 醫佛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 愈醫佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大醫世尊 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大醫世 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 醫世尊 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大藥師佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 大藥 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大藥師 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 瑠璃界佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 瑠璃界 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 界佛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 璃界佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 瑠璃王佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 瑠璃王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 璃王佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 大光醫王 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 大光醫 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 光醫王 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 明光藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 明光藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 吉祥藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 吉祥藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 無畏藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 無畏 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 無畏藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 延命藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 延命藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 長壽藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 長壽藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 解病藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 解病 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 解病藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 破病藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 破病 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 破病藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 消災藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 消災藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 除厄藥師佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 除厄 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 除厄藥 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 消災延壽佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 消災延 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 壽佛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 延壽佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 延壽光佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 延壽光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 壽光佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 青琉璃世界 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 净琉璃界 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 净琉璃 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 琉璃光界 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 璃光界 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃国土 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 琉璃国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 璃国土 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃宝界 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 琉璃宝 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 璃宝界 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃光明界 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 七宝琉璃地 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 七宝琉 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃地 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃清净地 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清净地 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃明净界 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 明净界 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃妙色国 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 琉璃妙 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 妙色国 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃宝土 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 宝土 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 璃宝土 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 世界如琉璃 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 世界如 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 国土如琉璃 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 国土如 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃遍照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 琉璃遍 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 璃遍照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 琉璃光色 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 璃光色 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 琉璃光照十方 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 琉璃光妙色 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光妙色 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 琉璃清净光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明无边 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 明无边 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无量智慧光 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无量智 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无量无边光 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 无量无 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 无边光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 遍照十方光 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清净光明 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 净光明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 净光普照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 净光普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 破暗光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身光炽然 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身光炽 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光炽然 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 破闇显明 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 破闇显 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 闇显明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光明朗彻 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明朗 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明朗彻 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光照普明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光照普 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 照普明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光照界内外 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 界内外 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光色映国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光色映 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 色映国 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光如宝镜 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光如宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光不动摇 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光不 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光不动 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 动摇 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 不动摇 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光辉炽盛 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光辉炽 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 辉炽盛 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光耀世界 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光耀世 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 耀世界 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光明满国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光明满 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明满国 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地无丘陵 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地无丘 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 丘陵 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无丘陵 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地皆平等 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地皆平 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 皆平等 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地若宝镜 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地若宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 若宝镜 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地作琉璃色 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 地作琉 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃色 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 地无荆棘 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地无荆 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 荆棘 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无荆棘 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无瓦砾石 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 无瓦 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 无瓦砾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 砾石 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 瓦砾石 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 柔软宝地 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 柔软宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 软宝地 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地如天锦 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地如天 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 天锦 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 如天锦 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地出宝光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地出宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 出宝光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地色明净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地色明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 色明净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地若金刚 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地若金 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 若金刚 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地光朗然 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地光朗 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光朗然 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地华香洁 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地华香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 华香洁 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 随步生华 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 随步生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 步生华 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 脚触生花 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 脚触生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 触生花 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地华遍国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地华遍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地如瑠璃 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 地如瑠 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 如瑠璃 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 地明彻净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 地明彻 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 明彻净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 七宝树 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 宝树放光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树放 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树放光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝树香气 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 树香气 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝树影交辉 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝树影 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝树无量 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树无 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树无量 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝树化音 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝树化 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树化音 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝林普现 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝林普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 林普现 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝林互照 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝林互 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 林互照 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 树风宣法 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 树风宣 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树风香洁 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 树风香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 风香洁 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 树风清凉 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 风清凉 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 树枝放光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 树枝放 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 枝放光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树上宝盖 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 树上宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 上宝盖 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树有宝珠 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 树有宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝珠 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝珠 | 卷九 | 42 | — | — | missing_source | 未逐条复核 |
+| 有宝珠 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝华树 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝香树 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝花树 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝叶散花 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝叶散 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 叶散花 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝华遍国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝华遍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 树放宝音 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 树放宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 放宝音 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 树吐妙香 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 树吐妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 吐妙香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝池清净 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝池清 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池清净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝池光明 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝池光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池光明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝池微妙 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝池微 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池微妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池水八音 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 池水八 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 八音 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 水八音 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池水柔和 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池水柔 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 水柔和 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池水清凉 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池水清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 水清凉 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池底金沙 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 底金沙 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 池底珠宝 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池底珠 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 珠宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 底珠宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池中莲华 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 池中莲 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 中莲华 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池上宝盖 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 池上宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池边宝树 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 池边宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 边宝树 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝池庄严 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝池庄 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池庄严 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池中光影 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池中光 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 中光影 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池水映光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池水映 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 水映光 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池水妙香 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池水妙 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 水妙香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池水散花 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池水散 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 水散花 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 池水随念起音 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 池水随 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 念起音 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝池宝音 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝池宝 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 池宝音 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝盖重重 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝盖重 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 重重 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 盖重重 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝盖垂珠 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝盖垂 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 盖垂珠 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝盖行列 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝盖行 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 盖行列 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝盖放光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝盖放 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 盖放光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝盖覆国 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝盖覆 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 覆国 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 盖覆国 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝盖宣法音 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝盖宣 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宣法音 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝盖出香 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝盖出 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 盖出香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝铃清音 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝铃清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 铃清音 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝音宣法 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝音宣 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝音演妙 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝音演 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 演妙 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 音演妙 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝音遍国 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝音遍 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 音遍国 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝音清净 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝音清 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 音清净 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝音柔和 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝音柔 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 音柔和 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝风散香 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝风散 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 风散香 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝光照界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝光照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 清净药界 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 清净药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 净药界 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药师净国 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 师净国 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃净界 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 琉璃净 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 璃净界 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 清净光界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 净光界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 宝光净界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝光净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光净界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明净药界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 明净药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光净药界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光净药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明净药国 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 净药国 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光遍照菩萨 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 日光遍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 照菩萨 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日光菩萨 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 日光菩 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光菩萨 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日曜光菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日曜光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日照菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日照菩 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日明菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日明菩 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 明菩萨 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日光遍照王 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 照王 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 遍照王 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 身如日轮 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身如日 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 如日轮 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光如日色 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光如日 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 如日色 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光明遍照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 明遍照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 放大日光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 放大日 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 大日光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日轮光明 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日轮光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 轮光明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 身放日光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身放日 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 放日光 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光照国 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日光照 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光照国 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光普照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日光普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日色光明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日色光 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 色光明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 手持莲花 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手持莲花（赤色） | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手持 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 手持莲 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 莲花 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 持莲花 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 持宝珠 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 持宝珠（暖色） | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 持宝 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 持宝 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 持日轮 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 背光呈日轮型 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 背光呈 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 日轮型 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身色赤金 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 身色赤 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 色赤金 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 日轮宝冠 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日轮宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝冠 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝冠 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 轮宝冠 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 日辉环绕 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 日辉环 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 辉环绕 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 日光放射纹 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 日光放 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 放射纹 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 日光王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日照王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日明王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 明王 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 日光尊 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 居左侍者 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 居左侍者（药师三尊） | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 居左侍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 左侍者 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 左侍日光 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 左侍日 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 侍日光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日侍者 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日光侍者 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日光侍 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 光侍者 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日光立像 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日光立 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光立像 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光坐像 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日光坐 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光坐像 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光手印 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日光手印（施愿型） | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日光手 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 手印 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 光手印 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 日光与月光并列 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 日光与 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光并列 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日光大士 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日光大 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 光大士 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日曜大士 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 日曜大 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 曜大士 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 日明大士 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日明大 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明大士 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日照大士 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日照大 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 照大士 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光普照大士 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日照普明大士 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日照普 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 日遍照大士 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日遍照 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 月光遍照菩萨 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 月光遍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月光菩萨 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 月光菩 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月曜光菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月曜光 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月明菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月明菩 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月照菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月照菩 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月光遍照王 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 身如月轮 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 身如月 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 如月轮 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光如月色 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光如月 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 如月色 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月轮清净 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月轮清 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 轮清净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月光普照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光普 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月色柔明 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月色柔 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 色柔明 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 月光清凉 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光清 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光清凉 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月光遍照 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光柔和 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月光柔 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 光柔和 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 手持白莲 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手持白 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 持白莲 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 持宝珠（冷色） | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 持月轮 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 背光呈月轮型 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月轮型 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 身色白银 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 身色白 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 色白银 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 月轮宝冠 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月轮宝 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 月辉环绕 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 月辉环 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 月光放射纹 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 月光放 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 月光王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月照王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月明王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光尊 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 居右侍者 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 居右侍者（药师三尊） | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 居右侍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 右侍者 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 右侍月光 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 右侍月 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 侍月光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月侍者 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月光侍者 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月光侍 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月光立像 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光立 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月光坐像 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光坐 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月光手印 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月光手印（施愿型） | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月光手 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 日月并侍 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 日月并 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月并侍 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月光大士 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月光大 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月曜大士 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 月曜大 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 月明大士 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月明大 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月照大士 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月照大 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月光普照大士 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月照普明大士 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月照普 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 月遍照大士 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 月遍照 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 日光月光二菩萨 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 日光月 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 日侍・月侍 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 日侍・ | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| ・月侍 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 日光左侍・月光右侍 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 日光左 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 光右侍 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 宫毘罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 宫毘罗（宫毘罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 伐折罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 伐折罗（伐折罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 折罗 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 密迹金刚 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 密迹金刚（迷企罗） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 密迹金 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 迹金刚 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 安底罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 安底罗（安底罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 摩虎罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 摩虎罗（摩虎罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 真达罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 真达罗（真达罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 招杜罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 招杜罗（招杜罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 毗羯罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 毗羯罗（毗羯罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 薜茧罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 薜茧罗（薜茧罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 因达罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 因达罗（因达罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 波夷罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 波夷罗（波夷罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 摩揭罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 摩揭罗（摩揭罗大将） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 宫毗罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 宮比罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 伐阇罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 跋折罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 跋折罗 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 跋折 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 密迹将 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 安陀罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 安提罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 摩诃罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 摩呼罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 真陀罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 真多罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 招提罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 招度罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 毗羯罗将 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 羯罗将 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 毗迦罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 薜羯罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 薜伽罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 因陀罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 因怛罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 波夷罗将 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 夷罗将 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 波伊罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 摩竭罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 摩羯罗 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 十二药叉 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 十二 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 十二药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 二药叉 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 十二药叉大将 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 叉大将 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 十二神将 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 十二神 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 二神将 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 十二大将 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 十二大 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 二大将 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藥叉十二将 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 藥叉十 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 十二将 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藥师十二将 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 藥师 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 藥师十 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 護国十二将 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 護国十 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 保国药叉 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 保国药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 国药叉 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 藏地称“纳伽十二将” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏地称 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 二将” | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 十二勇将 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 十二勇 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 二勇将 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药叉将军 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药叉将 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 叉将军 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药叉守护 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药叉守 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 叉守护 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 護持药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 護持药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 守护药师佛教法 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 守护药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 教法 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 佛教法 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 護持持咒者 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 護持持 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 咒者 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 持咒者 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 随念即至 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 念即至 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 不令横死 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 不令横 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 令横死 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除诸灾障 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 除诸 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 除诸灾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸灾障 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除病灭苦 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 除病 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 除病灭 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 灭苦 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 病灭苦 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 救离病苦 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 救离病 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 离病苦 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 随请即到 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 随请即 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 请即到 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 救护众生 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 救护众 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 护众生 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 護持国界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 護持国 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 持国界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 藏兵众千万 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏兵众 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 众千万 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 藏兵守护 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏兵守 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 兵守护 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 常随药师 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 常随药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 随药师 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 共发大誓愿 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 共发大 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 大誓愿 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 誓护药师佛愿 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 誓护药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师佛愿 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿力救众生 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿力救 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 救众生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 護持念佛者 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 護持念 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 念佛者 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 善护四众 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 善护四 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 护四众 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 共守药师国土 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 共守药 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师国土 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 藏神兵众 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏神兵 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 神兵众 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 遍守东方世界 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 遍守东 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 方世界 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 護国保界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 護国保 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 国保界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 保命延寿 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 保命延 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 延寿 | 卷十五 | 75 | — | — | missing_source | 未逐条复核 |
+| 命延寿 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 救难度厄 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 救难度 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 难度厄 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除横死厄 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 除横死 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 横死厄 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除灾障难 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 除灾 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 除灾障 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除灾障 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 灾障难 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 破诸恶鬼 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 破诸 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 破诸恶 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸恶鬼 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除诸恶病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 除诸恶 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸恶病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 保佑众生 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 保佑众 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 佑众生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 救护病患 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 救护病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 护病患 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无不至者 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 无不至 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 不至者 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 怒目相 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 怒目 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 怒目 | 卷五 | 35 | — | — | missing_source | 未逐条复核 |
+| 目相 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 甲胄武装 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 甲胄武 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 胄武装 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 护法武士相 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 护法武 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 武士相 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 手持宝杵 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手持宝 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 持宝杵 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 手持宝剑 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 持宝剑 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 手持三叉戟 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手持三 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 三叉戟 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 手持蛇 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手持蛇（摩虎罗特征） | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 护法姿态 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 护法姿 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 姿态 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 法姿态 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 合掌（守愿式） | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 跪侍药师佛前 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 跪侍药 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 师佛前 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 两旁武士像 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 两旁武 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 武士像 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 十二像并列 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 十二像 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 像并列 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 头戴武士冠 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 头戴 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 头戴武 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 士冠 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 武士冠 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 兽面像 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 兽面像（少见） | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 兽面 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 面像 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 狮子肩饰 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 狮子 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 狮子肩 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 肩饰 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 肩饰 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 子肩饰 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 披甲披帛 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 披甲 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 披甲披 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 披帛 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 披帛 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 甲披帛 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 手托日月图案 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 手托日 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 月图案 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 蛇络肩 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 地藏像旁出现十二神将 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 地藏 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 地藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 地藏 | 卷九 | 42 | — | — | missing_source | 未逐条复核 |
+| 地藏像 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 药师前列侍者军 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 药师前 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 者军 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 侍者军 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 侍立二将 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 侍立二 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 立二将 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 四武士侍药师 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 四武 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 四武士 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 侍药师 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 身后火焰光 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 身后 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 身后火 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 焰光 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 焰光 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 火焰光 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 火焰光 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 兽头（麒麟型） | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 善相武士 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 善相 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 善相武 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 武士 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 相武士 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 大力士相 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 大力 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 大力 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大力士 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 力士相 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 曼陀罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 曼陀罗（mandala） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 罗刹（rāja / rakṣa） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 娑缚诃 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 娑缚诃（svāhā） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 娑缚 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 缚诃 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 婆誐（bhagā） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 跋折罗（vajra） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 跋折罗（vajra） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 阿伽（āgā） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 伽罗（kāra） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三曼多 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三曼多 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 三曼多（samanta） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三曼多（samanta） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 三曼 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 曼多 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 娑波罗 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 娑波罗（svara） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 罗阇（rāja） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 枳尼（jñāna） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 颇啰耶 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三多（sānta） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿缚悉地 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿缚悉地（ava-siddhi） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿缚悉 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 悉地 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 缚悉地 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 三藐（samyak） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三菩陀 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三菩陀（sambuddha） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 呵罗诃 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 呵罗诃（haraha） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 三拔（sambhava） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 婆卢吉帝 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 婆卢吉帝（bhṛgu-） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 婆卢吉 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 卢吉帝 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 摩诃般荼 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 诃般荼 | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 南无（namo） | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 薄伽伐帝 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 薄伽伐帝（bhagavate） | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 薄伽伐 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 伐帝 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 伽伐帝 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 鞞杀社 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 鞞杀社（bhaiṣajya） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 窭噜（guru / jura） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 薜琉璃 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 薜琉璃（vaidurya） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 跋喇婆 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 跋喇婆（varāha） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 跋喇 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 喇婆 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 娑婆诃 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 娑婆诃 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 娑婆诃（svāhā） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 娑婆 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 婆诃 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 婆伽（bhaga） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 梨迦（rīka） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 囉乞（lakṣa） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 薜卢（“琉璃”异写） | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 缚日啰 | 卷四 | — | — | — | missing_source | 未逐条复核 |
+| 伐日啰 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 伐日啰（vajra） | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 伐日 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 日啰 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 波利（pari） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 三曼陀 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 三曼陀（samanta） | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 跋罗叉 | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 跋罗叉（rakṣa） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| 半那（三昧耶） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 波罗尼 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 波罗尼（bhāraṇī） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 秘萨（piṣa） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明焰熾 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光明焰 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明焰熾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 破除病苦 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 破除病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除病苦 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 扫除冤障 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 扫除冤 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除冤障 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 消灾延寿 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 消灾延寿 | 卷十五 | 80 | — | — | missing_source | 未逐条复核 |
+| 消灾 | 卷十五 | 48 | — | — | missing_source | 未逐条复核 |
+| 消灾延 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 消灾延 | 卷十五 | 48 | — | — | missing_source | 未逐条复核 |
+| 灾延寿 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 灾延寿 | 卷十五 | 48 | — | — | missing_source | 未逐条复核 |
+| 度脱众病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 脱众病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 解诸倒见 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 解诸倒 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸倒见 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 除无明暗 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 除无 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 除无明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 无明暗 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 发大誓愿 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 发大誓 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿度众生 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿度众 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 度众生 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 度众生 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 救拔重苦 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 救拔重 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 拔重苦 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 离诸灾横 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 离诸灾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸灾横 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 娑縛訶 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 娑縛訶（svāhā） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 娑縛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 縛訶 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 娑嚩訶 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 娑嚩 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 嚩訶 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 娑嚩賀 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 嚩賀 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 伐闍羅 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伐闍羅（vajra） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伐闍 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 闍羅 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 跋闍羅 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 跋闍 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 跋闍 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 鞞杀枳 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 鞞杀枳（bhaiṣajī） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 杀枳 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 鞞萨遮 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 鞞萨 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 萨遮 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 伐日羅 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日羅 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 跋日羅 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 跋日 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 薜嚧（vaidurya） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 婆嚧（bhag） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 婆伽嚧 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伽嚧 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 吽字 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 吽字（单字） | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 吽字光 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 字光 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 吽字周法界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 吽字周 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 周法界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| bhaṃ | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| bha | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| haṃ | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| bhai | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| hai | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| jaṃ | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| raṃ | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| ra | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| hūṃ | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| hrīḥ | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| hrīḥ（或 hrih） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| hrī | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| rīḥ | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| trāḥ | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| trā | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| rāḥ | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| phaṭ | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| pha | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| haṭ | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| oṃ（嗡） | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| svāhā | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| svāhā（娑婆诃） | 卷四 | 80 | — | — | missing_source | 未逐条复核 |
+| svā | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| āhā | 卷四 | 48 | — | — | missing_source | 未逐条复核 |
+| 鞞杀枳罗 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “鞞杀枳罗” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 枳罗 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 杀枳罗 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 鞞杀社吉 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “鞞杀社吉” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 社吉 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 杀社吉 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 跋折罗萨埵 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “跋折罗萨埵” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 萨埵 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 萨埵 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 罗萨埵 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药师真言 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “药师真言” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 药师真 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 真言 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 师真言 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| “药师咒” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “光明真言”误入药师文脉 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “光 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| “光明 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 文脉 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 师文脉 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| “悬病咒”与药师并见 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “悬病 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 师并见 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 消灾延寿咒 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “消灾延寿咒” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 延寿咒 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| “延寿咒” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 平安咒 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| “平安咒” | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 药王咒 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “药王咒” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝光真言 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “宝光真言” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 宝光真 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 光真言 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日光真言 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “日光真言” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 日光真 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 月光真言 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “月光真言” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 月光真 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明咒 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 大明咒 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 多罗尼 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 呪文 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 呪愿 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 咒愿 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 一切如来心咒 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 一切如来心咒（非药师需判别） | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 一切如 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 来心咒 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛顶心咒 | 卷四 | -20 | — | — | missing_source | 未逐条复核 |
+| 佛顶心咒（需排除） | 卷四 | -20 | — | — | missing_source | 未逐条复核 |
+| 地藏心咒 | 卷四 | -20 | — | — | missing_source | 未逐条复核 |
+| 地藏心咒 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 地藏心咒（排除） | 卷四 | -20 | — | — | missing_source | 未逐条复核 |
+| 愿脱病苦 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿脱病苦” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿脱病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿除灾障 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿除灾障” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿除灾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿灭诸横 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿灭诸横” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿灭诸 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 灭诸横 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿得安宁 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “愿得安宁” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿得安 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 得安宁 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 愿得长生 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿得长生” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿得长 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 得长生 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿离恶病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿离恶病” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿离恶 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 离恶病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿寿延年 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿寿延年” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿寿延 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 寿延年 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿息灾患 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “愿息灾患” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿息灾 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 息灾患 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 愿获吉祥 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| “愿获吉祥” | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿获吉 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 获吉祥 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿国泰民安 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| “愿国泰民安” | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿国泰 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 泰民安 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 敬造药师像 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “敬造药师像” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 药师像 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 为治病 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “为治病” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 为息病 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “为息病” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 为疗疾 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “为疗疾” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 为眷属病 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “为眷属病” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 为眷 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 为眷属 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 属病 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 眷属病 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 敬造药师佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “敬造药师佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 敬造琉璃光佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “敬造琉璃光佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 敬造琉 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 敬造东方佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “敬造东方佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 敬造东 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 东方佛 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师供养 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “药师供养” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 药师供 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 师供养 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药师长寿 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “药师长寿” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师长 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师长寿 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药师延命 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “药师延命” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师延 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 师延命 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 为父母延寿 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| “为父母延寿” | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 为父 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 母延寿 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 敬造日光月光 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “敬造日光月光” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 敬造日 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 光月光 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “藥师佛”古隶写 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “藥师 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 古隶写 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 藥師彿 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “藥師彿” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 藥師仏 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “藥師仏” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 鞞杀佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “鞞杀佛” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 鞞杀社佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “鞞杀社佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 杀社佛 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 鞞杀枳佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “鞞杀枳佛” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 杀枳佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 薜琉璃佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “薜琉璃佛” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 琉璃佛 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 薜璃光佛 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “薜璃光佛” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 薜璃光 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 毘卢璃佛 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “毘卢璃佛” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 毘卢 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 毘卢璃 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 卢璃佛 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 东方彿 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “东方彿” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 东方 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 东方佛主 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “东方佛主” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 方佛主 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| “药王佛” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “大医王佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “大医王” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 东方琉璃 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “东方琉璃” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 东方琉 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 方琉璃 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 琉璃光主 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “琉璃光主” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 璃光主 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 琉璃光王佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “琉璃光王佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 光王佛 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师道场 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师道 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 道场 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 道场 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 师道场 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 药师坛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药师法会 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师法 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 法会 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 师法会 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药师忏 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 琉璃光法会 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光法会 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 七佛药师 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 七佛药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 佛药师 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药师曼荼罗 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 药师曼 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 荼罗 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 荼罗 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 曼荼罗 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 曼荼罗 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 琉璃曼荼罗 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 琉璃曼 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 东方曼荼罗 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 东方曼 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 药师护摩 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师护 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 护摩 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 师护摩 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药叉坛 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 叉坛 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 药叉护持 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 药叉护 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 叉护持 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 日月曼荼罗 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 日月曼 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 药师火供 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师火 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 火供 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 师火供 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 地方称“东方天界佛” | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 地方称 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 界佛” | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 东方清净界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “东方清净界” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 东方清 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 清净界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 东方琉璃世界 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “东方琉璃世界” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 光照东方界 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “光照东方界” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 光照东 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 东方界 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 东方明净土 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “东方明净土” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 东方明 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 明净土 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 东方净土王 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “东方净土王” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 东方净 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 净土王 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 东方琉璃国土 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “东方琉璃国土” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 弟子某甲发心造像 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “弟子某甲发心造像” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 心造像 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 信士某甲敬造佛像一龛 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “信士某甲敬造佛像一龛” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 信士 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 信士某 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 像一龛 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 女弟子某氏谨舍净财造佛一尊 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “女弟子某氏谨舍净财造佛一尊” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 女弟 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 佛一尊 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 为亡父/亡母/亡亲敬造佛像一身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 一身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 像一身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同宅眷属合家发心造像 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “同宅眷属合家发心造像” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同宅 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同宅眷 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 与同政某氏合造佛像若干身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “与同政某氏合造佛像若干身” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 与同 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 与同政 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 干身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 若干身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同愿众善弟子造佛一龛 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “同愿众善弟子造佛一龛” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同愿 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同愿众 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 佛一龛 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 今者命工开岩镌造 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “今者命工开岩镌造” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 今者 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 今者命 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 镌造 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 岩镌造 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 就院镌造圣像一身 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “就院镌造圣像一身” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 就院 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 就院镌 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 命匠雕刻妆銮圣容 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “命匠雕刻妆銮圣容” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 命匠 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 命匠雕 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 圣容 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 銮圣容 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 谨发诚心镌造某佛一龛 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| “谨发诚心镌造某佛一龛” | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 谨发 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 谨发诚 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 谨舍衣粮若干造像供养 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| “谨舍衣粮若干造像供养” | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 谨舍 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 谨舍衣 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 像供养 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 以某年某月修斋表庆讫 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “以某年某月修斋表庆讫” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 以某 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 以某年 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 庆讫 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 表庆讫 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 永为瞻仰供养 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “永为瞻仰供养” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 永为 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 永为瞻 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 仰供养 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 永为后世瞻礼 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “永为后世瞻礼” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 永为后 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 瞻礼 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 世瞻礼 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 伏愿三宝鉴兹诚心 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| “伏愿三宝鉴兹诚心” | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 伏愿 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 伏愿三 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 诚心 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 兹诚心 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 愿以此功德 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿以此功德” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿以 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿以此 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 此功德 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同沾法利 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| “同沾法利” | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同沾 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 同沾法 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 法利 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 沾法利 | 卷四 | 10 | — | — | missing_source | 未逐条复核 |
+| 伏愿诸病消除 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “伏愿诸病消除” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伏愿诸 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 病消除 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 伏愿疾疫不侵 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “伏愿疾疫不侵” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伏愿疾 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 疫不侵 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 伏愿瘟疫远离 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “伏愿瘟疫远离” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伏愿瘟 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 疫远离 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 伏愿饥荒不起 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “伏愿饥荒不起” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 伏愿饥 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 荒不起 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 伏愿一切灾障消灭 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “伏愿一切灾障消灭” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 伏愿一 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 障消灭 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿诸病苦悉得解脱 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| “愿诸病苦悉得解脱” | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 愿诸病 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 得解脱 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 愿离一切重病轻病 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| “愿离一切重病轻病” | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 愿离一 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 病轻病 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 愿身心清凉无诸苦患 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿身心清凉无诸苦患” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿身心 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿现世长寿安稳 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| “愿现世长寿安稳” | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 愿现世 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 寿安稳 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 愿寿命延长无诸横死 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “愿寿命延长无诸横死” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 愿寿命 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 愿远离刀兵水火之灾 | 卷四 | 50 | — | — | missing_source | 未逐条复核 |
+| “愿远离刀兵水火之灾” | 卷四 | 50 | — | — | missing_source | 未逐条复核 |
+| 愿远离 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 火之灾 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿除宿殃恶业病缘 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| “愿除宿殃恶业病缘” | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 愿除宿 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 业病缘 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 愿诸鬼神不为恼害 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “愿诸鬼神不为恼害” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿诸鬼 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 为恼害 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 愿诸冤家债主解怨释结 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “愿诸冤家债主解怨释结” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿诸冤 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 怨释结 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 愿父母眷属身心安乐 | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| “愿父母眷属身心安乐” | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| 愿父母 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 愿现世所求遂意 | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| “愿现世所求遂意” | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| 求遂意 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 愿身田清爽 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿身田清爽” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿身田 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 田清爽 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿寿算遐昌 | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| “愿寿算遐昌” | 卷四 | 55 | — | — | missing_source | 未逐条复核 |
+| 愿寿算 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 算遐昌 | 卷四 | 33 | — | — | missing_source | 未逐条复核 |
+| 愿眷属康宁 | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| “愿眷属康宁” | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| 愿眷属 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 属康宁 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 愿门阖昌盛 | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| “愿门阖昌盛” | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| 愿门阖 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 阖昌盛 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 愿灾星退舍福曜进宫 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| “愿灾星退舍福曜进宫” | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 愿灾 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 愿灾星 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 进宫 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 曜进宫 | 卷四 | 27 | — | — | missing_source | 未逐条复核 |
+| 伏愿福寿双增 | 卷四 | 50 | — | — | missing_source | 未逐条复核 |
+| “伏愿福寿双增” | 卷四 | 50 | — | — | missing_source | 未逐条复核 |
+| 伏愿福 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 寿双增 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 设药师斋 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| “设药师斋” | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 设药师 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 药师斋 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 修药师法会 | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| “修药师法会” | 卷四 | 60 | — | — | missing_source | 未逐条复核 |
+| 修药师 | 卷四 | 36 | — | — | missing_source | 未逐条复核 |
+| 修药师忏法 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “修药师忏法” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 忏法 | 卷四 | 5 | — | — | missing_source | 未逐条复核 |
+| 师忏法 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 建药师道场 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “建药师道场” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 建药师 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 建东方琉璃道场 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “建东方琉璃道场” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 建东方 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 璃道场 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 修斋表庆 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| “修斋表庆” | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 修斋 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 修斋表 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 表庆 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 斋表庆 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 修水陆斋 | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| “修水陆斋” | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| 修水 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 修水陆 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 陆斋 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 水陆斋 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 修忏悔业障法会 | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| “修忏悔业障法会” | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| 修忏 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 修忏悔 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 障法会 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 昼夜烧香礼拜 | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| “昼夜烧香礼拜” | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| 昼夜 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 昼夜烧 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 礼拜 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 香礼拜 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 昼夜读诵药师经 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “昼夜读诵药师经” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 昼夜读 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师经 | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| 书写药师经一部 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “书写药师经一部” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 书写药 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 经一部 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 诵持药师名号若干遍 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “诵持药师名号若干遍” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 诵持药 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 若干遍 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 命僧转读药师经 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “命僧转读药师经” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 命僧转 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 悬幡供养药师佛 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “悬幡供养药师佛” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 悬幡供 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 燃灯供养东方佛 | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| “燃灯供养东方佛” | 卷四 | 65 | — | — | missing_source | 未逐条复核 |
+| 燃灯供 | 卷四 | 39 | — | — | missing_source | 未逐条复核 |
+| 供养药师七佛 | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| “供养药师七佛” | 卷四 | 75 | — | — | missing_source | 未逐条复核 |
+| 供养药 | 卷四 | 45 | — | — | missing_source | 未逐条复核 |
+| 药师坛上供养诸佛菩萨 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “药师坛上供养诸佛菩萨” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 佛菩萨 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 药师道场中修此法 | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| “药师道场中修此法” | 卷四 | 70 | — | — | missing_source | 未逐条复核 |
+| 修此法 | 卷四 | 42 | — | — | missing_source | 未逐条复核 |
+| 上报四重恩，下济三途苦 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “上报四重恩，下济三途苦” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 上报 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 上报四 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 途苦 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 三途苦 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同证菩提 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “同证菩提” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 同证 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同证菩 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同登觉岸 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “同登觉岸” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 同登 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同登觉 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 觉岸 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 登觉岸 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同入佛会 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “同入佛会” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 同入 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同入佛 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛会 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛会 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 入佛会 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 同入法会 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “同入法会” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 同入法 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 入法会 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿法轮常转 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿法轮常转” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿法 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿法轮 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 常转 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 轮常转 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿佛日增辉 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿佛日增辉” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿佛 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿佛日 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 增辉 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 日增辉 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿法界有情同沾法利 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿法界有情同沾法利” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿法界 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿见闻者皆得度脱 | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| “愿见闻者皆得度脱” | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| 愿见 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 愿见闻 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 得度脱 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 愿有缘众生俱成佛道 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿有缘众生俱成佛道” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿有 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿有缘 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿诸有情离苦得乐 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿诸有情离苦得乐” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿诸有 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 得乐 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 苦得乐 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿现世安乐，后生善处 | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| “愿现世安乐，后生善处” | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| 愿身心安乐，寿命延长 | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| “愿身心安乐，寿命延长” | 卷四 | 40 | — | — | missing_source | 未逐条复核 |
+| 命延长 | 卷四 | 24 | — | — | missing_source | 未逐条复核 |
+| 愿众生身安业乐 | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| “愿众生身安业乐” | 卷四 | 35 | — | — | missing_source | 未逐条复核 |
+| 愿众生 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 安业乐 | 卷四 | 21 | — | — | missing_source | 未逐条复核 |
+| 愿父母现报安宁 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| “愿父母现报安宁” | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 报安宁 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿仰佛威力，业障消除 | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| “愿仰佛威力，业障消除” | 卷四 | 30 | — | — | missing_source | 未逐条复核 |
+| 愿仰 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿仰佛 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 障消除 | 卷四 | 18 | — | — | missing_source | 未逐条复核 |
+| 愿诸冤亲债主各离恶道 | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| “愿诸冤亲债主各离恶道” | 卷四 | 25 | — | — | missing_source | 未逐条复核 |
+| 离恶道 | 卷四 | 15 | — | — | missing_source | 未逐条复核 |
+| 愿世世生生常遇佛法 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿世世生生常遇佛法” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿世 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿世世 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 遇佛法 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 愿诸功德回向法界 | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| “愿诸功德回向法界” | 卷四 | 20 | — | — | missing_source | 未逐条复核 |
+| 愿诸功 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 向法界 | 卷四 | 12 | — | — | missing_source | 未逐条复核 |
+| 毗卢遮那佛 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 毗卢遮那佛（Vairocana） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 毗卢 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 毗卢遮 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 那佛 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 那佛 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 遮那佛 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 遮那佛 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 大日如来 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 大日 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 大日如 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 日如来 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 大光明佛 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 明佛 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 光明佛 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 法界体性佛 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 法界体 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 性佛 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 体性佛 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 毗卢佛 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 卢佛 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 阿閦如来 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿閦如来（Akṣobhya） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿閦 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 阿閦如 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 閦如来 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 不动如来 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 不动如 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 动如来 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 阿阇婆佛 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 阿阇 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 阿阇婆 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 婆佛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 阇婆佛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 阿湿波耶 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 阿湿 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 阿湿波 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 波耶 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 湿波耶 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 蓝色佛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 蓝色佛（青身色） | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 蓝色 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 色佛 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 宝生如来 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 宝生 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 宝生如 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 生如来 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 宝生佛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 生佛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 南方宝生 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 南方 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 南方宝 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 方宝生 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 黄色佛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 黄色 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 阿弥陀如来（密教） | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 西方密佛 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 西方密 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 密佛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 方密佛 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 红色佛 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 红色 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 不空成就如来 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 不空 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 不空成 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 就如来 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 成就佛 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 就佛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 成就尊 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 就尊 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五方佛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 五方 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五智如来 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 五智如 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 智如来 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚界五佛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚界 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五佛 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 界五佛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五大佛 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五大 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大佛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 中台五佛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 中台 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 中台五 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 台五佛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 佛部五佛 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 部五佛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五佛冠 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五佛冠（图像） | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 佛冠 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 五佛光 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五智宝冠 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五智宝 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 智宝冠 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 大圆镜智 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 大圆 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 大圆镜 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 镜智 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 圆镜智 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 平等性智 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 平等性 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 性智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 等性智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 妙观察智 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 妙观 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 妙观察 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 察智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 观察智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 成所作智 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 成所 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 成所作 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 作智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 所作智 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 法界体性智 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 体性智 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 智佛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五智法门 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五智法 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 法门 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智法门 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五段智 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五段 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 段智 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五智如意轮 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 意轮 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五智焰光 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五智焰 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 智焰光 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 五智金刚 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五智金 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智金刚 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五智大日 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 五智大 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 智大日 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 法界智光 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 法界智 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 智光 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 界智光 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 智严 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 智海 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智海 | 卷六 | 42 | 善知识赞词 | — | unresolved_source | 未逐条复核 |
+| 智相 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智境 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智印 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 智印（密教印） | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 智密 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 诸智圆满 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 诸智 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 诸智圆 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 智圆满 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 方便智 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 便智 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 智轮 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智身 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 智地 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚萨埵 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 金刚萨 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 刚萨埵 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 金刚手菩萨 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚手菩萨（Vajrapāṇi） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚手 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 手菩萨 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚幢 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 刚幢 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚王 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 刚王 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚爱菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚爱 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 爱菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚语菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚语 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 语菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚业菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚业 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 业菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚宝菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚宝 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 宝菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚鬘菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚鬘 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 鬘菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚藏菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 藏菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 藏菩萨 | 卷九 | 15 | — | — | missing_source | 未逐条复核 |
+| 金刚药叉菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚药 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 叉菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚铃菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚铃 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 铃菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚拳菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚拳 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 拳菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚笑菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚笑 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 笑菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚语言菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 言菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚焰菩萨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚焰 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 焰菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 十六大菩萨 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 十六大 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大菩萨 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚界十六尊 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 六尊 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 十六尊 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚部十六尊 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 金刚部 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 十六菩萨院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 十六菩 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 萨院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 菩萨院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 初会中院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 初会 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 初会 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 初会中 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 中院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 会中院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚心菩萨 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚心 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 心菩萨 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚顶菩萨 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚顶 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 顶菩萨 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚童子 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 金刚童 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 童子 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 刚童子 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚身 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 刚身 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 萨埵（sattva） | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 三昧耶萨埵 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 耶萨埵 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚大士 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚大 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 刚大士 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚杵持 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 金刚杵 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 杵持 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 刚杵持 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 五股金刚杵 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五股 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 五股金 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 刚杵 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 单股杵 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 单股 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 股杵 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 刚铃 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 杵铃双持 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 杵铃 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 杵铃双 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 双持 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 铃双持 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 金刚拳印 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 拳印 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 刚拳印 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 金刚界忿怒相 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 怒相 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 忿怒相 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 金刚冠 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 刚冠 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 金刚宝光 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 刚宝光 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 金刚界火焰背光 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 焰背光 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 金刚界曼荼罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 金刚界大曼荼罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 三昧耶会 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 耶会 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 昧耶会 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 三昧耶院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 耶院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 昧耶院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 成身会 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 成身 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 身会 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏院 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 胎藏院（作为对举） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 胎藏 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏院 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚部院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 部院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 刚部院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 佛部院 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 佛部院（密） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 莲华部院 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 莲华部院（密） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 莲华部 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 华部院 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚界八供养 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八供养 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 金刚界四印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 四印 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 界四印 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 金刚界坛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 界坛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 刚界坛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚界道场 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 界道场 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五智院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 智院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五曼院 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五曼 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 曼院 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大日堂 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 日堂 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚界供养 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 界供养 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大曼荼罗供养 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 大曼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 大曼荼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 罗供养 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 三密相应 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 三密 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 三密相 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 密相应 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五相成身 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五相 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五相成 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 相成身 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 万字印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 万字印（Svastika） | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 万字 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 字印 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 般若界 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 若界 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 秘密界 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 秘密 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 密界 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 大日如来（胎藏界） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 毗卢遮那 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 毗卢遮那（胎藏） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 遮那 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 遮那 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 卢遮那 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 卢遮那 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 胎藏界大日 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 胎藏界 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 界大日 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 毗卢遮那法身 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 法身 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 那法身 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 毗卢法界身 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 毗卢法 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 界身 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 法界身 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 金刚波罗蜜菩萨 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚波罗蜜菩萨（东） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚波 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 蜜菩萨 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 妙吉祥菩萨（南）/ 妙吉祥 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 妙吉 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 妙吉祥 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 观世音菩萨（西）胎藏名 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 藏名 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏名 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 弥勒菩萨（北）胎藏名 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 弥勒 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 弥勒 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 弥勒菩 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 弥勒菩 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 普贤菩萨 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 普贤菩萨 | 卷六 | 75 | 八十卷华严 | — | unresolved_source | 未逐条复核 |
+| 普贤菩萨（胎藏） | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 普贤菩 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 普贤菩 | 卷六 | 45 | 八十卷华严 | — | unresolved_source | 未逐条复核 |
+| 贤菩萨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 贤菩萨 | 卷六 | 45 | 八十卷华严 | — | unresolved_source | 未逐条复核 |
+| 地藏菩萨 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 地藏菩萨 | 卷九 | 80 | 地藏经 | T0412 | title_catalog_match | 未逐条复核 |
+| 地藏菩萨（胎藏） | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 地藏菩 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 虚空藏菩萨 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 虚空藏菩萨（胎藏） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 虚空 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 虚空藏 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 除盖障菩萨 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 除盖障菩萨（胎藏） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 除盖 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 除盖 | 卷九 | 39 | — | — | missing_source | 未逐条复核 |
+| 除盖障 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 除盖障 | 卷九 | 39 | — | — | missing_source | 未逐条复核 |
+| 障菩萨 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 八叶院 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 八叶 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 叶院 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 八叶莲花院 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 八叶莲 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 花院 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 莲花院 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 中台八叶 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 中台八 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 台八叶 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 胎藏界八叶 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 界八叶 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 八叶曼荼罗 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 八叶曼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 八方菩萨 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 八方 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八方菩 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 方菩萨 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八瓣莲华 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八瓣 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 八瓣莲 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 瓣莲华 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 中台院 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 台院 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 中台曼荼罗 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 中台曼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏界中台 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 界中台 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 中台大曼荼罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 中台大 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 胎藏界梵网 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 梵网 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 界梵网 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 中台真言 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 中台真 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 台真言 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八叶观 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 叶观 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供养 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 胎藏界印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 界印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 藏界印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大莲花藏世界 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 大莲花藏世界（胎藏名） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 大莲 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大莲花 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏世界 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏世界 | 卷六 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚部院（胎藏） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 宝部院 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 宝部 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 羯磨部院 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 羯磨 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 羯磨部 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 磨部院 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 密严院 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 密严 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 严院 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 释迦牟尼胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 释迦牟尼胎藏（佛部主） | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 大日二重身 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 大日二重身（胎藏佛部） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 大日二 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 重身 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 二重身 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 福德佛 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 福德 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 德佛 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 宝胜佛 | 卷五 | 70 | 密教五方佛（南方宝生佛/胎藏界） | — | unresolved_source | 未逐条复核 |
+| 宝胜佛（胎藏） | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 宝胜 | 卷五 | 42 | 密教五方佛简称 | — | unresolved_source | 未逐条复核 |
+| 胜佛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 观音菩萨胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 观音菩 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 萨胎藏 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大势至菩萨胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 大势 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 大势至 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 白衣观音胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 白衣 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 白衣 | 卷二 | 50 | 白衣观音 | — | unresolved_source | 未逐条复核 |
+| 白衣观 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 音胎藏 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 甘露观音胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 甘露 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 甘露观 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 施药观音胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 施药 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 施药观 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 金刚菩萨胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 金刚菩 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚藏胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 藏胎藏 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 金刚幢胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 幢胎藏 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 金刚爱胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 爱胎藏 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 金刚笑胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 笑胎藏 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 虚空藏菩萨胎藏 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 虚空藏菩萨胎藏（宝部主） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 地藏胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 地藏胎藏（宝部配属） | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 地藏胎 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 除灾障菩萨 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 吉祥菩萨 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 吉祥菩萨（宝部） | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 吉祥菩 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 祥菩萨 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 弥勒胎藏 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 弥勒胎藏（羯磨主） | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 弥勒胎 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 勒胎藏 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 能净菩萨 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 能净 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 能净菩 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 净菩萨 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 功德天胎藏 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 功德天 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 天胎藏 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 毗沙门天胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 毗沙 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 毗沙门 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 十罗刹女 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 十罗刹女（胎藏） | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 十罗 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 十罗刹 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 刹女 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 罗刹女 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 伽蓝神 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 伽蓝神（胎藏配属） | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 伽蓝 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 蓝神 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 梵天胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 梵天 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 梵天胎 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 帝释胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 帝释 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 帝释胎 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 释胎藏 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 四天王胎藏 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 四天 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 四天王 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 王胎藏 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 风天 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 龙王胎藏 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 龙王 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 龙王胎 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 鬼子母胎藏 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 鬼子 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 鬼子母 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 母胎藏 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 夜叉部 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 夜叉 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 叉部 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 胎藏界诸院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 诸院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 界诸院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏界曼荼罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 胎藏界曼荼罗（院名共现） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 胎藏界诸尊 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 诸尊 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 界诸尊 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界百尊 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 百尊 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 界百尊 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 内院 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 内院 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 外院 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 諸部院 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 諸部 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 三十二院 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 二院 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 十二院 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 三十七尊 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 三十七尊（胎藏） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 三十七 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 七尊 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 十七尊 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界三昧耶 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 昧耶 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供灯 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 供灯 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 界供灯 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界大坛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 大坛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 界大坛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏界画 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 界画 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 藏界画 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界开显 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 开显 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 界开显 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界秘密 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 界秘密 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界法会 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 界法会 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 六大院供养 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 六大 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 六大院 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 院供养 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 六大院三昧耶 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 諸院曼荼罗 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 諸院 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 諸院曼 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界圣众 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 界圣众 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界院众 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 院众 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 界院众 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界佛会 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 界佛会 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 华部 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 刚部 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 磨部 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 金刚部（胎藏） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五大部 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 大部 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五部曼荼罗 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 五部 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五部曼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五部供养 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五部供 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 部供养 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五部圣众 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五部圣 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 部圣众 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五部道场 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五部道 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 部道场 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五部坛 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 部坛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五部印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 部印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五部灌顶 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 五部灌 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 部灌顶 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五部流布 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 五部流 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 流布 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 部流布 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 五部法会 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五部法 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 部法会 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏五部 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 胎藏五 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 藏五部 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五部大曼荼罗 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 五部大 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五部仪轨 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五部仪 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 仪轨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 部仪轨 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五部总持 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五部总 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 总持 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 部总持 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五大菩萨部 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五大菩 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 萨部 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 菩萨部 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五部大日 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 部大日 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五部真言 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 五部真 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 部真言 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 五部供灯 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 部供灯 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 五部忿怒 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 五部忿 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 忿怒 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 部忿怒 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 五部曼荼罗院 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 罗院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 荼罗院 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏曼荼罗 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 胎藏曼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏大曼荼罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 胎藏大 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 三十七尊曼荼罗 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 三身曼荼罗 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 三身曼荼罗（胎藏） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 三身 | 卷五 | 10 | — | — | missing_source | 未逐条复核 |
+| 三身曼 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三昧耶曼荼罗 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 胎藏界图像 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 图像 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 界图像 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 漫荼罗供养 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 漫荼 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 漫荼罗 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供花 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 供花 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 界供花 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 三重曼荼罗 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 三重 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三重曼 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三身院 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 身院 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 四重曼荼罗 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 四重 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 四重曼 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八会曼荼罗 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 八会 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 八会曼 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 拘尸那曼荼罗 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 拘尸 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 拘尸那 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界内坛 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 内坛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 界内坛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界外坛 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 外坛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 界外坛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界开敷 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 开敷 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 界开敷 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 大日印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 大日印（法身印） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 日印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 胎藏界智拳印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 智拳印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界三昧耶印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 耶印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 昧耶印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 莲花部印 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 莲花部 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 花部印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 宝部印 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 金刚部印 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 刚部印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 羯磨部印 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 磨部印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 胎藏界印相 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 印相 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 界印相 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界手印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 界手印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界灌顶 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 界灌顶 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供养法 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 养法 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 供养法 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界道场 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 胎藏界真言 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 界真言 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界仪轨 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 界仪轨 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大曼荼罗供 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 罗供 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 荼罗供 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三昧耶戒 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 耶戒 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 昧耶戒 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 三密修行 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 三密修 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 密修行 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 结界 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 修法供灯 | 卷五 | 35 | — | — | missing_source | 未逐条复核 |
+| 修法 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 修法供 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 法供灯 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 修法供花 | 卷五 | 35 | — | — | missing_source | 未逐条复核 |
+| 法供花 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供水 | 卷五 | 35 | — | — | missing_source | 未逐条复核 |
+| 供水 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 界供水 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供香 | 卷五 | 35 | — | — | missing_source | 未逐条复核 |
+| 供香 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 界供香 | 卷五 | 21 | — | — | missing_source | 未逐条复核 |
+| 胎藏界供果 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 供果 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 界供果 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 胎藏界护摩 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 界护摩 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 胎藏界坛 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 藏界坛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界密咒 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 密咒 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 界密咒 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界百字真言 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 胎藏界百字真言（并非金刚界版） | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 字真言 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 胎藏界入坛 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 入坛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 界入坛 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胎藏界加持 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 加持 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 界加持 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 不动明王 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 不动明 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 动明王 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 阿遮罗曩 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿遮罗曩（Acala 早期音译） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿遮 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 阿遮罗 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 罗曩 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 遮罗曩 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 阿只利明王 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿只利明王（异写） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿只 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 阿只利 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 利明王 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 无动尊 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 无动 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 动尊 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 不动尊 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 不动使者 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 不动使 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 使者 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 动使者 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大力明王 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 大力明 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 力明王 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 大不动 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 大不 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 怒目（双目圆睁） | 卷五 | 35 | — | — | missing_source | 未逐条复核 |
+| 牙上出 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 牙上出（獠牙上露） | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 牙上 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 上出 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 牙下出 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 牙下出（獠牙下露） | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 牙下 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 下出 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 披发 | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 披发（乱发或火焰状） | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 背火焰光（不动特型） | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 背火 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 背火焰 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 右手持利剑 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 右手 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 右手持 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 利剑 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 持利剑 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 左手持索 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 左手持索（羂索） | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 左手 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 左手持 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 持索 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 手持索 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 跪坐岩座 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 跪坐岩座（吽座） | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 跪坐 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 跪坐岩 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 岩座 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 坐岩座 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 山岳台座 | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 山岳台座（不动常见） | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 山岳 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 山岳台 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 台座 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 岳台座 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 三叉怒剑 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 三叉 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 三叉怒 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 怒剑 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 叉怒剑 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 羂索 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 火焰剑 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 火焰 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 焰剑 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 金刚杵剑 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 杵剑 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 刚杵剑 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 磐石坐 | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 磐石坐（不动岩） | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 磐石 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 石坐 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| हां | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| हां（hāṃ / 吽） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| हा | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| ां | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| त्रां | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| त्रां（trāṃ） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| त् | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| त्र | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| रां | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| क़ां | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| क़ां（kāṃ） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| क़ | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| क़ा | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| ़ां | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| नहां | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| नहां（nahaṃ） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| नह | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| नहा | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 吽字（汉地写法） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 八大童子 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 八大 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 八大童 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大童子 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 制吒迦童子 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 制吒迦童子（Cetaka） | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 制吒 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 制吒迦 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 迦童子 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 烈怒童子 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 烈怒 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 烈怒童 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 怒童子 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 宝檀童子 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 宝檀 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 宝檀童 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 檀童子 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 降三世明王 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 降三 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 降三世 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 世明王 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 金刚降三世 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 金刚降 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 胜三界明王 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 胜三 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 胜三界 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 界明王 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 大降三世 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 大降 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 大降三 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 降三世忿怒 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 世忿怒 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 降伏三界 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 降伏 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 降伏三 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 伏三界 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三面六臂 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 三面 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 三面六 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 六臂 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 面六臂 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 踏尊 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 踏尊（踏湿婆形） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 绞索 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 铁锤 / 金刚杵锤 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 铁锤 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 铁锤  | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 杵锤 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 刚杵锤 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 马头明王 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 马头明王（Hayagrīva） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 马头 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 马头明 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 头明王 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 马头观音 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 马头观音（密化） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 马头观 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 头观音 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 马头金刚 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 马头金 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 头金刚 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 马首出顶 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 马首 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 马首出 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 出顶 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 首出顶 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 三面八臂 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 三面八 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 八臂 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 面八臂 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 执莲花弓 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 执莲 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 执莲花 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 花弓 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 莲花弓 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 踏蛇 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 怒面马喉音 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 怒面 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 怒面马 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 喉音 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 马喉音 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 马头（未见马首） | 卷五 | 0 | — | — | missing_source | 未逐条复核 |
+| 观音 + 马头特征 | 卷五 | — | — | — | missing_source | 未逐条复核 |
+| 军荼利明王 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 军荼 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 军荼利 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 军荼利尊 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 利尊 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 荼利尊 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 金刚军荼利 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 金刚军 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 荼利 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 火焰军荼利 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 火焰军 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 蛇王军荼利 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 蛇王 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 蛇王军 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 四臂 / 六臂军荼利 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 四臂 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 四臂  | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 全身蛇缠 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 全身 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 全身蛇 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 蛇缠 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 身蛇缠 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 水火军荼利 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 水火 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 水火军 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 大威德明王 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 大威 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 大威德 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 德明王 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 牛头明王 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 牛头 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 牛头明 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 马头牛面六足像 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 马头牛 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 足像 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 六足像 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 六面十六臂 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 六面 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 六面十 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 十六臂 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 踏阎魔 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 踏阎 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 阎魔 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 牟尼轮 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 牟尼 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 尼轮 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 大忿怒王 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 大忿 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大忿怒 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 怒王 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 忿怒王 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 战胜阎魔 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 战胜 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 战胜阎 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 胜阎魔 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 五大明王 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 五大明 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 大明王 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 八大明王 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 八大明 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 忿怒尊 | 卷五 | 50 | — | — | missing_source | 未逐条复核 |
+| 怒尊 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 三昧耶形（明王类） | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 明王坛 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 王坛 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 明王道场 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 明王道 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 王道场 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 明王供养 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 明王供 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 王供养 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 明王火焰 | 卷五 | 55 | — | — | missing_source | 未逐条复核 |
+| 明王火 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 王火焰 | 卷五 | 33 | — | — | missing_source | 未逐条复核 |
+| 明王降魔 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 明王降 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 降魔 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 王降魔 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| वं | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| वं（vaṃ / 梵） | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| ह्रीः | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| ह् | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| ह्र | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| ीः | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| रीः | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| हूँ | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| हूँ（hūṃ / 吽） | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| हू | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| ूँ | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| स्वाहा | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| स् | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| स्व | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| ाहा | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| हः | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| हः（haḥ / 訶） | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| हुं | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| हुं（huṃ） | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| हु | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| ुं | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| जूं | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| जूं（jūṃ / 朱吽） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| जू | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| ूं | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| क्षूं | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| क्षूं（kṣūṃ / 些吽） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| क् | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| क्ष | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| षूं | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| हौं | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| हौं（hauṃ） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| हौ | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| ौं | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| मं | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| मं（maṃ） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| अः | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| अः（aḥ） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 莎诃 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 莎诃（写作“娑呵”“娑嚩訶”） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 唵…吽 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 唵… | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| …吽 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 唵…莎诃 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 唵…莎 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| …莎诃 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 阿…吽…吽 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 阿… | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 阿…吽 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 吽…吽 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 吽… | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 阿謨伽 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿謨伽（amogha） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿謨 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 謨伽 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 三昧耶（samaya） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 部多 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 部多（buddha） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 伽他 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 伽他（gata） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 摩诃（maha） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿謨伽婆嚩 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 婆嚩 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 伽婆嚩 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 三昧耶萨嚩 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 萨嚩 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 耶萨嚩 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 萨嚩达磨 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 萨嚩达 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 达磨 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 嚩达磨 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 部多波罗蜜 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 部多波 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 三摩地（samādhi）密译 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 三摩 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三摩地 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 密译 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| ）密译 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 萨嚩（sarva 的四川古写） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿謨（amogha 缩写） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 散摩地 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 散摩地（samādhi 错写） | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 散摩 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 摩地 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 三麻也 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 三麻也（samaya 错写） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 三麻 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 麻也 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 大日真言 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 大日真 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 日真言 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 遍照金刚 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 遍照金刚（大日称号） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 遍照金 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 照金刚 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 密严真言 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 密严真 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 严真言 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 普遍真言 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 普遍真 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 遍真言 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| vajra | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| vajra（金刚） | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| va | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| vaj | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| jra | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| vajradhātu | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| vajradhātu（金刚界） | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| tu | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| ātu | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| vajra-sattva | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| tva | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| samantabhadra | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| sa | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| sam | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| dra | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| bodhicitta | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| bo | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| bod | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| ta | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| tta | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 跋折囉萨埵 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 跋折囉 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 囉萨埵 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 跋折罗达嚩 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 达嚩 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 罗达嚩 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 跋折罗部多 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 罗部多 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 三婆嚩 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 三婆嚩（svabhāva） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 三婆 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 三婆嚩悉地 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 嚩悉地 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 悉地（siddhi） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 密严悉地 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 密严悉 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 严悉地 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 陀罗尼悉地 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 尼悉地 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 金刚界真言 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 菩提心真言 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 菩提心 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 心真言 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 麻折罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 麻折罗（vajra 错写） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 麻折 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 跋闍罗 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 闍罗 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 悉哆 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 悉哆（siddha 错写） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 悉地（简单写法） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 陀罗尼（darani）密写 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 密写 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| ）密写 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 摩诃陀罗尼 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 摩诃陀 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 金刚陀罗尼 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 金刚陀 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 胎藏陀罗尼 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 胎藏陀 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 三昧耶陀罗尼 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 普遍陀罗尼 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 普遍陀 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 十句观音陀罗尼 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 十句 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 十句观 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 大悲陀罗尼 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 大悲陀 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 如意轮陀罗尼 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 六字大明 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 六字大明（唵嘛呢叭咪吽） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 六字 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 六字大 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 字大明 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 护摩陀罗尼 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 护摩陀 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 火供陀罗尼 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 火供陀 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 火天陀罗尼 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 火天 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 火天陀 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 火罗陀罗尼 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 火罗 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 火罗陀 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 法华陀罗尼 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 法华陀 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 地藏陀罗尼 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 地藏陀罗尼 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 地藏陀 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 药师陀罗尼 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 药师陀 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 佛顶尊胜陀罗尼 | 卷五 | 30 | — | — | missing_source | 未逐条复核 |
+| 佛顶 | 卷五 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛顶尊 | 卷五 | 18 | — | — | missing_source | 未逐条复核 |
+| 佛母准提陀罗尼 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 佛母准 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 陀囉尼 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 陀囉尼（古写） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 陀囉 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 囉尼 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 怛囉尼 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 怛囉 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 陀羅寧 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 陀羅 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 羅寧 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 怛羅尼 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 怛羅 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 羅尼 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 佗羅尼 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 佗羅 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 陁羅尼 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 陁羅 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 唵写为“品” | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 唵写 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 唵写为 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 品” | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| “品” | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 莎诃写为“娑呵” | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 莎诃写 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 呵” | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 娑呵” | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 吽写作“叵” | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 吽写 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 吽写作 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 叵” | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| “叵” | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 部多写作“佛陀” | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 部多写 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 陀” | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 佛陀” | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 达嚩写作“多婆” | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 达嚩写 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 婆” | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 多婆” | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 真言省略末尾 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 真言省 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 末尾 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 略末尾 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 真言前加“咒曰” | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 真言前 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 曰” | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 咒曰” | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 咒语断句不分词 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 咒语 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 咒语断 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 分词 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 不分词 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 梵音汉写颠倒 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 梵音 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 梵音汉 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 写颠倒 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 咒尾重复 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 咒尾重复（莎诃×2） | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 咒尾 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 咒尾重 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 重复 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 尾重复 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 真言（mantra） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 神咒 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 三昧耶咒 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 耶咒 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 昧耶咒 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 灌顶咒 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 顶咒 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 护摩咒 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 摩咒 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 诵咒 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 念真言 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 念真 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 加持真言 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 加持真 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 持真言 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 入坛咒 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 坛咒 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 智拳 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 金刚界智拳印 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 法界定印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 法界定 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 定印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 界定印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 胎藏界法界定印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 金刚合掌 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 金刚合 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 刚合掌 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 金刚合掌印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 掌印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 合掌印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 降三世印 | 卷五 | 95 | — | — | missing_source | 未逐条复核 |
+| 世印 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 三世印 | 卷五 | 57 | — | — | missing_source | 未逐条复核 |
+| 降伏印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 伏印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 宝拳印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 宝拳 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚界大日印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 金刚界法身印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 身印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 法身印 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 胎藏界大日印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 施护印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 施护印（捍力印） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 施护 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 护印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 佛眼施护印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 佛眼 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 佛眼施 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 持宝印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 宝印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝冠印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 冠印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 密教说法印 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 密教 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 密教说 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 法印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 说法印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 三昧耶说法印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 金刚触地印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 金刚触 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 地印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 触地印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 阿閦三昧耶印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 阿閦三 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 施愿印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 施愿印（宝生印） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 施愿 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 愿印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 宝生三昧耶印 | 卷五 | 90 | — | — | missing_source | 未逐条复核 |
+| 宝生三 | 卷五 | 54 | — | — | missing_source | 未逐条复核 |
+| 阿弥陀三昧耶印 | 卷五 | 5 | — | — | missing_source | 未逐条复核 |
+| 金刚界阿弥陀印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 陀印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 弥陀印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 不空成就印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 就印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 成就印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 成就三昧耶印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 成就三 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 五智印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 五佛印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 佛印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 五部印（与五佛对应） | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚杵握印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 握印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 杵握印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚顶印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 顶印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 刚顶印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚钩印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚钩 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 钩印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 刚钩印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚锁印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚锁 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 锁印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 刚锁印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 莲华三昧耶印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 莲华三 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 莲花掌印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 莲花掌 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 花掌印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 双莲华印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 双莲 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 双莲华 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 华印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 莲华印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 开敷莲花印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 开敷莲 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 花印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 莲花印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚三昧耶印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 金刚三 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 金刚施护印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 金刚施 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 金刚宝瓶印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 瓶印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝瓶印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝部三昧耶印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 宝部三 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 宝轮印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 宝轮 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 轮印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝珠印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 珠印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 宝幢印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 宝幢 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 幢印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 如意轮印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 意轮印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 准提印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 准提印（七俱胝佛母） | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 准提 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 提印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 马头明王印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 王印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 明王印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 不动明王剑印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 剑印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 王剑印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 绞索印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 索印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 牙吽印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 牙吽 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 吽印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 蛇缠印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 缠印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 水焰印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 水焰 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 焰印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 牛头降魔印 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 牛头降 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 魔印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 降魔印 | 卷五 | 51 | — | — | missing_source | 未逐条复核 |
+| 大威德执杵印 | 卷五 | 80 | — | — | missing_source | 未逐条复核 |
+| 杵印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 执杵印 | 卷五 | 48 | — | — | missing_source | 未逐条复核 |
+| 忿怒施护印 | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 忿怒施 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 加持印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 加持印（四川写法） | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 持印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 手持加持印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 手持加 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 宝瓶手 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 宝瓶手（手握瓶而不显象） | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 宝瓶 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 瓶手 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 平掌托瓶印 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 平掌 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 平掌托 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 托瓶印 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 反叉指印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 反叉 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 反叉指 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 指印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 叉指印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 反背宝印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 反背 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 反背宝 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 背宝印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 四川“横向索持印” | 卷五 | 75 | — | — | missing_source | 未逐条复核 |
+| 四川 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 四川“ | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 印” | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 持印” | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 倾斜索持印 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 倾斜 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 倾斜索 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 索持印 | 卷五 | 42 | — | — | missing_source | 未逐条复核 |
+| 甘露施水印 | 卷五 | 65 | — | — | missing_source | 未逐条复核 |
+| 甘露施 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 水印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 施水印 | 卷五 | 39 | — | — | missing_source | 未逐条复核 |
+| 托瓶施愿印 | 卷五 | 60 | — | — | missing_source | 未逐条复核 |
+| 托瓶 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 托瓶施 | 卷五 | 36 | — | — | missing_source | 未逐条复核 |
+| 手势残损印 | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 手势残损印（部分可见） | 卷五 | 45 | — | — | missing_source | 未逐条复核 |
+| 手势 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 手势残 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 损印 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 残损印 | 卷五 | 27 | — | — | missing_source | 未逐条复核 |
+| 手印崩损后重刻 | 卷五 | 40 | — | — | missing_source | 未逐条复核 |
+| 手印崩 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 重刻 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 后重刻 | 卷五 | 24 | — | — | missing_source | 未逐条复核 |
+| 安岳 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 安岳 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 荣县 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 荣县 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 简州 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 蓬州 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 蓬州 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 遂宁 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 绵竹 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 巴县 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 汉州 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 三台 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 青城山 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 青城山 | 卷七 | 30 | — | — | missing_source | 未逐条复核 |
+| 青城 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 青城 | 卷七 | 30 | — | — | missing_source | 未逐条复核 |
+| 城山 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 城山 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 大慈寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 大慈寺 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 慈寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 慈寺 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 奉国寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 奉国 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 国寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 万佛寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 万佛 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 佛寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 龙兴寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 龙兴 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 兴寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 国清寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 国清 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 清寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 圣寿寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 圣寿 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 寿寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 石经寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 石经 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 经寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 白塔寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 白塔 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 塔寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 宝光寺 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 光寺 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 凿手 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 艺匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 石匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 刻手某某 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 刻手 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 刻手某 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 某某 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 手某某 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 官匠某某 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 官匠 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 官匠某 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 匠某某 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 州匠某某 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 州匠 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 州匠某 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 堂匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 古佛下弟子 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 古佛 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 古佛下 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 下弟子 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| XX门徒 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| XX | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| XX门 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 门徒 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| X门徒 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 精匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 手某 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 明匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 州作者 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 州作 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 作者 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 能工 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 工造 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 造像能手 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 造像能 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 能手 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 像能手 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 州能匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 州能 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 能匠 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 绘匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 施主兼匠 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 施主 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 施主兼 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 兼匠 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 主兼匠 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 三教合一 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 三教 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 三教合 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 合一 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 教合一 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 三昧场 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 昧场 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 护摩场 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 摩场 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 火坛 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 遣灾文 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 遣灾 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 灾文 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 明王殿 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 王殿 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 密严殿 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 严殿 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 三部坛 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 三部 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 胎藏殿 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 藏殿 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 金刚坛 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 刚坛 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 加持位 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 持位 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 宝瓶坛 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 瓶坛 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 密坛 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 金刚曼荼罗 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 金刚曼 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 圆坛 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 密行 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 密师 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 真言师 | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 言师 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 吽写为“叵” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 吽写为 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 娑诃写为“娑呵” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 娑诃 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 娑诃写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 怛写作“咤/搭” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 怛写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 怛写作 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 搭” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| /搭” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 伽写为“加/珈” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 伽写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 伽写为 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 珈” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| /珈” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 摩诃写为“莫诃” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 摩诃写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 诃” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 莫诃” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 波罗写为“婆罗” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 波罗写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 罗” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 婆罗” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 堕写为“陀/拖” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 堕写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 堕写为 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 拖” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| /拖” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 缽写为“波/巴” | 卷五 | 25 | — | — | missing_source | 未逐条复核 |
+| 缽写 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 缽写为 | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 巴” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| /巴” | 卷五 | 15 | — | — | missing_source | 未逐条复核 |
+| 四川式咒语断句 | 卷五 | 20 | — | — | missing_source | 未逐条复核 |
+| 四川式 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 断句 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 语断句 | 卷五 | 12 | — | — | missing_source | 未逐条复核 |
+| 毘卢遮那佛 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 毘卢遮 | 卷六 | 5 | — | — | missing_source | 未逐条复核 |
+| 卢舍那 | 卷六 | 39 | — | — | missing_source | 未逐条复核 |
+| 舍那佛 | 卷六 | 39 | — | — | missing_source | 未逐条复核 |
+| 初地 | 卷六 | 42 | — | — | missing_source | 未逐条复核 |
+| 初地  | 卷六 | 42 | — | — | missing_source | 未逐条复核 |
+| 喜地 | 卷六 | 42 | — | — | missing_source | 未逐条复核 |
+| 欢喜地 | 卷六 | 42 | — | — | missing_source | 未逐条复核 |
+| 大行普贤 | 卷六 | 75 | 行愿品 | T0293 | title_catalog_match | 未逐条复核 |
+| 五十三参 | 卷六 | 85 | — | — | missing_source | 未逐条复核 |
+| 弥勒菩萨 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 勒菩萨 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 华严海会 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 善财童子 | 卷六 | 85 | — | — | missing_source | 未逐条复核 |
+| 文殊·普贤侍侧 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 华藏世界 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 善财童子五十三参 | 卷六 | 85 | — | — | missing_source | 未逐条复核 |
+| 文殊台 / 普贤台 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 法界 / 法界会 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 各善知识名号 | 卷六 | 80 | — | — | missing_source | 未逐条复核 |
+| 华藏海 / 华严 | 卷六 | 75 | — | — | missing_source | 未逐条复核 |
+| 禅定 | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 结构 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 须弥台左右侍立文殊普贤 | 卷六 | 75 | — | — | missing_source | 未逐条复核 |
+| 本来无一物 | 卷七 | 85 | — | — | missing_source | 匹配宗宝本语句，也见其他禅宗文本；早期题记须核对版本流通，不能回投后期定本。 |
+| 本来 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 本来无 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 一物 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 无一物 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 明镜亦非台 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 明镜 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 明镜亦 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 非台 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 亦非台 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 拈花微笑 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 拈花 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 拈花微 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 微笑 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 花微笑 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 达摩面壁 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 达摩 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 达摩面 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 面壁 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 摩面壁 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 不立文字 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 不立 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 不立文 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 文字 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 立文字 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 直指人心 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 直指 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 直指人 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 指人心 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 见性成佛 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 见性 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 见性成 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 性成佛 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 参禅 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 看话头 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 看话 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 话头 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 打坐参 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 打坐 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 坐参 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 棒喝 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 拈提 | 卷七 | 65 | — | — | missing_source | 未逐条复核 |
+| 当下 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 本心 | 卷七 | 65 | — | — | missing_source | 未逐条复核 |
+| 无念 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 无相 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 无住 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 真如 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 不思善 不思恶 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 不思善 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 思恶 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 不思恶 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 万法归一 一归何处 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 万法 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 万法 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 万法归 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 何处 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 归何处 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 踏破草鞋无觅处 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 踏破 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 踏破草 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 觅处 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 无觅处 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 山是山，水是水 | 卷七 | 65 | — | — | missing_source | 未逐条复核 |
+| 山是 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 山是山 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 是水 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 水是水 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 本来面目 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 本来面 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 面目 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 来面目 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 我今悟此心 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 我今 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 我今悟 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 此心 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 悟此心 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 自性常清净 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 自性 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 自性 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 自性常 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 常清净 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 慧可 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 僧璨 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 道信 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 弘忍 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 慧能 | 卷七 | 90 | — | — | missing_source | 未逐条复核 |
+| 临济 | 卷七 | 90 | — | — | missing_source | 未逐条复核 |
+| 曹洞 | 卷七 | 85 | — | — | missing_source | 未逐条复核 |
+| 云门 | 卷七 | 85 | — | — | missing_source | 未逐条复核 |
+| 沩仰 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 黄龙派 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 黄龙 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 龙派 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 杨岐派 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 杨岐 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 岐派 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 坐禅 | 卷七 | 50 | — | — | missing_source | 未逐条复核 |
+| 禅定（不同于密教三昧） | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 行住坐卧皆禅 | 卷七 | 65 | — | — | missing_source | 未逐条复核 |
+| 皆禅 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 卧皆禅 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 扫地即道 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 扫地 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 扫地即 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 即道 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 地即道 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 作务 | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 方丈 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 维那 | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 藏主 | 卷七 | 40 | — | — | missing_source | 未逐条复核 |
+| 监寺 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 僧堂 | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 禅堂 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 青城山禅林 | 卷七 | 50 | — | — | missing_source | 未逐条复核 |
+| 禅林 | 卷七 | 30 | — | — | missing_source | 未逐条复核 |
+| 山禅林 | 卷七 | 30 | — | — | missing_source | 未逐条复核 |
+| 常寂光院 | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 常寂 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 常寂光 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 光院 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 寂光院 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 达摩对墙坐 | 卷七 | 90 | — | — | missing_source | 未逐条复核 |
+| 达摩对 | 卷七 | 54 | — | — | missing_source | 未逐条复核 |
+| 墙坐 | 卷七 | 54 | — | — | missing_source | 未逐条复核 |
+| 对墙坐 | 卷七 | 54 | — | — | missing_source | 未逐条复核 |
+| 单僧坐禅、背对观者 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 单僧 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 单僧坐 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 观者 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 对观者 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 山洞 / 石室中坐禅 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 山洞 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 山洞  | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 中坐禅 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 执芦渡江 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 执芦 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 执芦渡 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 渡江 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 芦渡江 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 独舟东来 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 独舟 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 独舟东 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 东来 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 舟东来 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 僧人砍柴 / 舂米 | 卷七 | 85 | — | — | missing_source | 未逐条复核 |
+| 僧人 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 僧人砍 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 舂米 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+|  舂米 | 卷七 | 51 | — | — | missing_source | 未逐条复核 |
+| 与五祖对话 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 与五 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 与五祖 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 对话 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 祖对话 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 无佛光背 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 无佛 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 无佛光 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 光背 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 佛光背 | 卷七 | 45 | — | — | missing_source | 未逐条复核 |
+| 无天冠、无宝冠 | 卷七 | 70 | — | — | missing_source | 未逐条复核 |
+| 无天 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 无天冠 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 无宝冠 | 卷七 | 42 | — | — | missing_source | 未逐条复核 |
+| 衣纹简朴 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 衣纹 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 衣纹简 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 简朴 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 纹简朴 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 环境为山林/石室 | 卷七 | 65 | — | — | missing_source | 未逐条复核 |
+| 环境 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 环境为 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 石室 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| /石室 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 佛陀拈花，迦叶微笑 | 卷七 | 80 | — | — | missing_source | 未逐条复核 |
+| 佛陀 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 佛陀拈 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 叶微笑 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 僧人持杖行走 | 卷七 | 65 | — | — | missing_source | 未逐条复核 |
+| 僧人持 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 行走 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 杖行走 | 卷七 | 39 | — | — | missing_source | 未逐条复核 |
+| 僧人荷囊 | 卷七 | 55 | — | — | missing_source | 未逐条复核 |
+| 僧人荷 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 荷囊 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 人荷囊 | 卷七 | 33 | — | — | missing_source | 未逐条复核 |
+| 僧人立于山路 | 卷七 | 60 | — | — | missing_source | 未逐条复核 |
+| 僧人立 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 山路 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 于山路 | 卷七 | 36 | — | — | missing_source | 未逐条复核 |
+| 无佛菩萨出现 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 扶风 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 扶风  | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 宝鸡 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+|  宝鸡 | 卷七 | 48 | — | — | missing_source | 未逐条复核 |
+| 西安 | 卷七 | 75 | — | — | missing_source | 未逐条复核 |
+| 天台山 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 台州 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 杭州 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 宁波 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 苏州 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 扬州 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 南京 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 嵩山 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 洛阳 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 邢台 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 开皇 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 仁寿 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 大业 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 贞观 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 永徽 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 咸亨 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 上元 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 开元 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 天宝 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 宝应 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 大历 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 建中 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 元和 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 会昌 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 咸通 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 天复 / 光化 / 广明 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 前蜀天成 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 太平兴国 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 天禧 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 熙宁 / 元丰 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 绍兴 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 陈君贵 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 刘刻师 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 陈用之 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 龙昌 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 陈文德 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 王大昌 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 阿彌陀 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 普賢 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 文殊師利 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 蘇悉地 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 陀羅尼 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 大日如來 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 達磨 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 惠能 | 卷七 | — | — | — | missing_source | 未逐条复核 |
+| 地狱未空 誓不成佛 | 卷九 | 90 | — | — | missing_source | 在核查的T0412正文未找到此整句，暂列通行概括／来源待核，不能冒称本愿经原句。 |
+| 众生度尽 方证菩提 | 卷九 | 85 | — | — | missing_source | 未逐条复核 |
+| 南无地藏王菩萨 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 大愿地藏王 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 地藏王 | 卷九 | 48 | — | — | missing_source | 未逐条复核 |
+| 慈悲大士 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 拔苦 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 超度 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 荐亡 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 拔罪 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 罪报 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 冥司 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 泥犁 | 卷九 | 85 | — | — | missing_source | 未逐条复核 |
+| 泥犁（泥梨） | 卷九 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿鼻地狱 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿鼻 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 苦具 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 受罪 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 亡母 / 亡父 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 亡母  | 卷九 | 42 | — | — | missing_source | 未逐条复核 |
+|  亡父 | 卷九 | 42 | — | — | missing_source | 未逐条复核 |
+| 历代宗亲 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 度亡 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 荐拔 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 追荐 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 德主 | 卷九 | 42 | — | — | missing_source | 未逐条复核 |
+| 秦广王 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 秦广 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 初江王 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 初江 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 宋帝王 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 五官王 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 阎罗王 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 阎罗 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 罗王 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 六道 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 鬼道 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 畜生道 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 地狱道 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 轮回 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 酆都 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 地狱体系 | 卷九 | 85 | — | — | missing_source | 未逐条复核 |
+| 狱体系 | 卷九 | 51 | — | — | missing_source | 未逐条复核 |
+| 荐亡体系 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 救苦地藏 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 无毒地藏 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 宝珠地藏 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 除盖障地藏 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 延寿地藏 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 禅定地藏 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 大愿地藏王菩萨 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 大悲地藏王 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 大士地藏王 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 救苦地藏菩萨 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 障地藏 | 卷九 | 39 | — | — | missing_source | 未逐条复核 |
+| 禅定地 | 卷九 | 36 | — | — | missing_source | 未逐条复核 |
+| 定地藏 | 卷九 | 36 | — | — | missing_source | 未逐条复核 |
+| 普度地藏 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 护国地藏 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 吉祥地藏 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 功德地藏 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 大权地藏 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 地藏菩萨灭定业真言 | 卷九 | 85 | — | — | missing_source | 未逐条复核 |
+| 业真言 | 卷九 | 51 | — | — | missing_source | 未逐条复核 |
+| 南无地藏菩萨摩诃萨 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 南无地藏菩萨摩诃萨（咒前行） | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 南无本尊地藏菩萨 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 愿灭定业重罪 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 愿脱轮回 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 愿离恶趣 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 愿离三涂 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 愿离苦得乐 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 愿免业报 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 愿离一切罪障 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 愿解冤释结 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 普利含识 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 普利群萌 / 普利有情 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 愿诸冤亲债主得解脱 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 愿先亡宗亲离苦趣 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 愿在世父母增福延寿 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 所修功德回向法界有情 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 施食 | 卷九 | 45 | — | — | missing_source | 未逐条复核 |
+| 普施饿鬼 | 卷九 | 80 | — | — | missing_source | 未逐条复核 |
+| 施幽冥众生 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 放焰口 | 卷九 | 50 | — | — | missing_source | 未逐条复核 |
+| 水陆道场 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 药王施食 | 卷九 | 60 | — | — | missing_source | 未逐条复核 |
+| 净供十方孤魂 | 卷九 | 75 | — | — | missing_source | 未逐条复核 |
+| 孤魂 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 普济幽魂 | 卷九 | 70 | — | — | missing_source | 未逐条复核 |
+| 盂兰盆会 | 卷九 | 30 | — | — | missing_source | 未逐条复核 |
+| 盂兰 | 卷九 | 33 | — | — | missing_source | 未逐条复核 |
+| 盂兰盆 | 卷九 | 33 | — | — | missing_source | 未逐条复核 |
+| 盆会 | 卷九 | 33 | — | — | missing_source | 未逐条复核 |
+| 兰盆会 | 卷九 | 33 | — | — | missing_source | 未逐条复核 |
+| 孤魂野鬼 | 卷九 | 65 | — | — | missing_source | 未逐条复核 |
+| 酆都大帝 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 东岳大帝 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 城隍 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 泰山府君 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 判官 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 牛头马面 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 地府 | 卷九 | — | — | — | missing_source | 未逐条复核 |
+| 慈氏菩萨 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 慈氏 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 慈氏菩 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 氏菩萨 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 上生兜率 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 上生 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 上生兜 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 兜率 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 生兜率 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 内院天宫 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 内院天 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 天宫 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 院天宫 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 弥勒佛 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 勒佛 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 下生产佛 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 下生产 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 产佛 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 生产佛 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 龙华三会 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 龙华 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 龙华三 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 华三会 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 当来佛 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 当来 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 来佛 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 下生成佛 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 下生成 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 生成佛 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 兜率天 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 率天 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 未来佛 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 未来 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 兜率天王 | 卷十 | 65 | — | — | missing_source | 未逐条复核 |
+| 天王 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 率天王 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 弥勒大士 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 弥勒大 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 勒大士 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 慈尊 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 龙华三会佛 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 会佛 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 三会佛 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 下一佛 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 下一 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 一佛 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 半跏思惟像 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 半跏思惟像（右足踩下） | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 半跏 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 半跏思 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 惟像 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 思惟像 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 双腿自然下垂坐姿 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 双腿自然下垂坐姿（欧式坐） | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 双腿 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 双腿自 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 坐姿 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 垂坐姿 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 坐狮像 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 坐狮 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 狮像 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 肩饰厚重披帛 | 卷十 | 65 | — | — | missing_source | 未逐条复核 |
+| 肩饰厚 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 重披帛 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 大足巨大弥勒像结构 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 大足巨 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 像结构 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 天众围绕 | 卷十 | 65 | — | — | missing_source | 未逐条复核 |
+| 天众围 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 兜率净土 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 兜率净 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 率净土 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 第三会成佛 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 第三 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 第三会 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 会成佛 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 当来下生 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 当来下 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 来下生 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 大足石刻弥勒 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 大足石 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 刻弥勒 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 安岳弥勒 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 安岳弥 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 岳弥勒 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 化佛弥勒 | 卷十 | 65 | — | — | missing_source | 未逐条复核 |
+| 化佛弥 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 佛弥勒 | 卷十 | 39 | — | — | missing_source | 未逐条复核 |
+| 宽肩弥勒像 | 卷十 | 60 | — | — | missing_source | 未逐条复核 |
+| 宽肩 | 卷十 | 36 | — | — | missing_source | 未逐条复核 |
+| 宽肩弥 | 卷十 | 36 | — | — | missing_source | 未逐条复核 |
+| 勒像 | 卷十 | 36 | — | — | missing_source | 未逐条复核 |
+| 弥勒像 | 卷十 | 36 | — | — | missing_source | 未逐条复核 |
+| 初会龙华 | 卷十 | 80 | — | — | missing_source | 未逐条复核 |
+| 初会龙 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 会龙华 | 卷十 | 48 | — | — | missing_source | 未逐条复核 |
+| 度千亿众生 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 度千 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 度千亿 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 亿众生 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 二会龙华 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 二会 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 二会龙 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 再度众生 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 再度 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 再度众 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 三会龙华 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 三会龙 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 十亿众生得道 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 十亿 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 十亿众 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 得道 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 生得道 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 龙华树下成佛 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 龙华树 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 下成佛 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 龙华道场 | 卷十 | 75 | — | — | missing_source | 未逐条复核 |
+| 龙华道 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 华道场 | 卷十 | 45 | — | — | missing_source | 未逐条复核 |
+| 清瘦、孤立的菩萨相 | 卷十 | 70 | — | — | missing_source | 未逐条复核 |
+| 清瘦 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 清瘦、 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 萨相 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 菩萨相 | 卷十 | 42 | — | — | missing_source | 未逐条复核 |
+| 僧众 / 天众围绕 | 卷十 | 60 | — | — | missing_source | 未逐条复核 |
+| 僧众 | 卷十 | 36 | — | — | missing_source | 未逐条复核 |
+| 僧众  | 卷十 | 36 | — | — | missing_source | 未逐条复核 |
+| 破有显空 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 破有 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 破有显 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 显空 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 有显空 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 二谛圆融 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 二谛 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 二谛圆 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 圆融 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 谛圆融 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 八不中道 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 八不 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 八不中 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 中道 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 中道 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 不中道 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 诸法皆空 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 诸法 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 诸法皆 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 皆空 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 法皆空 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 假名无性 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 假名 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 假名 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 假名无 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 无性 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 无性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 名无性 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 因缘所生法 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 因缘 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 因缘所 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 生法 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 所生法 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 涅槃既不生 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 涅槃既 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 不生 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 既不生 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 非有非无 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 非有 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 非有非 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 非无 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 有非无 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 不生不灭 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 不生不 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 不灭 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 生不灭 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 破因门 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 破因 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 因门 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 破果门 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 破果 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 果门 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 破作门 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 破作 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 作门 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 十二破 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 二破 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 诸法假名 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 诸法假 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 法假名 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 无自性 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 无自 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 名言假立 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 名言 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 名言假 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 假立 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 言假立 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 真俗二谛 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 真俗 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 真俗二 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 俗二谛 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 双遮 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 遣灭 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 非一非异 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 非一 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 非一非 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 非异 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 一非异 | 卷十一 | 48 | — | — | missing_source | 未逐条复核 |
+| 非断非常 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 非断 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 非断非 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 非常 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 断非常 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 无性无生 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 无性无 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 无生 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 性无生 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 非因非常 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 非因 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 非因非 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 因非常 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 吉藏 | 卷十一 | 80 | — | — | missing_source | 未逐条复核 |
+| 法朗 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 道朗 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 僧朗 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 嘉祥寺 | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 嘉祥寺（吉藏所在） | 卷十一 | 75 | — | — | missing_source | 未逐条复核 |
+| 嘉祥 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 祥寺 | 卷十一 | 45 | — | — | missing_source | 未逐条复核 |
+| 齐梁地区寺院名 | 卷十一 | 70 | — | — | missing_source | 未逐条复核 |
+| 齐梁 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 齐梁地 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 院名 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 寺院名 | 卷十一 | 42 | — | — | missing_source | 未逐条复核 |
+| 唯识 | 卷十二 | 85 | — | — | missing_source | 未逐条复核 |
+| 识所变 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 识所 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 所变 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 万法唯识 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 万法唯 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 法唯识 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 唯心所现 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 唯心 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 唯心所 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 所现 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 心所现 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 藏识 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 八识 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 阿赖耶识 | 卷十二 | 85 | — | — | missing_source | 未逐条复核 |
+| 阿赖 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 阿赖耶 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 耶识 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 赖耶识 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 末那识 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 末那 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 那识 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 识变 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 成唯识 | 卷十二 | 85 | — | — | missing_source | 未逐条复核 |
+| 成唯 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 八识规矩 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 八识规 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 规矩 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 识规矩 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 三性 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 三无性 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 三无 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 二取 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 见分、相分 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 见分 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 见分、 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 相分 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 、相分 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 众缘和合识 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 众缘 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 众缘和 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 合识 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 和合识 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 瑜伽行 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 瑜伽 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 伽行 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 心意识三性 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 心意 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 心意识 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 识三性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 增上意乐 | 卷十二 | 70 | — | — | missing_source | 未逐条复核 |
+| 增上 | 卷十二 | 42 | — | — | missing_source | 未逐条复核 |
+| 增上意 | 卷十二 | 42 | — | — | missing_source | 未逐条复核 |
+| 意乐 | 卷十二 | 42 | — | — | missing_source | 未逐条复核 |
+| 上意乐 | 卷十二 | 42 | — | — | missing_source | 未逐条复核 |
+| 遍计所执性 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 遍计 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 遍计所 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 执性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 所执性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 依他起性 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 依他 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 依他起 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 起性 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 他起性 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 圆成实性 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 圆成 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 圆成实 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 实性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 成实性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 相无性 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 相无 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 生无性 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 生无 | 卷十二 | 45 | — | — | missing_source | 未逐条复核 |
+| 胜义无性 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 胜义 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 胜义无 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 义无性 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 能取 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 所取 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 自证分 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 自证 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 证分 | 卷十二 | 48 | — | — | missing_source | 未逐条复核 |
+| 证自证分 | 卷十二 | 85 | — | — | missing_source | 未逐条复核 |
+| 证自 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 证自证 | 卷十二 | 51 | — | — | missing_source | 未逐条复核 |
+| 玄奘 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 窥基 | 卷十二 | 80 | — | — | missing_source | 未逐条复核 |
+| 慈恩 | 卷十二 | 75 | — | — | missing_source | 未逐条复核 |
+| 智周 / 法明 等 | 卷十二 | 60 | — | — | missing_source | 未逐条复核 |
+| 智周 | 卷十二 | 36 | — | — | missing_source | 未逐条复核 |
+| 智周  | 卷十二 | 36 | — | — | missing_source | 未逐条复核 |
+|  等 | 卷十二 | 36 | — | — | missing_source | 未逐条复核 |
+| 明 等 | 卷十二 | 36 | — | — | missing_source | 未逐条复核 |
+| 华严寺 | 卷十二 | 60 | — | — | missing_source | 未逐条复核 |
+| 华严寺（慈恩宗活动处） | 卷十二 | 60 | — | — | missing_source | 未逐条复核 |
+| 严寺 | 卷十二 | 36 | — | — | missing_source | 未逐条复核 |
+| 慈恩寺 | 卷十二 | 70 | — | — | missing_source | 未逐条复核 |
+| 恩寺 | 卷十二 | 42 | — | — | missing_source | 未逐条复核 |
+| 摩诃止观 | 卷十三 | 85 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match | 可作天台教观文献锚点，须区分原刻引文、现代拟题和他宗引用；书名出现也不直接证明组织身份。 |
+| 摩诃止 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 止观 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 诃止观 | 卷十三 | 51 | T1911《摩訶止觀》cbetaonline.dila.edu.tw+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 法华玄义 | 卷十三 | 85 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match | 未逐条复核 |
+| 法华玄 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match | 未逐条复核 |
+| 玄义 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match | 未逐条复核 |
+| 华玄义 | 卷十三 | 51 | T1716《妙法蓮華經玄義》cbetaonline.dila.edu.tw+1 | T1716 | explicit_id_catalog_match | 未逐条复核 |
+| 法华文句 | 卷十三 | 85 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match | 未逐条复核 |
+| 法华文 | 卷十三 | 51 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match | 未逐条复核 |
+| 文句 | 卷十三 | 51 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match | 未逐条复核 |
+| 华文句 | 卷十三 | 51 | T1718《妙法蓮華經文句》cbetaonline.dila.edu.tw+1 | T1718 | explicit_id_catalog_match | 未逐条复核 |
+| 天台四教仪 | 卷十三 | 85 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 天台 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 天台四 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 教仪 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 四教仪 | 卷十三 | 51 | T1931《天台四教儀》cbetaonline.dila.edu.tw+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 四教义 | 卷十三 | 80 | T1929《四教義》cbetaonline.dila.edu.tw+1 | T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 四教 | 卷十三 | 48 | T1929《四教義》cbetaonline.dila.edu.tw+1 | T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 教义 | 卷十三 | 48 | T1929《四教義》cbetaonline.dila.edu.tw+1 | T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 止观义例 | 卷十三 | 80 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 止观义 | 卷十三 | 48 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 义例 | 卷十三 | 48 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 观义例 | 卷十三 | 48 | T1913《止觀義例》（湛然述）cbetaonline.dila.edu.tw+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 十不二门 | 卷十三 | 80 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 十不 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 十不二 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 二门 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 不二门 | 卷十三 | 48 | T1927《十不二門》cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 教观纲宗 | 卷十三 | 80 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match | 未逐条复核 |
+| 教观 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match | 未逐条复核 |
+| 教观纲 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match | 未逐条复核 |
+| 纲宗 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match | 未逐条复核 |
+| 观纲宗 | 卷十三 | 48 | T1939《教觀綱宗》cbetaonline.dila.edu.tw+1 | T1939 | explicit_id_catalog_match | 未逐条复核 |
+| 五时八教 | 卷十三 | 75 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 五时 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 五时八 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 八教 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 时八教 | 卷十三 | 45 | T1931 明确出现“以五时八教判释…”臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 一心三观 | 卷十三 | 75 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 一心三 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 三观 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 心三观 | 卷十三 | 45 | T1931 文中直接用语21dzk.l.u-tokyo.ac.jp+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 藏通别圆 | 卷十三 | 75 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 藏通别圆（四教） | 卷十三 | 75 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 藏通 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 藏通别 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 别圆 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 通别圆 | 卷十三 | 45 | T1931、T1929 系统用语臺大佛學數位圖書館+1 | T1931,T1929 | explicit_id_catalog_match | 未逐条复核 |
+| 三谛 | 卷十三 | 70 | 天台教观体系多处讨论；可与 T1913“止观”体系同域臺大佛學數位圖書館+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 三谛（圆融/不二） | 卷十三 | 70 | 天台教观体系多处讨论；可与 T1913“止观”体系同域臺大佛學數位圖書館+1 | T1913 | explicit_id_catalog_match | 未逐条复核 |
+| 一念三千 | 卷十三 | 75 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match | 未逐条复核 |
+| 一念 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match | 未逐条复核 |
+| 一念三 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match | 未逐条复核 |
+| 三千 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match | 未逐条复核 |
+| 念三千 | 卷十三 | 45 | 《十不二门》与相关天台文献直接出现臺大佛學數位圖書館+1 | T1927 | title_catalog_match | 未逐条复核 |
+| 十界互具 / 十界性融互具 | 卷十三 | 70 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 十界 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 十界互 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 互具 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 融互具 | 卷十三 | 42 | T1938 直述“十界性融互具…”cbetaonline.dila.edu.tw+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 百界千如 / 千如 | 卷十三 | 65 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 百界 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 百界千 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 千如 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+|  千如 | 卷十三 | 39 | T1938 论述链条“互具成百界…界十如则成千如…”臺大佛學數位圖書館+1 | T1938 | explicit_id_catalog_match | 未逐条复核 |
+| 智顗 / 智者大师 | 卷十三 | 50 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 智顗 | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 智顗  | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 者大师 | 卷十三 | 30 | 作为天台祖师见于天台章疏系统（如 T1911 卷首标示“天台智者大师说”）臺大佛學數位圖書館+1 | T1911 | explicit_id_catalog_match | 未逐条复核 |
+| 谛观 | 卷十三 | 45 | T1931 署“高丽沙门谛观录”可复查臺大佛學數位圖書館+1 | T1931 | explicit_id_catalog_match | 未逐条复核 |
+| 知礼 | 卷十三 | 45 | 与天台教观传承相关文献可检索（如 T1937 中出现“一念三千”等讨论与署名）臺大佛學數位圖書館+1 | T1937 | explicit_id_catalog_match | 未逐条复核 |
+| 知礼（法智/四明） | 卷十三 | 45 | 与天台教观传承相关文献可检索（如 T1937 中出现“一念三千”等讨论与署名）臺大佛學數位圖書館+1 | T1937 | explicit_id_catalog_match | 未逐条复核 |
+| 观心 | 卷十三 | 45 | 天台释经与观行传统中高频（例：T1927 对“观心”定位）cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 观心（作为方法论用语） | 卷十三 | 45 | 天台释经与观行传统中高频（例：T1927 对“观心”定位）cbetaonline.dila.edu.tw+1 | T1927 | explicit_id_catalog_match | 未逐条复核 |
+| 法华经 / 妙法莲华经 | 卷十三 | 25 | — | — | missing_source | 未逐条复核 |
+| 法华经 / 妙法莲华经（仅经名） | 卷十三 | 25 | — | — | missing_source | 未逐条复核 |
+| 法华经 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 中道 / 实相 / 圆教 | 卷十三 | 25 | — | — | missing_source | 未逐条复核 |
+| 中道  | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 圆教 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+|  圆教 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 三观（不带“一心”） | 卷十三 | 25 | — | — | missing_source | 未逐条复核 |
+| 开权显实 / 会三归一 | 卷十三 | 25 | — | — | missing_source | 未逐条复核 |
+| 开权 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 开权显 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 归一 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 三归一 | 卷十三 | 15 | — | — | missing_source | 未逐条复核 |
+| 成实论 / 成實論 | 卷十四 | 85 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match | 未逐条复核 |
+| 成实 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match | 未逐条复核 |
+| 成实论 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match | 现有51分可能是较长表格单元派生；先辨完整论名与缩写，不将派生值解释为文献代表性评分。 |
+| 實論 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match | 未逐条复核 |
+| 成實論 | 卷十四 | 51 | 《成实论》(T1646)题署与经录系统 CBETA 在线阅读+1 | T1646 | explicit_id_catalog_match | 未逐条复核 |
+| 成论 / 成論 | 卷十四 | 70 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成论 | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成论  | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成論 | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+|  成論 | 卷十四 | 42 | 成实论系称谓在后世文献中常见（与“成论师”系统相关） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 訶梨跋摩 | 卷十四 | 85 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 訶梨 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 訶梨跋 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 跋摩 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 梨跋摩 | 卷十四 | 51 | 《成实论》题署“訶梨跋摩造” CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 鸠摩罗什 / 鳩摩羅什 | 卷十四 | 80 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 鸠摩 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 鸠摩罗 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 羅什 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 摩羅什 | 卷十四 | 48 | 《成实论》题署“鳩摩羅什譯”与目录信息 CBETA 在线阅读+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 五聚 | 卷十四 | 55 | “五聚”本身易泛化 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成实五聚 / 成實五聚 | 卷十四 | 85 | 曇影重组“五聚”传统；他宗文献亦提及“成实五聚” 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 成实五 | 卷十四 | 51 | 曇影重组“五聚”传统；他宗文献亦提及“成实五聚” 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 實五聚 | 卷十四 | 51 | 曇影重组“五聚”传统；他宗文献亦提及“成实五聚” 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 发聚 / 發聚 | 卷十四 | 60 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 发聚 | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 发聚  | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 發聚 | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+|  發聚 | 卷十四 | 36 | 五聚中首聚名（研究对四谛结构重组有讨论） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 苦谛聚/集谛聚/灭谛聚/道谛聚 | 卷十四 | 60 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 苦谛 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 苦谛聚 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 谛聚 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 道谛聚 | 卷十四 | 36 | 五聚按四谛重组的研究说明 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 三藏中实义 / 三藏中實義 | 卷十四 | 80 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 三藏 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 三藏中 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 實義 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 中實義 | 卷十四 | 48 | 《成实论》起首颂明确出现 臺大佛學數位圖書館+1 | T1646 | title_catalog_match | 未逐条复核 |
+| 实名四谛 / 實名四諦 | 卷十四 | 85 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 实名 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 实名四 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 四諦 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 名四諦 | 卷十四 | 51 | 《成实论》紧接解释“实名四谛” 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 为成是法故造斯论 | 卷十四 | 75 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 为成 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 为成是 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 斯论 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 造斯论 | 卷十四 | 45 | 《成实论》中“四谛—造论”说明脉络 臺大佛學數位圖書館 | T1646 | title_catalog_match | 未逐条复核 |
+| 假名人空 | 卷十四 | 85 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 假名人 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 人空 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 名人空 | 卷十四 | 51 | 吉藏《中观论疏》引《成实论》语：“知五阴所成，假名人空” 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 知五阴所成 / 五阴所成 | 卷十四 | 60 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 知五 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 知五阴 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 所成 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 阴所成 | 卷十四 | 36 | 同上引文结构 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 人空法空 | 卷十四 | 45 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source | 未逐条复核 |
+| 人空法 | 卷十四 | 27 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source | 未逐条复核 |
+| 法空 | 卷十四 | 27 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source | 未逐条复核 |
+| 空法空 | 卷十四 | 27 | 在多宗派出现（中观、天台、华严等皆谈） | — | unresolved_source | 未逐条复核 |
+| 成实论义疏 / 成實論義疏 | 卷十四 | 80 | 梁代义疏传统的研究整理 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 義疏 | 卷十四 | 48 | 梁代义疏传统的研究整理 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 論義疏 | 卷十四 | 48 | 梁代义疏传统的研究整理 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成实论大义记 / 成實論大義記 | 卷十四 | 80 | 智藏相关研究条目与论文整理 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 義記 | 卷十四 | 48 | 智藏相关研究条目与论文整理 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 大義記 | 卷十四 | 48 | 智藏相关研究条目与论文整理 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 智藏 | 卷十四 | 70 | 梁代三大法师之一、成实学派重要人物 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 僧旻 | 卷十四 | 65 | 梁代成实师系统（研究列举其义疏） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 法云 | 卷十四 | 65 | 梁代成实师系统（研究列举其义疏） 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 开善 / 庄严 / 光宅 | 卷十四 | 55 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 开善 | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 开善  | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 光宅 | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+|  光宅 | 卷十四 | 33 | 与三大法师关联语境 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成论师 / 成論師 | 卷十四 | 70 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成论师 | 卷十四 | 42 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 論師 | 卷十四 | 42 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成論師 | 卷十四 | 42 | 研究讨论“成论大乘师”等称法 臺大佛學數位圖書館 | — | unresolved_source | 未逐条复核 |
+| 成实论义记 / 成實論義記 | 卷十四 | 70 | 敦煌文献与研究目录条目 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 論義記 | 卷十四 | 42 | 敦煌文献与研究目录条目 臺大佛學數位圖書館+1 | — | unresolved_source | 未逐条复核 |
+| 延生 | 卷十五 | 75 | — | — | missing_source | 未逐条复核 |
+| 增寿 | 卷十五 | 70 | — | — | missing_source | 未逐条复核 |
+| 较大，偏圆，不发光 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 与药钵连用 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 配十二神将 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 珠光更大、光芒外射 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 常与锡杖并列 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 站或坐于地狱场景 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 大乘通用经文 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 观音体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 净土体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 药师体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 密教体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 华严体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 禅宗体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 区域体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 地藏体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 弥勒体系 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 三论宗 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 唯识宗 | 卷十五 | — | — | — | missing_source | 未逐条复核 |
+| 孔雀明王 | 卷五 | 80 | 孔雀明王经 | — | unresolved_source | 未逐条复核 |
+| 毗沙门天王 | 卷五 | 85 | 陀罗尼集经 | — | unresolved_source | 未逐条复核 |
+| 观音菩萨 | 卷二 | 80 | 普门品 | T0262 | title_catalog_match | 未逐条复核 |
+| 大悲千手观音菩萨 | 卷二 | 85 | 密教仪轨 | — | unresolved_source | 未逐条复核 |
+| 大威德炽盛光佛 | 卷五 | 85 | — | — | missing_source | 未逐条复核 |
+| 九曜 | 卷五 | 70 | — | — | missing_source | 未逐条复核 |
+| 千手观音 | 卷五 | 80 | 密教观音本尊 | — | unresolved_source | 未逐条复核 |
+| 千手观音 | 卷二 | 80 | 密教观音（观音体系交叉） | — | unresolved_source | 未逐条复核 |
+| 千手千眼 | 卷五 | 75 | 密教观音特征 | — | unresolved_source | 未逐条复核 |
+| 准提观音 | 卷五 | 75 | 密教六观音 | — | unresolved_source | 未逐条复核 |
+| 白衣观音 | 卷五 | 65 | 密教观音 | — | unresolved_source | 未逐条复核 |
+| 白衣观音 | 卷二 | 80 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 不空羂索观音 | 卷五 | 75 | 密教观音本尊 | — | unresolved_source | 未逐条复核 |
+| 尊胜幢 | 卷五 | 80 | 密教器物 | — | unresolved_source | 未逐条复核 |
+| 佛顶尊胜幢 | 卷五 | 80 | 密教器物 | — | unresolved_source | 未逐条复核 |
+| 尊胜陀罗尼 | 卷五 | 75 | 密教陀罗尼 | — | unresolved_source | 未逐条复核 |
+| 陀罗尼经幢 | 卷五 | 70 | 密教器物 | — | unresolved_source | 未逐条复核 |
+| 尊胜石幢 | 卷五 | 70 | 密教器物 | — | unresolved_source | 未逐条复核 |
+| 大威德炽盛光 | 卷五 | 85 | 密教本尊 | — | unresolved_source | 未逐条复核 |
+| 大威德金轮 | 卷五 | 80 | 密教本尊 | — | unresolved_source | 未逐条复核 |
+| 柳本尊 | 卷五 | 85 | 密教祖师 | — | unresolved_source | 未逐条复核 |
+| 柳本尊十炼 | 卷五 | 85 | 密教祖师 | — | unresolved_source | 未逐条复核 |
+| 数珠手观音 | 卷五 | 75 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 数珠手观音 | 卷二 | 75 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 水月观音 | 卷五 | 65 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 水月观音 | 卷二 | 65 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 如意轮菩萨 | 卷五 | 70 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 如意轮菩萨 | 卷二 | 70 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 大悲千手 | 卷五 | 75 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 大悲千手 | 卷二 | 75 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 大悲千手观音 | 卷五 | 80 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 大悲千手观音 | 卷二 | 80 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 正法明王观音 | 卷五 | 70 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 正法明王观音 | 卷二 | 70 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 六臂如意轮 | 卷五 | 70 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 六臂如意轮 | 卷二 | 70 | 密教观音变相 | — | unresolved_source | 未逐条复核 |
+| 北方天王 | 卷五 | 70 | 密教护法 | — | unresolved_source | 未逐条复核 |
+| 九子母 | 卷五 | 65 | 密教护法 | — | unresolved_source | 未逐条复核 |
+| 解冤结菩萨 | 卷五 | 65 | 密教菩萨 | — | unresolved_source | 未逐条复核 |
+| 解冤结 | 卷五 | 55 | 密教菩萨 | — | unresolved_source | 未逐条复核 |
+| 欢喜王菩萨 | 卷五 | 65 | 密教菩萨 | — | unresolved_source | 未逐条复核 |
+| 普见菩萨 | 卷五 | 60 | 密教菩萨 | — | unresolved_source | 未逐条复核 |
+| 多宝塔 | 卷五 | 60 | 密教器物 | — | unresolved_source | 未逐条复核 |
+| 阿閦佛 | 卷五 | 70 | 密教五方佛东方 | — | unresolved_source | 未逐条复核 |
+| 华严经变 | 卷六 | 85 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 大方广佛华严经 | 卷六 | 80 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 卢舍那佛 | 卷六 | 80 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 华严三圣 | 卷六 | 80 | 华严经 | T0279 | title_catalog_match | 未逐条复核 |
+| 释迦牟尼佛 | 卷一 | 65 | 大乘诸经 | — | unresolved_source | 未逐条复核 |
+| 三世佛 | 卷一 | 45 | 大乘诸经 | — | unresolved_source | 未逐条复核 |
+| 三世佛 | 卷三 | 5 | — | — | missing_source | 未逐条复核 |
+| 救苦菩萨 | 卷二 | 60 | r10b | — | unresolved_source | 未逐条复核 |
+| 救苦观音 | 卷二 | 65 | r10b | — | unresolved_source | 未逐条复核 |
+| 引路王菩萨 | 卷二 | 65 | r10b | — | unresolved_source | 未逐条复核 |
+| 引路王 | 卷二 | 55 | r10b | — | unresolved_source | 未逐条复核 |
+| 二圣 | 卷二 | 45 | r10b | — | unresolved_source | 未逐条复核 |
+| 四分律 | 卷十五 | 85 | T1428 | T1428 | explicit_id_catalog_match | 未逐条复核 |
+| 四分律删繁补阙行事钞 | 卷十五 | 80 | T1804 | T1804 | explicit_id_catalog_match | 未逐条复核 |
+| 四分律删补随机羯磨 | 卷十五 | 80 | T1808 | T1808 | explicit_id_catalog_match | 未逐条复核 |
+| 比丘戒本 | 卷十五 | 75 | T1429 | T1429 | explicit_id_catalog_match | 未逐条复核 |
+| 四分律比丘戒本 | 卷十五 | 80 | T1429 | T1429 | explicit_id_catalog_match | 未逐条复核 |
+| 十诵律 | 卷十五 | 80 | T1435 | T1435 | explicit_id_catalog_match | 未逐条复核 |
+| 摩诃僧祇律 | 卷十五 | 80 | T1425 | T1425 | explicit_id_catalog_match | 未逐条复核 |
+| 根本说一切有部毘奈耶 | 卷十五 | 75 | T1442 | T1442 | explicit_id_catalog_match | 未逐条复核 |
+| 十诵比丘波罗提木叉戒本 | 卷十五 | 70 | T1436 | T1436 | explicit_id_catalog_match | 未逐条复核 |
+| 白四羯磨 | 卷十五 | 75 | 律宗仪轨 | — | unresolved_source | 未逐条复核 |
+| 布萨 | 卷十五 | 65 | 律宗制度 | — | unresolved_source | 未逐条复核 |
+| 布萨说戒 | 卷十五 | 75 | 律宗制度 | — | unresolved_source | 未逐条复核 |
+| 说戒 | 卷十五 | 55 | 律宗制度 | — | unresolved_source | 未逐条复核 |
+| 波罗夷 | 卷十五 | 70 | 律宗戒法 | — | unresolved_source | 未逐条复核 |
+| 戒本 | 卷十五 | 55 | 律宗文献 | — | unresolved_source | 未逐条复核 |
+| 戒律 | 卷十五 | 50 | 律宗总称 | — | unresolved_source | 未逐条复核 |
+| 受戒 | 卷十五 | 55 | 律宗制度 | — | unresolved_source | 未逐条复核 |
+| 持戒 | 卷十五 | 50 | 律宗行持 | — | unresolved_source | 未逐条复核 |
+| 律宗 | 卷十五 | 85 | 宗派名 | — | unresolved_source | 未逐条复核 |
+| 道宣 | 卷十五 | 75 | 南山律宗祖师 | — | unresolved_source | 未逐条复核 |
+| 南山宗 | 卷十五 | 80 | 南山律宗 | — | unresolved_source | 未逐条复核 |
+| 行事钞 | 卷十五 | 70 | T1804 | T1804 | explicit_id_catalog_match | 未逐条复核 |
+| 随机羯磨 | 卷十五 | 70 | T1808 | T1808 | explicit_id_catalog_match | 未逐条复核 |
+| 羯磨法 | 卷十五 | 65 | 律宗仪轨 | — | unresolved_source | 未逐条复核 |
+| 戒坛 | 卷十五 | 60 | 律宗制度 | — | unresolved_source | 未逐条复核 |
+| 具足戒 | 卷十五 | 60 | 律宗戒法 | — | unresolved_source | 未逐条复核 |
+| 普法 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 普敬 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 无尽藏 | 卷十六 | 80 | 大乘无尽藏法 | — | unresolved_source | 需三阶教文献、信行系传承或礼忏结构等独立证据；普通字面出现不足以判三阶教。 |
+| 无尽藏法 | 卷十六 | 80 | 大乘无尽藏法 | — | unresolved_source | 未逐条复核 |
+| 泥龛 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 三阶佛法 | 卷十六 | 80 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 大乘无尽藏法 | 卷十六 | 80 | 大乘无尽藏法 | — | unresolved_source | 未逐条复核 |
+| 普佛 | 卷十六 | 75 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 认恶 | 卷十六 | 75 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 三阶大德 | 卷十六 | 75 | 造像碑 | — | unresolved_source | 未逐条复核 |
+| 末法众生 | 卷十六 | 70 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 三阶 | 卷十六 | 70 | 三阶佛法 | — | unresolved_source | 未逐条复核 |
+| 信行 | 卷十六 | 65 | 续高僧传 | — | unresolved_source | 未逐条复核 |
+| 化度寺 | 卷十六 | 65 | 长安志 | — | unresolved_source | 未逐条复核 |

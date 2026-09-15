@@ -1,5 +1,7 @@
 # 卷十二：唯识宗体系（Yogācāra / Faxiang / Consciousness-only）
 
+> 2.4说明：下文保留历史词表和设计记录。当前最终判断须遵循[文献与语境规则](../weighting-rules-v2.3.md)；与之冲突的强制锁宗、未核原句和概率化说明不再生效。旧数值不视为新文献验证结果。
+
 卷十二：唯识宗体系（Yogācāra / Faxiang / Consciousness-only）
 Y0：唯识主体判定（核心）
 唯识宗是认知哲学，主体不是佛像，而是"心识"。

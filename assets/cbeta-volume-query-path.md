@@ -20,6 +20,7 @@
 - [大般涅槃經](https://cbetaonline.dila.edu.tw/T0374) T0374
 - [維摩詰所說經](https://cbetaonline.dila.edu.tw/T0475) T0475
 - [大佛頂如來密因修證了義諸菩薩萬行首楞嚴經](https://cbetaonline.dila.edu.tw/T0945) T0945
+- [佛說觀藥王藥上二菩薩經](https://cbetaonline.dila.edu.tw/T1161) T1161
 
 ## 卷二
 
@@ -55,6 +56,7 @@
 - [藥師如來念誦儀軌](https://cbetaonline.dila.edu.tw/T0924A) T0924A
 - [藥師如來念誦儀軌](https://cbetaonline.dila.edu.tw/T0924B) T0924B
 - [藥師七佛供養儀軌如意王經](https://cbetaonline.dila.edu.tw/T0927) T0927
+- [佛說灌頂經](https://cbetaonline.dila.edu.tw/T1331) T1331
 
 ## 卷五
 
@@ -190,5 +192,7 @@
 
 ## 卷十六
 
+- [佛說觀藥王藥上二菩薩經](https://cbetaonline.dila.edu.tw/T1161) T1161
+- [集諸經禮懺儀](https://cbetaonline.dila.edu.tw/T1982) T1982
 - [續高僧傳](https://cbetaonline.dila.edu.tw/T2060) T2060
 - [開元釋教錄](https://cbetaonline.dila.edu.tw/T2154) T2154

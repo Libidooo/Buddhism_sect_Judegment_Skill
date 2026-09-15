@@ -1,0 +1,415 @@
+{
+  "version": "2.4.0",
+  "reviewed_on": "2026-09-15",
+  "scope": "重点条目证据复核，不覆盖全部7512条映射；未列条目仍待逐条审查。",
+  "rules": [
+    {
+      "term": "海潮音",
+      "vid": "2",
+      "action": "context_review_required",
+      "reason": "可作普门品语境线索；不足以单独证明天台宗。需要独立的教观、章疏或师承锚点。",
+      "paper_ids": [
+        "P11",
+        "P02"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0262",
+          "line": "0058a26",
+          "matched_form": "海潮音",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T09/T09n0262.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "普门",
+      "vid": "2",
+      "action": "context_review_required",
+      "reason": "保留观音／法华关联，撤销见词即天台的最终判定规则。",
+      "paper_ids": [
+        "P11",
+        "P02"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "普门品",
+      "vid": "1",
+      "action": "context_review_required",
+      "reason": "经文题名识别不等于天台身份。",
+      "paper_ids": [
+        "P11",
+        "P02"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "佛性",
+      "vid": "3",
+      "action": "context_review_required",
+      "reason": "共享术语按宗派语境复核；词条自身不能充当证明该语境的独立锚点。",
+      "paper_ids": [
+        "P03",
+        "P04",
+        "P08"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "佛性",
+      "vid": "7",
+      "action": "context_review_required",
+      "reason": "共享术语按宗派语境复核；词条自身不能充当证明该语境的独立锚点。",
+      "paper_ids": [
+        "P03",
+        "P04",
+        "P08"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "七宝池",
+      "vid": "3",
+      "action": "context_review_required",
+      "reason": "可见于净土经文，药师关联须另有直接语境；不能把共享景物视为宗派独占。",
+      "paper_ids": [
+        "P01",
+        "P12"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0365",
+          "line": "0345a13",
+          "matched_form": "七寶池",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0365.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0366",
+          "line": "0346c16",
+          "matched_form": "七寶池",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0366.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "八功德水",
+      "vid": "3",
+      "action": "context_review_required",
+      "reason": "诊断对照中跨多部经典出现；保留同词异权，但高权重须结合本尊、引经或固定组合验证。",
+      "paper_ids": [
+        "P01",
+        "P12"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0360",
+          "line": "0271a29",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0360.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0365",
+          "line": "0342c04",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0365.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0366",
+          "line": "0347a01",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0366.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0279",
+          "line": "0314c01",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T10/T10n0279.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0456",
+          "line": "0429c11",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0456.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "七宝池",
+      "vid": "4",
+      "action": "context_review_required",
+      "reason": "可见于净土经文，药师关联须另有直接语境；不能把共享景物视为宗派独占。",
+      "paper_ids": [
+        "P01",
+        "P12"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0365",
+          "line": "0345a13",
+          "matched_form": "七寶池",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0365.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0366",
+          "line": "0346c16",
+          "matched_form": "七寶池",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0366.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "八功德水",
+      "vid": "4",
+      "action": "context_review_required",
+      "reason": "诊断对照中跨多部经典出现；保留同词异权，但高权重须结合本尊、引经或固定组合验证。",
+      "paper_ids": [
+        "P01",
+        "P12"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0360",
+          "line": "0271a29",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0360.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0365",
+          "line": "0342c04",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0365.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0366",
+          "line": "0347a01",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0366.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0279",
+          "line": "0314c01",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T10/T10n0279.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T0456",
+          "line": "0429c11",
+          "matched_form": "八功德水",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0456.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "无碍光佛",
+      "vid": "3",
+      "action": "reference_corrected",
+      "reason": "原source标为阿弥陀经，十二光名号相关段落应更正至无量寿经；词条原始source保留备查。",
+      "paper_ids": [
+        "P01"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0360",
+          "line": "0270a29",
+          "matched_form": "無礙光佛",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0360.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [
+        "T0360"
+      ],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "无对光佛",
+      "vid": "3",
+      "action": "reference_corrected",
+      "reason": "原source标为阿弥陀经，十二光名号相关段落应更正至无量寿经；词条原始source保留备查。",
+      "paper_ids": [
+        "P01"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0360",
+          "line": "0270b01",
+          "matched_form": "無對光佛",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0360.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [
+        "T0360"
+      ],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "观自在",
+      "vid": "2",
+      "action": "context_review_required",
+      "reason": "心经版本线索倾向玄奘译本，但该名号跨经出现，不能单独判宗派。",
+      "paper_ids": [
+        "P11"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0251",
+          "line": "0848c06",
+          "matched_form": "觀自在",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "照见五蕴",
+      "vid": "2",
+      "action": "context_review_required",
+      "reason": "对应T0251译语；与T0250五阴措辞区分，不能仅据片段断言历史使用版本。",
+      "paper_ids": [
+        "P11"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T0251",
+          "line": "0848c06",
+          "matched_form": "照見五蘊",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "本来无一物",
+      "vid": "7",
+      "action": "context_review_required",
+      "reason": "匹配宗宝本语句，也见其他禅宗文本；早期题记须核对版本流通，不能回投后期定本。",
+      "paper_ids": [
+        "P04"
+      ],
+      "verified_occurrences": [
+        {
+          "t_number": "T2008",
+          "line": "0349a08",
+          "matched_form": "本來無一物",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2008.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        },
+        {
+          "t_number": "T2003",
+          "line": "0218a01",
+          "matched_form": "本來無一物",
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2003.xml",
+          "scope": "去标点字串核查；不是原始使用日志或宗派独占证明"
+        }
+      ],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "地狱未空 誓不成佛",
+      "vid": "9",
+      "action": "quotation_unresolved",
+      "reason": "在核查的T0412正文未找到此整句，暂列通行概括／来源待核，不能冒称本愿经原句。",
+      "paper_ids": [
+        "P13",
+        "P14"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "无尽藏",
+      "vid": "16",
+      "action": "context_review_required",
+      "reason": "需三阶教文献、信行系传承或礼忏结构等独立证据；普通字面出现不足以判三阶教。",
+      "paper_ids": [
+        "P16",
+        "P21"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "摩诃止观",
+      "vid": "13",
+      "action": "context_review_required",
+      "reason": "可作天台教观文献锚点，须区分原刻引文、现代拟题和他宗引用；书名出现也不直接证明组织身份。",
+      "paper_ids": [
+        "P02"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    },
+    {
+      "term": "成实论",
+      "vid": "14",
+      "action": "context_review_required",
+      "reason": "现有51分可能是较长表格单元派生；先辨完整论名与缩写，不将派生值解释为文献代表性评分。",
+      "paper_ids": [
+        "P09"
+      ],
+      "verified_occurrences": [],
+      "corrected_reference_ids": [],
+      "weight_action": "preserve_legacy_numeric_value",
+      "enforcement": "AI／专家复核层，非新增计分器自动门槛"
+    }
+  ]
+}

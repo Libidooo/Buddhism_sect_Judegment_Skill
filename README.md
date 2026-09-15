@@ -2,7 +2,17 @@
 
 > 基于符号推理引擎 + AI 协作的佛教造像铭文宗派自动分类系统，覆盖四川地区6-13世纪十六卷宗派体系，集成 CBETA 大藏经经典索引查询。
 
-## 2.3.1 经录与检索修订
+## 2.4 文献证据与权重规则
+
+更新日期2026-09-15。135条经录连接21项研究文献，区分核心、辅助、对照和后世资料；经号和各索引由统一JSON生成。新增T1331、T1982、T1161均标为本次补充，不回填为原始建库语料。
+
+7,512条原映射与权重保留，查询结果新增18条重点映射的语境／出处复核与4,651条历史派生候选。无碍光佛、无对光佛的经录指向更正到T0360，原source保留备查。现存缺出处记录不冒称已完成溯源。
+
+当前规则入口为 [SKILL.md](SKILL.md)、[权重与语境规则](sect-judgment-hub/references/weighting-rules-v2.3.md)、[研究依据](sect-judgment-hub/references/research-support.md)及[重点复核](sect-judgment-hub/references/term-evidence-review.md)。旧分卷数值表是历史配置，不再将“某经代表某传统”解释成“见词即锁宗”。
+
+本版更新解释与索引，未重写数值计分器；新增语境复核没有新的F1验证。下方原性能、流程示例保留历史背景，当前判定以2.4规则为准。
+
+## 历史记录 2.3.1 经录与检索修订
 
 统一经录为 `assets/cbeta-catalog.json`（132条经录）。全量索引保留7,189个词条、7,512条词条与卷别映射及原权重，其中6,904条缺少原始来源，显式标记待核验。书名与经号匹配不等于经文原句已校勘。三阶教核心写本与少数泛称仍待落实，详见 `sect-judgment-hub/references/classics-coverage-v2.3.md`。
 
@@ -23,7 +33,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-v2.3.1-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-v2.4.0-orange.svg)]()
 [![F1](https://img.shields.io/badge/Engine+AI_F1-0.8744-blueviolet.svg)]()
 
 ---

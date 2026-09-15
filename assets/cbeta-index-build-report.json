@@ -1,16 +1,22 @@
 {
-  "version": "2.3.1",
+  "version": "2.4.0",
   "term_count": 7189,
   "mapping_count": 7512,
   "indexed_mapping_count": 7512,
-  "catalog_count": 132,
+  "catalog_count": 135,
+  "paper_count": 21,
+  "reviewed_mapping_count": 18,
+  "derivation_profile_count": 4651,
+  "inherited_reference_correction_count": 6,
   "status_counts": {
+    "corrected_by_passage_review": 2,
     "explicit_id_catalog_match": 92,
+    "inferred_reference_correction": 6,
     "missing_source": 6904,
-    "title_catalog_match": 257,
+    "title_catalog_match": 249,
     "unresolved_source": 259
   },
   "term_index_sha256": "78b5e6a667044976743c6c7b13d21f27ca8a31145b6a2dd2e9448fe169cd0c82",
-  "catalog_sha256": "a66095800d34d26a90ea8e3fe1f169a49e53d4dbb617f46f0e7ca794e6d43300",
+  "catalog_sha256": "2b20345d00b54d0ad4edf5d63f65d1eb6d7fa4986d283d3db826956ff12cc84b",
   "limitation": "全量收录映射不等于全部文献已校勘；缺失来源不生成链接；同词异卷权重逐条保留"
 }

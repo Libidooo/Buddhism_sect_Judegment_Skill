@@ -1,0 +1,402 @@
+{
+  "version": "2.4.0",
+  "papers": [
+    {
+      "id": "P01",
+      "author": "朱湘钰",
+      "title": "“十念往生”的意义与相关讨论——以《大正藏》净土三经及其注疏为例",
+      "journal": "师大学报：人文与社会类",
+      "year": "2006",
+      "volume": "51(1-2)",
+      "pages": "39-53",
+      "type": "J",
+      "url": "https://jntnu.ord.ntnu.edu.tw/Uploads/Papers/634589591533014000.pdf",
+      "checked": "已核书目、摘要及正文研究范围段",
+      "support": "研究范围明确选择净土三经及注疏，支持以念佛和往生问题组织语料。不能据此把所有净土信仰者判为独立宗派成员。"
+    },
+    {
+      "id": "P02",
+      "author": "陈英善",
+      "title": "从“开权显实”论法华之妙",
+      "journal": "中华佛学学报",
+      "year": "2001",
+      "volume": "14",
+      "pages": "293-308",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-AN/an350608.pdf",
+      "checked": "已核书目、摘要及正文开篇",
+      "support": "将法华玄义、法华文句与摩诃止观联系到智顗的教观解释；作者同时反对简单等同法华与天台。"
+    },
+    {
+      "id": "P03",
+      "author": "邓克铭",
+      "title": "法藏之心识观的特色",
+      "journal": "中华佛学学报",
+      "year": "1996",
+      "volume": "9",
+      "pages": "243-259",
+      "type": "J",
+      "url": "https://www.chibs.edu.tw/ch_html/chbj/09/chbj0910.htm",
+      "checked": "已核期刊原站正文及书目",
+      "support": "直接比较探玄记与华严一乘教义分齐章，支持以法藏论疏界定法界、心识等词的华严用义。"
+    },
+    {
+      "id": "P04",
+      "author": "圣凯",
+      "title": "《六祖坛经》成“经”与禅宗经典观念的创新",
+      "journal": "华东师范大学学报（哲学社会科学版）",
+      "year": "2024",
+      "volume": "56(3)",
+      "pages": "93-101",
+      "type": "J",
+      "url": "https://xbzs.ecnu.edu.cn/CN/10.16382/j.cnki.1000-5579.2024.03.009",
+      "checked": "已核期刊官网摘要和完整书目",
+      "support": "讨论坛经与说法、授戒、正法和师资传承的联系，支持其作为禅宗核心语料；形成过程具有增补性，版本应分别处理。"
+    },
+    {
+      "id": "P05",
+      "author": "吕建福",
+      "title": "密教哲学的基本论题及其重要概念",
+      "journal": "世界宗教研究",
+      "year": "2002",
+      "volume": "1",
+      "pages": "85-96",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=368996",
+      "checked": "已核学术数据库书目和作者摘要",
+      "support": "支持从菩提心等论题理解密教语义，反对把日本真言宗单一范畴套用于所有密教；本条不是全部密典的逐书选本证明。"
+    },
+    {
+      "id": "P06",
+      "author": "小野塚幾澄",
+      "title": "大日経と金剛頂経との関係：金剛頂瑜伽中略出念誦経についての一考察",
+      "journal": "豊山学報",
+      "year": "1962",
+      "volume": "8",
+      "pages": "85-96",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=627713",
+      "checked": "已核书目与主题，未核全文论证",
+      "support": "作为大日经、金刚顶经与略出念诵经关系研究的定向阅读文献；未读全文，不能代替其结论发言。"
+    },
+    {
+      "id": "P07",
+      "author": "蓝日昌",
+      "title": "论三论宗从学派到宗的历程",
+      "journal": "世界宗教学刊",
+      "year": "2005",
+      "volume": "6",
+      "pages": "85-134",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=213308",
+      "checked": "已核书目、摘要和目录",
+      "support": "支持中论、百论、十二门论构成三论教学习统；同时质疑把中古三论教学直接等同于后世宗派组织。"
+    },
+    {
+      "id": "P08",
+      "author": "杨剑霄",
+      "title": "制造玄奘的面孔——唐代法相唯识宗创立问题研究",
+      "journal": "世界宗教研究",
+      "year": "2019",
+      "volume": "1",
+      "pages": "72-82",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_detail.jsp?seq=679087",
+      "checked": "已核书目、摘要和目录",
+      "support": "分析成唯识论与窥基系传承权威的建构，支持以该论及慈恩系论疏作为特定唯识传统的锚点，不等同于玄奘全部译学。"
+    },
+    {
+      "id": "P09",
+      "author": "李幸玲",
+      "title": "建构中的经典及其意义——《成实论》的汉译、弘传及其梁代义疏",
+      "journal": "台大佛学研究",
+      "year": "2024",
+      "volume": "47",
+      "pages": "55-116",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_detail.jsp?seq=706604",
+      "checked": "已核作者摘要、书目及期刊目录",
+      "support": "支持成实论及梁代义疏作为成实学语料；说明译本与解释史交织，现存文本并非可直接视为不变原译。"
+    },
+    {
+      "id": "P10",
+      "author": "温金玉",
+      "title": "中国律学源流",
+      "journal": "中华佛学学报",
+      "year": "1999",
+      "volume": "12",
+      "pages": "131-144",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=339703",
+      "checked": "已核书目和作者摘要",
+      "support": "以四分律及道宣会通诸律为主线，支持南山律学以四分律、行事钞和羯磨为主，其他律典作为对照。"
+    },
+    {
+      "id": "P11",
+      "author": "谢志斌",
+      "title": "《普门品》经变的发展及其对观音信仰中国化的贡献",
+      "journal": "佛教文化研究",
+      "year": "2022",
+      "volume": "2",
+      "pages": "113-142,413",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=700877",
+      "checked": "已核书目、摘要和目录",
+      "support": "把普门品与救难、应身等观音图像联系起来，支持其作为观音信仰语料；不能由此直接推出天台宗归属。"
+    },
+    {
+      "id": "P12",
+      "author": "常青",
+      "title": "成都万佛寺药师佛像与南北朝药师佛信仰",
+      "journal": "故宫博物院院刊",
+      "year": "2021",
+      "volume": "7",
+      "pages": "4-23",
+      "type": "J",
+      "url": "https://www.dpm.org.cn/journal/256061.html",
+      "checked": "已核期刊原站摘要与相关正文，页码据学术书目",
+      "support": "直接讨论四川南朝药师造像及慧简本药师经，支持补早期文本线索，而非仅以隋唐译本解释六世纪材料。其起源与图像判断属于作者论证。"
+    },
+    {
+      "id": "P13",
+      "author": "尹富",
+      "title": "《地藏菩萨本愿经》综考",
+      "journal": "四川大学学报（哲学社会科学版）",
+      "year": "2007",
+      "volume": "6",
+      "pages": "48-56",
+      "type": "J",
+      "url": "https://journal.scu.edu.cn/info/1109/14373.htm",
+      "checked": "已核期刊官网摘要及书目",
+      "support": "研究本愿经流行、成书和译者，提出五代宋初成书看法；用于版本和年代风险控制，不将单篇争议观点当成无争议定论。"
+    },
+    {
+      "id": "P14",
+      "author": "尹富",
+      "title": "地藏菩萨及其信仰传入中国时代考",
+      "journal": "四川大学学报（哲学社会科学版）",
+      "year": "2006",
+      "volume": "2",
+      "pages": "63-70",
+      "type": "J",
+      "url": "https://journal.scu.edu.cn/info/1109/14345.htm",
+      "checked": "已核期刊官网摘要及书目",
+      "support": "区分地藏名号出现与地藏信仰传播，讨论十轮类文献；支持将名号证据、信仰证据分开。"
+    },
+    {
+      "id": "P15",
+      "author": "干树德",
+      "title": "弥勒崇拜与乐山大佛的建造",
+      "journal": "四川文物",
+      "year": "1995",
+      "volume": "3",
+      "pages": "74-76",
+      "type": "J",
+      "url": "https://dlbs.liberal.ntu.edu.tw/jp/search/search_detail.jsp?seq=323092",
+      "checked": "已核学术书目与摘要",
+      "support": "联系上生、下生经典及乐山大佛，支持以这两类文献构建四川弥勒信仰语料；不支持把弥勒直接等同唯识宗。"
+    },
+    {
+      "id": "P16",
+      "author": "杨学勇",
+      "title": "三阶教《七阶礼》与佛名礼忏",
+      "journal": "敦煌研究",
+      "year": "2016",
+      "volume": "1",
+      "pages": "92-101",
+      "type": "J",
+      "url": "https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=566047",
+      "checked": "已核学术数据库书目和作者摘要",
+      "support": "以七阶礼写本、石刻与礼忏程序比较重建文本，支持三阶教另列写本层；不能将普通多佛名号直接判作三阶教。"
+    },
+    {
+      "id": "P17",
+      "author": "张同标",
+      "title": "论净土三经与净土图像的渊源",
+      "journal": "2019年第一届荆山论坛·佛教图像文化学研讨会论文集",
+      "year": "2019",
+      "volume": "",
+      "pages": "",
+      "type": "C",
+      "url": "https://xjsarts.com/cn/论净土三经与净土图像的渊源/",
+      "checked": "已核主办方作者摘要；未核论文集页码",
+      "support": "支持三经一论与净土图像的关联，作为图像用途补充；会议论文，不冒充期刊论文，其他强论断不在本报告中采纳。"
+    },
+    {
+      "id": "P18",
+      "author": "Robert H. Sharf",
+      "title": "On Pure Land Buddhism and Ch’an/Pure Land Syncretism in Medieval China",
+      "journal": "T’oung Pao",
+      "year": "2002",
+      "volume": "88(4/5)",
+      "pages": "282-331",
+      "type": "J",
+      "url": "https://doi.org/10.1163/156853202100368398",
+      "checked": "已核出版社书目；全文论证留待精读",
+      "support": "作为净土、禅及宗派分类边界的进一步阅读，不作为某一词条独占性或数值权重的证明。"
+    },
+    {
+      "id": "P19",
+      "author": "崔红芬",
+      "title": "西夏文《药师琉璃光七佛本愿功德经》及相关问题考略",
+      "journal": "佛学思想与佛教文化研究（上、下册）",
+      "year": "2017",
+      "volume": "",
+      "pages": "",
+      "type": "A",
+      "url": "https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=8917132&contentType=literature&siteId=14",
+      "checked": "已核出版社章节摘要；未核章节页码",
+      "support": "支持七佛本与义净译本及仪轨的关系；地域为西夏，不能直接当作四川流传证明。"
+    },
+    {
+      "id": "P20",
+      "author": "陈冠甄（释音远）",
+      "title": "地藏思想及其演化之研究",
+      "journal": "华梵大学博士学位论文",
+      "year": "2019",
+      "volume": "",
+      "pages": "",
+      "type": "D",
+      "url": "https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id%3D%22107HCHT0189004%22.&searchmode=basic",
+      "checked": "已核国家图书馆学位元数据与摘要",
+      "support": "补充十轮、本愿、占察三类文本的功能差异；为学位论文，不能冒充期刊文献。"
+    },
+    {
+      "id": "P21",
+      "author": "张总",
+      "title": "三阶教研究——从佛教艺术入手",
+      "journal": "复旦大学文史研究院讲座纪要",
+      "year": "2017",
+      "volume": "",
+      "pages": "",
+      "type": "EB",
+      "url": "https://iahs.fudan.edu.cn/info/1163/3231.htm",
+      "checked": "已核机构发布的讲座纪要",
+      "support": "为三阶佛法、礼忏与石刻关联提供查找线索；纪要不是期刊论文，也不能替代写本校录。"
+    }
+  ],
+  "supplementary_primary_sources": [
+    {
+      "id": "S01",
+      "name": "慧简本《药师琉璃光经》及早期写本线索",
+      "code": null,
+      "role": "本次研究补充；六世纪背景",
+      "papers": [
+        "P12"
+      ],
+      "note": "循论文查原写本和相关校录，不能假定等同于T0450。"
+    },
+    {
+      "id": "S02",
+      "name": "佛說灌頂經",
+      "code": "T1331",
+      "role": "本次研究补充；卷十二相关文本比较",
+      "papers": [
+        "P12"
+      ],
+      "note": "与早期药师文献关系需核具体段落和文本层次，不宣称当年已经使用。"
+    },
+    {
+      "id": "S03",
+      "name": "集諸經禮懺儀",
+      "code": "T1982",
+      "role": "本次研究补充；礼忏比较",
+      "papers": [
+        "P16"
+      ],
+      "note": "不能将全书均当作三阶教专属。"
+    },
+    {
+      "id": "S04",
+      "name": "佛說觀藥王藥上二菩薩經",
+      "code": "T1161",
+      "role": "本次研究补充；多佛名号与三阶教判定的反例语料",
+      "papers": [
+        "P16"
+      ],
+      "note": "进一步核对原文与五十三佛文献；选择它不表示归入三阶教专属语料。"
+    },
+    {
+      "id": "S05",
+      "name": "《三阶佛法》《七阶礼》及相关敦煌写本",
+      "code": null,
+      "role": "原有题名线索与本次补充礼忏研究",
+      "papers": [
+        "P16",
+        "P21"
+      ],
+      "note": "具体馆藏号、卷次、辑本未落实，不计为已取得完整文本。"
+    },
+    {
+      "id": "S06",
+      "name": "《大乘无尽藏法》《大乘法界无尽藏法》",
+      "code": null,
+      "role": "旧规则题名待核",
+      "papers": [
+        "P21"
+      ],
+      "note": "先核题名、文本关系及存佚，暂不能视作两部独立原典。"
+    },
+    {
+      "id": "S07",
+      "name": "《观世音应验录》《大悲心经》《大日如来灌顶仪轨》",
+      "code": null,
+      "role": "旧目录泛称待辨",
+      "papers": [
+        "P11",
+        "P05"
+      ],
+      "note": "不强配T号；论文只支持研究方向，不证明这些泛称的具体身份。"
+    },
+    {
+      "id": "S08",
+      "name": "十王经、地藏灵验记及题记汇编",
+      "code": null,
+      "role": "补充来源待落实",
+      "papers": [
+        "P13",
+        "P14"
+      ],
+      "note": "十王名单不能全部挂在T0412之下；未核定版本前不作为已经提词的文本。"
+    }
+  ],
+  "modern_book_leads": [
+    {
+      "author": "汤用彤",
+      "title": "汉魏两晋南北朝佛教史",
+      "status": "旧Skill总则明确提名",
+      "use": "用于历史分期与思想谱系，具体版本和相关页码待核"
+    },
+    {
+      "author": "汤用彤",
+      "title": "隋唐佛教史稿",
+      "status": "原论文参考文献；1982年中华书局版为原稿所列，未在本轮独立核版本",
+      "use": "用于背景，不以论文修订中补入书目反证最初建库使用"
+    },
+    {
+      "author": "侯旭东",
+      "title": "五六世纪北方民众佛教信仰：以造像记为中心的考察",
+      "status": "旧Skill与原稿均有提名；版次待核",
+      "use": "用于造像记材料性质与民众信仰研究，不提供所有宗派的经典分组"
+    },
+    {
+      "author": "杨维中",
+      "title": "中国唯识宗通史",
+      "status": "旧Skill总则提名；本轮未独立核版次",
+      "use": "作为唯识体系参考线索，不能作为弥勒名号自动归唯识的依据"
+    },
+    {
+      "author": "张总",
+      "title": "中国三阶教史",
+      "status": "研究中明确相关，作为本次补充参考",
+      "use": "应结合P16核写本与礼忏层次；不冒充当年已用"
+    },
+    {
+      "author": "李裕群",
+      "title": "邺城地区石窟与刻经",
+      "status": "旧Skill所留题名；出版形态、版次待核",
+      "use": "用于石刻与教派关系线索，未核完整书目不直接生成正式参考文献"
+    }
+  ],
+  "scope": "支持代表性选本与解释范围，不支持具体权重；核验范围逐篇列明，不把书目核验等同于全文阅读"
+}

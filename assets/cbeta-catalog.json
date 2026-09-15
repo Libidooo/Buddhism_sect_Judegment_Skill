@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
+  "version": "2.4.0",
   "verified_on": "2026-09-14",
   "metadata_sha256": "2deb0a4bac7a8eadfee7d0d822360121617bbc0eb4d3ee47eeb0bc1beee8f2c6",
   "metadata_source": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
@@ -23,7 +23,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0001",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T01/T01n0001.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "辅助／对照候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0026",
@@ -44,7 +60,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0026",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T01/T01n0026.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "辅助／对照候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0099",
@@ -65,7 +97,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0099",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T02/T02n0099.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "辅助／对照候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0125",
@@ -86,7 +134,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0125",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T02/T02n0125.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "辅助／对照候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0220",
@@ -108,7 +172,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0220",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T05..T07/T05..T07n0220.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0235",
@@ -131,7 +211,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0235",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0235.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0241",
@@ -153,7 +249,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0241",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0241.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0243",
@@ -175,7 +287,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0243",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0243.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0250",
@@ -197,7 +325,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0250",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0250.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "辅助／对照候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0251",
@@ -222,7 +366,34 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0251",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        },
+        {
+          "vid": "2",
+          "group": "观音主体与信仰",
+          "role": "核心候选",
+          "reason": "分别覆盖救难／示现、般若语境、陀罗尼仪轨；不将观音直接等同于天台或密教。",
+          "group_paper_ids": [
+            "P11",
+            "P05"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0262",
@@ -251,7 +422,44 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0262",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T09/T09n0262.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        },
+        {
+          "vid": "2",
+          "group": "观音主体与信仰",
+          "role": "核心候选",
+          "reason": "分别覆盖救难／示现、般若语境、陀罗尼仪轨；不将观音直接等同于天台或密教。",
+          "group_paper_ids": [
+            "P11",
+            "P05"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        },
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "核心候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0278",
@@ -274,7 +482,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0278",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T09/T09n0278.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "核心候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0279",
@@ -299,7 +522,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0279",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T10/T10n0279.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "核心候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0293",
@@ -323,7 +561,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0293",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T10/T10n0293.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "核心候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0360",
@@ -346,7 +599,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0360",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0360.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "核心候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0365",
@@ -370,7 +640,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0365",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0365.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "核心候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0366",
@@ -393,7 +680,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0366",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0366.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "核心候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0367",
@@ -414,7 +718,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0367",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0367.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "辅助／对照候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0374",
@@ -435,7 +756,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0374",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T12/T12n0374.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0410",
@@ -456,7 +793,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0410",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T13/T13n0410.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "9",
+          "group": "地藏主体与信仰",
+          "role": "核心候选",
+          "reason": "区分十轮、本愿和占察用途，并审查本愿经成书争议；十王信仰另找文本，不能全并入本愿经。",
+          "group_paper_ids": [
+            "P13",
+            "P14",
+            "P20"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0411",
@@ -479,7 +833,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0411",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T13/T13n0411.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "9",
+          "group": "地藏主体与信仰",
+          "role": "核心候选",
+          "reason": "区分十轮、本愿和占察用途，并审查本愿经成书争议；十王信仰另找文本，不能全并入本愿经。",
+          "group_paper_ids": [
+            "P13",
+            "P14",
+            "P20"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0412",
@@ -502,7 +873,28 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0412",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T13/T13n0412.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "9",
+          "group": "地藏主体与信仰",
+          "role": "核心候选",
+          "reason": "区分十轮、本愿和占察用途，并审查本愿经成书争议；十王信仰另找文本，不能全并入本愿经。",
+          "group_paper_ids": [
+            "P13",
+            "P14",
+            "P20"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "传统题署唐实叉难陀；P13提出五代宋初成书说，属于需要处理的学术争议，不能用目录日期直接断定唐代已流通。",
+      "chronology_status": "disputed_authorship_and_date",
+      "chronology_paper_ids": [
+        "P13",
+        "P14"
+      ]
     },
     {
       "t_number": "T0449",
@@ -524,7 +916,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0449",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0449.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "核心候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0450",
@@ -549,7 +957,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0450",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0450.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "核心候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0451",
@@ -571,7 +995,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0451",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0451.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "核心候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧药师卷七佛名号构成内容来源候选；未证明使用该电子译本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0452",
@@ -595,7 +1035,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0452",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0452.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "10",
+          "group": "弥勒主体与信仰",
+          "role": "核心候选",
+          "reason": "以上生与下生／成佛两支为组织框架；同题异译作为校勘对照，不把五个编号当作五套独立证据。",
+          "group_paper_ids": [
+            "P15"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0453",
@@ -617,7 +1072,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0453",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0453.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "10",
+          "group": "弥勒主体与信仰",
+          "role": "核心候选",
+          "reason": "以上生与下生／成佛两支为组织框架；同题异译作为校勘对照，不把五个编号当作五套独立证据。",
+          "group_paper_ids": [
+            "P15"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0454",
@@ -639,7 +1109,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0454",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0454.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "10",
+          "group": "弥勒主体与信仰",
+          "role": "核心候选",
+          "reason": "以上生与下生／成佛两支为组织框架；同题异译作为校勘对照，不把五个编号当作五套独立证据。",
+          "group_paper_ids": [
+            "P15"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0455",
@@ -660,7 +1145,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0455",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0455.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "10",
+          "group": "弥勒主体与信仰",
+          "role": "核心候选",
+          "reason": "以上生与下生／成佛两支为组织框架；同题异译作为校勘对照，不把五个编号当作五套独立证据。",
+          "group_paper_ids": [
+            "P15"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0456",
@@ -684,7 +1184,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0456",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0456.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "10",
+          "group": "弥勒主体与信仰",
+          "role": "核心候选",
+          "reason": "以上生与下生／成佛两支为组织框架；同题异译作为校勘对照，不把五个编号当作五套独立证据。",
+          "group_paper_ids": [
+            "P15"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0475",
@@ -705,7 +1220,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0475",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T14/T14n0475.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0670",
@@ -726,7 +1257,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0670",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T16/T16n0670.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "辅助／对照候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0676",
@@ -747,7 +1294,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0676",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T16/T16n0676.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "核心候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0839",
@@ -768,7 +1330,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0839",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T17/T17n0839.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "9",
+          "group": "地藏主体与信仰",
+          "role": "核心候选",
+          "reason": "区分十轮、本愿和占察用途，并审查本愿经成书争议；十王信仰另找文本，不能全并入本愿经。",
+          "group_paper_ids": [
+            "P13",
+            "P14",
+            "P20"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0848",
@@ -792,7 +1371,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0848",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0848.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "核心候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0865",
@@ -815,7 +1410,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0865",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0865.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "核心候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0866",
@@ -837,7 +1448,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0866",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0866.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "核心候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0872",
@@ -859,7 +1486,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0872",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0872.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0893a",
@@ -882,7 +1525,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0893a",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0893a.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0893b",
@@ -903,7 +1562,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0893b",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0893b.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0893c",
@@ -924,7 +1599,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0893c",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T18/T18n0893c.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0922",
@@ -945,7 +1636,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0922",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0922.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0923",
@@ -966,7 +1673,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0923",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0923.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0924A",
@@ -987,7 +1710,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0924A",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0924A.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0924B",
@@ -1008,7 +1747,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0924B",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0924B.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T0927",
@@ -1029,7 +1784,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0927",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0927.xml",
       "temporal_note": "晚于13世纪，仅作后世比较",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "group": "药师主体与信仰",
+          "role": "后世比较；不入6—13世纪直接证据语料",
+          "reason": "区分单佛药师与七佛药师译本；配合早期慧简本线索，不以后出的唐译覆盖全部年代。",
+          "group_paper_ids": [
+            "P12",
+            "P19"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "post_13th_century"
     },
     {
       "t_number": "T0945",
@@ -1052,7 +1823,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T0945",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n0945.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "group": "通用及对照语料",
+          "role": "核心候选",
+          "reason": "收录通用名号、般若、佛性等共享语汇作背景与反例；不是一个宗派代表集合。",
+          "group_paper_ids": [
+            "P02",
+            "P11"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1003",
@@ -1074,7 +1861,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1003",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T19/T19n1003.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1060",
@@ -1098,7 +1901,34 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1060",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1060.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "2",
+          "group": "观音主体与信仰",
+          "role": "核心候选",
+          "reason": "分别覆盖救难／示现、般若语境、陀罗尼仪轨；不将观音直接等同于天台或密教。",
+          "group_paper_ids": [
+            "P11",
+            "P05"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        },
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1061",
@@ -1119,7 +1949,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1061",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1061.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "2",
+          "group": "观音主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "分别覆盖救难／示现、般若语境、陀罗尼仪轨；不将观音直接等同于天台或密教。",
+          "group_paper_ids": [
+            "P11",
+            "P05"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1064",
@@ -1143,7 +1989,79 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1064",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1064.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "2",
+          "group": "观音主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "分别覆盖救难／示现、般若语境、陀罗尼仪轨；不将观音直接等同于天台或密教。",
+          "group_paper_ids": [
+            "P11",
+            "P05"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        },
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
+    },
+    {
+      "t_number": "T1161",
+      "name": "佛說觀藥王藥上二菩薩經",
+      "aliases": [
+        "佛說觀藥王藥上二菩薩經",
+        "佛说观药王药上二菩萨经",
+        "观药王药上二菩萨经"
+      ],
+      "vids": [
+        "1",
+        "16"
+      ],
+      "volume": "卷一、卷十六",
+      "category": "密教部類",
+      "byline": "劉宋 畺良耶舍譯",
+      "time_from": 424,
+      "time_to": 442,
+      "provenance": "2026-09-15依据文献研究新增；未参与旧实验",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1161",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T20/T20n1161.xml",
+      "temporal_note": "目录题署仅供线索，须核对篇章及题记年代",
+      "historical_use_status": "本次新增对照，不认定为原始已用",
+      "chronology_status": "check_against_inscription_date",
+      "chronology_note": "传统题署不等于无争议成书年",
+      "selection_uses": [
+        {
+          "vid": "1",
+          "role": "多佛名信仰对照；不能由佛名直接判三阶教",
+          "group_paper_ids": [
+            "P16"
+          ],
+          "support_scope": "组级选本依据；非已验证关键词分值"
+        },
+        {
+          "vid": "16",
+          "role": "多佛名信仰对照；不能由佛名直接判三阶教",
+          "group_paper_ids": [
+            "P16"
+          ],
+          "support_scope": "组级选本依据；非已验证关键词分值"
+        }
+      ],
+      "verification": "标准经名与T号经录核验"
     },
     {
       "t_number": "T1200",
@@ -1165,7 +2083,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1200",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1200.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1201",
@@ -1186,7 +2120,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1201",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1201.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1202",
@@ -1207,7 +2157,59 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1202",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1202.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "辅助／对照候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
+    },
+    {
+      "t_number": "T1331",
+      "name": "佛說灌頂經",
+      "aliases": [
+        "佛說灌頂經",
+        "佛说灌顶经",
+        "灌顶经"
+      ],
+      "vids": [
+        "4"
+      ],
+      "volume": "卷四",
+      "category": "經集部類,密教部類",
+      "byline": "東晉 帛尸梨蜜多羅譯",
+      "time_from": 317,
+      "time_to": 322,
+      "provenance": "2026-09-15依据文献研究新增；未参与旧实验",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1331",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T21/T21n1331.xml",
+      "temporal_note": "目录题署仅供线索，须核对篇章及题记年代",
+      "historical_use_status": "本次新增对照，不认定为原始已用",
+      "chronology_status": "check_against_inscription_date",
+      "chronology_note": "传统题署不等于无争议成书年",
+      "selection_uses": [
+        {
+          "vid": "4",
+          "role": "早期药师文本比较，限定卷十二及版本问题",
+          "group_paper_ids": [
+            "P12"
+          ],
+          "support_scope": "组级选本依据；非已验证关键词分值"
+        }
+      ],
+      "verification": "标准经名与T号经录核验"
     },
     {
       "t_number": "T1425",
@@ -1229,7 +2231,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1425",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T22/T22n1425.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "辅助／对照候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1428",
@@ -1250,7 +2267,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1428",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T22/T22n1428.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "核心候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1429",
@@ -1271,7 +2303,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1429",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T22/T22n1429.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "辅助／对照候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1435",
@@ -1293,7 +2340,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1435",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T23/T23n1435.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "辅助／对照候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1436",
@@ -1314,7 +2376,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1436",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T23/T23n1436.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "辅助／对照候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1442",
@@ -1336,7 +2413,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1442",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T23/T23n1442.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "辅助／对照候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1522",
@@ -1357,7 +2449,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1522",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T26/T26n1522.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1524",
@@ -1381,7 +2488,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1524",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T26/T26n1524.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "核心候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1564",
@@ -1403,7 +2527,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1564",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1564.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "核心候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1568",
@@ -1425,7 +2564,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1568",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1568.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "核心候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1569",
@@ -1447,7 +2601,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1569",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1569.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "核心候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1579",
@@ -1469,7 +2638,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1579",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T30/T30n1579.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "核心候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1585",
@@ -1491,7 +2675,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1585",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1585.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "核心候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1592",
@@ -1513,7 +2712,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1592",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1592.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1593",
@@ -1535,7 +2749,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1593",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1593.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "核心候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1594",
@@ -1557,7 +2786,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1594",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1594.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "核心候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1595",
@@ -1578,7 +2822,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1595",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1595.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1596",
@@ -1599,7 +2858,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1596",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1596.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1597",
@@ -1620,7 +2894,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1597",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1597.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1598",
@@ -1641,7 +2930,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1598",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T31/T31n1598.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1646",
@@ -1663,7 +2967,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1646",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T32/T32n1646.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "14",
+          "group": "成实学派",
+          "role": "核心候选",
+          "reason": "以成实论为根本，加梁代义疏和他宗引文辨识术语；现存文本具有整理史，不能假定为不变原译。",
+          "group_paper_ids": [
+            "P09"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1716",
@@ -1687,7 +3006,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1716",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T33/T33n1716.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "核心候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1717",
@@ -1709,7 +3043,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1717",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T33/T33n1717.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1718",
@@ -1733,7 +3082,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1718",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T34/T34n1718.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "核心候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1719",
@@ -1754,7 +3118,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1719",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T34/T34n1719.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1731",
@@ -1776,7 +3155,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1731",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1731.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1732",
@@ -1798,7 +3192,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1732",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1732.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1733",
@@ -1821,7 +3230,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1733",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1733.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "核心候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1734",
@@ -1843,7 +3267,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1734",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1734.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1735",
@@ -1866,7 +3305,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1735",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T35/T35n1735.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "核心候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1736",
@@ -1888,7 +3342,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1736",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T36/T36n1736.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1737",
@@ -1910,7 +3379,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1737",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T36/T36n1737.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1738",
@@ -1932,7 +3416,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1738",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T36/T36n1738.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1750",
@@ -1955,7 +3454,34 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1750",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T37/T37n1750.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "辅助／对照候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        },
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1753",
@@ -1976,7 +3502,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1753",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T37/T37n1753.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "核心候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1796",
@@ -1998,7 +3541,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1796",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T39/T39n1796.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "5",
+          "group": "汉传密教传统",
+          "role": "核心候选",
+          "reason": "两类密典与注疏分别用于教义、坛场、灌顶和仪轨语义；其余密典是专门对象的补充，尚无逐部选本论文核验。",
+          "group_paper_ids": [
+            "P05",
+            "P06"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1804",
@@ -2020,7 +3579,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1804",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T40/T40n1804.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "核心候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1808",
@@ -2042,7 +3616,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1808",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T40/T40n1808.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "核心候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1819",
@@ -2063,7 +3652,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1819",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T40/T40n1819.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "核心候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1824",
@@ -2085,7 +3691,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1824",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T42/T42n1824.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "核心候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1825",
@@ -2106,7 +3727,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1825",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T42/T42n1825.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "辅助／对照候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1827",
@@ -2127,7 +3763,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1827",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T42/T42n1827.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "辅助／对照候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1830",
@@ -2148,7 +3799,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1830",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1830.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "核心候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1831",
@@ -2169,7 +3835,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1831",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1831.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1832",
@@ -2190,7 +3871,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1832",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1832.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1833",
@@ -2211,7 +3907,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1833",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T43/T43n1833.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "12",
+          "group": "唯识及慈恩系教学",
+          "role": "辅助／对照候选",
+          "reason": "成唯识论及述记作为慈恩系锚点；瑜伽、摄论等是更广的论典背景，不能全部等同于唐代法相宗。",
+          "group_paper_ids": [
+            "P08"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1852",
@@ -2233,7 +3944,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1852",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1852.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "核心候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1853",
@@ -2254,7 +3980,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1853",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1853.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "11",
+          "group": "三论学派",
+          "role": "辅助／对照候选",
+          "reason": "三部根本论与吉藏解释构成教学语料；更适合标注三论学关联，不直接判组织身份。",
+          "group_paper_ids": [
+            "P07"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1866",
@@ -2276,7 +4017,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1866",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1866.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "核心候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1868",
@@ -2297,7 +4053,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1868",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1868.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1884",
@@ -2318,7 +4089,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1884",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1884.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1887A",
@@ -2339,7 +4125,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1887A",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1887A.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "6",
+          "group": "华严教学传统",
+          "role": "辅助／对照候选",
+          "reason": "区分经文版本与法藏、澄观的解释传统；法界、唯心等共享词应靠章疏语境辨义。吉藏华严游意不作为华严宗专属文本。",
+          "group_paper_ids": [
+            "P03"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1911",
@@ -2360,7 +4161,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1911",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1911.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "核心候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1913",
@@ -2382,7 +4198,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1913",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1913.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1927",
@@ -2404,7 +4235,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1927",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1927.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1928",
@@ -2425,7 +4271,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1928",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1928.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1929",
@@ -2447,7 +4308,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1929",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1929.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1931",
@@ -2469,7 +4345,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1931",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1931.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "核心候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1937",
@@ -2490,7 +4381,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1937",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1937.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "辅助／对照候选",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1938",
@@ -2511,7 +4417,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1938",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1938.xml",
       "temporal_note": "晚于13世纪，仅作后世比较",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "后世比较；不入6—13世纪直接证据语料",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "post_13th_century"
     },
     {
       "t_number": "T1939",
@@ -2532,7 +4453,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1939",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1939.xml",
       "temporal_note": "晚于13世纪，仅作后世比较",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "13",
+          "group": "天台教观传统",
+          "role": "后世比较；不入6—13世纪直接证据语料",
+          "reason": "法华经提供经文背景，三大部和四教仪提供解释框架；单一法华词汇不足以判天台。",
+          "group_paper_ids": [
+            "P02"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "post_13th_century"
     },
     {
       "t_number": "T1950",
@@ -2553,7 +4489,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1950",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T46/T46n1950.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "2",
+          "group": "观音主体与信仰",
+          "role": "辅助／对照候选",
+          "reason": "分别覆盖救难／示现、般若语境、陀罗尼仪轨；不将观音直接等同于天台或密教。",
+          "group_paper_ids": [
+            "P11",
+            "P05"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1958",
@@ -2575,7 +4527,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1958",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1958.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "辅助／对照候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1979",
@@ -2596,7 +4565,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1979",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1979.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "辅助／对照候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1980",
@@ -2619,7 +4605,24 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1980",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1980.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "辅助／对照候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1981",
@@ -2640,7 +4643,59 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1981",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1981.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "3",
+          "group": "弥陀净土传统",
+          "role": "辅助／对照候选",
+          "reason": "三经支撑本愿、国土和往生观行，往生论及注疏限定解释传统；专题论文支持选本，不证明宗派独占。",
+          "group_paper_ids": [
+            "P01",
+            "P17",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
+    },
+    {
+      "t_number": "T1982",
+      "name": "集諸經禮懺儀",
+      "aliases": [
+        "集諸經禮懺儀",
+        "集诸经礼忏仪"
+      ],
+      "vids": [
+        "16"
+      ],
+      "volume": "卷十六",
+      "category": "淨土宗部類",
+      "byline": "唐 智昇撰",
+      "time_from": 730,
+      "time_to": 730,
+      "provenance": "2026-09-15依据文献研究新增；未参与旧实验",
+      "source_url": "https://github.com/DILA-edu/cbeta-metadata/blob/master/work-info/T.json",
+      "cbeta_url": "https://cbetaonline.dila.edu.tw/T1982",
+      "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1982.xml",
+      "temporal_note": "目录题署仅供线索，须核对篇章及题记年代",
+      "historical_use_status": "本次新增对照，不认定为原始已用",
+      "chronology_status": "check_against_inscription_date",
+      "chronology_note": "传统题署不等于无争议成书年",
+      "selection_uses": [
+        {
+          "vid": "16",
+          "role": "礼忏比较；非全书三阶教专属",
+          "group_paper_ids": [
+            "P16"
+          ],
+          "support_scope": "组级选本依据；非已验证关键词分值"
+        }
+      ],
+      "verification": "标准经名与T号经录核验"
     },
     {
       "t_number": "T1998A",
@@ -2664,7 +4719,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1998A",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1998A.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "核心候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T1998B",
@@ -2685,7 +4756,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T1998B",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T47/T47n1998B.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "辅助／对照候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2003",
@@ -2708,7 +4795,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2003",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2003.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "核心候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2004",
@@ -2731,7 +4834,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2004",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2004.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "核心候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2007",
@@ -2755,7 +4874,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2007",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2007.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "核心候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2008",
@@ -2780,7 +4915,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2008",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2008.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "核心候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词；需另核译本／版本",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2016",
@@ -2801,7 +4952,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2016",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2016.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "辅助／对照候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2024",
@@ -2823,7 +4990,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2024",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T48/T48n2024.xml",
       "temporal_note": "晚于13世纪，仅作后世比较",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "后世比较；不入6—13世纪直接证据语料",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "post_13th_century"
     },
     {
       "t_number": "T2060",
@@ -2844,7 +5027,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2060",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2060.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "16",
+          "group": "三阶教及相关礼忏",
+          "role": "辅助／对照候选",
+          "reason": "核心须用三阶佛法、七阶礼等落实版本的材料；续高僧传、开元释教录只作传记和目录旁证。",
+          "group_paper_ids": [
+            "P16",
+            "P21"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2076",
@@ -2866,7 +5065,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2076",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T51/T51n2076.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "7",
+          "group": "禅宗传统",
+          "role": "核心候选",
+          "reason": "坛经提供传承与教法语料，语录和灯录补充宋代话语；P04直接支持坛经，其余列为扩展语料而非已经逐部完成文献论证。",
+          "group_paper_ids": [
+            "P04",
+            "P18"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧查询目录有题名线索；未证明提词使用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2154",
@@ -2887,7 +5102,23 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2154",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T55/T55n2154.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "16",
+          "group": "三阶教及相关礼忏",
+          "role": "辅助／对照候选",
+          "reason": "核心须用三阶佛法、七阶礼等落实版本的材料；续高僧传、开元释教录只作传记和目录旁证。",
+          "group_paper_ids": [
+            "P16",
+            "P21"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "后补或暂未找到旧记录；不得回填为原始已用",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     },
     {
       "t_number": "T2182",
@@ -2908,7 +5139,22 @@
       "cbeta_url": "https://cbetaonline.dila.edu.tw/T2182",
       "xml_url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T55/T55n2182.xml",
       "temporal_note": "目录所记年代仅供筛查；具体题记须核对该版本是否已流通",
-      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证"
+      "verification": "经名与编号经录核验；不等于词条逐句校勘或宗派独占性验证",
+      "selection_uses": [
+        {
+          "vid": "15",
+          "group": "南山律学及律典对照",
+          "role": "辅助／对照候选",
+          "reason": "核心为四分律—道宣著述；其他广律、戒本和目录作比较，不能见戒律通语即判律宗。",
+          "group_paper_ids": [
+            "P10"
+          ],
+          "support_scope": "组级选择依据；不保证列出的论文逐一论及本条经号"
+        }
+      ],
+      "historical_use_status": "旧分卷规则有题名线索；不证明具体译本或全本提词",
+      "chronology_note": "作译者沿用经录题署；年代元数据有时是生卒范围，不应直接当成书年。成书及译者争议另见研究论文。",
+      "chronology_status": "check_against_inscription_date"
     }
   ],
   "unresolved": [
@@ -2952,5 +5198,6 @@
       "t_number": null,
       "reason": "集合名称；补四阿含具体经号，不与T0475对应"
     }
-  ]
+  ],
+  "updated_on": "2026-09-15"
 }

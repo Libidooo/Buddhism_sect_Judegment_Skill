@@ -141,5 +141,12 @@ def cli(mode):
     if a.format=='json':print(json.dumps(result,ensure_ascii=False,indent=2))
     else:
         print(result.get('message',result['status']))
-        for r in result.get('results',[]):print(r.get('keyword',''),r.get('name',r.get('sutra','')),r.get('t_number') or '待核验',r.get('volume',''))
+        for r in result.get('results',[]):
+            print(r.get('keyword',''),r.get('name',r.get('sutra','')),r.get('t_number') or '待核验',r.get('volume',''))
+            if 'weight' in r:print('  历史权重:',r['weight'],'；来源状态:',r.get('source_status'))
+            if r.get('evidence_review'):
+                review=r['evidence_review'];print('  复核:',review['reason']);print('  研究依据:',','.join(review['paper_ids']))
+            elif 'review_status' in r:print('  尚未逐条文献复核')
+            if r.get('source_derivation_review'):print('  来源继承推断:',r['source_derivation_review']['reason'])
+            if r.get('chronology_note'):print('  版本与年代:',r['chronology_note'])
     return 1 if result['status']=='error' or result.get('online_check',{}).get('status')=='error' else 0
