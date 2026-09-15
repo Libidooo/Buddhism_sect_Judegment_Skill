@@ -16,8 +16,6 @@
 
 统一经录为 `assets/cbeta-catalog.json`（132条经录）。全量索引保留7,189个词条、7,512条词条与卷别映射及原权重，其中6,904条缺少原始来源，显式标记待核验。书名与经号匹配不等于经文原句已校勘。三阶教核心写本与少数泛称仍待落实，详见 `sect-judgment-hub/references/classics-coverage-v2.3.md`。
 
-本版本已校正常用经名与T号：`佛说阿弥陀经`对应 **T0366**，`药师琉璃光如来本愿功德经`对应 **T0450**。运行时以`cbeta-catalog.json`为唯一经录来源，不再使用旧版Markdown表中的冲突编号。
-
 三个检索入口均使用同一JSON数据。`python3 scripts/rebuild_cbeta_index.py`同步重建全部索引；`python3 scripts/rebuild_cbeta_index.py --check`检查是否过期。`cbeta_query.py`和`cbeta_common.py`仅依赖Python标准库，支持经号大小写、简体别名、精确卷别及无来源词条查询。
 
 在线检查示例：`python3 scripts/cbeta_query.py --t-number T0366 --check-online --timeout 8`。需要代理时加`--proxy http://127.0.0.1:实际端口`。缺少Python CA时使用系统CA，保持TLS校验；CBETA入口失败时回退官方XML仓库，并返回实际来源和验证范围。HTTP 200只表示页面入口可达；只有XML返回内容且包含经名时，才标记为文本身份核验，仍不等于逐句校勘。
