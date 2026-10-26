@@ -2,7 +2,7 @@
 name: buddhist-inscription-judgment-system
 description: 分析四川佛教题记的造像主体、信仰和宗派关联，结合历史规则引擎与可核文献；支持T号、经名、关键词和证据来源查询。
 metadata:
-  version: "2.4.0"
+  version: "2.4.1"
   query-dependencies: "Python 3.8+ standard library"
 ---
 # 四川佛教题记文献证据与关联标注
@@ -15,6 +15,7 @@ metadata:
 
 ## 必要参考
 
+- 判定前读取 [分字段准入与证据路由](sect-preliminary-filter/references/detailed-rules.md)。2.4.1不再以功能性书写或残损状态整条阻断主体识别；本规则优先于历史分卷表中的强制过滤、锁宗及输出模板。
 - 判定前读取 [权重与语境规则](sect-judgment-hub/references/weighting-rules-v2.3.md)。
 - 使用某卷时读取 [宗派主控](sect-judgment-hub/SKILL.md)及对应卷的历史规则，但有冲突时以2.4的证据规则和核验记录为准。
 - 查选经与时代边界时读取 [经典覆盖说明](sect-judgment-hub/references/classics-coverage-v2.3.md)及 [研究论文依据](sect-judgment-hub/references/research-support.md)。
@@ -22,13 +23,13 @@ metadata:
 
 ## 操作流程
 
-1. 保存原输入字段，区分原刻文字、现代拟题和图像描述。前置过滤用于说明适用范围和残损情况，不从证据不足推出“历史上不属于某宗派”。
+1. 保存原输入字段，区分原刻文字、现代拟题、已有题材描述及整理者的推断编码。宗教类型、宗派倾向和既有判定不作为新判断的证据。按分字段准入规则分别评估主体与传统；工匠署名、重妆、残损等只说明材料性质，不自动删除可识别名号或其他字段的有效证据。
 2. 调用既有计算引擎获得历史配置的匹配和得分，不由AI心算替代：
    `python3 scripts/sect_engine.py --input "题记原文" --subject "已有造像题材" --date "年代" --location "地点" --json`
 3. 对关键命中查询 `python3 scripts/cbeta_query.py --keyword "词条" --exact`。查看source_raw、source_status、weight_basis、evidence_review和候选经号，不把缺失来源补造成已知来源。
 4. 核对经典版本及题记年代。共享术语须有独立的引经、教观、仪轨或师承语境；不能让该术语自身循环证明语境。
 5. 分开呈现“引擎原始得分”与“文献复核后的解释”。低信号、年代冲突或来源争议保留未决，不能仅因W≥80或某经题名出现就认定历史宗派身份。
-6. 输出主体、信仰／学派关联、依据与反证、文献和论文、未决原因。文献条件的复核发生在AI／专家层，不能声称旧引擎已自动执行全部语境门槛。
+6. 按[当前输出规范](sect-judgment-hub/references/output-format.md)分别记录主体、传统关联、确定标签及候选待核项，每项关联到实际输入字段和引文。主体明确而传统未定时保留主体，不以缺少愿文或连贯叙事撤销名号。文献条件的复核发生在AI／专家层，不能声称旧引擎已自动执行全部语境门槛。
 
 ## 经录和索引
 

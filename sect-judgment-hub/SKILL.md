@@ -2,10 +2,14 @@
 name: sect-judgment-hub
 description: 宗派判定十六卷主控中心；当用户需要执行完整的宗派判定流程、进行主体与宗派的综合分析、或需要基于卷零至卷十六规则系统化判断题记时使用
 metadata:
-  version: "2.4.0"
+  version: "2.4.1"
 ---
 
 # 宗派判定主控中心 - 资源索引
+
+## 2.4.1 分层判定入口
+
+先读取 [分字段准入](../sect-preliminary-filter/references/detailed-rules.md)。主体识别与传统关联分别判断，工匠署名、重妆及残损不再整条阻断；已有题材与原刻分源记录。使用 [当前输出规范](references/output-format.md)，该规范及分字段准入优先于历史卷零、分卷及detail中的整条过滤、强制锁宗和旧输出模板。数值引擎与门槛不变，最终语境复核不回写分数。
 
 ## 计算引擎
 
